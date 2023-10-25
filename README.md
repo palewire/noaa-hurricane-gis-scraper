@@ -1,3 +1,1 @@
-A template for open-source Python software repositories
-
-Instructions for how to get started working the code can be found in `CONTRIBUTING.md`.
+Automated downloads of geographic information system data posted by the National Oceanic and Atmospheric Administration's National Hurricane Center and Central Pacific Hurrican Center
