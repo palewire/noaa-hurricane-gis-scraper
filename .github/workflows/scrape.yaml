@@ -47,5 +47,5 @@ jobs:
           git status
           git pull origin $GITHUB_REF
           git add ./data
-          git commit -m "Scrape" && git push || true
+          git commit -m "Scrape" && git push --author="palewire <palewire@users.noreply.github.com>" || true
         shell: bash
