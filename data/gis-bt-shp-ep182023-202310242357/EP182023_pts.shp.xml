@@ -11,32 +11,32 @@
 </citation>
 <descript>
 <abstract>
-The NHC working best track shapefile is an experimental product that the
+The NHC working best track shapefile is an experimental product that the 
 National Hurricane Center is testing during the 2009 hurricane season.
 
-The working best track is a subjectively-smoothed representation of the tropical cyclone's
-location and intensity (maximum 1-minute sustained surface wind speed and minimum
-sea-level pressure) at 6 hour intervals over its lifetime.  The
-working best track may not exactly match the information contained in the
-real-time storm advisories because the data in a working best track are
-subject to modification during the life cycle of the cyclone.
+The working best track is a subjectively-smoothed representation of the tropical cyclone's 
+location and intensity (maximum 1-minute sustained surface wind speed and minimum 
+sea-level pressure) at 6 hour intervals over its lifetime.  The 
+working best track may not exactly match the information contained in the 
+real-time storm advisories because the data in a working best track are 
+subject to modification during the life cycle of the cyclone.  
 
-(Note:  The "working best track" represents the forecasters' best estimates of the
-location, intensity, and size of a tropical cyclone while the cyclone is ongoing.
-After the life cycle is complete, forecasters prepare a "final best track", using
-data that might not have been available operationally, and it is the final best
-track that represents NHC's official historical record for the cyclone.)
+(Note:  The "working best track" represents the forecasters' best estimates of the 
+location, intensity, and size of a tropical cyclone while the cyclone is ongoing. 
+After the life cycle is complete, forecasters prepare a "final best track", using 
+data that might not have been available operationally, and it is the final best 
+track that represents NHC's official historical record for the cyclone.)  
 </abstract>
 <purpose>
-The working best track is a subjectively-smoothed representation of the tropical cyclone's
-location and intensity (maximum 1-minute sustained surface wind speed and minimum
-sea-level pressure) at 6 hour interval over its lifetime. In general, the working best
-track will not reflect the erratic motion implied by connecting the individual center
+The working best track is a subjectively-smoothed representation of the tropical cyclone's 
+location and intensity (maximum 1-minute sustained surface wind speed and minimum 
+sea-level pressure) at 6 hour interval over its lifetime. In general, the working best 
+track will not reflect the erratic motion implied by connecting the individual center 
 fix positions.
 
-These data are intended for geographic display and analysis at the
-national level, and for large regional areas.  The data should be displayed and
-analyzed at scales appropriate for 1:2,000,000-scale data.  No responsibility is assumed
+These data are intended for geographic display and analysis at the 
+national level, and for large regional areas.  The data should be displayed and 
+analyzed at scales appropriate for 1:2,000,000-scale data.  No responsibility is assumed 
 by the National Oceanic and Atmospheric Administration in the use of these data.
 </purpose>
 </descript>
@@ -225,9 +225,9 @@ EP182023_pts</enttypl>
 <attrdef>The valid date and time of the data in UTC.</attrdef>
 </attr>
 <attrlabl>SS</attrlabl>
-<attrdef>The Saffir Simpson Hurricane Scale. The Saffir-Simpson Hurricane Scale is a 1-5 rating based on the hurricane's present intensity.
-This is used to give an estimate of the potential property damage and flooding expected along the coast from a hurricane landfall.
-Wind speed is the determining factor in the scale, as storm surge values are highly dependent on the slope of the continental shelf and
+<attrdef>The Saffir Simpson Hurricane Scale. The Saffir-Simpson Hurricane Scale is a 1-5 rating based on the hurricane's present intensity. 
+This is used to give an estimate of the potential property damage and flooding expected along the coast from a hurricane landfall. 
+Wind speed is the determining factor in the scale, as storm surge values are highly dependent on the slope of the continental shelf and 
 the shape of the coastline, in the landfall region. Note that all winds are using the U.S. 1-minute average.   </attrdef>
 </attr>
 </detailed>

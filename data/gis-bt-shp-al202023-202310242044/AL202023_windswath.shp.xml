@@ -10,17 +10,17 @@
 </citeinfo>
 </citation>
 <descript>
-<abstract>The working best track wind swath is created by accumulating the best track wind radii
-over the course of an ongoing tropical cyclone.  The working best track wind swath will generally
-not exactly match the radii contained in the tropical cyclone advisories.  This is because all
-of the data in a working best track are subject to modification during the life cycle of the
-the cyclone.
+<abstract>The working best track wind swath is created by accumulating the best track wind radii 
+over the course of an ongoing tropical cyclone.  The working best track wind swath will generally 
+not exactly match the radii contained in the tropical cyclone advisories.  This is because all 
+of the data in a working best track are subject to modification during the life cycle of the 
+the cyclone.  
 
-(Note:  The "working best track" represents the forecasters' best estimates of the
-location, intensity, and size of a tropical cyclone while the cyclone is ongoing.  After the
-life cycle is complete, forecasters prepare a "final best track", using data that might not
-have been available operationally, and it is the final best track that represents NHC's official
-historical record for the cyclone.)
+(Note:  The "working best track" represents the forecasters' best estimates of the 
+location, intensity, and size of a tropical cyclone while the cyclone is ongoing.  After the 
+life cycle is complete, forecasters prepare a "final best track", using data that might not 
+have been available operationally, and it is the final best track that represents NHC's official 
+historical record for the cyclone.)  
 </abstract>
 <purpose>The working best track wind swath shows how the size of the storm has changed and
 the areas potentially affected so far by sustained winds of tropical storm force
@@ -29,11 +29,11 @@ based on the wind radii contained in the Automated Tropical Cyclone Forecasting 
 working best track.  Users are reminded that the best track wind radii represent the maximum
 possible extent of a given wind speed within particular quadrants around the tropical cyclone.
 As a result, not all locations falling within the swaths will have experienced the indicated
-sustained wind speeds.
+sustained wind speeds. 
 
-These data are intended for geographic display and analysis at the national level and for large
-regional areas.  The data should be displayed and analyzed at scales appropriate for
-1:2,000,000-scale data.  No responsibility is assumed by the National Oceanic and Atmospheric
+These data are intended for geographic display and analysis at the national level and for large 
+regional areas.  The data should be displayed and analyzed at scales appropriate for 
+1:2,000,000-scale data.  No responsibility is assumed by the National Oceanic and Atmospheric 
 Administration in the use of these data.
 </purpose>
 </descript>
@@ -175,9 +175,9 @@ AL202023_windswath</enttypl>
 </attr>
 <attr>
 <attrlabl>STORMID</attrlabl>
-<attrdef>A unique character string that is specific to each tropical cyclone.
-The string follows the pattern BBNNYYYY, where BB is AL for Atlantic, EP for East Pacific,
-and CP for Central Pacific; NN is the sequential number of the storm during the season;
+<attrdef>A unique character string that is specific to each tropical cyclone.  
+The string follows the pattern BBNNYYYY, where BB is AL for Atlantic, EP for East Pacific, 
+and CP for Central Pacific; NN is the sequential number of the storm during the season; 
 and YYYY is the year.
 </attrdef>
 </attr>
@@ -197,18 +197,18 @@ and YYYY is the year.
 </attr>
 <attr>
 <attrlabl>STORMNUM</attrlabl>
-<attrdef>The sequential number of the tropical cyclone for a particular BASIN according
+<attrdef>The sequential number of the tropical cyclone for a particular BASIN according 
 to the time that the first advisory is issued.</attrdef>
 </attr>
 <attr>
 <attrlabl>STARTDTG</attrlabl>
-<attrdef>The time and date at which a tropical cyclone first has winds of at least
+<attrdef>The time and date at which a tropical cyclone first has winds of at least 
 tropical storm force.  This is the date and time at the beginning of the wind swath.</attrdef>
 </attr>
 <attr>
 <attrlabl>ENDDTG</attrlabl>
-<attrdef>The time and date of the latest advisory for tropical cyclones that are
-still active.  For tropical cyclones that no longer exist, ENDDTG is the time and date
+<attrdef>The time and date of the latest advisory for tropical cyclones that are 
+still active.  For tropical cyclones that no longer exist, ENDDTG is the time and date 
 in the best track when the system was last designated as a tropical cyclone.</attrdef>
 </attr>
 </detailed>
