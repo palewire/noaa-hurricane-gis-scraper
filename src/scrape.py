@@ -1,12 +1,13 @@
+"""Scrape GIS data from NOAA's RSS feeds."""
 from __future__ import annotations
 
 import json
-from pathlib import Path
 import zipfile
+from pathlib import Path
 
 import click
-import requests
 import feedparser
+import requests
 from rich import print
 
 THIS_DIR = Path(__file__).parent
@@ -15,17 +16,17 @@ DATA_DIR = THIS_DIR.parent / "data"
 
 @click.command()
 def scrape() -> None:
-    """Main entry point of the application."""
+    """Scrape GIS data from NOAA's RSS feeds."""
     rss_list = [
-        'https://www.nhc.noaa.gov/gis-at.xml',
-        'https://www.nhc.noaa.gov/gis-ep.xml',
-        'https://www.nhc.noaa.gov/gis-cp.xml',
+        "https://www.nhc.noaa.gov/gis-at.xml",
+        "https://www.nhc.noaa.gov/gis-ep.xml",
+        "https://www.nhc.noaa.gov/gis-cp.xml",
     ]
     for rss in rss_list:
         print(f"Fetching {rss}")
         d = feedparser.parse(rss)
         for entry in d.entries:
-            if entry.id == 'https://www.nhc.noaa.gov/gis/':
+            if entry.id == "https://www.nhc.noaa.gov/gis/":
                 continue
 
             # Get the directory reader to save the file
@@ -39,7 +40,7 @@ def scrape() -> None:
 
             # Loop through the links
             for link in entry.links:
-                if link.href == 'https://www.nhc.noaa.gov/gis/':
+                if link.href == "https://www.nhc.noaa.gov/gis/":
                     continue
 
                 # Get the filename
