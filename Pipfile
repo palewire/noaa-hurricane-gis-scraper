@@ -28,6 +28,10 @@ myst-parser = "*"
 
 [packages]
 exceptiongroup = "*"
+click = "*"
+requests = "*"
+feedparser = "*"
+rich = "*"
 
 [requires]
 python_version = "3.11"
