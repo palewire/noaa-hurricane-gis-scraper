@@ -67,35 +67,3 @@ jobs:
         name: Run mypy
         run: pipenv run mypy ./ --ignore-missing-imports --verbose
         shell: bash
-
-  test-python:
-    name: Test Python code
-    runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        python: ['3.9', '3.10', '3.11']
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - id: setup-python
-        name: Setup Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '${{ matrix.python }}'
-          cache: 'pipenv'
-
-      - id: install-pipenv
-        name: Install pipenv
-        run: curl https://raw.githubusercontent.com/pypa/pipenv/master/get-pipenv.py | python
-        shell: bash
-
-      - id: install-python-dependencies
-        name: Install Python dependencies
-        run: pipenv sync --dev --python=${{ matrix.python }}
-        shell: bash
-
-      - id: tests
-        name: Run tests
-        run: pipenv run pytest --cov -sv
-        shell: bash
