@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<cycloneMessage>
+<!-- System Advisory Meta Information -->
+<atcfID>AL202023</atcfID>
+<issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
+<messageType>ROUTINE ADVISORY</messageType>
+<messageBinNumber>5</messageBinNumber>
+<advisoryNumber>31</advisoryNumber>
+<!-- System Date/Time Information -->
+<messageDateTimeLocal>20231025 11:00:00 PM AST</messageDateTimeLocal>
+<messageDateTimeUTC>20231026 03:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>202310260300</messageDateTimeUTC24>
+<messageDateTimeLocalStr>1100 PM AST Wed Oct 25</messageDateTimeLocalStr>
+<timeEpochSeconds>1698289200</timeEpochSeconds>
+<!-- System state defined -->
+<systemType>HURRICANE</systemType>
+<systemName>TAMMY</systemName>
+<!-- Center Location of the System -->
+<!-- Lattitude: North is positive; South is negative -->
+<!-- Longitude: East is positive; West is negative -->
+<!-- units: decimal degrees (tenths) -->
+<centerLocLatitude>29.9</centerLocLatitude>
+<centerLocLongitude>-57.8</centerLocLongitude>
+<!-- Lattitude: North is N; South is S -->
+<!-- Longitude: East is E; West is W -->
+<!-- units: decimal degrees (tenths) -->
+<centerLocLatitudeExpanded>29.9N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>57.8W</centerLocLongitudeExpanded>
+<!-- Maximum Intensity of the System -->
+<!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
+<systemIntensityMph>90</systemIntensityMph>
+<systemIntensityKph>150</systemIntensityKph>
+<systemIntensityKts>80</systemIntensityKts>
+<systemMslpMb>973</systemMslpMb>
+<systemMslpInHg>28.74</systemMslpInHg>
+<systemSaffirSimpsonCategory>CATEGORY 1</systemSaffirSimpsonCategory>
+<formationChancePct48h>N/A</formationChancePct48h>
+<formationChancePct7d>N/A</formationChancePct7d>
+<!-- Current System Movement -->
+<!-- units: Degrees, MPH and KPH -->
+<systemDirectionOfMotion>NNE OR 15 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>20</systemSpeedMph>
+<systemSpeedKph>31</systemSpeedKph>
+<systemSpeedKts>17</systemSpeedKts>
+<!-- Current System Location from known Reference Point -->
+<systemGeoRefPt1>ABOUT 445 MI...715 KM ESE OF BERMUDA</systemGeoRefPt1>
+<!-- Relevant Message -->
+<message>
+ZCZC MIATCPAT5 ALL
+TTAA00 KNHC DDHHMM
+ 
+BULLETIN
+Hurricane Tammy Advisory Number  31
+NWS National Hurricane Center Miami FL       AL202023
+1100 PM AST Wed Oct 25 2023
+ 
+...TAMMY EXPECTED TO BECOME A POWERFUL FRONTAL LOW SOON...
+ 
+ 
+SUMMARY OF 1100 PM AST...0300 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...29.9N 57.8W
+ABOUT 445 MI...715 KM ESE OF BERMUDA
+MAXIMUM SUSTAINED WINDS...90 MPH...150 KM/H
+PRESENT MOVEMENT...NNE OR 15 DEGREES AT 20 MPH...31 KM/H
+MINIMUM CENTRAL PRESSURE...973 MB...28.74 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+There are no coastal watches or warnings in effect.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 1100 PM AST (0300 UTC), the center of Hurricane Tammy was located
+near latitude 29.9 North, longitude 57.8 West. Tammy is moving
+toward the north-northeast near 20 mph (31 km/h). A northward to 
+northwestward turn is expected overnight, followed by a slower 
+west-northwestward motion on Friday.
+ 
+Maximum sustained winds have decreased to near 90 mph (150 km/h) 
+with higher gusts. Some weakening is expected during the next few 
+days. Tammy is forecast to become a powerful post-tropical cyclone 
+early on Thursday.
+ 
+Hurricane-force winds extend outward up to 35 miles (55 km) from the
+center and tropical-storm-force winds extend outward up to 195 miles
+(315 km).
+ 
+The estimated minimum central pressure is 973 mb (28.74 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+SURF:  Swell will continue to affect portions of Bermuda, the
+northern Leeward Islands, the British and U.S. Virgin Islands, and
+Puerto Rico during the next couple of days. These swells are likely
+to cause life-threatening surf and rip current conditions. Please
+consult products from your local weather office.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 500 AM AST.
+ 
+$$
+Forecaster Reinhart
+ 
+NNNN
+
+</message>
+</cycloneMessage>
