@@ -13,6 +13,7 @@ from . import utils
 
 THIS_DIR = Path(__file__).parent
 DATA_DIR = THIS_DIR.parent / "data" / "raw"
+DUMMY_URL = "https://www.nhc.noaa.gov/gis/"
 
 
 @click.command()
@@ -26,7 +27,7 @@ def scrape() -> None:
     for rss in rss_list:
         d = utils.get_rss_url(rss)
         for entry in d.entries:
-            if entry.id == "https://www.nhc.noaa.gov/gis/":
+            if entry.id == DUMMY_URL:
                 continue
 
             # Write out the entry
@@ -35,7 +36,7 @@ def scrape() -> None:
 
             # Loop through the links
             for link in entry.links:
-                if link.href == "https://www.nhc.noaa.gov/gis/":
+                if link.href == DUMMY_URL:
                     continue
 
                 # Download the file
