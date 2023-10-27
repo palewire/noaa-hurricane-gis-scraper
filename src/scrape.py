@@ -6,9 +6,10 @@ import zipfile
 from pathlib import Path
 
 import click
-import feedparser
 import requests
 from rich import print
+
+from . import utils
 
 THIS_DIR = Path(__file__).parent
 DATA_DIR = THIS_DIR.parent / "data" / "raw"
@@ -23,20 +24,13 @@ def scrape() -> None:
         "https://www.nhc.noaa.gov/gis-cp.xml",
     ]
     for rss in rss_list:
-        print(f"Fetching {rss}")
-        d = feedparser.parse(rss)
+        d = utils.get_rss_url(rss)
         for entry in d.entries:
             if entry.id == "https://www.nhc.noaa.gov/gis/":
                 continue
 
-            # Get the directory reader to save the file
-            entry_dir = DATA_DIR / entry.id
-            entry_dir.mkdir(exist_ok=True, parents=True)
-
-            # Dump all of the entry data to a json file
-            with open(entry_dir / "item.json", "w") as f:
-                print(f"Saving {entry_dir / 'item.json'}")
-                json.dump(entry, f, indent=4)
+            # Write out the entry
+            utils.write_json(entry, DATA_DIR / entry.id / "item.json")
 
             # Loop through the links
             for link in entry.links:
@@ -50,8 +44,7 @@ def scrape() -> None:
                 path = entry_dir / filename
 
                 # Download the file
-                print(f"Downloading {path}")
-                r = requests.get(link.href)
+                r = utils.get_url(link.href)
 
                 # Save the file
                 with open(path, "wb") as f:
