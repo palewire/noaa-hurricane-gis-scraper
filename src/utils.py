@@ -63,6 +63,9 @@ def write_json(
     out_dir = out_path.parent
     out_dir.mkdir(exist_ok=True, parents=True)
 
+    # Make sure the filename and extension are both lowercase
+    out_path = out_path.with_name(out_path.name.lower())
+
     # Dump all of the entry data to a json file
     with open(out_path, "w") as f:
         if verbose:
@@ -71,7 +74,20 @@ def write_json(
 
 
 def convert_shp(shp_path: Path) -> Any:
-    """Convert the submitted shapefile to geojson."""
+    """Convert the submitted shapefile to geojson.
+
+    Args:
+        shp_path: The path to the shapefile (Path)
+
+    Returns:
+        The geojson (Any)
+
+    Examples:
+        >>> from pathlib import Path
+        >>> from src import utils
+        >>> shp_path = Path("data/raw/AL112020_5day_pgn.shp")
+        >>> geojson = utils.convert_shp(shp_path)
+    """
     # Read in the file with geopandas
     gdf = gpd.read_file(str(shp_path))
 
@@ -86,7 +102,20 @@ def convert_shp(shp_path: Path) -> Any:
 
 
 def convert_kml(kml_path: Path) -> Any:
-    """Convert the submitted kml file to geojson."""
+    """Convert the submitted kml file to geojson.
+
+    Args:
+        kml_path: The path to the kml file (Path)
+
+    Returns:
+        The geojson (Any)
+
+    Examples:
+        >>> from pathlib import Path
+        >>> from src import utils
+        >>> kml_path = Path("data/raw/AL112020_5day_pgn.kml")
+        >>> geojson = utils.convert_kml(kml_path)
+    """
     return kml2geojson.convert(
         str(kml_path),
         style_type=None,
