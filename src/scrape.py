@@ -11,7 +11,7 @@ import requests
 from rich import print
 
 THIS_DIR = Path(__file__).parent
-DATA_DIR = THIS_DIR.parent / "data"
+DATA_DIR = THIS_DIR.parent / "data" / "raw"
 
 
 @click.command()
