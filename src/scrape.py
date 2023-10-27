@@ -40,14 +40,11 @@ def scrape() -> None:
                 # Get the filename
                 filename = link.href.split("/")[-1]
 
-                # Get the full path
-                path = entry_dir / filename
-
                 # Download the file
                 r = utils.get_url(link.href)
 
                 # Save the file
-                with open(path, "wb") as f:
+                with open(DATA_DIR / entry.id / filename, "wb") as f:
                     f.write(r.content)
 
                 # If it's a zip file, unzip it
