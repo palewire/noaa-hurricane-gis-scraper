@@ -30,28 +30,27 @@ def scrape() -> None:
                 continue
 
             # Write out the entry
-            utils.write_json(entry, DATA_DIR / entry.id / "item.json")
+            this_dir = DATA_DIR / entry.id
+            utils.write_json(entry, this_dir / "item.json")
 
             # Loop through the links
             for link in entry.links:
                 if link.href == "https://www.nhc.noaa.gov/gis/":
                     continue
 
-                # Get the filename
-                filename = link.href.split("/")[-1]
-
                 # Download the file
                 r = utils.get_url(link.href)
 
                 # Save the file
-                with open(DATA_DIR / entry.id / filename, "wb") as f:
+                path = this_dir / link.href.split("/")[-1]
+                with open(path, "wb") as f:
                     f.write(r.content)
 
                 # If it's a zip file, unzip it
-                if filename.endswith(".zip"):
+                if str(path).endswith(".zip"):
                     print(f"Unzipping {path}")
                     with zipfile.ZipFile(path, "r") as zip_ref:
-                        zip_ref.extractall(entry_dir)
+                        zip_ref.extractall(this_dir)
 
 
 if __name__ == "__main__":
