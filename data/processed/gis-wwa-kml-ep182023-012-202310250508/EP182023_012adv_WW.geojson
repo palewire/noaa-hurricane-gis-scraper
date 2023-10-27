@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "Hurricane Otis (Advisory #12) - Watch\/Warnings",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Hurricane Watch", "tessellate": -1, "extrude": 0, "visibility": -1, "timezone": "CDT", "stormType": "HU", "advisoryDate": "1000 PM CDT Tue Oct 24 2023", "basin": "EP", "fcstpd": "120", "storm": "Hurricane Otis", "atcfid": "EP182023", "advisoryNum": "12", "stormNum": "18", "stormName": "Otis" }, "geometry": { "type": "LineString", "coordinates": [ [ -98.57, 16.33, 0.0 ], [ -97.64, 15.97, 0.0 ] ] } },
+{ "type": "Feature", "properties": { "Name": "Tropical Storm Warning", "tessellate": -1, "extrude": 0, "visibility": -1, "timezone": "CDT", "stormType": "HU", "advisoryDate": "1000 PM CDT Tue Oct 24 2023", "basin": "EP", "fcstpd": "120", "storm": "Hurricane Otis", "atcfid": "EP182023", "advisoryNum": "12", "stormNum": "18", "stormName": "Otis" }, "geometry": { "type": "LineString", "coordinates": [ [ -98.57, 16.33, 0.0 ], [ -97.64, 15.97, 0.0 ] ] } },
+{ "type": "Feature", "properties": { "Name": "Hurricane Warning", "tessellate": -1, "extrude": 0, "visibility": -1, "timezone": "CDT", "stormType": "HU", "advisoryDate": "1000 PM CDT Tue Oct 24 2023", "basin": "EP", "fcstpd": "120", "storm": "Hurricane Otis", "atcfid": "EP182023", "advisoryNum": "12", "stormNum": "18", "stormName": "Otis" }, "geometry": { "type": "LineString", "coordinates": [ [ -101.55, 17.64, 0.0 ], [ -100.68, 17.15, 0.0 ], [ -100.63, 17.18, 0.0 ], [ -99.88, 16.81, 0.0 ], [ -98.57, 16.33, 0.0 ] ] } }
+]
+}

@@ -63,6 +63,16 @@ def convert() -> None:
                 utils.write_json(json.loads(json_data), geojson_path)
 
             # If it's a KML file
+            elif str(f).endswith(".kml"):
+                # Set the output path for a geojson output
+                geojson_path = this_processed_dir / f"{f.stem}.geojson"
+
+                # Convert it with ogr2ogr
+                print(f"Converting {f} to {geojson_path}")
+                command = ['ogr2ogr', '-f', 'GeoJSON', str(geojson_path), str(f)]
+                subprocess.run(command)
+
+            # If it's a KMZ file
             elif str(f).endswith(".kmz"):
                 # Set the output path for a geojson output
                 geojson_path = this_processed_dir / f"{f.stem}.geojson"
