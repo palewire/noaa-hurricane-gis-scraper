@@ -1,12 +1,10 @@
 """Scrape GIS data from NOAA's RSS feeds."""
 from __future__ import annotations
 
-import json
 import zipfile
 from pathlib import Path
 
 import click
-import requests
 from rich import print
 
 from . import utils

@@ -1,15 +1,10 @@
 """Convert raw NOAA data into GeoJSON files."""
 from __future__ import annotations
 
-import json
 import shutil
-import subprocess
 from pathlib import Path
-import warnings
-import zipfile
 
 import click
-import geopandas as gpd
 
 from . import utils
 
@@ -18,6 +13,7 @@ RAW_DIR = THIS_DIR.parent / "data" / "raw"
 PROCESSED_DIR = THIS_DIR.parent / "data" / "processed"
 
 
+@click.command()
 def convert() -> None:
     """Convert raw NOAA data into GeoJSON files."""
     # Get a list of all folders in the raw directory

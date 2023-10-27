@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?> 
+<?xml version="1.0" encoding="UTF-8"?>
 
-	<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"> 
-	<Document> 
-	<name>EP182023 (Advisory #12) - Forecast Track</name> 
-	<open>0</open> 
+	<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+	<Document>
+	<name>EP182023 (Advisory #12) - Forecast Track</name>
+	<open>0</open>
 	<description>
 		<![CDATA[<TABLE>
 		<TR><TD><B>Title:</B> Tropical Cyclone Forecast Track for EP182023 (Advisory #12)</TD></TR>
@@ -14,191 +14,191 @@
 		<TR><TD><B>For More Information: </B><a href="https://www.nhc.noaa.gov">https://www.nhc.noaa.gov</a></TD></TR></TABLE>]]>
 	</description>
 
-	<Style id="m_point"> 
-		<IconStyle> 
-			<scale>1.0</scale> 
-			<Icon> 
-				<href>mPoint.png</href> 
-			</Icon> 
+	<Style id="m_point">
+		<IconStyle>
+			<scale>1.0</scale>
+			<Icon>
+				<href>mPoint.png</href>
+			</Icon>
              <hotSpot x="18" y="16" xunits="pixels" yunits="pixels"/>
-		</IconStyle> 
-		<LabelStyle> 
-			<scale>1.0</scale> 
-		</LabelStyle> 
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.0</scale>
+		</LabelStyle>
 	</Style>
-	<Style id="d_point"> 
-		<IconStyle> 
-			<scale>1.0</scale> 
-			<Icon> 
-				<href>dPoint.png</href> 
-			</Icon> 
+	<Style id="d_point">
+		<IconStyle>
+			<scale>1.0</scale>
+			<Icon>
+				<href>dPoint.png</href>
+			</Icon>
              <hotSpot x="18" y="16" xunits="pixels" yunits="pixels"/>
-		</IconStyle> 
-		<LabelStyle> 
-			<scale>1.0</scale> 
-		</LabelStyle> 
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.0</scale>
+		</LabelStyle>
 	</Style>
-	<Style id="h_point"> 
-		<IconStyle> 
-			<scale>1.0</scale> 
-			<Icon> 
-				<href>hPoint.png</href> 
-			</Icon> 
+	<Style id="h_point">
+		<IconStyle>
+			<scale>1.0</scale>
+			<Icon>
+				<href>hPoint.png</href>
+			</Icon>
              <hotSpot x="18" y="16" xunits="pixels" yunits="pixels"/>
-		</IconStyle> 
-		<LabelStyle> 
-			<scale>1.0</scale> 
-		</LabelStyle> 
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.0</scale>
+		</LabelStyle>
 	</Style>
-	<Style id="initial_point"> 
-		<IconStyle> 
-			<scale>1.0</scale> 
-			<Icon> 
-				<href>initialPoint.png</href> 
-			</Icon> 
+	<Style id="initial_point">
+		<IconStyle>
+			<scale>1.0</scale>
+			<Icon>
+				<href>initialPoint.png</href>
+			</Icon>
              <hotSpot x="18" y="16" xunits="pixels" yunits="pixels"/>
-		</IconStyle> 
-		<LabelStyle> 
-			<scale>1.0</scale> 
-		</LabelStyle> 
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.0</scale>
+		</LabelStyle>
 	</Style>
-	<Style id="xm_point"> 
-		<IconStyle> 
-			<scale>1.0</scale> 
-			<Icon> 
-				<href>xmPoint.png</href> 
-			</Icon> 
+	<Style id="xm_point">
+		<IconStyle>
+			<scale>1.0</scale>
+			<Icon>
+				<href>xmPoint.png</href>
+			</Icon>
              <hotSpot x="18" y="16" xunits="pixels" yunits="pixels"/>
-		</IconStyle> 
-		<LabelStyle> 
-			<scale>1.0</scale> 
-		</LabelStyle> 
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.0</scale>
+		</LabelStyle>
 	</Style>
-	<Style id="xh_point"> 
-		<IconStyle> 
-			<scale>1.0</scale> 
-			<Icon> 
-				<href>xhPoint.png</href> 
-			</Icon> 
+	<Style id="xh_point">
+		<IconStyle>
+			<scale>1.0</scale>
+			<Icon>
+				<href>xhPoint.png</href>
+			</Icon>
              <hotSpot x="18" y="16" xunits="pixels" yunits="pixels"/>
-		</IconStyle> 
-		<LabelStyle> 
-			<scale>1.0</scale> 
-		</LabelStyle> 
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.0</scale>
+		</LabelStyle>
 	</Style>
-	<Style id="l_point"> 
-		<IconStyle> 
-			<scale>1.0</scale> 
-			<Icon> 
-				<href>lPoint.png</href> 
-			</Icon> 
+	<Style id="l_point">
+		<IconStyle>
+			<scale>1.0</scale>
+			<Icon>
+				<href>lPoint.png</href>
+			</Icon>
              <hotSpot x="18" y="16" xunits="pixels" yunits="pixels"/>
-		</IconStyle> 
-		<LabelStyle> 
-			<scale>1.0</scale> 
-		</LabelStyle> 
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.0</scale>
+		</LabelStyle>
 	</Style>
-	<Style id="120_line"> 
-		<LineStyle> 
-			<color>ff000000</color> 
-			<width>3</width> 
-		</LineStyle> 
-		<PolyStyle> 
-			<color>ff000000</color> 
-		</PolyStyle> 
-	</Style> 
-	<Style id="xd_point"> 
-		<IconStyle> 
-			<scale>1.0</scale> 
-			<Icon> 
-				<href>xdPoint.png</href> 
-			</Icon> 
+	<Style id="120_line">
+		<LineStyle>
+			<color>ff000000</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="xd_point">
+		<IconStyle>
+			<scale>1.0</scale>
+			<Icon>
+				<href>xdPoint.png</href>
+			</Icon>
              <hotSpot x="18" y="16" xunits="pixels" yunits="pixels"/>
-		</IconStyle> 
-		<LabelStyle> 
-			<scale>1.0</scale> 
-		</LabelStyle> 
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.0</scale>
+		</LabelStyle>
 	</Style>
-	<Style id="72_line"> 
-		<LineStyle> 
-			<color>ff000000</color> 
-			<width>3</width> 
-		</LineStyle> 
-		<PolyStyle> 
-			<color>ff000000</color> 
-		</PolyStyle> 
-	</Style> 
-	<Style id="s_point"> 
-		<IconStyle> 
-			<scale>1.0</scale> 
-			<Icon> 
-				<href>sPoint.png</href> 
-			</Icon> 
+	<Style id="72_line">
+		<LineStyle>
+			<color>ff000000</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+		</PolyStyle>
+	</Style>
+	<Style id="s_point">
+		<IconStyle>
+			<scale>1.0</scale>
+			<Icon>
+				<href>sPoint.png</href>
+			</Icon>
              <hotSpot x="18" y="16" xunits="pixels" yunits="pixels"/>
-		</IconStyle> 
-		<LabelStyle> 
-			<scale>1.0</scale> 
-		</LabelStyle> 
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.0</scale>
+		</LabelStyle>
 	</Style>
-	<Style id="xs_point"> 
-		<IconStyle> 
-			<scale>1.0</scale> 
-			<Icon> 
-				<href>xsPoint.png</href> 
-			</Icon> 
+	<Style id="xs_point">
+		<IconStyle>
+			<scale>1.0</scale>
+			<Icon>
+				<href>xsPoint.png</href>
+			</Icon>
              <hotSpot x="18" y="16" xunits="pixels" yunits="pixels"/>
-		</IconStyle> 
-		<LabelStyle> 
-			<scale>1.0</scale> 
-		</LabelStyle> 
+		</IconStyle>
+		<LabelStyle>
+			<scale>1.0</scale>
+		</LabelStyle>
 	</Style>
-	<Folder id="Forecast Track"> 
- 	    <name>Forecast Track</name> 
+	<Folder id="Forecast Track">
+ 	    <name>Forecast Track</name>
 
-	   <Placemark> 
+	   <Placemark>
 	      <Snippet maxLines="0">empty</Snippet>
-	      <description> 
-	   	  <![CDATA[<table> 
-                        <tr><td><font color=black><b>Hurricane Otis (EP182023)</b></font></td></tr> 
-                        <tr><td>Advisory #12 </td></tr> 
-                        <tr><td><hr></td></tr> 
-                        <tr><td>72 Hour Forecast Track</td></tr> 
-	           ]]> 
-             </description> 
-	       <styleUrl>#72_line</styleUrl> 
+	      <description>
+	   	  <![CDATA[<table>
+                        <tr><td><font color=black><b>Hurricane Otis (EP182023)</b></font></td></tr>
+                        <tr><td>Advisory #12 </td></tr>
+                        <tr><td><hr></td></tr>
+                        <tr><td>72 Hour Forecast Track</td></tr>
+	           ]]>
+             </description>
+	       <styleUrl>#72_line</styleUrl>
 
-	       <LineString> 
-	         <coordinates>  -99.7,16.1,0 -100.1,17.3,0 -100.5,18.0,0 </coordinates> 
-	       </LineString> 
+	       <LineString>
+	         <coordinates>  -99.7,16.1,0 -100.1,17.3,0 -100.5,18.0,0 </coordinates>
+	       </LineString>
 
               <ExtendedData>
-                <Data name="timezone"> 
+                <Data name="timezone">
                   <value>CDT</value>
-                </Data> 
-                <Data name="stormType"> 
+                </Data>
+                <Data name="stormType">
                   <value>MH</value>
-                </Data> 
-                <Data name="basin"> 
+                </Data>
+                <Data name="basin">
                   <value>ep</value>
-                </Data> 
-                <Data name="fcstpd"> 
+                </Data>
+                <Data name="fcstpd">
                   <value>72</value>
-                </Data> 
-                <Data name="storm"> 
+                </Data>
+                <Data name="storm">
                   <value>Hurricane Otis</value>
-                </Data> 
-                <Data name="atcfid"> 
+                </Data>
+                <Data name="atcfid">
                   <value>EP182023</value>
-                </Data> 
-                <Data name="advisoryNum"> 
+                </Data>
+                <Data name="advisoryNum">
                   <value>12</value>
-                </Data> 
-                <Data name="stormNum"> 
+                </Data>
+                <Data name="stormNum">
                   <value>18</value>
-                </Data> 
-                <Data name="stormName"> 
+                </Data>
+                <Data name="stormName">
                   <value>Otis</value>
-                </Data> 
+                </Data>
                 <Data name="pubAdvTime">
                   <value>1000 PM CDT Tue Oct 24 2023</value>
                 </Data>
@@ -224,116 +224,116 @@
                   <value>927</value>
                 </Data>
               </ExtendedData>
-	   </Placemark> 
+	   </Placemark>
 
-	   <Placemark> 
+	   <Placemark>
 	      <Snippet maxLines="0">empty</Snippet>
-	      <description> 
-	   	  <![CDATA[<table> 
-                        <tr><td><font color=black><b>Hurricane Otis (EP182023)</b></font></td></tr> 
-                        <tr><td>Advisory #12 </td></tr> 
-                        <tr><td><hr></td></tr> 
-                        <tr><td>120 Hour Forecast Track</td></tr> 
-	           ]]> 
-             </description> 
-	       <styleUrl>#120_line</styleUrl> 
+	      <description>
+	   	  <![CDATA[<table>
+                        <tr><td><font color=black><b>Hurricane Otis (EP182023)</b></font></td></tr>
+                        <tr><td>Advisory #12 </td></tr>
+                        <tr><td><hr></td></tr>
+                        <tr><td>120 Hour Forecast Track</td></tr>
+	           ]]>
+             </description>
+	       <styleUrl>#120_line</styleUrl>
 
-	       <LineString> 
-	         <coordinates>  -99.7,16.1,0 -100.1,17.3,0 -100.5,18.0,0 </coordinates> 
-	       </LineString> 
+	       <LineString>
+	         <coordinates>  -99.7,16.1,0 -100.1,17.3,0 -100.5,18.0,0 </coordinates>
+	       </LineString>
 
               <ExtendedData>
-                <Data name="timezone"> 
+                <Data name="timezone">
                   <value>CDT</value>
-                </Data> 
-                <Data name="stormType"> 
+                </Data>
+                <Data name="stormType">
                   <value>MH</value>
-                </Data> 
-                <Data name="basin"> 
+                </Data>
+                <Data name="basin">
                   <value>ep</value>
-                </Data> 
-                <Data name="fcstpd"> 
+                </Data>
+                <Data name="fcstpd">
                   <value>120</value>
-                </Data> 
-                <Data name="storm"> 
+                </Data>
+                <Data name="storm">
                   <value>Hurricane Otis</value>
-                </Data> 
-                <Data name="atcfid"> 
+                </Data>
+                <Data name="atcfid">
                   <value>EP182023</value>
-                </Data> 
-                <Data name="advisoryNum"> 
+                </Data>
+                <Data name="advisoryNum">
                   <value>12</value>
-                </Data> 
-                <Data name="stormNum"> 
+                </Data>
+                <Data name="stormNum">
                   <value>18</value>
-                </Data> 
-                <Data name="stormName"> 
+                </Data>
+                <Data name="stormName">
                   <value>Otis</value>
-                </Data> 
+                </Data>
               </ExtendedData>
 	   </Placemark>
 
 
-	   <Placemark> 
+	   <Placemark>
 	      <Snippet maxLines="0">empty</Snippet>
-	      <description> 
-	   	  <![CDATA[<table> 
-                        <tr><td><font color=black><b>Hurricane Otis (EP182023)</b></font></td></tr> 
-                        <tr><td>Advisory #12</td></tr> 
-                        <tr><td><hr></td></tr> 
-                        <tr><td nowrap>Advisory Information</td></tr> 
-	   	        <tr><td nowrap>Valid at: 10:00 PM CDT October 24, 2023 </td></tr> 
-	   	        <tr><td nowrap>Location: 16.1 N, -99.7 W </td></tr> 
-	   	        <tr><td nowrap>Maximum Wind: 140 knots (160 mph) </td></tr> 
-	   	        <tr><td nowrap>Wind Gusts: 170 knots (195 mph) </td></tr> 
+	      <description>
+	   	  <![CDATA[<table>
+                        <tr><td><font color=black><b>Hurricane Otis (EP182023)</b></font></td></tr>
+                        <tr><td>Advisory #12</td></tr>
+                        <tr><td><hr></td></tr>
+                        <tr><td nowrap>Advisory Information</td></tr>
+	   	        <tr><td nowrap>Valid at: 10:00 PM CDT October 24, 2023 </td></tr>
+	   	        <tr><td nowrap>Location: 16.1 N, -99.7 W </td></tr>
+	   	        <tr><td nowrap>Maximum Wind: 140 knots (160 mph) </td></tr>
+	   	        <tr><td nowrap>Wind Gusts: 170 knots (195 mph) </td></tr>
                         <tr><td nowrap>Motion: NNW </td></tr>
                         <tr><td nowrap>Minimum Pressure: 927 mb </td></tr>
-	       ]]></description> 
-	       <styleUrl>#initial_point</styleUrl> 
-	       <Point> 
-	          <coordinates> -99.7,16.1,0 </coordinates> 
-	       </Point> 
-	   </Placemark> 
+	       ]]></description>
+	       <styleUrl>#initial_point</styleUrl>
+	       <Point>
+	          <coordinates> -99.7,16.1,0 </coordinates>
+	       </Point>
+	   </Placemark>
 
 
-	   <Placemark> 
+	   <Placemark>
 	      <Snippet maxLines="0">empty</Snippet>
-	      <description> 
-	   	  <![CDATA[<table> 
-                        <tr><td><font color=black><b>Hurricane Otis (EP182023)</b></font></td></tr> 
-                        <tr><td>Advisory #12</td></tr> 
-                        <tr><td><hr></td></tr> 
-                        <tr><td nowrap>12 hr Forecast</td></tr> 
-	   	        <tr><td nowrap>Valid at:  7:00 AM CDT October 25, 2023 </td></tr> 
-	   	        <tr><td nowrap>Location: 17.3 N, -100.1 W </td></tr> 
-	   	        <tr><td nowrap>Maximum Wind: 105 knots (120 mph) </td></tr> 
-	   	        <tr><td nowrap>Wind Gusts: 130 knots (150 mph) </td></tr> 
-	       ]]></description> 
-	       <styleUrl>#m_point</styleUrl> 
-	       <Point> 
-	          <coordinates> -100.1,17.3,0 </coordinates> 
-	       </Point> 
-	   </Placemark> 
+	      <description>
+	   	  <![CDATA[<table>
+                        <tr><td><font color=black><b>Hurricane Otis (EP182023)</b></font></td></tr>
+                        <tr><td>Advisory #12</td></tr>
+                        <tr><td><hr></td></tr>
+                        <tr><td nowrap>12 hr Forecast</td></tr>
+	   	        <tr><td nowrap>Valid at:  7:00 AM CDT October 25, 2023 </td></tr>
+	   	        <tr><td nowrap>Location: 17.3 N, -100.1 W </td></tr>
+	   	        <tr><td nowrap>Maximum Wind: 105 knots (120 mph) </td></tr>
+	   	        <tr><td nowrap>Wind Gusts: 130 knots (150 mph) </td></tr>
+	       ]]></description>
+	       <styleUrl>#m_point</styleUrl>
+	       <Point>
+	          <coordinates> -100.1,17.3,0 </coordinates>
+	       </Point>
+	   </Placemark>
 
 
-	   <Placemark> 
+	   <Placemark>
 	      <Snippet maxLines="0">empty</Snippet>
-	      <description> 
-	   	  <![CDATA[<table> 
-                        <tr><td><font color=black><b>Hurricane Otis (EP182023)</b></font></td></tr> 
-                        <tr><td>Advisory #12</td></tr> 
-                        <tr><td><hr></td></tr> 
-                        <tr><td nowrap>24 hr Forecast</td></tr> 
-	   	        <tr><td nowrap>Valid at:  7:00 PM CDT October 25, 2023 </td></tr> 
-	   	        <tr><td nowrap>Location: 18.0 N, -100.5 W </td></tr> 
-	   	        <tr><td nowrap>Maximum Wind: 45 knots (50 mph) </td></tr> 
-	   	        <tr><td nowrap>Wind Gusts: 55 knots (65 mph) </td></tr> 
-	       ]]></description> 
-	       <styleUrl>#s_point</styleUrl> 
-	       <Point> 
-	          <coordinates> -100.5,18.0,0 </coordinates> 
-	       </Point> 
-	   </Placemark> 
+	      <description>
+	   	  <![CDATA[<table>
+                        <tr><td><font color=black><b>Hurricane Otis (EP182023)</b></font></td></tr>
+                        <tr><td>Advisory #12</td></tr>
+                        <tr><td><hr></td></tr>
+                        <tr><td nowrap>24 hr Forecast</td></tr>
+	   	        <tr><td nowrap>Valid at:  7:00 PM CDT October 25, 2023 </td></tr>
+	   	        <tr><td nowrap>Location: 18.0 N, -100.5 W </td></tr>
+	   	        <tr><td nowrap>Maximum Wind: 45 knots (50 mph) </td></tr>
+	   	        <tr><td nowrap>Wind Gusts: 55 knots (65 mph) </td></tr>
+	       ]]></description>
+	       <styleUrl>#s_point</styleUrl>
+	       <Point>
+	          <coordinates> -100.5,18.0,0 </coordinates>
+	       </Point>
+	   </Placemark>
 
 </Folder>
 </Document>

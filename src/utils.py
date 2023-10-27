@@ -3,24 +3,24 @@ from __future__ import annotations
 
 import json
 import warnings
-from typing import Any
 from pathlib import Path
+from typing import Any
 
-import requests
 import feedparser
 import geopandas as gpd
-from retry import retry
 import kml2geojson
+import requests
+from retry import retry
 
 
 @retry(tries=3, delay=5)
 def get_rss_url(url: str, verbose: bool = True) -> feedparser.FeedParserDict:
     """Download an RSS file.
-    
+
     Args:
         url: The URL to download (str)
         verbose: Whether to print the path being saved (bool)
-    
+
     Returns:
         The RSS feed (feedparser.FeedParserDict)
     """
@@ -45,9 +45,11 @@ def get_url(url: str, verbose: bool = True) -> requests.Response:
     return requests.get(url)
 
 
-def write_json(data: Any, out_path: str, indent: int = 4, verbose: bool = True) -> None:
+def write_json(
+    data: Any, out_path: Path, indent: int = 4, verbose: bool = True
+) -> None:
     """Write a dictionary to a JSON file.
-    
+
     Args:
         data: The data to write (Any)
         out_path: The path to write the data to (str)

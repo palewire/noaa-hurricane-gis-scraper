@@ -10,31 +10,31 @@
 </citeinfo>
 </citation>
 <descript>
-<abstract>The working best track wind radii are the farthest extent from the center of 
-34-, 50-, and 64-knot winds in each quadrant over the life of a tropical cyclone.  The 
-working best track wind radii will generally not exactly match the radii contained in the 
-tropical cyclone advisories.  This is because all of the data in a working best track are 
-subject to modification during the life cycle ofthe cyclone.  
+<abstract>The working best track wind radii are the farthest extent from the center of
+34-, 50-, and 64-knot winds in each quadrant over the life of a tropical cyclone.  The
+working best track wind radii will generally not exactly match the radii contained in the
+tropical cyclone advisories.  This is because all of the data in a working best track are
+subject to modification during the life cycle ofthe cyclone.
 
-(Note:  The "working best track" represents the forecasters' best estimates of the 
-location, intensity, and size of a tropical cyclone while the cyclone is ongoing.  After the 
-life cycle is complete, forecasters prepare a "final best track", using data that might not 
-have been available operationally, and it is the final best track that represents NHC's official 
-historical record for the cyclone.)  
+(Note:  The "working best track" represents the forecasters' best estimates of the
+location, intensity, and size of a tropical cyclone while the cyclone is ongoing.  After the
+life cycle is complete, forecasters prepare a "final best track", using data that might not
+have been available operationally, and it is the final best track that represents NHC's official
+historical record for the cyclone.)
 </abstract>
 <purpose>
 The working best track wind radii shows how the size of the storm has changed and
-the areas potentially affected so far by sustained winds of tropical storm 
-force (34 Knot), 50 knot and hurricane force (64 knot) from a tropical cyclone.  
-These data are based on the wind radii contained in the Automated Tropical Cyclone 
-Forecasting (ATCF) system's best track.  Users are reminded that the best track 
-wind radii represent the maximum possible extent of a given wind speed within 
-particular quadrants around the tropical cyclone.  As a result, not all locations 
+the areas potentially affected so far by sustained winds of tropical storm
+force (34 Knot), 50 knot and hurricane force (64 knot) from a tropical cyclone.
+These data are based on the wind radii contained in the Automated Tropical Cyclone
+Forecasting (ATCF) system's best track.  Users are reminded that the best track
+wind radii represent the maximum possible extent of a given wind speed within
+particular quadrants around the tropical cyclone.  As a result, not all locations
 falling within the radii will have experienced the indicated sustained wind speeds.
 
-These data are intended for geographic display and analysis at the national level 
-and for large regional areas.  The data should be displayed and analyzed at scales 
-appropriate for 1:2,000,000-scale data.  No responsibility is assumed by the National 
+These data are intended for geographic display and analysis at the national level
+and for large regional areas.  The data should be displayed and analyzed at scales
+appropriate for 1:2,000,000-scale data.  No responsibility is assumed by the National
 Oceanic and Atmospheric Administration in the use of these data.
 </purpose>
 </descript>
@@ -176,9 +176,9 @@ AL202023_radii</enttypl>
 </attr>
 <attr>
 <attrlabl>STORMID</attrlabl>
-<attrdef>A unique character string that is specific to each tropical cyclone.  
-The string follows the pattern BBNNYYYY, where BB is AL for Atlantic, EP for East Pacific, 
-and CP for Central Pacific; NN is the sequential number of the storm during the season; 
+<attrdef>A unique character string that is specific to each tropical cyclone.
+The string follows the pattern BBNNYYYY, where BB is AL for Atlantic, EP for East Pacific,
+and CP for Central Pacific; NN is the sequential number of the storm during the season;
 and YYYY is the year.
 </attrdef>
 </attr>
@@ -198,13 +198,13 @@ and YYYY is the year.
 </attr>
 <attr>
 <attrlabl>STORMNUM</attrlabl>
-<attrdef>The sequential number of the tropical cyclone for a particular BASIN according 
+<attrdef>The sequential number of the tropical cyclone for a particular BASIN according
 to the time that the first advisory is issued.
 </attrdef>
 </attr>
 <attr>
 <attrlabl>SYNOPTIME</attrlabl>
-<attrdef>Initial time in the forecast cycle in which a tropical cyclone’s intensity and size are 
+<attrdef>Initial time in the forecast cycle in which a tropical cyclone’s intensity and size are
 analyzed, occurring at 0000, 0600, 1200, or 1800 UTC.
 </attrdef>
 </attr>

@@ -11,29 +11,29 @@
 </citation>
 <descript>
 <abstract>
-The forecast wind radii are the farthest extent from the center of 34-, 50-, and 64-knot 
-winds in each quadrant of a tropical cyclone expected for each forecast period.  Consequently, 
+The forecast wind radii are the farthest extent from the center of 34-, 50-, and 64-knot
+winds in each quadrant of a tropical cyclone expected for each forecast period.  Consequently,
 they are not an exact representation of the expected wind field.
 </abstract>
 <purpose>
-The forecast wind radii are intended to show the expected size of the storm and the areas 
-potentially affected by sustained winds of tropical storm force (34 Knot), 50 knot and 
-hurricane force (64 knot) from a tropical cyclone.  
+The forecast wind radii are intended to show the expected size of the storm and the areas
+potentially affected by sustained winds of tropical storm force (34 Knot), 50 knot and
+hurricane force (64 knot) from a tropical cyclone.
 
-- Tropical storm force (34 Knot) radii are forecasted through 72  hours, 
-- 50 knot radii are forecasted through 72 hours and 
+- Tropical storm force (34 Knot) radii are forecasted through 72  hours,
+- 50 knot radii are forecasted through 72 hours and
 - hurricane force (64 Knot) radii are forecasted through 36 hours
 
 NHC does not forecast wind radii beyond these times. Consequently, tropical cyclones may
 be forecasted at certain intensities without the corresponding wind radii.
 
-Users are reminded that the offical wind radii forecast represents the maximum possible extent 
-of a given wind speed within a particular quadrant.  As a result, not all locations falling within 
+Users are reminded that the offical wind radii forecast represents the maximum possible extent
+of a given wind speed within a particular quadrant.  As a result, not all locations falling within
 the radii will necessarily experience the indicated wind speeds.
 
-These data are intended for geographic display and analysis at the national level and for large 
-regional areas.  The data should be displayed and analyzed at scales appropriate for 
-1:2,000,000-scale data.  No responsibility is assumed by the National Oceanic and Atmospheric 
+These data are intended for geographic display and analysis at the national level and for large
+regional areas.  The data should be displayed and analyzed at scales appropriate for
+1:2,000,000-scale data.  No responsibility is assumed by the National Oceanic and Atmospheric
 Administration in the use of these data.
 </purpose>
 </descript>
@@ -175,9 +175,9 @@ al202023_2023102521_forecastradii</enttypl>
 </attr>
 <attr>
 <attrlabl>STORMID</attrlabl>
-<attrdef>A unique character string that is specific to each tropical cyclone.  
-The string follows the pattern BBNNYYYY, where BB is AL for Atlantic, EP for East Pacific, 
-and CP for Central Pacific; NN is the sequential number of the storm during the season; 
+<attrdef>A unique character string that is specific to each tropical cyclone.
+The string follows the pattern BBNNYYYY, where BB is AL for Atlantic, EP for East Pacific,
+and CP for Central Pacific; NN is the sequential number of the storm during the season;
 and YYYY is the year.
 </attrdef>
 </attr>
@@ -197,13 +197,13 @@ and YYYY is the year.
 </attr>
 <attr>
 <attrlabl>STORMNUM</attrlabl>
-<attrdef>The sequential number of the tropical cyclone for a particular BASIN according 
+<attrdef>The sequential number of the tropical cyclone for a particular BASIN according
 to the time that the first advisory is issued.
 </attrdef>
 </attr>
 <attr>
 <attrlabl>SYNOPTIME</attrlabl>
-<attrdef>Initial time in the forecast cycle in which a tropical cyclone’s intensity and size are 
+<attrdef>Initial time in the forecast cycle in which a tropical cyclone’s intensity and size are
 analyzed, occurring at 0000, 0600, 1200, or 1800 UTC.
 </attrdef>
 </attr>
