@@ -48,7 +48,7 @@ def scrape() -> None:
                     f.write(r.content)
 
                 # If it's a zip file, unzip it
-                if str(path).endswith(".zip"):
+                if str(path).endswith(".zip") or str(path).endswith(".kmz"):
                     print(f"Unzipping {path}")
                     with zipfile.ZipFile(path, "r") as zip_ref:
                         zip_ref.extractall(this_dir)

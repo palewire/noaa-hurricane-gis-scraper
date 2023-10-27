@@ -1,0 +1,39 @@
+[
+    {
+        "features": [
+            {
+                "geometry": {
+                    "coordinates": [
+                        [
+                            -99.88,
+                            16.81,
+                            0.0
+                        ],
+                        [
+                            -98.57,
+                            16.33,
+                            0.0
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {
+                    "advisoryDate": "100 PM CDT Wed Oct 25 2023",
+                    "advisoryNum": "14A",
+                    "atcfid": "EP182023",
+                    "basin": "EP",
+                    "fcstpd": "120",
+                    "name": "Tropical Storm Warning",
+                    "storm": "Tropical Storm Otis",
+                    "stormName": "Otis",
+                    "stormNum": "18",
+                    "stormType": "TS",
+                    "styleUrl": "#TWR",
+                    "timezone": "CDT"
+                },
+                "type": "Feature"
+            }
+        ],
+        "type": "FeatureCollection"
+    }
+]

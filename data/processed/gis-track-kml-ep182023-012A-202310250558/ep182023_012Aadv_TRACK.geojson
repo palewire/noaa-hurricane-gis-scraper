@@ -1,0 +1,132 @@
+[
+    {
+        "features": [
+            {
+                "geometry": {
+                    "coordinates": [
+                        [
+                            -99.8,
+                            16.7,
+                            0.0
+                        ],
+                        [
+                            -100.1,
+                            17.3,
+                            0.0
+                        ],
+                        [
+                            -100.5,
+                            18.0,
+                            0.0
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {
+                    "TCInitLocation": "16.7N, 99.8W",
+                    "advisoryNum": "12A",
+                    "atcfid": "EP182023",
+                    "basin": "ep",
+                    "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Otis (EP182023)</b></font></td></tr> \n                        <tr><td>Advisory #12A </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                    "fcstpd": "72",
+                    "maxGustKnots": "170",
+                    "maxGustMPH": "195",
+                    "maxWindKnots": "140",
+                    "maxWindMPH": "165",
+                    "minimumPressure": "923",
+                    "pubAdvTime": "100 AM CDT Wed Oct 25 2023",
+                    "storm": "Hurricane Otis",
+                    "stormMovement": "NNW",
+                    "stormName": "Otis",
+                    "stormNum": "18",
+                    "stormType": "MH",
+                    "styleUrl": "#72_line",
+                    "timezone": "CDT"
+                },
+                "type": "Feature"
+            },
+            {
+                "geometry": {
+                    "coordinates": [
+                        [
+                            -99.8,
+                            16.7,
+                            0.0
+                        ],
+                        [
+                            -100.1,
+                            17.3,
+                            0.0
+                        ],
+                        [
+                            -100.5,
+                            18.0,
+                            0.0
+                        ]
+                    ],
+                    "type": "LineString"
+                },
+                "properties": {
+                    "advisoryNum": "12A",
+                    "atcfid": "EP182023",
+                    "basin": "ep",
+                    "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Otis (EP182023)</b></font></td></tr> \n                        <tr><td>Advisory #12A </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                    "fcstpd": "120",
+                    "storm": "Hurricane Otis",
+                    "stormName": "Otis",
+                    "stormNum": "18",
+                    "stormType": "MH",
+                    "styleUrl": "#120_line",
+                    "timezone": "CDT"
+                },
+                "type": "Feature"
+            },
+            {
+                "geometry": {
+                    "coordinates": [
+                        -99.8,
+                        16.7,
+                        0.0
+                    ],
+                    "type": "Point"
+                },
+                "properties": {
+                    "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Otis (EP182023)</b></font></td></tr> \n                        <tr><td>Advisory #12A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  1:00 AM CDT October 25, 2023 </td></tr> \n\t   \t        <tr><td nowrap>Location: 16.7 N, -99.8 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 140 knots (165 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 170 knots (195 mph) </td></tr> \n                        <tr><td nowrap>Motion: NNW </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 923 mb </td></tr>",
+                    "styleUrl": "#initial_point"
+                },
+                "type": "Feature"
+            },
+            {
+                "geometry": {
+                    "coordinates": [
+                        -100.1,
+                        17.3,
+                        0.0
+                    ],
+                    "type": "Point"
+                },
+                "properties": {
+                    "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Otis (EP182023)</b></font></td></tr> \n                        <tr><td>Advisory #12A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>12 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  7:00 AM CDT October 25, 2023 </td></tr> \n\t   \t        <tr><td nowrap>Location: 17.3 N, -100.1 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 105 knots (120 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 130 knots (150 mph) </td></tr>",
+                    "styleUrl": "#m_point"
+                },
+                "type": "Feature"
+            },
+            {
+                "geometry": {
+                    "coordinates": [
+                        -100.5,
+                        18.0,
+                        0.0
+                    ],
+                    "type": "Point"
+                },
+                "properties": {
+                    "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Otis (EP182023)</b></font></td></tr> \n                        <tr><td>Advisory #12A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>24 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  7:00 PM CDT October 25, 2023 </td></tr> \n\t   \t        <tr><td nowrap>Location: 18.0 N, -100.5 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 45 knots (50 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 55 knots (65 mph) </td></tr>",
+                    "styleUrl": "#s_point"
+                },
+                "type": "Feature"
+            }
+        ],
+        "type": "FeatureCollection"
+    }
+]

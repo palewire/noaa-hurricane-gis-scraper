@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "65dacfdf15c9ded2185ff7ec76a95305466ff3fe5d3a55fc1705028fc0f0bcb7"
+            "sha256": "4cc268b60f6a4c665f50d83ad7a8b38f821ba333195bf09f974bfc414b31f7c1"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -148,7 +148,7 @@
                 "sha256:a4bc13d623356b373c2c27c53dbd9c68cae5d526270bfa71f6c6fa69669c6b27",
                 "sha256:c1ca117dbce1fe20a5809dc96f01e1c2840f6dcc939b3ddbb1111bf330ba82df"
             ],
-            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3' and python_version < '4'",
+            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3' and python_version < '4.0'",
             "version": "==0.7.2"
         },
         "decorator": {
@@ -220,6 +220,14 @@
             ],
             "markers": "python_version >= '3.5'",
             "version": "==3.4"
+        },
+        "kml2geojson": {
+            "hashes": [
+                "sha256:1fc3096a6feb3728e97521db30f4c55982f3f7ad299892687a41b1b5528f55df",
+                "sha256:76a69f598e55d2eff90332e87ee9480c36120f60e6f5d6b5aaeba63ce92a3dfa"
+            ],
+            "index": "pypi",
+            "version": "==5.1.0"
         },
         "markdown-it-py": {
             "hashes": [

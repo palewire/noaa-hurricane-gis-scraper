@@ -2,11 +2,15 @@
 from __future__ import annotations
 
 import json
+import warnings
 from typing import Any
+from pathlib import Path
 
 import requests
 import feedparser
+import geopandas as gpd
 from retry import retry
+import kml2geojson
 
 
 @retry(tries=3, delay=5)
@@ -62,3 +66,27 @@ def write_json(data: Any, out_path: str, indent: int = 4, verbose: bool = True) 
         if verbose:
             print(f"Saving {out_path}")
         json.dump(data, f, indent=4, sort_keys=True)
+
+
+def convert_shp(shp_path: Path) -> Any:
+    """Convert the submitted shapefile to geojson."""
+    # Read in the file with geopandas
+    gdf = gpd.read_file(str(shp_path))
+
+    # Ignore any UserWarnings
+    with warnings.catch_warnings():
+        warnings.simplefilter("ignore")
+        # Convert the geopandas dataframe to geojson
+        json_data = gdf.to_json(indent=4)
+
+    # Return it as a python object
+    return json.loads(json_data)
+
+
+def convert_kml(kml_path: Path) -> Any:
+    """Convert the submitted kml file to geojson."""
+    return kml2geojson.convert(
+        str(kml_path),
+        style_type=None,
+        separate_folders=False,
+    )

@@ -6,6 +6,7 @@ import shutil
 import subprocess
 from pathlib import Path
 import warnings
+import zipfile
 
 import click
 import geopandas as gpd
@@ -37,7 +38,6 @@ def convert() -> None:
         # Copy the item.json file to the processed directory
         item_path = this_raw_dir / "item.json"
         processed_path = this_processed_dir / item_path.name
-        print(f"Copying {item_path} to {processed_path}")
         shutil.copy(item_path, processed_path)
 
         # Get a list of all files in the raw directory with glob
@@ -47,41 +47,25 @@ def convert() -> None:
         for f in raw_files:
             # If it's a .shp file ...
             if str(f).endswith(".shp"):
-                # Read it in with geopandas
-                gdf = gpd.read_file(str(f))
-
                 # Set the output path for a geojson output
                 geojson_path = this_processed_dir / f"{f.stem}.geojson"
 
-                # Ignore any UserWarnings
-                with warnings.catch_warnings():
-                    warnings.simplefilter("ignore")
-                    # Convert the geopandas dataframe to geojson
-                    json_data = gdf.to_json(indent=4)
+                # Read it in with geopandas
+                geojson = utils.convert_shp(f)
 
                 # Write it out
-                utils.write_json(json.loads(json_data), geojson_path)
+                utils.write_json(geojson, geojson_path)
 
             # If it's a KML file
             elif str(f).endswith(".kml"):
                 # Set the output path for a geojson output
                 geojson_path = this_processed_dir / f"{f.stem}.geojson"
 
-                # Convert it with ogr2ogr
-                print(f"Converting {f} to {geojson_path}")
-                command = ['ogr2ogr', '-f', 'GeoJSON', str(geojson_path), str(f)]
-                subprocess.run(command)
+                # Read it in as a KML
+                geojson = utils.convert_kml(f)
 
-            # If it's a KMZ file
-            elif str(f).endswith(".kmz"):
-                # Set the output path for a geojson output
-                geojson_path = this_processed_dir / f"{f.stem}.geojson"
-
-                # Convert it with ogr2ogr
-                print(f"Converting {f} to {geojson_path}")
-                command = ['ogr2ogr', '-f', 'GeoJSON', str(geojson_path), str(f)]
-                subprocess.run(command)
-
+                # Write out the result
+                utils.write_json(geojson, geojson_path)
 
 
 if __name__ == "__main__":
