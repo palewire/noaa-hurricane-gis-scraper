@@ -73,7 +73,7 @@ def write_json(
         json.dump(data, f, indent=4, sort_keys=True)
 
 
-def convert_shp(shp_path: Path) -> Any:
+def convert_shp(shp_path: Path) -> dict:
     """Convert the submitted shapefile to geojson.
 
     Args:
@@ -101,7 +101,7 @@ def convert_shp(shp_path: Path) -> Any:
     return json.loads(json_data)
 
 
-def convert_kml(kml_path: Path) -> Any:
+def convert_kml(kml_path: Path) -> dict:
     """Convert the submitted kml file to geojson.
 
     Args:
@@ -116,8 +116,10 @@ def convert_kml(kml_path: Path) -> Any:
         >>> kml_path = Path("data/raw/AL112020_5day_pgn.kml")
         >>> geojson = utils.convert_kml(kml_path)
     """
-    return kml2geojson.convert(
+    geojson_list = kml2geojson.convert(
         str(kml_path),
         style_type=None,
         separate_folders=False,
     )
+    assert len(geojson_list) == 1
+    return geojson_list[0]
