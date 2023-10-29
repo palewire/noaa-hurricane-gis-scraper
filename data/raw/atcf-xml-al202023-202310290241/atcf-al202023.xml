@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<cycloneMessage>
+<!-- System Advisory Meta Information -->
+<atcfID>AL202023</atcfID>
+<issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
+<messageType>ROUTINE ADVISORY</messageType>
+<messageBinNumber>5</messageBinNumber>
+<advisoryNumber>39</advisoryNumber>
+<!-- System Date/Time Information -->
+<messageDateTimeLocal>20231028 11:00:00 PM AST</messageDateTimeLocal>
+<messageDateTimeUTC>20231029 03:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>202310290300</messageDateTimeUTC24>
+<messageDateTimeLocalStr>1100 PM AST Sat Oct 28</messageDateTimeLocalStr>
+<timeEpochSeconds>1698548400</timeEpochSeconds>
+<!-- System state defined -->
+<systemType>TROPICAL STORM</systemType>
+<systemName>TAMMY</systemName>
+<!-- Center Location of the System -->
+<!-- Lattitude: North is positive; South is negative -->
+<!-- Longitude: East is positive; West is negative -->
+<!-- units: decimal degrees (tenths) -->
+<centerLocLatitude>32.6</centerLocLatitude>
+<centerLocLongitude>-55.2</centerLocLongitude>
+<!-- Lattitude: North is N; South is S -->
+<!-- Longitude: East is E; West is W -->
+<!-- units: decimal degrees (tenths) -->
+<centerLocLatitudeExpanded>32.6N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>55.2W</centerLocLongitudeExpanded>
+<!-- Maximum Intensity of the System -->
+<!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
+<systemIntensityMph>40</systemIntensityMph>
+<systemIntensityKph>65</systemIntensityKph>
+<systemIntensityKts>35</systemIntensityKts>
+<systemMslpMb>1000</systemMslpMb>
+<systemMslpInHg>29.53</systemMslpInHg>
+<systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
+<formationChancePct48h>N/A</formationChancePct48h>
+<formationChancePct7d>N/A</formationChancePct7d>
+<!-- Current System Movement -->
+<!-- units: Degrees, MPH and KPH -->
+<systemDirectionOfMotion>ESE OR 105 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>17</systemSpeedMph>
+<systemSpeedKph>28</systemSpeedKph>
+<systemSpeedKts>15</systemSpeedKts>
+<!-- Current System Location from known Reference Point -->
+<systemGeoRefPt1>ABOUT 560 MI...900 KM E OF BERMUDA</systemGeoRefPt1>
+<!-- Relevant Message -->
+<message>
+ZCZC MIATCPAT5 ALL
+TTAA00 KNHC DDHHMM
+ 
+BULLETIN
+Tropical Storm Tammy Advisory Number  39
+NWS National Hurricane Center Miami FL       AL202023
+1100 PM AST Sat Oct 28 2023
+ 
+...TAMMY'S SECOND TIME AS A TROPICAL CYCLONE NEARLY UP...
+ 
+ 
+SUMMARY OF 1100 PM AST...0300 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...32.6N 55.2W
+ABOUT 560 MI...900 KM E OF BERMUDA
+MAXIMUM SUSTAINED WINDS...40 MPH...65 KM/H
+PRESENT MOVEMENT...ESE OR 105 DEGREES AT 17 MPH...28 KM/H
+MINIMUM CENTRAL PRESSURE...1000 MB...29.53 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+There are no coastal watches or warnings in effect.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 1100 PM AST (0300 UTC), the center of Tropical Storm Tammy was 
+located near latitude 32.6 North, longitude 55.2 West. Tammy is 
+moving toward the east-southeast near 17 mph (28 km/h), and the 
+cyclone is expected to gradually turn southward before dissipating 
+by the middle part of next week.
+ 
+Maximum sustained winds are near 40 mph (65 km/h) with higher gusts.
+Additional weakening is expected, and Tammy is forecast to become a
+post-tropical remnant low as soon as tomorrow.
+ 
+Tropical-storm-force winds extend outward up to 90 miles (150 km)
+from the center.
+ 
+The estimated minimum central pressure is 1000 mb (29.53 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+None.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 500 AM AST.
+ 
+$$
+Forecaster Papin
+ 
+NNNN
+</message>
+</cycloneMessage>
