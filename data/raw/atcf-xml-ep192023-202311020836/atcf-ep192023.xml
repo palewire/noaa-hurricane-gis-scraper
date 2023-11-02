@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<cycloneMessage>
+<!-- System Advisory Meta Information -->
+<atcfID>EP192023</atcfID>
+<issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
+<messageType>ROUTINE ADVISORY</messageType>
+<messageBinNumber>4</messageBinNumber>
+<advisoryNumber>19</advisoryNumber>
+<!-- System Date/Time Information -->
+<messageDateTimeLocal>20231102 04:00:00 AM CDT</messageDateTimeLocal>
+<messageDateTimeUTC>20231102 09:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>202311020900</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0400 AM CDT Thu Nov 02</messageDateTimeLocalStr>
+<timeEpochSeconds>1698915600</timeEpochSeconds>
+<!-- System state defined -->
+<systemType>TROPICAL STORM</systemType>
+<systemName>PILAR</systemName>
+<!-- Center Location of the System -->
+<!-- Lattitude: North is positive; South is negative -->
+<!-- Longitude: East is positive; West is negative -->
+<!-- units: decimal degrees (tenths) -->
+<centerLocLatitude>12.3</centerLocLatitude>
+<centerLocLongitude>-94.1</centerLocLongitude>
+<!-- Lattitude: North is N; South is S -->
+<!-- Longitude: East is E; West is W -->
+<!-- units: decimal degrees (tenths) -->
+<centerLocLatitudeExpanded>12.3N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>94.1W</centerLocLongitudeExpanded>
+<!-- Maximum Intensity of the System -->
+<!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
+<systemIntensityMph>50</systemIntensityMph>
+<systemIntensityKph>85</systemIntensityKph>
+<systemIntensityKts>45</systemIntensityKts>
+<systemMslpMb>999</systemMslpMb>
+<systemMslpInHg>29.50</systemMslpInHg>
+<systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
+<formationChancePct48h>N/A</formationChancePct48h>
+<formationChancePct7d>N/A</formationChancePct7d>
+<!-- Current System Movement -->
+<!-- units: Degrees, MPH and KPH -->
+<systemDirectionOfMotion>W OR 265 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>14</systemSpeedMph>
+<systemSpeedKph>22</systemSpeedKph>
+<systemSpeedKts>12</systemSpeedKts>
+<!-- Current System Location from known Reference Point -->
+<systemGeoRefPt1>ABOUT 280 MI...450 KM SSE OF SALINA CRUZ MEXICO</systemGeoRefPt1>
+<!-- Relevant Message -->
+<message>
+ZCZC MIATCPEP4 ALL
+TTAA00 KNHC DDHHMM
+ 
+BULLETIN
+Tropical Storm Pilar Advisory Number  19
+NWS National Hurricane Center Miami FL       EP192023
+400 AM CDT Thu Nov 02 2023
+ 
+...PILAR ACCELERATING WESTWARD AWAY FROM LAND...
+ 
+ 
+SUMMARY OF 400 AM CDT...0900 UTC...INFORMATION
+----------------------------------------------
+LOCATION...12.3N 94.1W
+ABOUT 280 MI...450 KM SSE OF SALINA CRUZ MEXICO
+MAXIMUM SUSTAINED WINDS...50 MPH...85 KM/H
+PRESENT MOVEMENT...W OR 265 DEGREES AT 14 MPH...22 KM/H
+MINIMUM CENTRAL PRESSURE...999 MB...29.50 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+There are no coastal watches or warnings in effect.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 400 AM CDT (0900 UTC), the center of Tropical Storm Pilar was 
+located near latitude 12.3 North, longitude 94.1 West. Pilar is 
+moving toward the west near 14 mph (22 km/h). A turn toward the 
+west-southwest with an increase in forward speed is expected during 
+the next couple of days, followed by a westward motion on Saturday.
+ 
+Maximum sustained winds are near 50 mph (85 km/h) with higher gusts.
+Little change in strength is forecast during the next few days.
+ 
+Tropical-storm-force winds extend outward up to 70 miles (110 km)
+from the center.
+ 
+The estimated minimum central pressure is 999 mb (29.50 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+None.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 1000 AM CDT.
+ 
+$$
+Forecaster Reinhart
+ 
+NNNN
+</message>
+</cycloneMessage>
