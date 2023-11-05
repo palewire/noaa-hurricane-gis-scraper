@@ -1,0 +1,230 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -111.6,
+                        10.5,
+                        0.0
+                    ],
+                    [
+                        -113.0,
+                        10.8,
+                        0.0
+                    ],
+                    [
+                        -114.4,
+                        11.5,
+                        0.0
+                    ],
+                    [
+                        -115.5,
+                        12.3,
+                        0.0
+                    ],
+                    [
+                        -116.6,
+                        13.2,
+                        0.0
+                    ],
+                    [
+                        -117.9,
+                        14.2,
+                        0.0
+                    ],
+                    [
+                        -119.1,
+                        15.3,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "10.5N, 111.6W",
+                "advisoryNum": "30",
+                "atcfid": "EP192023",
+                "basin": "ep",
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Pilar (EP192023)</b></font></td></tr> \n                        <tr><td>Advisory #30 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "55",
+                "maxGustMPH": "65",
+                "maxWindKnots": "45",
+                "maxWindMPH": "50",
+                "minimumPressure": "1000",
+                "pubAdvTime": "900 PM MDT Sat Nov 04 2023",
+                "storm": "Tropical Storm Pilar",
+                "stormMovement": "W",
+                "stormName": "Pilar",
+                "stormNum": "19",
+                "stormType": "TS",
+                "styleUrl": "#72_line",
+                "timezone": "MDT"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -111.6,
+                        10.5,
+                        0.0
+                    ],
+                    [
+                        -113.0,
+                        10.8,
+                        0.0
+                    ],
+                    [
+                        -114.4,
+                        11.5,
+                        0.0
+                    ],
+                    [
+                        -115.5,
+                        12.3,
+                        0.0
+                    ],
+                    [
+                        -116.6,
+                        13.2,
+                        0.0
+                    ],
+                    [
+                        -117.9,
+                        14.2,
+                        0.0
+                    ],
+                    [
+                        -119.1,
+                        15.3,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "30",
+                "atcfid": "EP192023",
+                "basin": "ep",
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Pilar (EP192023)</b></font></td></tr> \n                        <tr><td>Advisory #30 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Tropical Storm Pilar",
+                "stormName": "Pilar",
+                "stormNum": "19",
+                "stormType": "TS",
+                "styleUrl": "#120_line",
+                "timezone": "MDT"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -111.6,
+                    10.5,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Pilar (EP192023)</b></font></td></tr> \n                        <tr><td>Advisory #30</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  9:00 PM MDT November 04, 2023 </td></tr> \n\t   \t        <tr><td nowrap>Location: 10.5 N, -111.6 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 45 knots (50 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 55 knots (65 mph) </td></tr> \n                        <tr><td nowrap>Motion: W </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 1000 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -113.0,
+                    10.8,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Pilar (EP192023)</b></font></td></tr> \n                        <tr><td>Advisory #30</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>12 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  6:00 AM MDT November 05, 2023 </td></tr> \n\t   \t        <tr><td nowrap>Location: 10.8 N, -113.0 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 50 knots (60 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 60 knots (70 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -114.4,
+                    11.5,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Pilar (EP192023)</b></font></td></tr> \n                        <tr><td>Advisory #30</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>24 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  6:00 PM MDT November 05, 2023 </td></tr> \n\t   \t        <tr><td nowrap>Location: 11.5 N, -114.4 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 45 knots (50 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 55 knots (65 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.5,
+                    12.3,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Pilar (EP192023)</b></font></td></tr> \n                        <tr><td>Advisory #30</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>36 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  6:00 AM MDT November 06, 2023 </td></tr> \n\t   \t        <tr><td nowrap>Location: 12.3 N, -115.5 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 40 knots (45 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 50 knots (60 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.6,
+                    13.2,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Pilar (EP192023)</b></font></td></tr> \n                        <tr><td>Advisory #30</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>48 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  6:00 PM MDT November 06, 2023 </td></tr> \n\t   \t        <tr><td nowrap>Location: 13.2 N, -116.6 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 35 knots (40 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 45 knots (50 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -117.9,
+                    14.2,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Pilar (EP192023)</b></font></td></tr> \n                        <tr><td>Advisory #30</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>60 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  6:00 AM MDT November 07, 2023 </td></tr> \n\t   \t        <tr><td nowrap>Location: 14.2 N, -117.9 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 30 knots (35 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 40 knots (45 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.1,
+                    15.3,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Pilar (EP192023)</b></font></td></tr> \n                        <tr><td>Advisory #30</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>72 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  6:00 PM MDT November 07, 2023 </td></tr> \n\t   \t        <tr><td nowrap>Location: 15.3 N, -119.1 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 30 knots (35 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 40 knots (45 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
