@@ -1,0 +1,339 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://earth.google.com/kml/2.1'>
+<Document>
+<name>Potential Tropical Cyclone Twenty-Two (Advisory #5) - Watch/Warnings</name>
+    <description>
+        <TABLE>
+            <TR><TD><B>Title:</B> Tropical Cyclone Watch/Warnings for AL222023 (Advisory #5)</TD></TR>
+            <TR><TD><B>Description:</B>The official watch/warning in KML format is an experimental product produced by the National Hurricane Center.  Coastal areas placed under tropical cyclone watches or warnings are delimited by specific geographical locations known as "breakpoints" (e.g., a hurricane warning is in effect from breakpoint "A" to breakpoint "B").  This file consists of one or more lines connecting the breakpoints delimiting any current watches or warnings. </TD></TR>
+            <TR><TD><B>Date Created:</B> 11-17-2023 - 21:21 UTC </TD></TR>
+            <TR><TD><B>Created:</B> National Hurricane Center </TD></TR>
+            <TR><TD><B>Disclaimer:</B>The official watch/warning in KML format is an experimental product.</TD></TR>
+            <TR><TD><B>For More Information: </B><a href="https://www.nhc.noaa.gov">https://www.nhc.noaa.gov</a></TD></TR>
+        </TABLE>
+    </description>
+        <Style id="TWR">
+                <LineStyle>
+                        <color>ffff0055</color>
+                        <width>3</width>
+                </LineStyle>
+                <PolyStyle>
+                        <color>ffff0055</color>
+                </PolyStyle>
+        </Style>
+        <Style id="TWA">
+                <LineStyle>
+                        <color>ff22e2f7</color>
+                        <width>3</width>
+                </LineStyle>
+                <PolyStyle>
+                        <color>ff22e2f7</color>
+                </PolyStyle>
+        </Style>
+        <Style id="HWA">
+                <LineStyle>
+                        <color>99ffaaff</color>
+                        <width>8</width>
+                </LineStyle>
+                <PolyStyle>
+                        <color>99ffaaff</color>
+                </PolyStyle>
+        </Style>
+        <Style id="HWR">
+                <LineStyle>
+                        <color>990000ff</color>
+                        <width>8</width>
+                </LineStyle>
+                <PolyStyle>
+                        <color>990000ff</color>
+                </PolyStyle>
+        </Style>
+    <Placemark>
+      <name>Tropical Storm Watch</name>
+        <styleUrl>#TWA</styleUrl>
+        <LineString>
+                <coordinates>
+-76.97,21.46,0 -76.3,21.23,0 -74.74,20.56,0 -74.14,20.21,0 -75.37,19.91,0 -77.04,19.89,0 -77.76,19.86,0 -77.16,20.55,0 -77.23,20.65,0 
+                </coordinates>
+        </LineString>
+        <ExtendedData>
+            <Data name="timezone">
+                <value>EST</value>
+            </Data>
+            <Data name="stormType">
+                <value>PC</value>
+            </Data>
+            <Data name="advisoryDate">
+                <value>400 PM EST Fri Nov 17 2023</value>
+            </Data>
+            <Data name="basin">
+                <value>AL</value>
+            </Data>
+            <Data name="fcstpd">
+                <value>120</value>
+            </Data>
+            <Data name="storm">
+                <value>Potential Tropical Cyclone Twenty-Two</value>
+            </Data>
+            <Data name="atcfid">
+                <value>AL222023</value>
+            </Data>
+            <Data name="advisoryNum">
+                <value>5</value>
+            </Data>
+            <Data name="stormNum">
+                <value>22</value>
+            </Data>
+            <Data name="stormName">
+                <value>Twenty-Two</value>
+            </Data>
+        </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Tropical Storm Watch</name>
+        <styleUrl>#TWA</styleUrl>
+        <LineString>
+                <coordinates>
+-71.7,18.0,0 -72.0,18.18,0 -74.0,18.15,0 -74.48,18.5,0 -74.44,18.65,0 -72.83,18.45,0 -72.33,18.55,0 -72.78,19.05,0 -72.78,18.7,0 -73.27,18.95,0 -72.78,19.05,0 -72.7,19.48,0 -73.43,19.7,0 -73.2,19.9,0 -72.78,19.95,0 -71.74,19.7,0 
+                </coordinates>
+        </LineString>
+        <ExtendedData>
+            <Data name="timezone">
+                <value>EST</value>
+            </Data>
+            <Data name="stormType">
+                <value>PC</value>
+            </Data>
+            <Data name="advisoryDate">
+                <value>400 PM EST Fri Nov 17 2023</value>
+            </Data>
+            <Data name="basin">
+                <value>AL</value>
+            </Data>
+            <Data name="fcstpd">
+                <value>120</value>
+            </Data>
+            <Data name="storm">
+                <value>Potential Tropical Cyclone Twenty-Two</value>
+            </Data>
+            <Data name="atcfid">
+                <value>AL222023</value>
+            </Data>
+            <Data name="advisoryNum">
+                <value>5</value>
+            </Data>
+            <Data name="stormNum">
+                <value>22</value>
+            </Data>
+            <Data name="stormName">
+                <value>Twenty-Two</value>
+            </Data>
+        </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Tropical Storm Watch</name>
+        <styleUrl>#TWA</styleUrl>
+        <LineString>
+                <coordinates>
+-73.11,20.93,0 -73.0,21.5,0 -73.23,21.05,0 -73.5,21.11,0 -73.68,20.93,0 
+                </coordinates>
+        </LineString>
+        <ExtendedData>
+            <Data name="timezone">
+                <value>EST</value>
+            </Data>
+            <Data name="stormType">
+                <value>PC</value>
+            </Data>
+            <Data name="advisoryDate">
+                <value>400 PM EST Fri Nov 17 2023</value>
+            </Data>
+            <Data name="basin">
+                <value>AL</value>
+            </Data>
+            <Data name="fcstpd">
+                <value>120</value>
+            </Data>
+            <Data name="storm">
+                <value>Potential Tropical Cyclone Twenty-Two</value>
+            </Data>
+            <Data name="atcfid">
+                <value>AL222023</value>
+            </Data>
+            <Data name="advisoryNum">
+                <value>5</value>
+            </Data>
+            <Data name="stormNum">
+                <value>22</value>
+            </Data>
+            <Data name="stormName">
+                <value>Twenty-Two</value>
+            </Data>
+        </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Tropical Storm Watch</name>
+        <styleUrl>#TWA</styleUrl>
+        <LineString>
+                <coordinates>
+-72.72,22.3,0 -73.15,22.43,0 
+                </coordinates>
+        </LineString>
+        <ExtendedData>
+            <Data name="timezone">
+                <value>EST</value>
+            </Data>
+            <Data name="stormType">
+                <value>PC</value>
+            </Data>
+            <Data name="advisoryDate">
+                <value>400 PM EST Fri Nov 17 2023</value>
+            </Data>
+            <Data name="basin">
+                <value>AL</value>
+            </Data>
+            <Data name="fcstpd">
+                <value>120</value>
+            </Data>
+            <Data name="storm">
+                <value>Potential Tropical Cyclone Twenty-Two</value>
+            </Data>
+            <Data name="atcfid">
+                <value>AL222023</value>
+            </Data>
+            <Data name="advisoryNum">
+                <value>5</value>
+            </Data>
+            <Data name="stormNum">
+                <value>22</value>
+            </Data>
+            <Data name="stormName">
+                <value>Twenty-Two</value>
+            </Data>
+        </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Tropical Storm Watch</name>
+        <styleUrl>#TWA</styleUrl>
+        <LineString>
+                <coordinates>
+-74.27,22.2,0 -73.84,22.54,0 -74.37,22.83,0 
+                </coordinates>
+        </LineString>
+        <ExtendedData>
+            <Data name="timezone">
+                <value>EST</value>
+            </Data>
+            <Data name="stormType">
+                <value>PC</value>
+            </Data>
+            <Data name="advisoryDate">
+                <value>400 PM EST Fri Nov 17 2023</value>
+            </Data>
+            <Data name="basin">
+                <value>AL</value>
+            </Data>
+            <Data name="fcstpd">
+                <value>120</value>
+            </Data>
+            <Data name="storm">
+                <value>Potential Tropical Cyclone Twenty-Two</value>
+            </Data>
+            <Data name="atcfid">
+                <value>AL222023</value>
+            </Data>
+            <Data name="advisoryNum">
+                <value>5</value>
+            </Data>
+            <Data name="stormNum">
+                <value>22</value>
+            </Data>
+            <Data name="stormName">
+                <value>Twenty-Two</value>
+            </Data>
+        </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Tropical Storm Watch</name>
+        <styleUrl>#TWA</styleUrl>
+        <LineString>
+                <coordinates>
+-71.65,21.31,0 -71.44,21.65,0 -71.96,21.92,0 -72.35,21.8,0 
+                </coordinates>
+        </LineString>
+        <ExtendedData>
+            <Data name="timezone">
+                <value>EST</value>
+            </Data>
+            <Data name="stormType">
+                <value>PC</value>
+            </Data>
+            <Data name="advisoryDate">
+                <value>400 PM EST Fri Nov 17 2023</value>
+            </Data>
+            <Data name="basin">
+                <value>AL</value>
+            </Data>
+            <Data name="fcstpd">
+                <value>120</value>
+            </Data>
+            <Data name="storm">
+                <value>Potential Tropical Cyclone Twenty-Two</value>
+            </Data>
+            <Data name="atcfid">
+                <value>AL222023</value>
+            </Data>
+            <Data name="advisoryNum">
+                <value>5</value>
+            </Data>
+            <Data name="stormNum">
+                <value>22</value>
+            </Data>
+            <Data name="stormName">
+                <value>Twenty-Two</value>
+            </Data>
+        </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Tropical Storm Watch</name>
+        <styleUrl>#TWA</styleUrl>
+        <LineString>
+                <coordinates>
+-71.2,21.31,0 -71.12,21.49,0 
+                </coordinates>
+        </LineString>
+        <ExtendedData>
+            <Data name="timezone">
+                <value>EST</value>
+            </Data>
+            <Data name="stormType">
+                <value>PC</value>
+            </Data>
+            <Data name="advisoryDate">
+                <value>400 PM EST Fri Nov 17 2023</value>
+            </Data>
+            <Data name="basin">
+                <value>AL</value>
+            </Data>
+            <Data name="fcstpd">
+                <value>120</value>
+            </Data>
+            <Data name="storm">
+                <value>Potential Tropical Cyclone Twenty-Two</value>
+            </Data>
+            <Data name="atcfid">
+                <value>AL222023</value>
+            </Data>
+            <Data name="advisoryNum">
+                <value>5</value>
+            </Data>
+            <Data name="stormNum">
+                <value>22</value>
+            </Data>
+            <Data name="stormName">
+                <value>Twenty-Two</value>
+            </Data>
+        </ExtendedData>
+    </Placemark>
+</Document>
+</kml>
