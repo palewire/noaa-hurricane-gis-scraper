@@ -1,0 +1,51 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -123.0,
+                        13.4
+                    ],
+                    [
+                        -123.5,
+                        14.1
+                    ],
+                    [
+                        -123.8,
+                        14.9
+                    ],
+                    [
+                        -123.8,
+                        15.5
+                    ],
+                    [
+                        -123.7,
+                        15.9
+                    ],
+                    [
+                        -123.9,
+                        16.3
+                    ],
+                    [
+                        -124.2,
+                        16.9
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "0",
+            "properties": {
+                "ADVDATE": "700 AM PST Fri Nov 24 2023",
+                "ADVISNUM": "5",
+                "BASIN": "EP",
+                "FCSTPRD": 120.0,
+                "STORMNAME": "Twenty-E",
+                "STORMNUM": 20.0,
+                "STORMTYPE": "TD"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
