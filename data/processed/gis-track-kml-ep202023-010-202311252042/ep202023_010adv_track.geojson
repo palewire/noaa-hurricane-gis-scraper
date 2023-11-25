@@ -1,0 +1,180 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.9,
+                        15.3,
+                        0.0
+                    ],
+                    [
+                        -123.0,
+                        15.4,
+                        0.0
+                    ],
+                    [
+                        -123.3,
+                        15.6,
+                        0.0
+                    ],
+                    [
+                        -123.9,
+                        15.7,
+                        0.0
+                    ],
+                    [
+                        -124.7,
+                        15.9,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "15.3N, 122.9W",
+                "advisoryNum": "10",
+                "atcfid": "EP202023",
+                "basin": "ep",
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Ramon (EP202023)</b></font></td></tr> \n                        <tr><td>Advisory #10 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "45",
+                "maxGustMPH": "50",
+                "maxWindKnots": "35",
+                "maxWindMPH": "40",
+                "minimumPressure": "1005",
+                "pubAdvTime": "100 PM PST Sat Nov 25 2023",
+                "storm": "Tropical Storm Ramon",
+                "stormMovement": "NNE",
+                "stormName": "Ramon",
+                "stormNum": "20",
+                "stormType": "TS",
+                "styleUrl": "#72_line",
+                "timezone": "PST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.9,
+                        15.3,
+                        0.0
+                    ],
+                    [
+                        -123.0,
+                        15.4,
+                        0.0
+                    ],
+                    [
+                        -123.3,
+                        15.6,
+                        0.0
+                    ],
+                    [
+                        -123.9,
+                        15.7,
+                        0.0
+                    ],
+                    [
+                        -124.7,
+                        15.9,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "10",
+                "atcfid": "EP202023",
+                "basin": "ep",
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Ramon (EP202023)</b></font></td></tr> \n                        <tr><td>Advisory #10 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Tropical Storm Ramon",
+                "stormName": "Ramon",
+                "stormNum": "20",
+                "stormType": "TS",
+                "styleUrl": "#120_line",
+                "timezone": "PST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.9,
+                    15.3,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Ramon (EP202023)</b></font></td></tr> \n                        <tr><td>Advisory #10</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  1:00 PM PST November 25, 2023 </td></tr> \n\t   \t        <tr><td nowrap>Location: 15.3 N, -122.9 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 35 knots (40 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 45 knots (50 mph) </td></tr> \n                        <tr><td nowrap>Motion: NNE </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 1005 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -123.0,
+                    15.4,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Ramon (EP202023)</b></font></td></tr> \n                        <tr><td>Advisory #10</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>12 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at: 10:00 PM PST November 25, 2023 </td></tr> \n\t   \t        <tr><td nowrap>Location: 15.4 N, -123.0 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 30 knots (35 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 40 knots (45 mph) </td></tr>",
+                "styleUrl": "#d_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -123.3,
+                    15.6,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Ramon (EP202023)</b></font></td></tr> \n                        <tr><td>Advisory #10</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>24 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at: 10:00 AM PST November 26, 2023 </td></tr> \n\t   \t        <tr><td nowrap>Location: 15.6 N, -123.3 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 30 knots (35 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 40 knots (45 mph) </td></tr>",
+                "styleUrl": "#d_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -123.9,
+                    15.7,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Ramon (EP202023)</b></font></td></tr> \n                        <tr><td>Advisory #10</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>36 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at: 10:00 PM PST November 26, 2023 </td></tr> \n\t   \t        <tr><td nowrap>Location: 15.7 N, -123.9 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 25 knots (30 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 35 knots (40 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -124.7,
+                    15.9,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Ramon (EP202023)</b></font></td></tr> \n                        <tr><td>Advisory #10</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>48 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at: 10:00 AM PST November 27, 2023 </td></tr> \n\t   \t        <tr><td nowrap>Location: 15.9 N, -124.7 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 20 knots (25 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 30 knots (35 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
