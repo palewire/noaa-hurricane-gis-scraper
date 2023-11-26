@@ -1,0 +1,39 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -123.4,
+                        14.4
+                    ],
+                    [
+                        -123.9,
+                        14.3
+                    ],
+                    [
+                        -124.7,
+                        14.4
+                    ],
+                    [
+                        -125.6,
+                        14.7
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "0",
+            "properties": {
+                "ADVDATE": "100 AM PST Sun Nov 26 2023",
+                "ADVISNUM": "12",
+                "BASIN": "EP",
+                "FCSTPRD": 120.0,
+                "STORMNAME": "Ramon",
+                "STORMNUM": 20.0,
+                "STORMTYPE": "TS"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
