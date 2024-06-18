@@ -1,0 +1,205 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -93.0,
+                        21.3,
+                        0.0
+                    ],
+                    [
+                        -93.1,
+                        22.0,
+                        0.0
+                    ],
+                    [
+                        -94.5,
+                        22.7,
+                        0.0
+                    ],
+                    [
+                        -96.2,
+                        23.2,
+                        0.0
+                    ],
+                    [
+                        -98.1,
+                        23.3,
+                        0.0
+                    ],
+                    [
+                        -100.5,
+                        23.5,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "21.3N, 93.0W",
+                "advisoryNum": "3",
+                "atcfid": "AL012024",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Potential Tropical Cyclone One (AL012024)</b></font></td></tr> \n                        <tr><td>Advisory #3 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "45",
+                "maxGustMPH": "50",
+                "maxWindKnots": "35",
+                "maxWindMPH": "40",
+                "minimumPressure": "999",
+                "pubAdvTime": "400 AM CDT Tue Jun 18 2024",
+                "storm": "Potential Tropical Cyclone One",
+                "stormMovement": "N",
+                "stormName": "One",
+                "stormNum": "01",
+                "stormType": "PC",
+                "styleUrl": "#72_line",
+                "timezone": "CDT"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -93.0,
+                        21.3,
+                        0.0
+                    ],
+                    [
+                        -93.1,
+                        22.0,
+                        0.0
+                    ],
+                    [
+                        -94.5,
+                        22.7,
+                        0.0
+                    ],
+                    [
+                        -96.2,
+                        23.2,
+                        0.0
+                    ],
+                    [
+                        -98.1,
+                        23.3,
+                        0.0
+                    ],
+                    [
+                        -100.5,
+                        23.5,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "3",
+                "atcfid": "AL012024",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Potential Tropical Cyclone One (AL012024)</b></font></td></tr> \n                        <tr><td>Advisory #3 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Potential Tropical Cyclone One",
+                "stormName": "One",
+                "stormNum": "01",
+                "stormType": "PC",
+                "styleUrl": "#120_line",
+                "timezone": "CDT"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.0,
+                    21.3,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Potential Tropical Cyclone One (AL012024)</b></font></td></tr> \n                        <tr><td>Advisory #3</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  4:00 AM CDT June 18, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 21.3 N, -93.0 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 35 knots (40 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 45 knots (50 mph) </td></tr> \n                        <tr><td nowrap>Motion: N </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 999 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.1,
+                    22.0,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Potential Tropical Cyclone One (AL012024)</b></font></td></tr> \n                        <tr><td>Advisory #3</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>12 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  1:00 PM CDT June 18, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 22.0 N, -93.1 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 35 knots (40 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 45 knots (50 mph) </td></tr>",
+                "styleUrl": "#xs_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.5,
+                    22.7,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Potential Tropical Cyclone One (AL012024)</b></font></td></tr> \n                        <tr><td>Advisory #3</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>24 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  1:00 AM CDT June 19, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 22.7 N, -94.5 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 40 knots (45 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 50 knots (60 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.2,
+                    23.2,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Potential Tropical Cyclone One (AL012024)</b></font></td></tr> \n                        <tr><td>Advisory #3</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>36 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  1:00 PM CDT June 19, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 23.2 N, -96.2 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 45 knots (50 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 55 knots (65 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.1,
+                    23.3,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Potential Tropical Cyclone One (AL012024)</b></font></td></tr> \n                        <tr><td>Advisory #3</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>48 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  1:00 AM CDT June 20, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 23.3 N, -98.1 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 45 knots (50 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 55 knots (65 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -100.5,
+                    23.5,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Potential Tropical Cyclone One (AL012024)</b></font></td></tr> \n                        <tr><td>Advisory #3</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>60 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  1:00 PM CDT June 20, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 23.5 N, -100.5 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 30 knots (35 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 40 knots (45 mph) </td></tr>",
+                "styleUrl": "#d_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
