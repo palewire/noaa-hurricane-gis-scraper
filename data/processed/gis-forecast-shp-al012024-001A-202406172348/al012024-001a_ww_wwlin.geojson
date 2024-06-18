@@ -1,0 +1,110 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -97.15,
+                        25.96
+                    ],
+                    [
+                        -97.23,
+                        26.41
+                    ],
+                    [
+                        -97.29,
+                        26.6
+                    ],
+                    [
+                        -97.37,
+                        27.29
+                    ],
+                    [
+                        -97.29,
+                        27.47
+                    ],
+                    [
+                        -97.07,
+                        27.83
+                    ],
+                    [
+                        -96.85,
+                        28.06
+                    ],
+                    [
+                        -96.41,
+                        28.39
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "0",
+            "properties": {
+                "ADVDATE": "700 PM CDT Mon Jun 17 2024",
+                "ADVISNUM": "1A",
+                "BASIN": "AL",
+                "FCSTPRD": 120.0,
+                "STORMNAME": "One",
+                "STORMNUM": 1.0,
+                "STORMTYPE": "PC",
+                "TCWW": "TWA"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -97.43,
+                        25.23
+                    ],
+                    [
+                        -97.71,
+                        24.28
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "1",
+            "properties": {
+                "ADVDATE": "700 PM CDT Mon Jun 17 2024",
+                "ADVISNUM": "1A",
+                "BASIN": "AL",
+                "FCSTPRD": 120.0,
+                "STORMNAME": "One",
+                "STORMNUM": 1.0,
+                "STORMTYPE": "PC",
+                "TCWW": "TWA"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -97.15,
+                        25.96
+                    ],
+                    [
+                        -97.43,
+                        25.23
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "2",
+            "properties": {
+                "ADVDATE": "700 PM CDT Mon Jun 17 2024",
+                "ADVISNUM": "1A",
+                "BASIN": "AL",
+                "FCSTPRD": 120.0,
+                "STORMNAME": "One",
+                "STORMNUM": 1.0,
+                "STORMTYPE": "PC",
+                "TCWW": "TWA"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
