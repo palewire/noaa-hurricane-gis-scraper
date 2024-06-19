@@ -1,0 +1,113 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -95.3,
+                    21.9
+                ],
+                "type": "Point"
+            },
+            "id": "0",
+            "properties": {
+                "ADVDATE": "400 PM CDT Wed Jun 19 2024",
+                "ADVISNUM": "9",
+                "BASIN": "AL",
+                "DATELBL": "4:00 PM Wed",
+                "DVLBL": "S",
+                "FCSTPRD": 120.0,
+                "FLDATELBL": "2024-06-19 1:00 PM Wed CDT",
+                "GUST": 45.0,
+                "LAT": 21.9,
+                "LON": -95.3,
+                "MAXWIND": 35.0,
+                "MSLP": 995.0,
+                "SSNUM": 0.0,
+                "STORMNAME": "Tropical Storm Alberto",
+                "STORMNUM": 1.0,
+                "STORMSRC": "Tropical Cyclone",
+                "STORMTYPE": "TS",
+                "TAU": 0.0,
+                "TCDIR": 250.0,
+                "TCDVLP": "Tropical Storm",
+                "TCSPD": 8.0,
+                "TIMEZONE": "CDT",
+                "VALIDTIME": "19/1800"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.0,
+                    22.0
+                ],
+                "type": "Point"
+            },
+            "id": "1",
+            "properties": {
+                "ADVDATE": "400 PM CDT Wed Jun 19 2024",
+                "ADVISNUM": "9",
+                "BASIN": "AL",
+                "DATELBL": "1:00 AM Thu",
+                "DVLBL": "S",
+                "FCSTPRD": 120.0,
+                "FLDATELBL": "2024-06-20 1:00 AM Thu CDT",
+                "GUST": 50.0,
+                "LAT": 22.0,
+                "LON": -97.0,
+                "MAXWIND": 40.0,
+                "MSLP": 9999.0,
+                "SSNUM": 0.0,
+                "STORMNAME": "Tropical Storm Alberto",
+                "STORMNUM": 1.0,
+                "STORMSRC": "Tropical Cyclone",
+                "STORMTYPE": "TS",
+                "TAU": 12.0,
+                "TCDIR": 9999.0,
+                "TCDVLP": "Tropical Storm",
+                "TCSPD": 9999.0,
+                "TIMEZONE": "CDT",
+                "VALIDTIME": "20/0600"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -100.9,
+                    22.1
+                ],
+                "type": "Point"
+            },
+            "id": "2",
+            "properties": {
+                "ADVDATE": "400 PM CDT Wed Jun 19 2024",
+                "ADVISNUM": "9",
+                "BASIN": "AL",
+                "DATELBL": "1:00 PM Thu",
+                "DVLBL": "D",
+                "FCSTPRD": 120.0,
+                "FLDATELBL": "2024-06-20 1:00 PM Thu CDT",
+                "GUST": 40.0,
+                "LAT": 22.1,
+                "LON": -100.9,
+                "MAXWIND": 30.0,
+                "MSLP": 9999.0,
+                "SSNUM": 0.0,
+                "STORMNAME": "Tropical Storm Alberto",
+                "STORMNUM": 1.0,
+                "STORMSRC": "Tropical Cyclone",
+                "STORMTYPE": "TD",
+                "TAU": 24.0,
+                "TCDIR": 9999.0,
+                "TCDVLP": "Tropical Depression",
+                "TCSPD": 9999.0,
+                "TIMEZONE": "CDT",
+                "VALIDTIME": "20/1800"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
