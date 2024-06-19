@@ -1,0 +1,39 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -95.0,
+                        22.2
+                    ],
+                    [
+                        -96.4,
+                        22.2
+                    ],
+                    [
+                        -98.3,
+                        22.3
+                    ],
+                    [
+                        -101.2,
+                        22.4
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "0",
+            "properties": {
+                "ADVDATE": "1000 AM CDT Wed Jun 19 2024",
+                "ADVISNUM": "8",
+                "BASIN": "AL",
+                "FCSTPRD": 120.0,
+                "STORMNAME": "Alberto",
+                "STORMNUM": 1.0,
+                "STORMTYPE": "TS"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
