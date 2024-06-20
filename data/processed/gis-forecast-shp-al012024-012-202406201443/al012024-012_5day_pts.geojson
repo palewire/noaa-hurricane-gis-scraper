@@ -1,0 +1,77 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -99.4,
+                    22.3
+                ],
+                "type": "Point"
+            },
+            "id": "0",
+            "properties": {
+                "ADVDATE": "1000 AM CDT Thu Jun 20 2024",
+                "ADVISNUM": "12",
+                "BASIN": "AL",
+                "DATELBL": "10:00 AM Thu",
+                "DVLBL": "D",
+                "FCSTPRD": 120.0,
+                "FLDATELBL": "2024-06-20 7:00 AM Thu CDT",
+                "GUST": 40.0,
+                "LAT": 22.3,
+                "LON": -99.4,
+                "MAXWIND": 30.0,
+                "MSLP": 999.0,
+                "SSNUM": 0.0,
+                "STORMNAME": "Tropical Depression Alberto",
+                "STORMNUM": 1.0,
+                "STORMSRC": "Tropical Cyclone",
+                "STORMTYPE": "TD",
+                "TAU": 0.0,
+                "TCDIR": 275.0,
+                "TCDVLP": "Tropical Depression",
+                "TCSPD": 16.0,
+                "TIMEZONE": "CDT",
+                "VALIDTIME": "20/1200"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -102.7,
+                    22.1
+                ],
+                "type": "Point"
+            },
+            "id": "1",
+            "properties": {
+                "ADVDATE": "1000 AM CDT Thu Jun 20 2024",
+                "ADVISNUM": "12",
+                "BASIN": "AL",
+                "DATELBL": "7:00 PM Thu",
+                "DVLBL": "D",
+                "FCSTPRD": 120.0,
+                "FLDATELBL": "2024-06-20 7:00 PM Thu CDT",
+                "GUST": 35.0,
+                "LAT": 22.1,
+                "LON": -102.7,
+                "MAXWIND": 25.0,
+                "MSLP": 9999.0,
+                "SSNUM": 0.0,
+                "STORMNAME": "Tropical Depression Alberto",
+                "STORMNUM": 1.0,
+                "STORMSRC": "Post-Tropical Cyclone",
+                "STORMTYPE": "STD",
+                "TAU": 12.0,
+                "TCDIR": 9999.0,
+                "TCDVLP": "Subtropical Depression",
+                "TCSPD": 9999.0,
+                "TIMEZONE": "CDT",
+                "VALIDTIME": "21/0000"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
