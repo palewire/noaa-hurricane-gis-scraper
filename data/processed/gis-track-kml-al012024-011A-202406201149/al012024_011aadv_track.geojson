@@ -1,0 +1,105 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -98.3,
+                        22.3,
+                        0.0
+                    ],
+                    [
+                        -100.6,
+                        22.1,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "22.3N, 98.3W",
+                "advisoryNum": "11A",
+                "atcfid": "AL012024",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Alberto (AL012024)</b></font></td></tr> \n                        <tr><td>Advisory #11A </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "55",
+                "maxGustMPH": "65",
+                "maxWindKnots": "45",
+                "maxWindMPH": "45",
+                "minimumPressure": "997",
+                "pubAdvTime": "700 AM CDT Thu Jun 20 2024",
+                "storm": "Tropical Storm Alberto",
+                "stormMovement": "W",
+                "stormName": "Alberto",
+                "stormNum": "01",
+                "stormType": "TS",
+                "styleUrl": "#72_line",
+                "timezone": "CDT"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -98.3,
+                        22.3,
+                        0.0
+                    ],
+                    [
+                        -100.6,
+                        22.1,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "11A",
+                "atcfid": "AL012024",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Alberto (AL012024)</b></font></td></tr> \n                        <tr><td>Advisory #11A </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Tropical Storm Alberto",
+                "stormName": "Alberto",
+                "stormNum": "01",
+                "stormType": "TS",
+                "styleUrl": "#120_line",
+                "timezone": "CDT"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.3,
+                    22.3,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Alberto (AL012024)</b></font></td></tr> \n                        <tr><td>Advisory #11A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  7:00 AM CDT June 20, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 22.3 N, -98.3 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 45 knots (45 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 55 knots (65 mph) </td></tr> \n                        <tr><td nowrap>Motion: W </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 997 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -100.6,
+                    22.1,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Alberto (AL012024)</b></font></td></tr> \n                        <tr><td>Advisory #11A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>12 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  1:00 PM CDT June 20, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 22.1 N, -100.6 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 30 knots (35 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 40 knots (45 mph) </td></tr>",
+                "styleUrl": "#d_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
