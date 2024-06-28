@@ -1,0 +1,270 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -41.9,
+                        9.1,
+                        0.0
+                    ],
+                    [
+                        -44.5,
+                        9.4,
+                        0.0
+                    ],
+                    [
+                        -48.0,
+                        10.1,
+                        0.0
+                    ],
+                    [
+                        -51.5,
+                        10.7,
+                        0.0
+                    ],
+                    [
+                        -54.8,
+                        11.3,
+                        0.0
+                    ],
+                    [
+                        -58.2,
+                        12.0,
+                        0.0
+                    ],
+                    [
+                        -61.9,
+                        13.0,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "9.1N, 41.9W",
+                "advisoryNum": "1",
+                "atcfid": "AL022024",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression Two (AL022024)</b></font></td></tr> \n                        <tr><td>Advisory #1 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "40",
+                "maxGustMPH": "45",
+                "maxWindKnots": "30",
+                "maxWindMPH": "35",
+                "minimumPressure": "1007",
+                "pubAdvTime": "500 PM AST Fri Jun 28 2024",
+                "storm": "Tropical Depression Two",
+                "stormMovement": "W",
+                "stormName": "Two",
+                "stormNum": "02",
+                "stormType": "TD",
+                "styleUrl": "#72_line",
+                "timezone": "AST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -41.9,
+                        9.1,
+                        0.0
+                    ],
+                    [
+                        -44.5,
+                        9.4,
+                        0.0
+                    ],
+                    [
+                        -48.0,
+                        10.1,
+                        0.0
+                    ],
+                    [
+                        -51.5,
+                        10.7,
+                        0.0
+                    ],
+                    [
+                        -54.8,
+                        11.3,
+                        0.0
+                    ],
+                    [
+                        -58.2,
+                        12.0,
+                        0.0
+                    ],
+                    [
+                        -61.9,
+                        13.0,
+                        0.0
+                    ],
+                    [
+                        -69.2,
+                        15.5,
+                        0.0
+                    ],
+                    [
+                        -76.4,
+                        17.5,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "1",
+                "atcfid": "AL022024",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression Two (AL022024)</b></font></td></tr> \n                        <tr><td>Advisory #1 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Tropical Depression Two",
+                "stormName": "Two",
+                "stormNum": "02",
+                "stormType": "TD",
+                "styleUrl": "#120_line",
+                "timezone": "AST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -41.9,
+                    9.1,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression Two (AL022024)</b></font></td></tr> \n                        <tr><td>Advisory #1</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  5:00 PM AST June 28, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 9.1 N, -41.9 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 30 knots (35 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 40 knots (45 mph) </td></tr> \n                        <tr><td nowrap>Motion: W </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 1007 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -44.5,
+                    9.4,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression Two (AL022024)</b></font></td></tr> \n                        <tr><td>Advisory #1</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>12 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 AM AST June 29, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 9.4 N, -44.5 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 35 knots (40 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 45 knots (50 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -48.0,
+                    10.1,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression Two (AL022024)</b></font></td></tr> \n                        <tr><td>Advisory #1</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>24 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 PM AST June 29, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 10.1 N, -48.0 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 40 knots (45 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 50 knots (60 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -51.5,
+                    10.7,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression Two (AL022024)</b></font></td></tr> \n                        <tr><td>Advisory #1</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>36 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 AM AST June 30, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 10.7 N, -51.5 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 50 knots (60 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 60 knots (70 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -54.8,
+                    11.3,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression Two (AL022024)</b></font></td></tr> \n                        <tr><td>Advisory #1</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>48 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 PM AST June 30, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 11.3 N, -54.8 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 65 knots (75 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 80 knots (90 mph) </td></tr>",
+                "styleUrl": "#h_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -58.2,
+                    12.0,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression Two (AL022024)</b></font></td></tr> \n                        <tr><td>Advisory #1</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>60 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 AM AST July 01, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 12.0 N, -58.2 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 75 knots (85 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 90 knots (105 mph) </td></tr>",
+                "styleUrl": "#h_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -61.9,
+                    13.0,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression Two (AL022024)</b></font></td></tr> \n                        <tr><td>Advisory #1</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>72 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 PM AST July 01, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 13.0 N, -61.9 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 85 knots (100 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 105 knots (120 mph) </td></tr>",
+                "styleUrl": "#h_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -69.2,
+                    15.5,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression Two (AL022024)</b></font></td></tr> \n                        <tr><td>Advisory #1</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>96 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 PM AST July 02, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 15.5 N, -69.2 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 90 knots (105 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 110 knots (125 mph) </td></tr>",
+                "styleUrl": "#h_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.4,
+                    17.5,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression Two (AL022024)</b></font></td></tr> \n                        <tr><td>Advisory #1</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>120 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 PM AST July 03, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 17.5 N, -76.4 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 80 knots (90 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 100 knots (115 mph) </td></tr>",
+                "styleUrl": "#h_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
