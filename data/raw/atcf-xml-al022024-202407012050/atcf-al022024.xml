@@ -1,0 +1,201 @@
+<?xml version="1.0"?>
+<cycloneMessage>
+<!-- System Advisory Meta Information -->
+<atcfID>AL022024</atcfID>
+<issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
+<messageType>ROUTINE ADVISORY</messageType>
+<messageBinNumber>2</messageBinNumber>
+<advisoryNumber>13</advisoryNumber>
+<!-- System Date/Time Information -->
+<messageDateTimeLocal>20240701 05:00:00 PM AST</messageDateTimeLocal>
+<messageDateTimeUTC>20240701 09:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>202407012100</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0500 PM AST Mon Jul 01</messageDateTimeLocalStr>
+<timeEpochSeconds>1719867600</timeEpochSeconds>
+<!-- System state defined -->
+<systemType>HURRICANE</systemType>
+<systemName>BERYL</systemName>
+<!-- Center Location of the System -->
+<!-- Lattitude: North is positive; South is negative -->
+<!-- Longitude: East is positive; West is negative -->
+<!-- units: decimal degrees (tenths) -->
+<centerLocLatitude>13.2</centerLocLatitude>
+<centerLocLongitude>-63.2</centerLocLongitude>
+<!-- Lattitude: North is N; South is S -->
+<!-- Longitude: East is E; West is W -->
+<!-- units: decimal degrees (tenths) -->
+<centerLocLatitudeExpanded>13.2N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>63.2W</centerLocLongitudeExpanded>
+<!-- Maximum Intensity of the System -->
+<!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
+<systemIntensityMph>150</systemIntensityMph>
+<systemIntensityKph>240</systemIntensityKph>
+<systemIntensityKts>130</systemIntensityKts>
+<systemMslpMb>944</systemMslpMb>
+<systemMslpInHg>27.88</systemMslpInHg>
+<systemSaffirSimpsonCategory>CATEGORY 4</systemSaffirSimpsonCategory>
+<formationChancePct48h>N/A</formationChancePct48h>
+<formationChancePct7d>N/A</formationChancePct7d>
+<!-- Current System Movement -->
+<!-- units: Degrees, MPH and KPH -->
+<systemDirectionOfMotion>WNW OR 290 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>21</systemSpeedMph>
+<systemSpeedKph>33</systemSpeedKph>
+<systemSpeedKts>18</systemSpeedKts>
+<!-- Current System Location from known Reference Point -->
+<systemGeoRefPt1>ABOUT 125 MI...205 KM NW OF GRENADA</systemGeoRefPt1>
+<!-- Relevant Message -->
+<message>
+ZCZC MIATCPAT2 ALL
+TTAA00 KNHC DDHHMM
+ 
+BULLETIN
+Hurricane Beryl Advisory Number  13
+NWS National Hurricane Center Miami FL       AL022024
+500 PM AST Mon Jul 01 2024
+ 
+...MAJOR HURRICANE BERYL MOVING OVER THE SOUTHEASTERN CARIBBEAN...
+...TROPICAL STORM CONDITIONS, DANGEROUS WAVES, AND HEAVY RAINFALL
+PERSIST OVER THE SOUTHERN WINDWARD ISLANDS...
+ 
+ 
+SUMMARY OF 500 PM AST...2100 UTC...INFORMATION
+----------------------------------------------
+LOCATION...13.2N 63.2W
+ABOUT 125 MI...205 KM NW OF GRENADA
+MAXIMUM SUSTAINED WINDS...150 MPH...240 KM/H
+PRESENT MOVEMENT...WNW OR 290 DEGREES AT 21 MPH...33 KM/H
+MINIMUM CENTRAL PRESSURE...944 MB...27.88 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+ 
+The government of St. Vincent and the Grenadines has changed the
+Hurricane Warning to a Tropical Storm Warning for those islands.
+ 
+The government of the Dominican Republic has changed the Tropical
+Storm Watch to a Tropical Storm Warning for the south coast from
+Punta Palenque westward to the border of Haiti.
+ 
+The Tropical Storm Watch for the south coast of Haiti has been
+changed to a Tropical Storm Warning.
+ 
+The government of Trinidad and Tobago has changed the Hurricane
+Warning to a Tropical Storm Warning for the island.
+ 
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+ 
+A Hurricane Watch is in effect for...
+* Jamaica
+ 
+A Tropical Storm Warning is in effect for...
+* Grenada
+* St. Vincent and the Grenadine Islands
+* St. Lucia
+* Martinique
+* South coast of Dominican Republic from Punta Palenque westward
+to the border with Haiti
+* South coast of Haiti from the border with the Dominican
+Republic to Anse d'Hainault
+ 
+A Hurricane Watch means that hurricane conditions are possible
+within the watch area. A watch is typically issued 48 hours
+before the anticipated first occurrence of tropical-storm-force
+winds, conditions that make outside preparations difficult or
+dangerous.
+ 
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area within 36 hours.
+ 
+Interests elsewhere in the Lesser Antilles, the Cayman Islands, and
+the remainder of the northwestern Caribbean should closely monitor
+the progress of Beryl. Additional watches or warnings may be
+required tonight or on Tuesday.
+ 
+For storm information specific to your area, please monitor
+products issued by your national meteorological service.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 500 PM AST (2100 UTC), the center of Hurricane Beryl was located
+near latitude 13.2 North, longitude 63.2 West. Beryl is moving
+toward the west-northwest near 21 mph (33 km/h). The center of Beryl
+will continue moving away from the southern Windward Islands 
+tonight and move quickly westward to west-northwestward during the 
+next few days. On the forecast track, the center of Beryl will move 
+across the southeastern and central Caribbean Sea tonight through 
+Tuesday and is forecast to pass near Jamaica on Wednesday.
+ 
+Maximum sustained winds are near 150 mph (240 km/h) with higher
+gusts. Beryl is a category 4 hurricane on the Saffir-Simpson
+Hurricane Wind Scale. Fluctuations in strength are likely during the
+next day or so, but Beryl is expected to remain an extremely
+dangerous major hurricane as its moves over the eastern Caribbean.
+Some weakening is expected in the central Caribbean by midweek,
+though Beryl is forecast to remain a hurricane.
+ 
+Hurricane-force winds extend outward up to 40 miles (65 km) from the 
+center and tropical-storm-force winds extend outward up to 125 miles 
+(205 km). The Hewanorra International Airport on St. Lucia recently 
+reported sustained winds of 47 mph (76 km/h) and a gust of 64 mph 
+(104 km/h). 
+ 
+The estimated minimum central pressure is 944 mb (27.88 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Key messages for Beryl can be found in the Tropical Cyclone
+Discussion under AWIPS header MIATCDAT2 and WMO header WTNT42 KNHC.
+ 
+WIND:  Hurricane conditions are possible on Jamaica by Wednesday.
+ 
+Tropical storm conditions will continue in the southern Windward 
+Islands over the next few hours. Tropical storm conditions are 
+expected in the warning area along the south coast of Hispaniola by 
+late Tuesday.
+ 
+STORM SURGE:  Water levels should recede into the evening over the
+southern Windward Islands.
+ 
+Storm surge could raise water levels by as much as 2 to 4 feet above
+normal tide levels in areas of onshore winds along the immediate
+coast of Jamaica.
+ 
+Storm surge could raise water levels by as much as 1 to 3 feet above
+ground level in areas of onshore winds along the southern coast of
+Hispaniola.
+ 
+RAINFALL:  Hurricane Beryl is expected to produce rainfall totals of
+3 to 6 inches across the Windward Islands through this evening.
+Localized maxima of 10 inches are possible, especially in the
+Grenadines and Grenada. This rainfall may cause flash flooding in
+vulnerable areas.
+ 
+For a complete depiction of forecast rainfall and flash flooding
+associated with Hurricane Beryl, please see the National Weather
+Service Storm Total Rainfall Graphic, available at
+hurricanes.gov/graphics_at2.shtml?rainqpf
+ 
+SURF:  Large swells generated by Beryl will continue across the
+Windward and southern Leeward Islands during the next couple of
+days. Swells are also expected to reach the southern coasts of
+Puerto Rico and Hispaniola late tonight into Tuesday. These swells
+are expected to cause life-threatening surf and rip current
+conditions. Please consult products from your local weather office.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next intermediate advisory at 800 PM AST.
+Next complete advisory at 1100 PM AST.
+ 
+$$
+Forecaster Reinhart
+ 
+NNNN
+</message>
+</cycloneMessage>
