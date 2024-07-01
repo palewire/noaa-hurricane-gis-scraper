@@ -1,0 +1,57 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -97.32,
+                        21.56,
+                        0.0
+                    ],
+                    [
+                        -97.31,
+                        20.97,
+                        0.0
+                    ],
+                    [
+                        -97.01,
+                        20.48,
+                        0.0
+                    ],
+                    [
+                        -96.76,
+                        20.21,
+                        0.0
+                    ],
+                    [
+                        -96.41,
+                        19.72,
+                        0.0
+                    ],
+                    [
+                        -96.12,
+                        19.2,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryDate": "400 AM CDT Mon Jul 01 2024",
+                "advisoryNum": "3",
+                "atcfid": "AL032024",
+                "basin": "AL",
+                "fcstpd": "120",
+                "name": "Tropical Storm Warning",
+                "storm": "Tropical Storm Chris",
+                "stormName": "Chris",
+                "stormNum": "3",
+                "stormType": "TS",
+                "styleUrl": "#TWR",
+                "timezone": "CDT"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
