@@ -1,0 +1,77 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.7,
+                    20.0
+                ],
+                "type": "Point"
+            },
+            "id": "0",
+            "properties": {
+                "ADVDATE": "100 AM CDT Mon Jul 01 2024",
+                "ADVISNUM": "2A",
+                "BASIN": "AL",
+                "DATELBL": "1:00 AM Mon",
+                "DVLBL": "S",
+                "FCSTPRD": 120.0,
+                "FLDATELBL": "2024-06-30 10:00 PM Sun CDT",
+                "GUST": 45.0,
+                "LAT": 20.0,
+                "LON": -96.7,
+                "MAXWIND": 35.0,
+                "MSLP": 1005.0,
+                "SSNUM": 0.0,
+                "STORMNAME": "Tropical Storm Chris",
+                "STORMNUM": 3.0,
+                "STORMSRC": "Tropical Cyclone",
+                "STORMTYPE": "TS",
+                "TAU": 0.0,
+                "TCDIR": 280.0,
+                "TCDVLP": "Tropical Storm",
+                "TCSPD": 11.0,
+                "TIMEZONE": "CDT",
+                "VALIDTIME": "01/0300"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.9,
+                    20.3
+                ],
+                "type": "Point"
+            },
+            "id": "1",
+            "properties": {
+                "ADVDATE": "100 AM CDT Mon Jul 01 2024",
+                "ADVISNUM": "2A",
+                "BASIN": "AL",
+                "DATELBL": "7:00 AM Mon",
+                "DVLBL": "D",
+                "FCSTPRD": 120.0,
+                "FLDATELBL": "2024-07-01 7:00 AM Mon CDT",
+                "GUST": 40.0,
+                "LAT": 20.3,
+                "LON": -97.9,
+                "MAXWIND": 30.0,
+                "MSLP": 9999.0,
+                "SSNUM": 0.0,
+                "STORMNAME": "Tropical Storm Chris",
+                "STORMNUM": 3.0,
+                "STORMSRC": "Tropical Cyclone",
+                "STORMTYPE": "TD",
+                "TAU": 12.0,
+                "TCDIR": 9999.0,
+                "TCDVLP": "Tropical Depression",
+                "TCSPD": 9999.0,
+                "TIMEZONE": "CDT",
+                "VALIDTIME": "01/1200"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
