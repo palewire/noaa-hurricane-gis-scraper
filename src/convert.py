@@ -5,6 +5,7 @@ import shutil
 from pathlib import Path
 
 import click
+from shapely.errors import GEOSException
 
 from . import utils
 
@@ -47,7 +48,11 @@ def convert() -> None:
                 geojson_path = this_processed_dir / f"{f.stem}.geojson"
 
                 # Read it in with geopandas
-                geojson = utils.convert_shp(f)
+                try:
+                    geojson = utils.convert_shp(f)
+                except GEOSException:
+                    print(f"Error converting {f}")
+                    continue
 
                 # Write it out
                 utils.write_json(geojson, geojson_path)
