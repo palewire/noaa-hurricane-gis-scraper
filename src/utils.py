@@ -73,11 +73,12 @@ def write_json(
         json.dump(data, f, indent=4, sort_keys=True)
 
 
-def convert_shp(shp_path: Path) -> dict:
+def convert_shp(shp_path: Path, verbose: bool = True) -> dict:
     """Convert the submitted shapefile to geojson.
 
     Args:
         shp_path: The path to the shapefile (Path)
+        verbose: Whether to print the path being saved (bool)
 
     Returns:
         The geojson (Any)
@@ -89,12 +90,16 @@ def convert_shp(shp_path: Path) -> dict:
         >>> geojson = utils.convert_shp(shp_path)
     """
     # Read in the file with geopandas
+    if verbose:
+        print(f"Reading {shp_path}")
     gdf = gpd.read_file(str(shp_path))
 
     # Ignore any UserWarnings
     with warnings.catch_warnings():
         warnings.simplefilter("ignore")
         # Convert the geopandas dataframe to geojson
+        if verbose:
+            print(f"Converting {shp_path} to GeoJSON")
         json_data = gdf.to_json(indent=4)
 
     # Return it as a python object
