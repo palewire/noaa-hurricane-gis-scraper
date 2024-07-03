@@ -1,0 +1,228 @@
+<?xml version="1.0"?>
+<cycloneMessage>
+<!-- System Advisory Meta Information -->
+<atcfID>AL022024</atcfID>
+<issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
+<messageType>ROUTINE ADVISORY</messageType>
+<messageBinNumber>2</messageBinNumber>
+<advisoryNumber>19</advisoryNumber>
+<!-- System Date/Time Information -->
+<messageDateTimeLocal>20240703 05:00:00 AM EDT</messageDateTimeLocal>
+<messageDateTimeUTC>20240703 09:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>202407030900</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0500 AM EDT Wed Jul 03</messageDateTimeLocalStr>
+<timeEpochSeconds>1719997200</timeEpochSeconds>
+<!-- System state defined -->
+<systemType>HURRICANE</systemType>
+<systemName>BERYL</systemName>
+<!-- Center Location of the System -->
+<!-- Lattitude: North is positive; South is negative -->
+<!-- Longitude: East is positive; West is negative -->
+<!-- units: decimal degrees (tenths) -->
+<centerLocLatitude>16.6</centerLocLatitude>
+<centerLocLongitude>-74.4</centerLocLongitude>
+<!-- Lattitude: North is N; South is S -->
+<!-- Longitude: East is E; West is W -->
+<!-- units: decimal degrees (tenths) -->
+<centerLocLatitudeExpanded>16.6N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>74.4W</centerLocLongitudeExpanded>
+<!-- Maximum Intensity of the System -->
+<!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
+<systemIntensityMph>145</systemIntensityMph>
+<systemIntensityKph>230</systemIntensityKph>
+<systemIntensityKts>125</systemIntensityKts>
+<systemMslpMb>946</systemMslpMb>
+<systemMslpInHg>27.94</systemMslpInHg>
+<systemSaffirSimpsonCategory>CATEGORY 4</systemSaffirSimpsonCategory>
+<formationChancePct48h>N/A</formationChancePct48h>
+<formationChancePct7d>N/A</formationChancePct7d>
+<!-- Current System Movement -->
+<!-- units: Degrees, MPH and KPH -->
+<systemDirectionOfMotion>WNW OR 285 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>20</systemSpeedMph>
+<systemSpeedKph>31</systemSpeedKph>
+<systemSpeedKts>17</systemSpeedKts>
+<!-- Current System Location from known Reference Point -->
+<systemGeoRefPt1>ABOUT 185 MI...300 KM ESE OF KINGSTON JAMAICA</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 485 MI...780 KM ESE OF GRAND CAYMAN</systemGeoRefPt2>
+<!-- Relevant Message -->
+<message>
+ZCZC MIATCPAT2 ALL
+TTAA00 KNHC DDHHMM
+ 
+BULLETIN
+Hurricane Beryl Advisory Number  19
+NWS National Hurricane Center Miami FL       AL022024
+500 AM EDT Wed Jul 03 2024
+ 
+...CORE OF DANGEROUS HURRICANE BERYL EXPECTED TO IMPACT JAMAICA 
+MIDDAY BRINGING LIFE-THREATENING WINDS AND STORM SURGE...
+...EXPECTED TO APPROACH THE CAYMAN ISLANDS TONIGHT INTO THURSDAY...
+ 
+ 
+SUMMARY OF 500 AM EDT...0900 UTC...INFORMATION
+----------------------------------------------
+LOCATION...16.6N 74.4W
+ABOUT 185 MI...300 KM ESE OF KINGSTON JAMAICA
+ABOUT 485 MI...780 KM ESE OF GRAND CAYMAN
+MAXIMUM SUSTAINED WINDS...145 MPH...230 KM/H
+PRESENT MOVEMENT...WNW OR 285 DEGREES AT 20 MPH...31 KM/H
+MINIMUM CENTRAL PRESSURE...946 MB...27.94 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+ 
+None.
+ 
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+ 
+A Hurricane Warning is in effect for...
+* Jamaica
+* Grand Cayman
+* Little Cayman and Cayman Brac
+ 
+A Hurricane Watch is in effect for...
+* South coast of Haiti from the border with the Dominican
+Republic to Anse d'Hainault
+* East coast of the Yucatan Peninsula from Chetumal to Cabo Catoche
+ 
+A Tropical Storm Warning is in effect for...
+* South coast of Dominican Republic from Punta Palenque westward
+to the border with Haiti
+* South coast of Haiti from the border with the Dominican
+Republic to Anse d'Hainault
+ 
+A Tropical Storm Watch is in effect for...
+* Coast of Belize from south of Chetumal to Belize City
+ 
+A Hurricane Warning means that hurricane conditions are expected
+somewhere within the warning area.  Preparations to protect life
+and property should be rushed to completion.
+ 
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area within 36 hours.
+ 
+A Hurricane Watch means that hurricane conditions are possible
+within the watch area, generally within 48 hours.
+ 
+A Tropical Storm Watch means that tropical storm conditions are
+possible within the watch area, generally within 48 hours.
+ 
+Interests elsewhere in the northwestern Caribbean Sea and the
+western Gulf of Mexico should closely monitor the progress of Beryl.
+ 
+For storm information specific to your area, please monitor
+products issued by your national meteorological service.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 500 AM EDT (0900 UTC), the eye of Hurricane Beryl was located
+near latitude 16.6 North, longitude 74.4 West. Beryl is moving
+toward the west-northwest near 20 mph (31 km/h), and this general
+motion should continue through today, followed by a turn more toward
+the west tonight or Thursday.  On the forecast track, the center of
+Beryl will move rapidly across the central Caribbean Sea and is
+forecast to pass near or over Jamaica later today.  The center is
+expected to pass near or over the Cayman Islands tonight or early
+Thursday and move over the Yucatan Peninsula of Mexico early Friday.
+ 
+Maximum sustained winds are near 145 mph (230 km/h) with higher 
+gusts.  Beryl is a category 4 hurricane on the Saffir-Simpson 
+Hurricane Wind Scale.  Some weakening is forecast during the next 
+day or two.  However, Beryl is forecast to be at or near major 
+hurricane intensity while it passes near Jamaica later today and 
+the Cayman Islands tonight or early Thursday. Additional weakening 
+is expected thereafter, though Beryl is forecast to remain a 
+hurricane in the northwestern Caribbean.
+ 
+Hurricane-force winds extend outward up to 45 miles (75 km) from the
+center and tropical-storm-force winds extend outward up to 185 miles
+(295 km).
+ 
+The estimated minimum central pressure is 946 mb (27.94 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Key messages for Beryl can be found in the Tropical Cyclone
+Discussion under AWIPS header MIATCDAT2 and WMO header WTNT42 KNHC.
+ 
+WIND:  Hurricane conditions are expected to reach the coast of
+Jamaica within the warning area around midday.  Winds are expected
+to first reach tropical storm strength later this morning, making
+outside preparations difficult or dangerous.
+ 
+Hurricane conditions are expected to reach the Cayman Islands
+tonight or early Thursday.  Winds are expected to first reach
+tropical storm strength late this afternoon, making outside
+preparations difficult or dangerous.
+ 
+Hurricane conditions are possible along portions of the east coast
+of the Yucatan Peninsula as early as late Thursday.
+ 
+Tropical storm conditions are expected in the warning area along the
+south coast of Hispaniola today.
+ 
+Tropical storm conditions are possible along portions of the coast
+of Belize by late Thursday or early Friday.
+ 
+STORM SURGE:  Storm surge could raise water levels by as much as 6
+to 9 feet above normal tide levels in areas of onshore winds along
+the immediate coast of Jamaica.
+ 
+Storm surge could raise water levels by as much as 2 to 4 feet above
+normal tide levels in areas of onshore winds along the immediate
+coast of the Cayman Islands.
+ 
+Storm surge could raise water levels by as much as 1 to 3 feet above
+ground level in areas of onshore winds along the southern coast of
+Hispaniola.
+ 
+Storm surge could raise water levels by as much as 3 to 5 feet
+above ground level in areas of onshore winds along the east coast of
+the Yucatan Peninsula within the hurricane watch area.
+ 
+Near the coast, the surge will be accompanied by large and
+destructive waves.
+ 
+RAINFALL:  Beryl is expected to produce rainfall totals of 4 to 8 
+inches, with localized amounts of 12 inches, across Jamaica through 
+this evening along with additional rainfall of 4 to 6 inches over 
+the Tiburon Peninsula of Haiti. This heavy rainfall is expected to 
+cause life-threatening flash flooding and mudslides. 
+ 
+Beryl is expected to produce rainfall totals of 2 to 4 inches with 
+localized maxima of 6 inches over the Cayman Islands tonight into 
+Thursday. Over the Yucatan Peninsula into northern Belize, Beryl is 
+expected to produce rainfall totals of 2 to 6 inches with localized 
+amounts of 8 inches, along with at least localized flash flooding, 
+late Thursday through Friday.
+
+For a complete depiction of forecast rainfall and flash flooding 
+associated with Hurricane Beryl, please see the National Weather 
+Service Storm Total Rainfall Graphic, available at 
+hurricanes.gov/graphics_at2.shtml?rainqpf
+
+SURF:  Large swells generated by Beryl are impacting the southern
+coasts of Puerto Rico, Hispaniola, and Jamaica and are expected to
+impact the Cayman Islands later today through midweek.  Swell will
+continue to affect the Windward and Leeward Islands during the next
+day or so.  These swells are expected to cause life-threatening surf
+and rip current conditions. Please consult products from your local
+weather office.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next intermediate advisory at 800 AM EDT.
+Next complete advisory at 1100 AM EDT.
+ 
+$$
+Forecaster Bucci/Blake
+ 
+NNNN
+</message>
+</cycloneMessage>
