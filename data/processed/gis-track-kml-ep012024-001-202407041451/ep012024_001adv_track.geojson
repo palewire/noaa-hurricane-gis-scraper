@@ -1,0 +1,180 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -105.9,
+                        17.0,
+                        0.0
+                    ],
+                    [
+                        -107.0,
+                        17.7,
+                        0.0
+                    ],
+                    [
+                        -108.6,
+                        17.8,
+                        0.0
+                    ],
+                    [
+                        -109.9,
+                        17.5,
+                        0.0
+                    ],
+                    [
+                        -111.5,
+                        17.0,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "17.0N, 105.9W",
+                "advisoryNum": "1",
+                "atcfid": "EP012024",
+                "basin": "ep",
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression One-E (EP012024)</b></font></td></tr> \n                        <tr><td>Advisory #1 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "40",
+                "maxGustMPH": "45",
+                "maxWindKnots": "30",
+                "maxWindMPH": "35",
+                "minimumPressure": "1007",
+                "pubAdvTime": "900 AM CST Thu Jul 04 2024",
+                "storm": "Tropical Depression One-E",
+                "stormMovement": "NW",
+                "stormName": "One-E",
+                "stormNum": "01",
+                "stormType": "TD",
+                "styleUrl": "#72_line",
+                "timezone": "CST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -105.9,
+                        17.0,
+                        0.0
+                    ],
+                    [
+                        -107.0,
+                        17.7,
+                        0.0
+                    ],
+                    [
+                        -108.6,
+                        17.8,
+                        0.0
+                    ],
+                    [
+                        -109.9,
+                        17.5,
+                        0.0
+                    ],
+                    [
+                        -111.5,
+                        17.0,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "1",
+                "atcfid": "EP012024",
+                "basin": "ep",
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression One-E (EP012024)</b></font></td></tr> \n                        <tr><td>Advisory #1 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Tropical Depression One-E",
+                "stormName": "One-E",
+                "stormNum": "01",
+                "stormType": "TD",
+                "styleUrl": "#120_line",
+                "timezone": "CST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.9,
+                    17.0,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression One-E (EP012024)</b></font></td></tr> \n                        <tr><td>Advisory #1</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  9:00 AM CST July 04, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 17.0 N, -105.9 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 30 knots (35 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 40 knots (45 mph) </td></tr> \n                        <tr><td nowrap>Motion: NW </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 1007 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -107.0,
+                    17.7,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression One-E (EP012024)</b></font></td></tr> \n                        <tr><td>Advisory #1</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>12 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  6:00 PM CST July 04, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 17.7 N, -107.0 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 30 knots (35 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 40 knots (45 mph) </td></tr>",
+                "styleUrl": "#d_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -108.6,
+                    17.8,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression One-E (EP012024)</b></font></td></tr> \n                        <tr><td>Advisory #1</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>24 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  6:00 AM CST July 05, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 17.8 N, -108.6 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 25 knots (30 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 35 knots (40 mph) </td></tr>",
+                "styleUrl": "#d_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -109.9,
+                    17.5,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression One-E (EP012024)</b></font></td></tr> \n                        <tr><td>Advisory #1</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>36 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  6:00 PM CST July 05, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 17.5 N, -109.9 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 25 knots (30 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 35 knots (40 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -111.5,
+                    17.0,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression One-E (EP012024)</b></font></td></tr> \n                        <tr><td>Advisory #1</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>48 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  6:00 AM CST July 06, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 17.0 N, -111.5 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 20 knots (25 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 30 knots (35 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
