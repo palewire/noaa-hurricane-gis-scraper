@@ -1,0 +1,270 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -85.5,
+                        19.6,
+                        0.0
+                    ],
+                    [
+                        -87.5,
+                        20.0,
+                        0.0
+                    ],
+                    [
+                        -89.9,
+                        20.9,
+                        0.0
+                    ],
+                    [
+                        -92.1,
+                        21.9,
+                        0.0
+                    ],
+                    [
+                        -94.0,
+                        22.9,
+                        0.0
+                    ],
+                    [
+                        -95.5,
+                        23.8,
+                        0.0
+                    ],
+                    [
+                        -96.6,
+                        24.7,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "19.6N, 85.5W",
+                "advisoryNum": "26",
+                "atcfid": "AL022024",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Beryl (AL022024)</b></font></td></tr> \n                        <tr><td>Advisory #26 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "120",
+                "maxGustMPH": "140",
+                "maxWindKnots": "100",
+                "maxWindMPH": "115",
+                "minimumPressure": "964",
+                "pubAdvTime": "1000 PM CDT Thu Jul 04 2024",
+                "storm": "Hurricane Beryl",
+                "stormMovement": "W",
+                "stormName": "Beryl",
+                "stormNum": "02",
+                "stormType": "MH",
+                "styleUrl": "#72_line",
+                "timezone": "CDT"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -85.5,
+                        19.6,
+                        0.0
+                    ],
+                    [
+                        -87.5,
+                        20.0,
+                        0.0
+                    ],
+                    [
+                        -89.9,
+                        20.9,
+                        0.0
+                    ],
+                    [
+                        -92.1,
+                        21.9,
+                        0.0
+                    ],
+                    [
+                        -94.0,
+                        22.9,
+                        0.0
+                    ],
+                    [
+                        -95.5,
+                        23.8,
+                        0.0
+                    ],
+                    [
+                        -96.6,
+                        24.7,
+                        0.0
+                    ],
+                    [
+                        -98.6,
+                        26.8,
+                        0.0
+                    ],
+                    [
+                        -99.1,
+                        28.9,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "26",
+                "atcfid": "AL022024",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Beryl (AL022024)</b></font></td></tr> \n                        <tr><td>Advisory #26 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Hurricane Beryl",
+                "stormName": "Beryl",
+                "stormNum": "02",
+                "stormType": "MH",
+                "styleUrl": "#120_line",
+                "timezone": "CDT"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.5,
+                    19.6,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Beryl (AL022024)</b></font></td></tr> \n                        <tr><td>Advisory #26</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at: 10:00 PM CDT July 04, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 19.6 N, -85.5 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 100 knots (115 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 120 knots (140 mph) </td></tr> \n                        <tr><td nowrap>Motion: W </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 964 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.5,
+                    20.0,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Beryl (AL022024)</b></font></td></tr> \n                        <tr><td>Advisory #26</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>12 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  7:00 AM CDT July 05, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 20.0 N, -87.5 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 95 knots (110 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 115 knots (130 mph) </td></tr>",
+                "styleUrl": "#h_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.9,
+                    20.9,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Beryl (AL022024)</b></font></td></tr> \n                        <tr><td>Advisory #26</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>24 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  7:00 PM CDT July 05, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 20.9 N, -89.9 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 55 knots (65 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 65 knots (75 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.1,
+                    21.9,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Beryl (AL022024)</b></font></td></tr> \n                        <tr><td>Advisory #26</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>36 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  7:00 AM CDT July 06, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 21.9 N, -92.1 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 55 knots (65 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 65 knots (75 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.0,
+                    22.9,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Beryl (AL022024)</b></font></td></tr> \n                        <tr><td>Advisory #26</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>48 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  7:00 PM CDT July 06, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 22.9 N, -94.0 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 60 knots (70 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 75 knots (85 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -95.5,
+                    23.8,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Beryl (AL022024)</b></font></td></tr> \n                        <tr><td>Advisory #26</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>60 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  7:00 AM CDT July 07, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 23.8 N, -95.5 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 65 knots (75 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 80 knots (90 mph) </td></tr>",
+                "styleUrl": "#h_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.6,
+                    24.7,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Beryl (AL022024)</b></font></td></tr> \n                        <tr><td>Advisory #26</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>72 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  7:00 PM CDT July 07, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 24.7 N, -96.6 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 70 knots (80 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 85 knots (100 mph) </td></tr>",
+                "styleUrl": "#h_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.6,
+                    26.8,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Beryl (AL022024)</b></font></td></tr> \n                        <tr><td>Advisory #26</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>96 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  7:00 PM CDT July 08, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 26.8 N, -98.6 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 45 knots (50 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 55 knots (65 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -99.1,
+                    28.9,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Beryl (AL022024)</b></font></td></tr> \n                        <tr><td>Advisory #26</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>120 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  7:00 PM CDT July 09, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 28.9 N, -99.1 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 25 knots (30 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 35 knots (40 mph) </td></tr>",
+                "styleUrl": "#d_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
