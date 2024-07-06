@@ -1,0 +1,99 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -97.15,
+                        25.96
+                    ],
+                    [
+                        -97.23,
+                        26.41
+                    ],
+                    [
+                        -97.29,
+                        26.6
+                    ],
+                    [
+                        -97.37,
+                        27.29
+                    ],
+                    [
+                        -97.29,
+                        27.47
+                    ],
+                    [
+                        -97.07,
+                        27.83
+                    ],
+                    [
+                        -96.85,
+                        28.06
+                    ],
+                    [
+                        -96.41,
+                        28.39
+                    ],
+                    [
+                        -95.93,
+                        28.63
+                    ],
+                    [
+                        -95.6,
+                        28.77
+                    ],
+                    [
+                        -95.33,
+                        28.93
+                    ],
+                    [
+                        -95.13,
+                        29.07
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "0",
+            "properties": {
+                "ADVDATE": "700 AM CDT Sat Jul 06 2024",
+                "ADVISNUM": "31A",
+                "BASIN": "AL",
+                "FCSTPRD": 120.0,
+                "STORMNAME": "Beryl",
+                "STORMNUM": 2.0,
+                "STORMTYPE": "TS",
+                "TCWW": "HWA"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -97.15,
+                        25.96
+                    ],
+                    [
+                        -97.43,
+                        25.23
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "1",
+            "properties": {
+                "ADVDATE": "700 AM CDT Sat Jul 06 2024",
+                "ADVISNUM": "31A",
+                "BASIN": "AL",
+                "FCSTPRD": 120.0,
+                "STORMNAME": "Beryl",
+                "STORMNUM": 2.0,
+                "STORMTYPE": "TS",
+                "TCWW": "HWA"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
