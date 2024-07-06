@@ -1,0 +1,105 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -111.6,
+                        18.4,
+                        0.0
+                    ],
+                    [
+                        -112.8,
+                        18.3,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "18.4N, 111.6W",
+                "advisoryNum": "7",
+                "atcfid": "EP012024",
+                "basin": "ep",
+                "description": "<table> \n                        <tr><td><font color=black><b>Post-Tropical Cyclone Aletta (EP012024)</b></font></td></tr> \n                        <tr><td>Advisory #7 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "30",
+                "maxGustMPH": "35",
+                "maxWindKnots": "20",
+                "maxWindMPH": "25",
+                "minimumPressure": "1007",
+                "pubAdvTime": "800 PM MST Fri Jul 05 2024",
+                "storm": "Post-Tropical Cyclone Aletta",
+                "stormMovement": "W",
+                "stormName": "Aletta",
+                "stormNum": "01",
+                "stormType": "PTC",
+                "styleUrl": "#72_line",
+                "timezone": "MST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -111.6,
+                        18.4,
+                        0.0
+                    ],
+                    [
+                        -112.8,
+                        18.3,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "7",
+                "atcfid": "EP012024",
+                "basin": "ep",
+                "description": "<table> \n                        <tr><td><font color=black><b>Post-Tropical Cyclone Aletta (EP012024)</b></font></td></tr> \n                        <tr><td>Advisory #7 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Post-Tropical Cyclone Aletta",
+                "stormName": "Aletta",
+                "stormNum": "01",
+                "stormType": "PTC",
+                "styleUrl": "#120_line",
+                "timezone": "MST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -111.6,
+                    18.4,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Post-Tropical Cyclone Aletta (EP012024)</b></font></td></tr> \n                        <tr><td>Advisory #7</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 PM MST July 05, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 18.4 N, -111.6 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 20 knots (25 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 30 knots (35 mph) </td></tr> \n                        <tr><td nowrap>Motion: W </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 1007 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -112.8,
+                    18.3,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Post-Tropical Cyclone Aletta (EP012024)</b></font></td></tr> \n                        <tr><td>Advisory #7</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>12 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  5:00 AM MST July 06, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 18.3 N, -112.8 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 20 knots (25 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 30 knots (35 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

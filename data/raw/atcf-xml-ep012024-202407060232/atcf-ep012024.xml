@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<cycloneMessage>
+<!-- System Advisory Meta Information -->
+<atcfID>EP012024</atcfID>
+<issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
+<messageType>ROUTINE ADVISORY</messageType>
+<messageBinNumber>1</messageBinNumber>
+<advisoryNumber>7</advisoryNumber>
+<!-- System Date/Time Information -->
+<messageDateTimeLocal>20240705 08:00:00 PM MST</messageDateTimeLocal>
+<messageDateTimeUTC>20240706 03:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>20240706030000</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0800 PM MST Fri Jul 05</messageDateTimeLocalStr>
+<timeEpochSeconds>1720234800</timeEpochSeconds>
+<!-- System state defined -->
+<systemType>POST-TROPICAL CYCLONE</systemType>
+<systemName>ALETTA</systemName>
+<!-- Center Location of the System -->
+<!-- Lattitude: North is positive; South is negative -->
+<!-- Longitude: East is positive; West is negative -->
+<!-- units: decimal degrees (tenths) -->
+<centerLocLatitude>18.4</centerLocLatitude>
+<centerLocLongitude>-111.6</centerLocLongitude>
+<!-- Lattitude: North is N; South is S -->
+<!-- Longitude: East is E; West is W -->
+<!-- units: decimal degrees (tenths) -->
+<centerLocLatitudeExpanded>18.4N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>111.6W</centerLocLongitudeExpanded>
+<!-- Maximum Intensity of the System -->
+<!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
+<systemIntensityMph>25</systemIntensityMph>
+<systemIntensityKph>35</systemIntensityKph>
+<systemIntensityKts>20</systemIntensityKts>
+<systemMslpMb>1007</systemMslpMb>
+<systemMslpInHg>29.74</systemMslpInHg>
+<systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
+<formationChancePct48h>N/A</formationChancePct48h>
+<formationChancePct7d>N/A</formationChancePct7d>
+<!-- Current System Movement -->
+<!-- units: Degrees, MPH and KPH -->
+<systemDirectionOfMotion>W OR 260 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>10</systemSpeedMph>
+<systemSpeedKph>17</systemSpeedKph>
+<systemSpeedKts>9</systemSpeedKts>
+<!-- Current System Location from known Reference Point -->
+<systemGeoRefPt1>ABOUT 330 MI...530 KM SSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA</systemGeoRefPt1>
+<!-- Relevant Message -->
+<message>
+ZCZC MIATCPEP1 ALL
+TTAA00 KNHC DDHHMM
+ 
+BULLETIN
+Post-Tropical Cyclone Aletta Advisory Number   7
+NWS National Hurricane Center Miami FL       EP012024
+800 PM MST Fri Jul 05 2024
+ 
+...ALETTA DEGENERATES TO A REMNANT LOW...
+...THIS IS THE FINAL ADVISORY...
+ 
+ 
+SUMMARY OF 800 PM MST...0300 UTC...INFORMATION
+----------------------------------------------
+LOCATION...18.4N 111.6W
+ABOUT 330 MI...530 KM SSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA
+MAXIMUM SUSTAINED WINDS...25 MPH...35 KM/H
+PRESENT MOVEMENT...W OR 260 DEGREES AT 10 MPH...17 KM/H
+MINIMUM CENTRAL PRESSURE...1007 MB...29.74 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+There are no coastal watches or warnings in effect.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 800 PM MST (0300 UTC), the center of Post-Tropical Cyclone Aletta
+was located near latitude 18.4 North, longitude 111.6 West. The
+post-tropical cyclone is moving toward the west near 10 mph (17
+km/h). This general motion is expected to continue until Aletta 
+dissipates on Saturday.
+ 
+Maximum sustained winds are near 25 mph (35 km/h) with higher gusts.
+Gradual weakening is forecast to continue, and Aletta is expected 
+to dissipate on Saturday.
+ 
+The estimated minimum central pressure is 1007 mb (29.74 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+None.
+ 
+ 
+NEXT ADVISORY
+-------------
+This is the last public advisory issued by the National Hurricane
+Center on this system.
+ 
+$$
+Forecaster Hagen/Cangialosi
+ 
+NNNN
+</message>
+</cycloneMessage>
