@@ -1,0 +1,42 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -94.76,
+                        29.38,
+                        0.0
+                    ],
+                    [
+                        -94.39,
+                        29.54,
+                        0.0
+                    ],
+                    [
+                        -93.84,
+                        29.69,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryDate": "400 PM CDT Mon Jul 08 2024",
+                "advisoryNum": "41",
+                "atcfid": "AL022024",
+                "basin": "AL",
+                "fcstpd": "120",
+                "name": "Tropical Storm Warning",
+                "storm": "Tropical Storm Beryl",
+                "stormName": "Beryl",
+                "stormNum": "2",
+                "stormType": "TS",
+                "styleUrl": "#TWR",
+                "timezone": "CDT"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
