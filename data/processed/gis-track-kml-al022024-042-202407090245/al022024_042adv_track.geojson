@@ -1,0 +1,230 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -94.3,
+                        32.8,
+                        0.0
+                    ],
+                    [
+                        -92.6,
+                        34.9,
+                        0.0
+                    ],
+                    [
+                        -89.3,
+                        38.1,
+                        0.0
+                    ],
+                    [
+                        -85.7,
+                        40.9,
+                        0.0
+                    ],
+                    [
+                        -82.4,
+                        43.0,
+                        0.0
+                    ],
+                    [
+                        -79.0,
+                        44.8,
+                        0.0
+                    ],
+                    [
+                        -75.9,
+                        46.5,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "32.8N, 94.3W",
+                "advisoryNum": "42",
+                "atcfid": "AL022024",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression Beryl (AL022024)</b></font></td></tr> \n                        <tr><td>Advisory #42 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "40",
+                "maxGustMPH": "45",
+                "maxWindKnots": "30",
+                "maxWindMPH": "35",
+                "minimumPressure": "999",
+                "pubAdvTime": "1000 PM CDT Mon Jul 08 2024",
+                "storm": "Tropical Depression Beryl",
+                "stormMovement": "NNE",
+                "stormName": "Beryl",
+                "stormNum": "02",
+                "stormType": "TD",
+                "styleUrl": "#72_line",
+                "timezone": "CDT"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -94.3,
+                        32.8,
+                        0.0
+                    ],
+                    [
+                        -92.6,
+                        34.9,
+                        0.0
+                    ],
+                    [
+                        -89.3,
+                        38.1,
+                        0.0
+                    ],
+                    [
+                        -85.7,
+                        40.9,
+                        0.0
+                    ],
+                    [
+                        -82.4,
+                        43.0,
+                        0.0
+                    ],
+                    [
+                        -79.0,
+                        44.8,
+                        0.0
+                    ],
+                    [
+                        -75.9,
+                        46.5,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "42",
+                "atcfid": "AL022024",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression Beryl (AL022024)</b></font></td></tr> \n                        <tr><td>Advisory #42 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Tropical Depression Beryl",
+                "stormName": "Beryl",
+                "stormNum": "02",
+                "stormType": "TD",
+                "styleUrl": "#120_line",
+                "timezone": "CDT"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.3,
+                    32.8,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression Beryl (AL022024)</b></font></td></tr> \n                        <tr><td>Advisory #42</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at: 10:00 PM CDT July 08, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 32.8 N, -94.3 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 30 knots (35 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 40 knots (45 mph) </td></tr> \n                        <tr><td nowrap>Motion: NNE </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 999 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.6,
+                    34.9,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression Beryl (AL022024)</b></font></td></tr> \n                        <tr><td>Advisory #42</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>12 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  7:00 AM CDT July 09, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 34.9 N, -92.6 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 25 knots (30 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 35 knots (40 mph) </td></tr>",
+                "styleUrl": "#d_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.3,
+                    38.1,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression Beryl (AL022024)</b></font></td></tr> \n                        <tr><td>Advisory #42</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>24 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  7:00 PM CDT July 09, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 38.1 N, -89.3 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 25 knots (30 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 35 knots (40 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.7,
+                    40.9,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression Beryl (AL022024)</b></font></td></tr> \n                        <tr><td>Advisory #42</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>36 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  7:00 AM CDT July 10, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 40.9 N, -85.7 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 25 knots (30 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 35 knots (40 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.4,
+                    43.0,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression Beryl (AL022024)</b></font></td></tr> \n                        <tr><td>Advisory #42</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>48 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  7:00 PM CDT July 10, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 43.0 N, -82.4 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 25 knots (30 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 35 knots (40 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.0,
+                    44.8,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression Beryl (AL022024)</b></font></td></tr> \n                        <tr><td>Advisory #42</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>60 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  7:00 AM CDT July 11, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 44.8 N, -79.0 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 25 knots (30 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 35 knots (40 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.9,
+                    46.5,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression Beryl (AL022024)</b></font></td></tr> \n                        <tr><td>Advisory #42</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>72 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  7:00 PM CDT July 11, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 46.5 N, -75.9 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 20 knots (25 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 30 knots (35 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
