@@ -1,0 +1,139 @@
+<?xml version="1.0"?>
+<cycloneMessage>
+<!-- System Advisory Meta Information -->
+<atcfID>AL022024</atcfID>
+<issuingUnit>NWS WEATHER PREDICTION CENTER COLLEGE PARK MD</issuingUnit>
+<messageType>ROUTINE ADVISORY</messageType>
+<messageBinNumber>2</messageBinNumber>
+<advisoryNumber>46</advisoryNumber>
+<!-- System Date/Time Information -->
+<messageDateTimeLocal>20240709 10:00:00 PM CDT</messageDateTimeLocal>
+<messageDateTimeUTC>20240710 03:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>202407100300</messageDateTimeUTC24>
+<messageDateTimeLocalStr>1000 PM CDT Tue Jul 09</messageDateTimeLocalStr>
+<timeEpochSeconds>1720580400</timeEpochSeconds>
+<!-- System state defined -->
+<systemType>POST-TROPICAL CYCLONE</systemType>
+<systemName>BERYL</systemName>
+<!-- Center Location of the System -->
+<!-- Lattitude: North is positive; South is negative -->
+<!-- Longitude: East is positive; West is negative -->
+<!-- units: decimal degrees (tenths) -->
+<centerLocLatitude>39.6</centerLocLatitude>
+<centerLocLongitude>-86.5</centerLocLongitude>
+<!-- Lattitude: North is N; South is S -->
+<!-- Longitude: East is E; West is W -->
+<!-- units: decimal degrees (tenths) -->
+<centerLocLatitudeExpanded>39.6N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>86.5W</centerLocLongitudeExpanded>
+<!-- Maximum Intensity of the System -->
+<!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
+<systemIntensityMph>30</systemIntensityMph>
+<systemIntensityKph>45</systemIntensityKph>
+<systemIntensityKts>25</systemIntensityKts>
+<systemMslpMb>1004</systemMslpMb>
+<systemMslpInHg>29.65</systemMslpInHg>
+<systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
+<formationChancePct48h>N/A</formationChancePct48h>
+<formationChancePct7d>N/A</formationChancePct7d>
+<!-- Current System Movement -->
+<!-- units: Degrees, MPH and KPH -->
+<systemDirectionOfMotion>NE OR 45 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>20</systemSpeedMph>
+<systemSpeedKph>31</systemSpeedKph>
+<systemSpeedKts>17</systemSpeedKts>
+<!-- Current System Location from known Reference Point -->
+<systemGeoRefPt1>ABOUT 15 MI...20 KM WSW OF INDIANAPOLIS INDIANA</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 195 MI...310 KM W OF COLUMBUS OHIO</systemGeoRefPt2>
+<!-- Relevant Message -->
+<message>
+ZCZC NFDTCPAT2 ALL
+TTAA00 KWNH DDHHMM
+ 
+BULLETIN
+Post-Tropical Cyclone Beryl Advisory Number  46
+NWS Weather Prediction Center College Park MD   AL022024
+1000 PM CDT Tue Jul 09 2024
+ 
+...RISK OF FLASH FLOODING AND A FEW TORNADOES CONTINUES ALONG PATH
+OF POST-TROPICAL CYCLONE BERYL TONIGHT THROUGH WEDNESDAY...
+ 
+ 
+SUMMARY OF 1000 PM CDT...0300 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...39.6N 86.5W
+ABOUT 15 MI...20 KM WSW OF INDIANAPOLIS INDIANA
+ABOUT 195 MI...310 KM W OF COLUMBUS OHIO
+MAXIMUM SUSTAINED WINDS...30 MPH...45 KM/H
+PRESENT MOVEMENT...NE OR 45 DEGREES AT 20 MPH...31 KM/H
+MINIMUM CENTRAL PRESSURE...1004 MB...29.65 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+A Flood Watch is in effect for portions of...
+* Illinois
+* Northern Indiana
+* Southern Michigan
+* Northern New York
+* Vermont
+* New Hampshire
+* Western Maine
+ 
+ 
+ 
+For storm information specific to your area, including possible
+inland watches and warnings, please monitor products issued by your
+local National Weather Service forecast office.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 1000 PM CDT (0300 UTC), the center of Post-Tropical Cyclone Beryl
+was located near latitude 39.6 North, longitude 86.5 West. The
+post-tropical cyclone is moving toward the northeast near 20 mph (31
+km/h) and little change is expected through Wednesday.
+ 
+Maximum sustained winds are near 30 mph (45 km/h) with higher gusts.
+Little change in strength is forecast during the next 48 hours. 
+ 
+The estimated minimum central pressure is 1004 mb (29.65 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Key messages for Beryl can be found in the Tropical Cyclone
+Discussion under AWIPS header MIATCDAT2, WMO header WTNT42 KNHC,
+and on the NHC website at hurricanes.gov/text/MIATCDAT2.shtml.
+ 
+TORNADOES:  A couple of tornadoes remain possible across parts of
+the Ohio Valley this evening and overnight.
+ 
+RAINFALL: Heavy rainfall of 2 to 4 inches, with locally higher
+amounts, is expected across portions of the Mid Mississippi Valley
+into the Great Lakes into Wednesday and from northern New York into
+northern New England Wednesday and Wednesday night.
+ 
+For a complete depiction of forecast rainfall and flash flooding
+associated with Post Tropical Cyclone Beryl, please see the National
+Weather Service Storm Total Rainfall Graphic, available at
+hurricanes.gov/graphics_at2.shtml?rainqpf and the Flash Flood Risk
+graphic at hurricanes.gov/graphics_at2.shtml?ero
+ 
+For a list of rainfall observations (and wind reports) associated
+this storm, see the companion storm summary at WBCSCCNS2 with the
+WMO header ACUS42 KWBC or at the following link:
+www.wpc.ncep.noaa.gov/discussions/nfdscc2.html
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 400 AM CDT.
+ 
+$$
+Forecaster Bann
+ 
+NNNN
+ 
+</message>
+</cycloneMessage>
