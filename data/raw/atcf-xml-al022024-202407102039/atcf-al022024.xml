@@ -1,0 +1,140 @@
+<?xml version="1.0"?>
+<cycloneMessage>
+<!-- System Advisory Meta Information -->
+<atcfID>AL022024</atcfID>
+<issuingUnit>NWS WEATHER PREDICTION CENTER COLLEGE PARK MD</issuingUnit>
+<messageType>ROUTINE ADVISORY</messageType>
+<messageBinNumber>2</messageBinNumber>
+<advisoryNumber>49</advisoryNumber>
+<!-- System Date/Time Information -->
+<messageDateTimeLocal>20240710 05:00:00 PM EDT</messageDateTimeLocal>
+<messageDateTimeUTC>20240710 09:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>202407102100</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0500 PM EDT Wed Jul 10</messageDateTimeLocalStr>
+<timeEpochSeconds>1720645200</timeEpochSeconds>
+<!-- System state defined -->
+<systemType>POST-TROPICAL CYCLONE</systemType>
+<systemName>BERYL</systemName>
+<!-- Center Location of the System -->
+<!-- Lattitude: North is positive; South is negative -->
+<!-- Longitude: East is positive; West is negative -->
+<!-- units: decimal degrees (tenths) -->
+<centerLocLatitude>42.2</centerLocLatitude>
+<centerLocLongitude>-81.8</centerLocLongitude>
+<!-- Lattitude: North is N; South is S -->
+<!-- Longitude: East is E; West is W -->
+<!-- units: decimal degrees (tenths) -->
+<centerLocLatitudeExpanded>42.2N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>81.8W</centerLocLongitudeExpanded>
+<!-- Maximum Intensity of the System -->
+<!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
+<systemIntensityMph>35</systemIntensityMph>
+<systemIntensityKph>55</systemIntensityKph>
+<systemIntensityKts>30</systemIntensityKts>
+<systemMslpMb>1001</systemMslpMb>
+<systemMslpInHg>29.56</systemMslpInHg>
+<systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
+<formationChancePct48h>N/A</formationChancePct48h>
+<formationChancePct7d>N/A</formationChancePct7d>
+<!-- Current System Movement -->
+<!-- units: Degrees, MPH and KPH -->
+<systemDirectionOfMotion>ENE OR 60 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>18</systemSpeedMph>
+<systemSpeedKph>30</systemSpeedKph>
+<systemSpeedKts>16</systemSpeedKts>
+<!-- Current System Location from known Reference Point -->
+<systemGeoRefPt1>ABOUT 165 MI...265 KM WSW OF BUFFALO NEW YORK</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 460 MI...745 KM WSW OF MONTREAL QUEBEC</systemGeoRefPt2>
+<!-- Relevant Message -->
+<message>
+ZCZC NFDTCPAT2 ALL
+TTAA00 KWNH DDHHMM
+ 
+BULLETIN
+Post-Tropical Cyclone Beryl Advisory Number  49
+NWS Weather Prediction Center College Park MD   AL022024
+500 PM EDT Wed Jul 10 2024
+ 
+...RISK OF FLASH FLOODING AND A FEW TORNADOES FOR PORTIONS OF THE
+NORTHERN MID-ATLANTIC AND NEW ENGLAND STATES INTO THE OVERNIGHT...
+ 
+ 
+SUMMARY OF 500 PM EDT...2100 UTC...INFORMATION
+----------------------------------------------
+LOCATION...42.2N 81.8W
+ABOUT 165 MI...265 KM WSW OF BUFFALO NEW YORK
+ABOUT 460 MI...745 KM WSW OF MONTREAL QUEBEC
+MAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H
+PRESENT MOVEMENT...ENE OR 60 DEGREES AT 18 MPH...30 KM/H
+MINIMUM CENTRAL PRESSURE...1001 MB...29.56 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+A Flood Watch is in effect for portions of...
+* Central and Northern New York
+* Northern New England
+ 
+A Tornado Watch is in effect for portions of...
+* Northern Mid-Atlantic
+* New England
+ 
+For storm information specific to your area, including possible
+inland watches and warnings, please monitor products issued by your
+local National Weather Service forecast office.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 500 PM EDT (2100 UTC), the center of Post-Tropical Cyclone Beryl
+was located near latitude 42.2 North, longitude 81.8 West. The
+post-tropical cyclone is moving toward the east-northeast near 18
+mph (30 km/h) and this motion is expected to continue into 
+early Thursday morning.
+ 
+Maximum sustained winds are near 35 mph (55 km/h) with higher gusts.
+Little change in strength is forecast during the next 24 hours. 
+ 
+The estimated minimum central pressure is 1001 mb (29.56 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Heavy rainfall will result in areas of flash flooding, some of which
+may be locally considerable, through tonight for central and
+northern New York and northern New England. Isolated minor river
+flooding is possible.
+ 
+Key messages for Beryl can be found in the Tropical Cyclone
+Discussion under AWIPS header MIATCDAT2, WMO header WTNT42 KNHC,
+and on the NHC website at hurricanes.gov/text/MIATCDAT2.shtml.
+ 
+TORNADOES: A few tornadoes are possible through tonight across
+upstate New York, northern Pennsylvania, into parts of New England.
+ 
+RAINFALL: Heavy rainfall of 2 to 4 inches, with locally higher
+amounts, is expected across portions of the eastern Great Lakes
+through northern New England through tonight.
+ 
+For a complete depiction of forecast rainfall and flash flooding
+associated with Post Tropical Cyclone Beryl, please see the National
+Weather Service Storm Total Rainfall Graphic, available at
+hurricanes.gov/graphics_at2.shtml?rainqpf and the Flash Flood Risk
+graphic at hurricanes.gov/graphics_at2.shtml?ero
+ 
+For a list of rainfall observations (and wind reports) associated
+this storm, see the companion storm summary at WBCSCCNS2 with the
+WMO header ACUS42 KWBC or at the following link:
+www.wpc.ncep.noaa.gov/discussions/nfdscc2.html
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 1100 PM EDT.
+ 
+$$
+Forecaster Jackson
+ 
+NNNN
+</message>
+</cycloneMessage>
