@@ -5,6 +5,7 @@ import shutil
 from pathlib import Path
 
 import click
+from rich import print
 from shapely.errors import GEOSException
 
 from . import utils
@@ -34,11 +35,12 @@ def convert() -> None:
 
         # Copy the item.json file to the processed directory
         item_path = this_raw_dir / "item.json"
-        processed_path = this_processed_dir / item_path.name
-        shutil.copy(item_path, processed_path)
+        if item_path.exists():
+            processed_path = this_processed_dir / item_path.name
+            shutil.copy(item_path, processed_path)
 
         # Get a list of all files in the raw directory with glob
-        raw_files = this_raw_dir.glob("*")
+        raw_files = sorted(list(this_raw_dir.glob("*")))
 
         # Loop through the files:
         for f in raw_files:
@@ -46,6 +48,8 @@ def convert() -> None:
             if str(f).endswith(".shp"):
                 # Set the output path for a geojson output
                 geojson_path = this_processed_dir / f"{f.stem}.geojson"
+                if geojson_path.exists():
+                    continue
 
                 # Read it in with geopandas
                 try:
@@ -61,6 +65,8 @@ def convert() -> None:
             elif str(f).endswith(".kml"):
                 # Set the output path for a geojson output
                 geojson_path = this_processed_dir / f"{f.stem}.geojson"
+                if geojson_path.exists():
+                    continue
 
                 # Read it in as a KML
                 geojson = utils.convert_kml(f)

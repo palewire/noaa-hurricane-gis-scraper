@@ -11,6 +11,13 @@ import geopandas as gpd
 import kml2geojson
 import requests
 from retry import retry
+from rich import print
+from pyogrio import set_gdal_config_options
+
+# Set the GDAL configuration options
+set_gdal_config_options({
+    'SHAPE_RESTORE_SHX': 'YES',  # Restore .shx file if missing
+})
 
 
 @retry(tries=3, delay=5)
@@ -42,7 +49,7 @@ def get_url(url: str, verbose: bool = True) -> requests.Response:
     """
     if verbose:
         print(f"Fetching {url}")
-    return requests.get(url)
+    return requests.get(url, timeout=30)
 
 
 def write_json(
