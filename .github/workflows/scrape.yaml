@@ -32,7 +32,7 @@ jobs:
         shell: bash
 
       - name: Run scrape command
-        run: pipenv run python -m src.scrape
+        run: pipenv run python -m src.scrape feeds
         shell: bash
 
       - name: Run convert command
