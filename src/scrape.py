@@ -18,7 +18,7 @@ DUMMY_URL = "https://www.nhc.noaa.gov/gis/"
 
 @click.group()
 def scrape() -> None:
-    """Scrape GIS data from NOAA's RSS feeds."""
+    """Scrape data posted online by NOAA."""
     pass
 
 
