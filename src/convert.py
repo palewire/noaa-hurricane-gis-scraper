@@ -47,24 +47,26 @@ def convert() -> None:
             # If it's a .shp file ...
             if str(f).endswith(".shp"):
                 # Set the output path for a geojson output
-                geojson_path = this_processed_dir / f"{f.stem}.geojson"
+                geojson_path = this_processed_dir / f"{f.stem.lower()}.geojson"
                 if geojson_path.exists():
                     continue
 
                 # Read it in with geopandas
                 try:
                     geojson = utils.convert_shp(f)
-                except GEOSException:
+                except GEOSException as e:
                     print(f"Error converting {f}")
+                    print(e)
                     continue
 
                 # Write it out
                 utils.write_json(geojson, geojson_path)
+                assert geojson_path.exists(), f"Error writing {geojson_path}"
 
             # If it's a KML file
             elif str(f).endswith(".kml"):
                 # Set the output path for a geojson output
-                geojson_path = this_processed_dir / f"{f.stem}.geojson"
+                geojson_path = this_processed_dir / f"{f.stem.lower()}.geojson"
                 if geojson_path.exists():
                     continue
 
@@ -73,6 +75,7 @@ def convert() -> None:
 
                 # Write out the result
                 utils.write_json(geojson, geojson_path)
+                assert geojson_path.exists(), f"Error writing {geojson_path}"
 
 
 if __name__ == "__main__":

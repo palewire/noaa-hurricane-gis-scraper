@@ -99,7 +99,7 @@ def convert_shp(shp_path: Path, verbose: bool = True) -> dict:
     # Read in the file with geopandas
     if verbose:
         print(f"Reading {shp_path}")
-    gdf = gpd.read_file(str(shp_path))
+    gdf = gpd.read_file(str(shp_path), on_invalid="warn")
 
     # Ignore any UserWarnings
     with warnings.catch_warnings():
