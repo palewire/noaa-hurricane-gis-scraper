@@ -57,7 +57,7 @@ def adecks() -> None:
             this_gdf["warning_datetime"] = this_gdf["warning_datetime"].astype(str)
 
             # Write out the result as a smaller file with just that timestamp
-            utils.write_json(this_gdf.to_json(), geojson_path)
+            utils.write_json(json.loads(this_gdf.to_json(indent=4)), geojson_path)
 
 
 @convert.command()

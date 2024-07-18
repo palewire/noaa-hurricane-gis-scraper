@@ -144,11 +144,13 @@ def convert_adeck(adeck_path: Path, verbose: bool = True) -> dict:
 
     # Convert to GeoJSON
     feature_dict: dict[str, dict] = collections.defaultdict(dict)
+    for model in trimmed_df["model"].unique():
+        feature_dict[model] = collections.defaultdict(list)
+
     for record in trimmed_df.sort_values(
         ["model", "warning_datetime", "forecast_hour"]
     ).to_dict(orient="records"):
         # Nest another level of lists to group by model and warning_datetime
-        feature_dict[record["model"]] = collections.defaultdict(list)
         feature_dict[record["model"]][record["warning_datetime"]].append(record)
 
     feature_list = []
