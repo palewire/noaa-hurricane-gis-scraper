@@ -20,7 +20,25 @@ def convert() -> None:
 
 
 @convert.command()
-def geojson() -> None:
+def adecks() -> None:
+    """Convert adeck CSVs into GeoJSON."""
+    # Get a glob list of all files that end with .csv in folders that start with adeck-
+    adeck_files = list(RAW_DIR.glob("adeck-*/*.csv"))
+
+    # Loop through them
+    for f in adeck_files:
+        # Extract the id from the name of the directory
+        geojson = utils.convert_adeck(f)
+
+        # Set the output path for geojson.
+        geojson_path = PROCESSED_DIR / f"{f.parent.name}" / f"{f.stem.lower()}.geojson"
+
+        # Write out the result.
+        utils.write_json(geojson, geojson_path)
+
+
+@convert.command()
+def maps() -> None:
     """Convert the map files into GeoJSON."""
     # Get a list of all folders in the raw directory
     raw_dirs = [x for x in RAW_DIR.iterdir() if x.is_dir()]

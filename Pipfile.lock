@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "863ab1018605fa932d261803e21b48fdf1e188ddfe83dcd984242509fbd121d0"
+            "sha256": "7079b8c78360c717b3baf68e0c7059ccce7b9dec39d8c4b04c38f5c47803dd1e"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -178,6 +178,15 @@
             "index": "pypi",
             "markers": "python_version >= '3.6'",
             "version": "==6.0.11"
+        },
+        "geojson": {
+            "hashes": [
+                "sha256:58a7fa40727ea058efc28b0e9ff0099eadf6d0965e04690830208d3ef571adac",
+                "sha256:68a9771827237adb8c0c71f8527509c8f5bef61733aa434cefc9c9d4f0ebe8f3"
+            ],
+            "index": "pypi",
+            "markers": "python_version >= '3.7'",
+            "version": "==3.1.0"
         },
         "geopandas": {
             "hashes": [

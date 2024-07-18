@@ -1,23 +1,29 @@
 """Common utilities for this library."""
 from __future__ import annotations
 
+import collections
 import json
 import warnings
+from datetime import datetime
 from pathlib import Path
 from typing import Any
 
 import feedparser
+import geojson
 import geopandas as gpd
 import kml2geojson
+import pandas as pd
 import requests
+from pyogrio import set_gdal_config_options
 from retry import retry
 from rich import print
-from pyogrio import set_gdal_config_options
 
 # Set the GDAL configuration options
-set_gdal_config_options({
-    'SHAPE_RESTORE_SHX': 'YES',  # Restore .shx file if missing
-})
+set_gdal_config_options(
+    {
+        "SHAPE_RESTORE_SHX": "YES",  # Restore .shx file if missing
+    }
+)
 
 
 @retry(tries=3, delay=5)
@@ -78,6 +84,82 @@ def write_json(
         if verbose:
             print(f"Saving {out_path}")
         json.dump(data, f, indent=4, sort_keys=True)
+
+
+def convert_adeck(adeck_path: Path, verbose: bool = True) -> dict:
+    """Convert the submitted A-Deck CSV file to geojson.
+
+    Args:
+        adeck_path: The path to the A-Deck CSV file (Path)
+        verbose: Whether to print the path being saved (bool)
+
+    Returns:
+        The geojson (Any)
+    """
+    # Read in the file
+    df = pd.read_csv(
+        adeck_path,
+        usecols=[
+            "YYYYMMDDHH",
+            "TECH",
+            "TECHNUM/MIN",
+            "TAU",
+            "LATN/S",
+            "LONE/W",
+        ],
+        dtype=str,
+    )
+
+    # Clean up the columns
+    def _clean_x(lon: str) -> float:
+        if "W" in lon:
+            lon_temp = lon.split("W")[0]
+            val = round(float(lon_temp) * -0.1, 1)
+        elif "E" in lon:
+            lon_temp = lon.split("E")[0]
+            val = round(float(lon_temp) * 0.1, 1)
+        return val
+
+    def _clean_y(lat: str) -> float:
+        if "N" in lat:
+            lat_temp = lat.split("N")[0]
+            val = round(float(lat_temp) * 0.1, 1)
+        elif "S" in lat:
+            lat_temp = lat.split("S")[0]
+            val = round(float(lat_temp) * -0.1, 1)
+        return val
+
+    def _parse_dt(dt: str) -> datetime:
+        return datetime.strptime(dt, "%Y%m%d%H")
+
+    df["x"] = df["LONE/W"].apply(_clean_x)
+    df["y"] = df["LATN/S"].apply(_clean_y)
+    df["warning_datetime"] = df.YYYYMMDDHH.apply(_parse_dt)
+    df["forecast_hour"] = df.TAU.apply(int)
+
+    # Trim the dataframe
+    trimmed_df = df[["warning_datetime", "TECH", "forecast_hour", "x", "y"]].rename(
+        columns={"TECH": "model"}
+    )
+
+    # Convert to GeoJSON
+    feature_dict = collections.defaultdict(list)
+    for record in trimmed_df.sort_values(["model", "forecast_hour"]).to_dict(
+        orient="records"
+    ):
+        feature_dict[record["model"]].append(record)
+
+    feature_list = []
+    for model, value_list in feature_dict.items():
+        coords = [(d["x"], d["y"]) for d in value_list]
+        geom = geojson.LineString(coords)
+        feat = geojson.Feature(geometry=geom, properties=dict(model=model))
+        feature_list.append(feat)
+
+    feat_collection = geojson.FeatureCollection(feature_list)
+
+    # Return the GeoJSON as a Python dict
+    return json.loads(geojson.dumps(feat_collection))
 
 
 def convert_shp(shp_path: Path, verbose: bool = True) -> dict:
