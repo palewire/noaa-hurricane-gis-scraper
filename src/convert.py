@@ -26,56 +26,47 @@ def convert() -> None:
         # Extract the id from the name of the directory
         storm_id = this_raw_dir.name
 
-        # Check if the same id exists in the processed directory
+        # Check if the same id exists in the processed directory ...
         this_processed_dir = PROCESSED_DIR / storm_id
 
-        # If it doesn't make it
+        # ... if it doesn't make it.
         if not this_processed_dir.exists():
             this_processed_dir.mkdir(parents=True)
 
-        # Copy the item.json file to the processed directory
+        # Copy the item.json file to the processed directory, if it exists.
         item_path = this_raw_dir / "item.json"
         if item_path.exists():
             processed_path = this_processed_dir / item_path.name
             shutil.copy(item_path, processed_path)
 
-        # Get a list of all files in the raw directory with glob
+        # Get a list of all files in the raw directory with glob ...
         raw_files = sorted(list(this_raw_dir.glob("*")))
+
+        # ... and filter it down to files that are either .shp or .kml.
+        raw_files = [x for x in raw_files if x.suffix in [".shp", ".kml"]]
 
         # Loop through the files:
         for f in raw_files:
+
+            # Set the output path for geojson.
+            geojson_path = this_processed_dir / f"{f.stem.lower()}.geojson"
+
+            # If the file already exists, skip this iteration.
+            if geojson_path.exists():
+                continue
+
             # If it's a .shp file ...
             if str(f).endswith(".shp"):
-                # Set the output path for a geojson output
-                geojson_path = this_processed_dir / f"{f.stem.lower()}.geojson"
-                if geojson_path.exists():
-                    continue
+                # ... read it in with geopandas.
+                geojson = utils.convert_shp(f)
 
-                # Read it in with geopandas
-                try:
-                    geojson = utils.convert_shp(f)
-                except GEOSException as e:
-                    print(f"Error converting {f}")
-                    print(e)
-                    continue
-
-                # Write it out
-                utils.write_json(geojson, geojson_path)
-                assert geojson_path.exists(), f"Error writing {geojson_path}"
-
-            # If it's a KML file
+            # If it's a KML file ...
             elif str(f).endswith(".kml"):
-                # Set the output path for a geojson output
-                geojson_path = this_processed_dir / f"{f.stem.lower()}.geojson"
-                if geojson_path.exists():
-                    continue
-
-                # Read it in as a KML
+                # ... read it in as a KML.
                 geojson = utils.convert_kml(f)
 
-                # Write out the result
-                utils.write_json(geojson, geojson_path)
-                assert geojson_path.exists(), f"Error writing {geojson_path}"
+            # Write out the result.
+            utils.write_json(geojson, geojson_path)
 
 
 if __name__ == "__main__":
