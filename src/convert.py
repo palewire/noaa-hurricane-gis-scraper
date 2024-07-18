@@ -1,10 +1,12 @@
 """Convert raw NOAA data into GeoJSON files."""
 from __future__ import annotations
 
+import json
 import shutil
 from pathlib import Path
 
 import click
+import geopandas as gpd
 
 from . import utils
 
@@ -33,8 +35,29 @@ def adecks() -> None:
         # Set the output path for geojson.
         geojson_path = PROCESSED_DIR / f"{f.parent.name}" / f"{f.stem.lower()}.geojson"
 
-        # Write out the result.
+        # Write out the result as a big file with everything
         utils.write_json(geojson, geojson_path)
+
+        # Now read in the geojson as a geodataframe
+        gdf = gpd.read_file(json.dumps(geojson), on_invalid="warn")
+
+        # Loop through the distinct warning_datetime
+        for dt in gdf["warning_datetime"].unique():
+            # Filter the geodataframe to that timestamp
+            this_gdf = gdf[gdf["warning_datetime"] == dt].copy()
+
+            # Set the output path for timestamped geojson
+            geojson_path = (
+                PROCESSED_DIR
+                / f"{f.parent.name}"
+                / f"{f.stem.lower()}-{dt.strftime('%Y%m%d-%H%M')}.geojson"
+            )
+
+            # Convert warning_datetime to string
+            this_gdf["warning_datetime"] = this_gdf["warning_datetime"].astype(str)
+
+            # Write out the result as a smaller file with just that timestamp
+            utils.write_json(this_gdf.to_json(), geojson_path)
 
 
 @convert.command()
