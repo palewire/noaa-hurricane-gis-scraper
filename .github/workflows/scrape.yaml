@@ -31,8 +31,12 @@ jobs:
         run: pipenv sync
         shell: bash
 
-      - name: Run scrape command
+      - name: Scrape feeds
         run: pipenv run python -m src.scrape feeds
+        shell: bash
+
+      - name: Scrape adecks
+        run: pipenv run python -m src.scrape adecks
         shell: bash
 
       - name: Run convert command

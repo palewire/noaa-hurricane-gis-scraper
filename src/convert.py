@@ -5,8 +5,6 @@ import shutil
 from pathlib import Path
 
 import click
-from rich import print
-from shapely.errors import GEOSException
 
 from . import utils
 
@@ -47,7 +45,6 @@ def convert() -> None:
 
         # Loop through the files:
         for f in raw_files:
-
             # Set the output path for geojson.
             geojson_path = this_processed_dir / f"{f.stem.lower()}.geojson"
 

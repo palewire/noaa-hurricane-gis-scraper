@@ -1,12 +1,13 @@
 """Scrape GIS data from NOAA's RSS feeds."""
 from __future__ import annotations
 
+import gzip
 import zipfile
 from pathlib import Path
 
 import click
-from rich import print
 from bs4 import BeautifulSoup
+from rich import print
 
 from . import utils
 
@@ -19,6 +20,45 @@ DUMMY_URL = "https://www.nhc.noaa.gov/gis/"
 def scrape() -> None:
     """Scrape GIS data from NOAA's RSS feeds."""
     pass
+
+
+@scrape.command()
+def adecks() -> None:
+    """Scrape the adeck file archive."""
+    # Get the url
+    url = "https://ftp.nhc.noaa.gov/atcf/aid_public/"
+    r = utils.get_url(url)
+
+    # Parse out the links
+    soup = BeautifulSoup(r.content, "lxml")
+    link_list = soup.find_all("a")[4:]
+
+    # Loop through the links
+    for link in link_list:
+        href = link.get("href")
+        if href == "../":
+            continue
+
+        # Set the download location
+        out_dir = DATA_DIR / f"adeck-{href.replace('.dat.gz', '')}"
+
+        # Make the directory
+        out_dir.mkdir(exist_ok=True, parents=True)
+
+        # Get the URL
+        r = utils.get_url(url + href, verbose=True)
+
+        # Save the file in the out_dir
+        path = out_dir / Path(href).name
+        with open(path, "wb") as f:
+            f.write(r.content)
+
+        # Unzip the gzip file in the out_dir with gzip
+        print(f"Unzipping {path}")
+        with gzip.open(path, "rb") as zip_ref:
+            content = zip_ref.read()
+            with open(out_dir / Path(href).name.replace(".gz", ""), "wb") as f:
+                f.write(content)
 
 
 @scrape.command()
