@@ -39,8 +39,8 @@ jobs:
         run: pipenv run python -m src.scrape adecks
         shell: bash
 
-      - name: Run convert command
-        run: pipenv run python -m src.convert
+      - name: Convert GeoJSON
+        run: pipenv run python -m src.convert geojson
         shell: bash
 
       - name: Datestamp
