@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "587f8116647a902015740729b2bf9fb065ff4adc031d222507aa094a2eb91ad9"
+            "sha256": "863ab1018605fa932d261803e21b48fdf1e188ddfe83dcd984242509fbd121d0"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -16,6 +16,14 @@
         ]
     },
     "default": {
+        "atcf-data-parser": {
+            "hashes": [
+                "sha256:b483e6bb1d06d1bac49e523bd64920bd16e0d77a53fcc6bf4dedb0f4ff2837e6",
+                "sha256:e4cf3305ed9abf6b29dcb17d1a3ec91b7e9685c2918c63db8c0662199551cff7"
+            ],
+            "index": "pypi",
+            "version": "==0.0.1"
+        },
         "beautifulsoup4": {
             "hashes": [
                 "sha256:74e3d1928edc070d21748185c46e3fb33490f22f52a3addee9aee0f4f7781051",
@@ -1419,11 +1427,11 @@
         },
         "setuptools": {
             "hashes": [
-                "sha256:f171bab1dfbc86b132997f26a119f6056a57950d058587841a0082e8830f9dc5",
-                "sha256:fe384da74336c398e0d956d1cae0669bc02eed936cdb1d49b57de1990dc11ffc"
+                "sha256:ca359bea0cd5c8ce267d7463239107e87f312f2e2a11b6ca6357565d82b6c0d7",
+                "sha256:f6640114f96be808024fbd1f721161215543796d3a68da4524349de700604ce8"
             ],
             "markers": "python_version >= '3.8'",
-            "version": "==70.3.0"
+            "version": "==71.0.2"
         },
         "setuptools-scm": {
             "hashes": [
@@ -1459,12 +1467,12 @@
         },
         "sphinx": {
             "hashes": [
-                "sha256:9f135d8c1d277db67be514be579c4c4a26c8c0e962219aaca5a721b04bd6d0d8",
-                "sha256:a4abe5385bf856df094c1e6cadf24a2351b12057be3670b99a12c05a01d209f5"
+                "sha256:116918d455c493fff3178edea12b4fe1c1e4894680fd81e7b7431ea21d47ca52",
+                "sha256:915760d6188288a1e30c2cd0d9fa31b1b009bc6e6019cc0c32d16c77d20e86d9"
             ],
             "index": "pypi",
             "markers": "python_version >= '3.9'",
-            "version": "==7.4.5"
+            "version": "==7.4.6"
         },
         "sphinx-autobuild": {
             "hashes": [

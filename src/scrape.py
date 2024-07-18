@@ -5,6 +5,7 @@ import gzip
 import zipfile
 from pathlib import Path
 
+import atcf_data_parser
 import click
 from bs4 import BeautifulSoup
 from rich import print
@@ -59,6 +60,13 @@ def adecks() -> None:
             content = zip_ref.read()
             with open(out_dir / Path(href).name.replace(".gz", ""), "wb") as f:
                 f.write(content)
+
+        # Get the URL as a dataframe
+        df = atcf_data_parser.get_dataframe(url + href)
+
+        # Write it out as a CSV
+        csv_path = out_dir / Path(href).name.replace(".gz", "").replace(".dat", ".csv")
+        df.to_csv(csv_path, index=False)
 
 
 @scrape.command()

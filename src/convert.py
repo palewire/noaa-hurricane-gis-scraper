@@ -13,9 +13,15 @@ RAW_DIR = THIS_DIR.parent / "data" / "raw"
 PROCESSED_DIR = THIS_DIR.parent / "data" / "processed"
 
 
-@click.command()
+@click.group()
 def convert() -> None:
-    """Convert raw NOAA data into GeoJSON files."""
+    """Convert raw NOAA data into more useful files."""
+    pass
+
+
+@convert.command()
+def geojson() -> None:
+    """Convert the map files into GeoJSON."""
     # Get a list of all folders in the raw directory
     raw_dirs = [x for x in RAW_DIR.iterdir() if x.is_dir()]
 
@@ -41,10 +47,10 @@ def convert() -> None:
         raw_files = sorted(list(this_raw_dir.glob("*")))
 
         # ... and filter it down to files that are either .shp or .kml.
-        raw_files = [x for x in raw_files if x.suffix in [".shp", ".kml"]]
+        map_files = [x for x in raw_files if x.suffix in [".shp", ".kml"]]
 
         # Loop through the files:
-        for f in raw_files:
+        for f in map_files:
             # Set the output path for geojson.
             geojson_path = this_processed_dir / f"{f.stem.lower()}.geojson"
 
