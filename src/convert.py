@@ -32,12 +32,6 @@ def adecks() -> None:
         # Extract the id from the name of the directory
         geojson = utils.convert_adeck(f)
 
-        # Set the output path for geojson.
-        geojson_path = PROCESSED_DIR / f"{f.parent.name}" / f"{f.stem.lower()}.geojson"
-
-        # Write out the result as a big file with everything
-        utils.write_json(geojson, geojson_path)
-
         # Now read in the geojson as a geodataframe
         gdf = gpd.read_file(json.dumps(geojson), on_invalid="warn")
 

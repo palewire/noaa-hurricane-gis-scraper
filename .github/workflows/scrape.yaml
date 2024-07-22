@@ -47,6 +47,10 @@ jobs:
         run: pipenv run python -m src.convert adecks
         shell: bash
 
+      - name: Consolidate adecks
+        run: pipenv run python -m src.consolidate adecks
+        shell: bash
+
       - name: Datestamp
         run: date > data/timestamp.txt
         shell: bash
