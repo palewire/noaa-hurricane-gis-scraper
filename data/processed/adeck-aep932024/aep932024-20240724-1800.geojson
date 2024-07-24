@@ -1923,7 +1923,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "349",
+            "id": "350",
             "properties": {
                 "model": "NVGI",
                 "warning_datetime": "2024-07-24 18:00:00"
@@ -1932,9 +1932,91 @@
         },
         {
             "geometry": null,
-            "id": "355",
+            "id": "356",
             "properties": {
                 "model": "EGRI",
+                "warning_datetime": "2024-07-24 18:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -111.7,
+                        16.9
+                    ],
+                    [
+                        -113.9,
+                        17.6
+                    ],
+                    [
+                        -115.8,
+                        17.8
+                    ],
+                    [
+                        -117.5,
+                        17.7
+                    ],
+                    [
+                        -118.7,
+                        17.3
+                    ],
+                    [
+                        -119.4,
+                        16.6
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "363",
+            "properties": {
+                "model": "DRCL",
+                "warning_datetime": "2024-07-24 18:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -111.7,
+                        16.9
+                    ],
+                    [
+                        -113.4,
+                        17.5
+                    ],
+                    [
+                        -114.9,
+                        18.0
+                    ],
+                    [
+                        -116.2,
+                        18.4
+                    ],
+                    [
+                        -117.3,
+                        18.3
+                    ],
+                    [
+                        -118.6,
+                        17.7
+                    ],
+                    [
+                        -119.6,
+                        16.6
+                    ],
+                    [
+                        -120.7,
+                        15.4
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "364",
+            "properties": {
+                "model": "NGXI",
                 "warning_datetime": "2024-07-24 18:00:00"
             },
             "type": "Feature"
