@@ -1,0 +1,205 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -113.3,
+                        17.5,
+                        0.0
+                    ],
+                    [
+                        -114.9,
+                        17.8,
+                        0.0
+                    ],
+                    [
+                        -116.7,
+                        17.9,
+                        0.0
+                    ],
+                    [
+                        -118.2,
+                        17.8,
+                        0.0
+                    ],
+                    [
+                        -119.1,
+                        17.3,
+                        0.0
+                    ],
+                    [
+                        -120.0,
+                        16.6,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "17.5N, 113.3W",
+                "advisoryNum": "2",
+                "atcfid": "EP022024",
+                "basin": "ep",
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Bud (EP022024)</b></font></td></tr> \n                        <tr><td>Advisory #2 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "45",
+                "maxGustMPH": "50",
+                "maxWindKnots": "35",
+                "maxWindMPH": "40",
+                "minimumPressure": "1007",
+                "pubAdvTime": "800 PM MST Wed Jul 24 2024",
+                "storm": "Tropical Storm Bud",
+                "stormMovement": "WNW",
+                "stormName": "Bud",
+                "stormNum": "02",
+                "stormType": "TS",
+                "styleUrl": "#72_line",
+                "timezone": "MST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -113.3,
+                        17.5,
+                        0.0
+                    ],
+                    [
+                        -114.9,
+                        17.8,
+                        0.0
+                    ],
+                    [
+                        -116.7,
+                        17.9,
+                        0.0
+                    ],
+                    [
+                        -118.2,
+                        17.8,
+                        0.0
+                    ],
+                    [
+                        -119.1,
+                        17.3,
+                        0.0
+                    ],
+                    [
+                        -120.0,
+                        16.6,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "2",
+                "atcfid": "EP022024",
+                "basin": "ep",
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Bud (EP022024)</b></font></td></tr> \n                        <tr><td>Advisory #2 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Tropical Storm Bud",
+                "stormName": "Bud",
+                "stormNum": "02",
+                "stormType": "TS",
+                "styleUrl": "#120_line",
+                "timezone": "MST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -113.3,
+                    17.5,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Bud (EP022024)</b></font></td></tr> \n                        <tr><td>Advisory #2</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 PM MST July 24, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 17.5 N, -113.3 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 35 knots (40 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 45 knots (50 mph) </td></tr> \n                        <tr><td nowrap>Motion: WNW </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 1007 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -114.9,
+                    17.8,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Bud (EP022024)</b></font></td></tr> \n                        <tr><td>Advisory #2</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>12 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  5:00 AM MST July 25, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 17.8 N, -114.9 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 35 knots (40 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 45 knots (50 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.7,
+                    17.9,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Bud (EP022024)</b></font></td></tr> \n                        <tr><td>Advisory #2</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>24 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  5:00 PM MST July 25, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 17.9 N, -116.7 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 30 knots (35 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 40 knots (45 mph) </td></tr>",
+                "styleUrl": "#d_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -118.2,
+                    17.8,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Bud (EP022024)</b></font></td></tr> \n                        <tr><td>Advisory #2</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>36 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  5:00 AM MST July 26, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 17.8 N, -118.2 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 30 knots (35 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 40 knots (45 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.1,
+                    17.3,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Bud (EP022024)</b></font></td></tr> \n                        <tr><td>Advisory #2</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>48 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  5:00 PM MST July 26, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 17.3 N, -119.1 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 25 knots (30 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 35 knots (40 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -120.0,
+                    16.6,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Bud (EP022024)</b></font></td></tr> \n                        <tr><td>Advisory #2</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>60 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  5:00 AM MST July 27, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 16.6 N, -120.0 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 20 knots (25 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 30 knots (35 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
