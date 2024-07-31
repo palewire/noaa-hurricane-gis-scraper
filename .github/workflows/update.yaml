@@ -32,23 +32,23 @@ jobs:
         shell: bash
 
       - name: Scrape feeds
-        run: pipenv run python -m src.scrape feeds
+        run: pipenv run python -m pipeline.scrape feeds
         shell: bash
 
       - name: Scrape adecks
-        run: pipenv run python -m src.scrape adecks
+        run: pipenv run python -m pipeline.scrape adecks
         shell: bash
 
       - name: Convert maps
-        run: pipenv run python -m src.convert maps
+        run: pipenv run python -m pipeline.convert maps
         shell: bash
 
       - name: Convert adecks
-        run: pipenv run python -m src.convert adecks
+        run: pipenv run python -m pipeline.convert adecks
         shell: bash
 
       - name: Consolidate adecks
-        run: pipenv run python -m src.consolidate adecks
+        run: pipenv run python -m pipeline.consolidate adecks
         shell: bash
 
       - name: Datestamp

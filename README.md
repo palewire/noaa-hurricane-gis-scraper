@@ -25,29 +25,29 @@ pipenv install --dev`
 Scrape GIS feeds.
 
 ```bash
-pipenv run python -m src.scrape feeds
+pipenv run python -m pipeline.scrape feeds
 ```
 
 Scrape a-deck models.
 
 ```bash
-pipenv run python -m src.scrape adecks
+pipenv run python -m pipeline.scrape adecks
 ```
 
 Convert GIS feeds to GeoJSON.
 
 ```bash
-pipenv run python -m src.convert maps
+pipenv run python -m pipeline.convert maps
 ```
 
 Convert a-deck models to GeoJSON.
 
 ```bash
-pipenv run python -m src.convert adecks
+pipenv run python -m pipeline.convert adecks
 ```
 
 Consolidate a master list of processed a-deck files.
 
 ```bash
-pipenv run python -m src.consolidate adecks
+pipenv run python -m pipeline.consolidate adecks
 ```
