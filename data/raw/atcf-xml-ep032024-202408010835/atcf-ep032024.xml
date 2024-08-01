@@ -5,13 +5,13 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>3</messageBinNumber>
-<advisoryNumber>3</advisoryNumber>
+<advisoryNumber>4</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20240731 08:00:00 PM MST</messageDateTimeLocal>
-<messageDateTimeUTC>20240801 03:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>20240801030000</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0800 PM MST Wed Jul 31</messageDateTimeLocalStr>
-<timeEpochSeconds>1722481200</timeEpochSeconds>
+<messageDateTimeLocal>20240801 02:00:00 AM MST</messageDateTimeLocal>
+<messageDateTimeUTC>20240801 09:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>20240801090000</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0200 AM MST Thu Aug 01</messageDateTimeLocalStr>
+<timeEpochSeconds>1722502800</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL STORM</systemType>
 <systemName>CARLOTTA</systemName>
@@ -19,20 +19,20 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>16.6</centerLocLatitude>
-<centerLocLongitude>-108.9</centerLocLongitude>
+<centerLocLatitude>17.0</centerLocLatitude>
+<centerLocLongitude>-109.9</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>16.6N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>108.9W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>17.0N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>109.9W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>50</systemIntensityMph>
-<systemIntensityKph>85</systemIntensityKph>
-<systemIntensityKts>45</systemIntensityKts>
-<systemMslpMb>1000</systemMslpMb>
-<systemMslpInHg>29.53</systemMslpInHg>
+<systemIntensityMph>60</systemIntensityMph>
+<systemIntensityKph>95</systemIntensityKph>
+<systemIntensityKts>50</systemIntensityKts>
+<systemMslpMb>997</systemMslpMb>
+<systemMslpInHg>29.44</systemMslpInHg>
 <systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct7d>N/A</formationChancePct7d>
@@ -43,27 +43,28 @@
 <systemSpeedKph>19</systemSpeedKph>
 <systemSpeedKts>10</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 345 MI...555 KM WSW OF MANZANILLO MEXICO</systemGeoRefPt1>
+<systemGeoRefPt1>ABOUT 395 MI...630 KM WSW OF MANZANILLO MEXICO</systemGeoRefPt1>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPEP3 ALL
 TTAA00 KNHC DDHHMM
  
 BULLETIN
-Tropical Storm Carlotta Advisory Number   3
+Tropical Storm Carlotta Advisory Number   4
 NWS National Hurricane Center Miami FL       EP032024
-800 PM MST Wed Jul 31 2024
+200 AM MST Thu Aug 01 2024
  
-...CARLOTTA CONTINUES TO INTENSIFY...
+...CARLOTTA STRENGTHENS...
+...LIKELY TO BECOME A HURRICANE LATER TODAY OR TONIGHT...
  
  
-SUMMARY OF 800 PM MST...0300 UTC...INFORMATION
+SUMMARY OF 200 AM MST...0900 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...16.6N 108.9W
-ABOUT 345 MI...555 KM WSW OF MANZANILLO MEXICO
-MAXIMUM SUSTAINED WINDS...50 MPH...85 KM/H
+LOCATION...17.0N 109.9W
+ABOUT 395 MI...630 KM WSW OF MANZANILLO MEXICO
+MAXIMUM SUSTAINED WINDS...60 MPH...95 KM/H
 PRESENT MOVEMENT...WNW OR 300 DEGREES AT 12 MPH...19 KM/H
-MINIMUM CENTRAL PRESSURE...1000 MB...29.53 INCHES
+MINIMUM CENTRAL PRESSURE...997 MB...29.44 INCHES
  
  
 WATCHES AND WARNINGS
@@ -73,40 +74,39 @@ There are no coastal watches or warnings in effect.
  
 DISCUSSION AND OUTLOOK
 ----------------------
-At 800 PM MST (0300 UTC), the center of Tropical Storm Carlotta was
-located near latitude 16.6 North, longitude 108.9 West. Carlotta is 
-moving toward the west-northwest near 12 mph (19 km/h), and this 
-motion is expected to continue for the next day or so followed by a 
-turn to the west by Friday.
+At 200 AM MST (0900 UTC), the center of Tropical Storm Carlotta was 
+located near latitude 17.0 North, longitude 109.9 West. Carlotta is 
+moving toward the west-northwest near 12 mph (19 km/h). This motion 
+is expected to continue today, followed by a turn toward the west on 
+Friday and a continued westward motion through the weekend.
  
-Maximum sustained winds have increased to near 50 mph (85 km/h) with 
-higher gusts. Rapid strengthening is forecast during the next couple 
-of days, and Carlotta is now anticipated to become a hurricane by 
-Thursday evening.
+Maximum sustained winds have increased to near 60 mph (95 km/h) with 
+higher gusts. Strengthening is forecast during the next couple of 
+days, and Carlotta is expected to become a hurricane later today or 
+tonight.
  
-Tropical-storm-force winds extend outward up to 45 miles (75 km)
+Tropical-storm-force winds extend outward up to 60 miles (95 km)
 from the center.
  
-The estimated minimum central pressure is 1000 mb (29.53 inches).
+The estimated minimum central pressure is 997 mb (29.44 inches).
  
  
 HAZARDS AFFECTING LAND
 ----------------------
-SURF: Swells generated by Carlotta are expected to affect the coasts
-of west-central mainland Mexico and the southern Baja California
-peninsula beginning Thursday. These swells are likely to cause
+SURF: Swells generated by Carlotta will affect the coasts of
+west-central mainland Mexico and the southern Baja California
+peninsula beginning later today. These swells are likely to cause
 life-threatening surf and rip current conditions through the
-weekend.  Please consult products from your local weather office.
+weekend. Please consult products from your local weather office.
  
  
 NEXT ADVISORY
 -------------
-Next complete advisory at 200 AM MST.
+Next complete advisory at 800 AM MST.
  
 $$
-Forecaster Bucci
+Forecaster Reinhart
  
 NNNN
-
 </message>
 </cycloneMessage>
