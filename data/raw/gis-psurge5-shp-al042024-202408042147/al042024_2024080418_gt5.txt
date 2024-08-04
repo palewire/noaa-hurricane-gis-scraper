@@ -1,0 +1,68 @@
+PDS-S0 | DataType | 10 (Oceanographic products)
+PDS-S1 | Originating center | 7 (US-NCEP)
+PDS-S1 | Originating sub-center | 14 (Meteorological Development Laboratory (MDL))
+PDS-S1 | GRIB Master Tables Version | 2
+PDS-S1 | GRIB Local Tables Version | 0
+PDS-S1 | Significance of reference time | 1 (Start of Forecast)
+PDS-S1 | Reference Time | 08/04/2024 18:00:00 UTC
+PDS-S1 | Operational Status | 1 (Operational test products)
+PDS-S1 | Type of Data | 1 (Forecast products)
+PDS-S4 | Product type | 9 (Probability forecast at a horizontal layer or level in a time interval)
+PDS-S4 | Category Description | 3 (Surface Properties)
+PDS-S4 | Category Sub-Description | 192 (78 hr Prob of Hurricane Storm Surge > 1.52 m [%])
+PDS-S4 | Output grid, (COMPUTED) english unit is | [%]
+PDS-S4 | Generation process | 5 (Probability forecast)
+PDS-S4 | Background generating process ID | 0
+PDS-S4 | Forecast generating process ID | 12 (Probabilistic Storm Surge)
+PDS-S4 | Forecast time in hours | 78.000000
+PDS-S4 | Type of first fixed surface | 103 (Specified height level above ground [m])
+PDS-S4 | Value of first fixed surface | 0.000000
+PDS-S4 | Forecast Probability Number | 0
+PDS-S4 | Total Number of Forecast Probabilities | 1
+PDS-S4 | Probability type | 1 (Probability of event above upper limit)
+PDS-S4 | Lower limit (scale value, scale factor) | 1.52 (152, 2)
+PDS-S4 | Upper limit (scale value, scale factor) | 1.52 (152, 2)
+PDS-S4 | End of overall time interval | 08/08/2024 00:00:00 UTC
+PDS-S4 | Total number of missing values | 0
+PDS-S4 | Number of time range specifications | 1
+PDS-S4 | Interval number | 1
+PDS-S4 | Statistical process | 2 (Maximum)
+PDS-S4 | Type of time increment | 192 (Reserved for local use)
+PDS-S4 | Time range for processing | 78 Hour
+PDS-S4 | Time increment | 0 Hour
+GDS | Number of Points | 47216385
+GDS | Projection Type | 30 (Lambert Conformal)
+GDS | Shape of Earth | sphere
+GDS | Radius | 6371.200000 (km)
+GDS | Nx (Number of points on parallel) | 8577
+GDS | Ny (Number of points on meridian) | 5505
+GDS | Lat1 | 20.191999
+GDS | Lon1 | 238.445999
+GDS | u/v vectors relative to | easterly/northerly
+GDS | Dx | 634.926000 (m)
+GDS | Dy | 634.926000 (m)
+GDS | Input GRIB2 grid, scan mode | 64 (0100)
+GDS | Output grid, scan mode | 64 (0100)
+GDS | (.flt file grid), scan mode | 0 (0000)
+GDS | Output grid, scan i/x direction | positive
+GDS | Output grid, scan j/y direction | positive
+GDS | (.flt file grid), scan j/y direction | negative
+GDS | Output grid, consecutive points in | i/x direction
+GDS | Output grid, adjacent rows scan in | same direction
+GDS | MeshLat | 25.000000
+GDS | OrientLon | 265.000000
+GDS | Which pole is on the plane | North
+GDS | bi-polar projection | No
+GDS | Tangent Lat1 | 25.000000
+GDS | Tangent Lat2 | 25.000000
+GDS | Southern Lat | -90.000000
+GDS | Southern Lon | 0.000000
+Info | Packing that was used | 2 (Grid point data - complex packing)
+Info | Decimal Scale Factor | 0
+Info | Binary Scale Factor | 0
+Info | Original field type | 0 (Floating point)
+Info | Missing value management | 1 (Primary missing value included with data)
+Info | Primary missing value | 9999.000000
+Info | Detected number of Missing | 47115084
+Info | Field minimum value | 1.000000
+Info | Field maximum value | 99.000000
