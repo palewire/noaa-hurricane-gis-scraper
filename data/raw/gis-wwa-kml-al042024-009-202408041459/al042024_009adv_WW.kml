@@ -1,0 +1,421 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://earth.google.com/kml/2.1'>
+<Document>
+<name>Tropical Storm Debby (Advisory #9) - Watch/Warnings</name>
+    <description>
+        <TABLE>
+            <TR><TD><B>Title:</B> Tropical Cyclone Watch/Warnings for AL042024 (Advisory #9)</TD></TR>
+            <TR><TD><B>Description:</B>The official watch/warning in KML format is an experimental product produced by the National Hurricane Center.  Coastal areas placed under tropical cyclone watches or warnings are delimited by specific geographical locations known as "breakpoints" (e.g., a hurricane warning is in effect from breakpoint "A" to breakpoint "B").  This file consists of one or more lines connecting the breakpoints delimiting any current watches or warnings. </TD></TR>
+            <TR><TD><B>Date Created:</B> 08-04-2024 - 14:57 UTC </TD></TR>
+            <TR><TD><B>Created:</B> National Hurricane Center </TD></TR>
+            <TR><TD><B>Disclaimer:</B>The official watch/warning in KML format is an experimental product.</TD></TR>
+            <TR><TD><B>For More Information: </B><a href="https://www.nhc.noaa.gov">https://www.nhc.noaa.gov</a></TD></TR>
+        </TABLE>
+    </description>
+        <Style id="TWR">
+                <LineStyle>
+                        <color>ffff0055</color>
+                        <width>3</width>
+                </LineStyle>
+                <PolyStyle>
+                        <color>ffff0055</color>
+                </PolyStyle>
+        </Style>
+        <Style id="TWA">
+                <LineStyle>
+                        <color>ff22e2f7</color>
+                        <width>3</width>
+                </LineStyle>
+                <PolyStyle>
+                        <color>ff22e2f7</color>
+                </PolyStyle>
+        </Style>
+        <Style id="HWA">
+                <LineStyle>
+                        <color>99ffaaff</color>
+                        <width>8</width>
+                </LineStyle>
+                <PolyStyle>
+                        <color>99ffaaff</color>
+                </PolyStyle>
+        </Style>
+        <Style id="HWR">
+                <LineStyle>
+                        <color>990000ff</color>
+                        <width>8</width>
+                </LineStyle>
+                <PolyStyle>
+                        <color>990000ff</color>
+                </PolyStyle>
+        </Style>
+    <Placemark>
+      <name>Tropical Storm Watch</name>
+        <styleUrl>#TWA</styleUrl>
+        <LineString>
+                <coordinates>
+-85.39,29.93,0 -85.22,29.68,0 
+                </coordinates>
+        </LineString>
+        <ExtendedData>
+            <Data name="timezone">
+                <value>EDT</value>
+            </Data>
+            <Data name="stormType">
+                <value>TS</value>
+            </Data>
+            <Data name="advisoryDate">
+                <value>1100 AM EDT Sun Aug 04 2024</value>
+            </Data>
+            <Data name="basin">
+                <value>AL</value>
+            </Data>
+            <Data name="fcstpd">
+                <value>120</value>
+            </Data>
+            <Data name="storm">
+                <value>Tropical Storm Debby</value>
+            </Data>
+            <Data name="atcfid">
+                <value>AL042024</value>
+            </Data>
+            <Data name="advisoryNum">
+                <value>9</value>
+            </Data>
+            <Data name="stormNum">
+                <value>4</value>
+            </Data>
+            <Data name="stormName">
+                <value>Debby</value>
+            </Data>
+        </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Tropical Storm Watch</name>
+        <styleUrl>#TWA</styleUrl>
+        <LineString>
+                <coordinates>
+-81.44,30.71,0 -81.42,30.99,0 -81.29,31.29,0 -81.14,31.71,0 -80.86,32.03,0 -80.32,32.49,0 -79.27,33.12,0 
+                </coordinates>
+        </LineString>
+        <ExtendedData>
+            <Data name="timezone">
+                <value>EDT</value>
+            </Data>
+            <Data name="stormType">
+                <value>TS</value>
+            </Data>
+            <Data name="advisoryDate">
+                <value>1100 AM EDT Sun Aug 04 2024</value>
+            </Data>
+            <Data name="basin">
+                <value>AL</value>
+            </Data>
+            <Data name="fcstpd">
+                <value>120</value>
+            </Data>
+            <Data name="storm">
+                <value>Tropical Storm Debby</value>
+            </Data>
+            <Data name="atcfid">
+                <value>AL042024</value>
+            </Data>
+            <Data name="advisoryNum">
+                <value>9</value>
+            </Data>
+            <Data name="stormNum">
+                <value>4</value>
+            </Data>
+            <Data name="stormName">
+                <value>Debby</value>
+            </Data>
+        </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Hurricane Watch</name>
+        <styleUrl>#HWA</styleUrl>
+        <LineString>
+                <coordinates>
+-85.22,29.68,0 -84.38,29.96,0 
+                </coordinates>
+        </LineString>
+        <ExtendedData>
+            <Data name="timezone">
+                <value>EDT</value>
+            </Data>
+            <Data name="stormType">
+                <value>TS</value>
+            </Data>
+            <Data name="advisoryDate">
+                <value>1100 AM EDT Sun Aug 04 2024</value>
+            </Data>
+            <Data name="basin">
+                <value>AL</value>
+            </Data>
+            <Data name="fcstpd">
+                <value>120</value>
+            </Data>
+            <Data name="storm">
+                <value>Tropical Storm Debby</value>
+            </Data>
+            <Data name="atcfid">
+                <value>AL042024</value>
+            </Data>
+            <Data name="advisoryNum">
+                <value>9</value>
+            </Data>
+            <Data name="stormNum">
+                <value>4</value>
+            </Data>
+            <Data name="stormName">
+                <value>Debby</value>
+            </Data>
+        </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Hurricane Watch</name>
+        <styleUrl>#HWA</styleUrl>
+        <LineString>
+                <coordinates>
+-83.17,29.3,0 -82.75,29.03,0 
+                </coordinates>
+        </LineString>
+        <ExtendedData>
+            <Data name="timezone">
+                <value>EDT</value>
+            </Data>
+            <Data name="stormType">
+                <value>TS</value>
+            </Data>
+            <Data name="advisoryDate">
+                <value>1100 AM EDT Sun Aug 04 2024</value>
+            </Data>
+            <Data name="basin">
+                <value>AL</value>
+            </Data>
+            <Data name="fcstpd">
+                <value>120</value>
+            </Data>
+            <Data name="storm">
+                <value>Tropical Storm Debby</value>
+            </Data>
+            <Data name="atcfid">
+                <value>AL042024</value>
+            </Data>
+            <Data name="advisoryNum">
+                <value>9</value>
+            </Data>
+            <Data name="stormNum">
+                <value>4</value>
+            </Data>
+            <Data name="stormName">
+                <value>Debby</value>
+            </Data>
+        </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Tropical Storm Warning</name>
+        <styleUrl>#TWR</styleUrl>
+        <LineString>
+                <coordinates>
+-82.75,29.03,0 -82.65,28.7,0 -82.66,28.43,0 -82.8,28.18,0 -82.76,27.59,0 -82.73,27.53,0 -82.64,27.39,0 -82.37,26.94,0 -82.26,26.75,0 -81.84,26.32,0 -81.38,25.78,0 -81.08,25.12,0 
+                </coordinates>
+        </LineString>
+        <ExtendedData>
+            <Data name="timezone">
+                <value>EDT</value>
+            </Data>
+            <Data name="stormType">
+                <value>TS</value>
+            </Data>
+            <Data name="advisoryDate">
+                <value>1100 AM EDT Sun Aug 04 2024</value>
+            </Data>
+            <Data name="basin">
+                <value>AL</value>
+            </Data>
+            <Data name="fcstpd">
+                <value>120</value>
+            </Data>
+            <Data name="storm">
+                <value>Tropical Storm Debby</value>
+            </Data>
+            <Data name="atcfid">
+                <value>AL042024</value>
+            </Data>
+            <Data name="advisoryNum">
+                <value>9</value>
+            </Data>
+            <Data name="stormNum">
+                <value>4</value>
+            </Data>
+            <Data name="stormName">
+                <value>Debby</value>
+            </Data>
+        </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Tropical Storm Warning</name>
+        <styleUrl>#TWR</styleUrl>
+        <LineString>
+                <coordinates>
+-82.89,24.63,0 -82.86,24.63,0 
+                </coordinates>
+        </LineString>
+        <ExtendedData>
+            <Data name="timezone">
+                <value>EDT</value>
+            </Data>
+            <Data name="stormType">
+                <value>TS</value>
+            </Data>
+            <Data name="advisoryDate">
+                <value>1100 AM EDT Sun Aug 04 2024</value>
+            </Data>
+            <Data name="basin">
+                <value>AL</value>
+            </Data>
+            <Data name="fcstpd">
+                <value>120</value>
+            </Data>
+            <Data name="storm">
+                <value>Tropical Storm Debby</value>
+            </Data>
+            <Data name="atcfid">
+                <value>AL042024</value>
+            </Data>
+            <Data name="advisoryNum">
+                <value>9</value>
+            </Data>
+            <Data name="stormNum">
+                <value>4</value>
+            </Data>
+            <Data name="stormName">
+                <value>Debby</value>
+            </Data>
+        </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Tropical Storm Warning</name>
+        <styleUrl>#TWR</styleUrl>
+        <LineString>
+                <coordinates>
+-85.22,29.68,0 -84.38,29.96,0 
+                </coordinates>
+        </LineString>
+        <ExtendedData>
+            <Data name="timezone">
+                <value>EDT</value>
+            </Data>
+            <Data name="stormType">
+                <value>TS</value>
+            </Data>
+            <Data name="advisoryDate">
+                <value>1100 AM EDT Sun Aug 04 2024</value>
+            </Data>
+            <Data name="basin">
+                <value>AL</value>
+            </Data>
+            <Data name="fcstpd">
+                <value>120</value>
+            </Data>
+            <Data name="storm">
+                <value>Tropical Storm Debby</value>
+            </Data>
+            <Data name="atcfid">
+                <value>AL042024</value>
+            </Data>
+            <Data name="advisoryNum">
+                <value>9</value>
+            </Data>
+            <Data name="stormNum">
+                <value>4</value>
+            </Data>
+            <Data name="stormName">
+                <value>Debby</value>
+            </Data>
+        </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Tropical Storm Warning</name>
+        <styleUrl>#TWR</styleUrl>
+        <LineString>
+                <coordinates>
+-83.17,29.3,0 -82.75,29.03,0 
+                </coordinates>
+        </LineString>
+        <ExtendedData>
+            <Data name="timezone">
+                <value>EDT</value>
+            </Data>
+            <Data name="stormType">
+                <value>TS</value>
+            </Data>
+            <Data name="advisoryDate">
+                <value>1100 AM EDT Sun Aug 04 2024</value>
+            </Data>
+            <Data name="basin">
+                <value>AL</value>
+            </Data>
+            <Data name="fcstpd">
+                <value>120</value>
+            </Data>
+            <Data name="storm">
+                <value>Tropical Storm Debby</value>
+            </Data>
+            <Data name="atcfid">
+                <value>AL042024</value>
+            </Data>
+            <Data name="advisoryNum">
+                <value>9</value>
+            </Data>
+            <Data name="stormNum">
+                <value>4</value>
+            </Data>
+            <Data name="stormName">
+                <value>Debby</value>
+            </Data>
+        </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Hurricane Warning</name>
+        <styleUrl>#HWR</styleUrl>
+        <LineString>
+                <coordinates>
+-84.38,29.96,0 -84.08,30.1,0 -83.99,30.09,0 -83.4,29.67,0 -83.17,29.3,0 
+                </coordinates>
+        </LineString>
+        <ExtendedData>
+            <Data name="timezone">
+                <value>EDT</value>
+            </Data>
+            <Data name="stormType">
+                <value>TS</value>
+            </Data>
+            <Data name="advisoryDate">
+                <value>1100 AM EDT Sun Aug 04 2024</value>
+            </Data>
+            <Data name="basin">
+                <value>AL</value>
+            </Data>
+            <Data name="fcstpd">
+                <value>120</value>
+            </Data>
+            <Data name="storm">
+                <value>Tropical Storm Debby</value>
+            </Data>
+            <Data name="atcfid">
+                <value>AL042024</value>
+            </Data>
+            <Data name="advisoryNum">
+                <value>9</value>
+            </Data>
+            <Data name="stormNum">
+                <value>4</value>
+            </Data>
+            <Data name="stormName">
+                <value>Debby</value>
+            </Data>
+        </ExtendedData>
+    </Placemark>
+</Document>
+</kml>
