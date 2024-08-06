@@ -1,0 +1,155 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -112.0,
+                        17.7,
+                        0.0
+                    ],
+                    [
+                        -114.3,
+                        18.7,
+                        0.0
+                    ],
+                    [
+                        -117.4,
+                        19.3,
+                        0.0
+                    ],
+                    [
+                        -120.5,
+                        19.7,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "17.7N, 112.0W",
+                "advisoryNum": "5",
+                "atcfid": "EP062024",
+                "basin": "ep",
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Fabio (EP062024)</b></font></td></tr> \n                        <tr><td>Advisory #5 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "65",
+                "maxGustMPH": "75",
+                "maxWindKnots": "55",
+                "maxWindMPH": "65",
+                "minimumPressure": "995",
+                "pubAdvTime": "800 AM MST Tue Aug 06 2024",
+                "storm": "Tropical Storm Fabio",
+                "stormMovement": "WNW",
+                "stormName": "Fabio",
+                "stormNum": "06",
+                "stormType": "TS",
+                "styleUrl": "#72_line",
+                "timezone": "MST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -112.0,
+                        17.7,
+                        0.0
+                    ],
+                    [
+                        -114.3,
+                        18.7,
+                        0.0
+                    ],
+                    [
+                        -117.4,
+                        19.3,
+                        0.0
+                    ],
+                    [
+                        -120.5,
+                        19.7,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "5",
+                "atcfid": "EP062024",
+                "basin": "ep",
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Fabio (EP062024)</b></font></td></tr> \n                        <tr><td>Advisory #5 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Tropical Storm Fabio",
+                "stormName": "Fabio",
+                "stormNum": "06",
+                "stormType": "TS",
+                "styleUrl": "#120_line",
+                "timezone": "MST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -112.0,
+                    17.7,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Fabio (EP062024)</b></font></td></tr> \n                        <tr><td>Advisory #5</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 AM MST August 06, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 17.7 N, -112.0 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 55 knots (65 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 65 knots (75 mph) </td></tr> \n                        <tr><td nowrap>Motion: WNW </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 995 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -114.3,
+                    18.7,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Fabio (EP062024)</b></font></td></tr> \n                        <tr><td>Advisory #5</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>12 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  5:00 PM MST August 06, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 18.7 N, -114.3 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 55 knots (65 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 65 knots (75 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -117.4,
+                    19.3,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Fabio (EP062024)</b></font></td></tr> \n                        <tr><td>Advisory #5</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>24 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  5:00 AM MST August 07, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 19.3 N, -117.4 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 55 knots (65 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 65 knots (75 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -120.5,
+                    19.7,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Fabio (EP062024)</b></font></td></tr> \n                        <tr><td>Advisory #5</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>36 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  5:00 PM MST August 07, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 19.7 N, -120.5 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 50 knots (60 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 60 knots (70 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
