@@ -1,0 +1,114 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -78.55,
+                        33.85,
+                        0.0
+                    ],
+                    [
+                        -77.96,
+                        33.84,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryDate": "1100 PM EDT Mon Aug 05 2024",
+                "advisoryNum": "15",
+                "atcfid": "AL042024",
+                "basin": "AL",
+                "fcstpd": "120",
+                "name": "Tropical Storm Watch",
+                "storm": "Tropical Storm Debby",
+                "stormName": "Debby",
+                "stormNum": "4",
+                "stormType": "TS",
+                "styleUrl": "#TWA",
+                "timezone": "EDT"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -81.38,
+                        30.24,
+                        0.0
+                    ],
+                    [
+                        -81.43,
+                        30.51,
+                        0.0
+                    ],
+                    [
+                        -81.44,
+                        30.71,
+                        0.0
+                    ],
+                    [
+                        -81.42,
+                        30.99,
+                        0.0
+                    ],
+                    [
+                        -81.29,
+                        31.29,
+                        0.0
+                    ],
+                    [
+                        -81.14,
+                        31.71,
+                        0.0
+                    ],
+                    [
+                        -80.86,
+                        32.03,
+                        0.0
+                    ],
+                    [
+                        -80.32,
+                        32.49,
+                        0.0
+                    ],
+                    [
+                        -79.27,
+                        33.12,
+                        0.0
+                    ],
+                    [
+                        -79.01,
+                        33.56,
+                        0.0
+                    ],
+                    [
+                        -78.55,
+                        33.85,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryDate": "1100 PM EDT Mon Aug 05 2024",
+                "advisoryNum": "15",
+                "atcfid": "AL042024",
+                "basin": "AL",
+                "fcstpd": "120",
+                "name": "Tropical Storm Warning",
+                "storm": "Tropical Storm Debby",
+                "stormName": "Debby",
+                "stormNum": "4",
+                "stormType": "TS",
+                "styleUrl": "#TWR",
+                "timezone": "EDT"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
