@@ -1,0 +1,80 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -126.0,
+                        16.7,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "16.7N, 126.0W",
+                "advisoryNum": "11",
+                "atcfid": "EP042024",
+                "basin": "ep",
+                "description": "<table> \n                        <tr><td><font color=black><b>Remnants Of Daniel (EP042024)</b></font></td></tr> \n                        <tr><td>Advisory #11 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "35",
+                "maxGustMPH": "40",
+                "maxWindKnots": "25",
+                "maxWindMPH": "30",
+                "minimumPressure": "1006",
+                "pubAdvTime": "800 PM PDT Mon Aug 05 2024",
+                "storm": "Remnants Of Daniel",
+                "stormMovement": "NE",
+                "stormName": "Daniel",
+                "stormNum": "04",
+                "stormType": "PTC",
+                "styleUrl": "#72_line",
+                "timezone": "PDT"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -126.0,
+                        16.7,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "11",
+                "atcfid": "EP042024",
+                "basin": "ep",
+                "description": "<table> \n                        <tr><td><font color=black><b>Remnants Of Daniel (EP042024)</b></font></td></tr> \n                        <tr><td>Advisory #11 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Remnants Of Daniel",
+                "stormName": "Daniel",
+                "stormNum": "04",
+                "stormType": "PTC",
+                "styleUrl": "#120_line",
+                "timezone": "PDT"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -126.0,
+                    16.7,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Remnants Of Daniel (EP042024)</b></font></td></tr> \n                        <tr><td>Advisory #11</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 PM PDT August 05, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 16.7 N, -126.0 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 25 knots (30 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 35 knots (40 mph) </td></tr> \n                        <tr><td nowrap>Motion: NE </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 1006 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
