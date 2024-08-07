@@ -1975,6 +1975,27 @@
                         19.3
                     ],
                     [
+                        -122.0,
+                        20.1
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "1478",
+            "properties": {
+                "model": "DRCL",
+                "warning_datetime": "2024-08-07 18:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -119.8,
+                        19.3
+                    ],
+                    [
                         -122.7,
                         21.0
                     ],
@@ -2013,7 +2034,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "1479",
+            "id": "1480",
             "properties": {
                 "model": "EGRI",
                 "warning_datetime": "2024-08-07 18:00:00"
@@ -2070,7 +2091,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "1481",
+            "id": "1482",
             "properties": {
                 "model": "UKMI",
                 "warning_datetime": "2024-08-07 18:00:00"
@@ -2078,8 +2099,29 @@
             "type": "Feature"
         },
         {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -119.8,
+                        19.3
+                    ],
+                    [
+                        -120.2,
+                        18.4
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "1495",
+            "properties": {
+                "model": "OFCL",
+                "warning_datetime": "2024-08-07 18:00:00"
+            },
+            "type": "Feature"
+        },
+        {
             "geometry": null,
-            "id": "1502",
+            "id": "1504",
             "properties": {
                 "model": "OFCI",
                 "warning_datetime": "2024-08-07 18:00:00"
