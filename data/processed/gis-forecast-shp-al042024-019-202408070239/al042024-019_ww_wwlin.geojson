@@ -1,0 +1,83 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -77.52,
+                        34.44
+                    ],
+                    [
+                        -77.11,
+                        34.64
+                    ],
+                    [
+                        -76.67,
+                        34.69
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "0",
+            "properties": {
+                "ADVDATE": "1100 PM EDT Tue Aug 06 2024",
+                "ADVISNUM": "19",
+                "BASIN": "AL",
+                "FCSTPRD": 120.0,
+                "STORMNAME": "Debby",
+                "STORMNUM": 4.0,
+                "STORMTYPE": "TS",
+                "TCWW": "TWA"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -80.86,
+                        32.03
+                    ],
+                    [
+                        -80.32,
+                        32.49
+                    ],
+                    [
+                        -79.27,
+                        33.12
+                    ],
+                    [
+                        -79.01,
+                        33.56
+                    ],
+                    [
+                        -78.55,
+                        33.85
+                    ],
+                    [
+                        -77.96,
+                        33.84
+                    ],
+                    [
+                        -77.52,
+                        34.44
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "1",
+            "properties": {
+                "ADVDATE": "1100 PM EDT Tue Aug 06 2024",
+                "ADVISNUM": "19",
+                "BASIN": "AL",
+                "FCSTPRD": 120.0,
+                "STORMNAME": "Debby",
+                "STORMNUM": 4.0,
+                "STORMTYPE": "TS",
+                "TCWW": "TWR"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
