@@ -1,0 +1,205 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -80.2,
+                        34.8,
+                        0.0
+                    ],
+                    [
+                        -79.9,
+                        35.8,
+                        0.0
+                    ],
+                    [
+                        -78.8,
+                        38.7,
+                        0.0
+                    ],
+                    [
+                        -75.0,
+                        42.8,
+                        0.0
+                    ],
+                    [
+                        -69.3,
+                        47.0,
+                        0.0
+                    ],
+                    [
+                        -61.9,
+                        50.7,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "34.8N, 80.2W",
+                "advisoryNum": "25A",
+                "atcfid": "AL042024",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Debby (AL042024)</b></font></td></tr> \n                        <tr><td>Advisory #25A </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "45",
+                "maxGustMPH": "50",
+                "maxWindKnots": "35",
+                "maxWindMPH": "40",
+                "minimumPressure": "997",
+                "pubAdvTime": "200 PM EDT Thu Aug 08 2024",
+                "storm": "Tropical Storm Debby",
+                "stormMovement": "NNW",
+                "stormName": "Debby",
+                "stormNum": "04",
+                "stormType": "TS",
+                "styleUrl": "#72_line",
+                "timezone": "EDT"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -80.2,
+                        34.8,
+                        0.0
+                    ],
+                    [
+                        -79.9,
+                        35.8,
+                        0.0
+                    ],
+                    [
+                        -78.8,
+                        38.7,
+                        0.0
+                    ],
+                    [
+                        -75.0,
+                        42.8,
+                        0.0
+                    ],
+                    [
+                        -69.3,
+                        47.0,
+                        0.0
+                    ],
+                    [
+                        -61.9,
+                        50.7,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "25A",
+                "atcfid": "AL042024",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Debby (AL042024)</b></font></td></tr> \n                        <tr><td>Advisory #25A </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Tropical Storm Debby",
+                "stormName": "Debby",
+                "stormNum": "04",
+                "stormType": "TS",
+                "styleUrl": "#120_line",
+                "timezone": "EDT"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.2,
+                    34.8,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Debby (AL042024)</b></font></td></tr> \n                        <tr><td>Advisory #25A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 PM EDT August 08, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 34.8 N, -80.2 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 35 knots (40 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 45 knots (50 mph) </td></tr> \n                        <tr><td nowrap>Motion: NNW </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 997 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.9,
+                    35.8,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Debby (AL042024)</b></font></td></tr> \n                        <tr><td>Advisory #25A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>12 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 PM EDT August 08, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 35.8 N, -79.9 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 30 knots (35 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 40 knots (45 mph) </td></tr>",
+                "styleUrl": "#d_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -78.8,
+                    38.7,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Debby (AL042024)</b></font></td></tr> \n                        <tr><td>Advisory #25A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>24 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 AM EDT August 09, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 38.7 N, -78.8 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 30 knots (35 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 40 knots (45 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.0,
+                    42.8,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Debby (AL042024)</b></font></td></tr> \n                        <tr><td>Advisory #25A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>36 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 PM EDT August 09, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 42.8 N, -75.0 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 30 knots (35 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 40 knots (45 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -69.3,
+                    47.0,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Debby (AL042024)</b></font></td></tr> \n                        <tr><td>Advisory #25A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>48 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 AM EDT August 10, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 47.0 N, -69.3 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 30 knots (35 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 40 knots (45 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -61.9,
+                    50.7,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Debby (AL042024)</b></font></td></tr> \n                        <tr><td>Advisory #25A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>60 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 PM EDT August 10, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 50.7 N, -61.9 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 30 knots (35 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 40 knots (45 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
