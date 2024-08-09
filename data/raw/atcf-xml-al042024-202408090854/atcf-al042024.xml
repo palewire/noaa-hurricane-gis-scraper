@@ -1,0 +1,191 @@
+<?xml version="1.0"?>
+<cycloneMessage>
+<!-- System Advisory Meta Information -->
+<atcfID>AL042024</atcfID>
+<issuingUnit>NWS WEATHER PREDICTION CENTER COLLEGE PARK MD</issuingUnit>
+<messageType>ROUTINE ADVISORY</messageType>
+<messageBinNumber>4</messageBinNumber>
+<advisoryNumber>28</advisoryNumber>
+<!-- System Date/Time Information -->
+<messageDateTimeLocal>20240809 05:00:00 AM EDT</messageDateTimeLocal>
+<messageDateTimeUTC>20240809 09:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>202408090900</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0500 AM EDT Fri Aug 09</messageDateTimeLocalStr>
+<timeEpochSeconds>1723194000</timeEpochSeconds>
+<!-- System state defined -->
+<systemType>POST-TROPICAL CYCLONE</systemType>
+<systemName>DEBBY</systemName>
+<!-- Center Location of the System -->
+<!-- Lattitude: North is positive; South is negative -->
+<!-- Longitude: East is positive; West is negative -->
+<!-- units: decimal degrees (tenths) -->
+<centerLocLatitude>38.2</centerLocLatitude>
+<centerLocLongitude>-79.1</centerLocLongitude>
+<!-- Lattitude: North is N; South is S -->
+<!-- Longitude: East is E; West is W -->
+<!-- units: decimal degrees (tenths) -->
+<centerLocLatitudeExpanded>38.2N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>79.1W</centerLocLongitudeExpanded>
+<!-- Maximum Intensity of the System -->
+<!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
+<systemIntensityMph>30</systemIntensityMph>
+<systemIntensityKph>45</systemIntensityKph>
+<systemIntensityKts>25</systemIntensityKts>
+<systemMslpMb>1003</systemMslpMb>
+<systemMslpInHg>29.62</systemMslpInHg>
+<systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
+<formationChancePct48h>N/A</formationChancePct48h>
+<formationChancePct7d>N/A</formationChancePct7d>
+<!-- Current System Movement -->
+<!-- units: Degrees, MPH and KPH -->
+<systemDirectionOfMotion>NNE OR 20 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>35</systemSpeedMph>
+<systemSpeedKph>56</systemSpeedKph>
+<systemSpeedKts>30</systemSpeedKts>
+<!-- Current System Location from known Reference Point -->
+<systemGeoRefPt1>ABOUT 110 MI...180 KM N OF DANVILLE VIRGINIA</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 165 MI...270 KM N OF RALEIGH NORTH CAROLINA</systemGeoRefPt2>
+<!-- Relevant Message -->
+<message>
+ZCZC NFDTCPAT4 ALL
+TTAA00 KWNH DDHHMM
+ 
+BULLETIN
+Post-Tropical Cyclone Debby Advisory Number  28
+NWS Weather Prediction Center College Park MD   AL042024
+500 AM EDT Fri Aug 09 2024
+ 
+...HEAVY RAINFALL AND A SIGNIFICANT FLOOD THREAT GRADUALLY SHIFTS
+NORTHWARD TODAY FROM THE NORTHERN MID-ATLANTIC INTO UPSTATE NEW
+YORK...
+ 
+ 
+SUMMARY OF 500 AM EDT...0900 UTC...INFORMATION
+----------------------------------------------
+LOCATION...38.2N 79.1W
+ABOUT 110 MI...180 KM N OF DANVILLE VIRGINIA
+ABOUT 165 MI...270 KM N OF RALEIGH NORTH CAROLINA
+MAXIMUM SUSTAINED WINDS...30 MPH...45 KM/H
+PRESENT MOVEMENT...NNE OR 20 DEGREES AT 35 MPH...56 KM/H
+MINIMUM CENTRAL PRESSURE...1003 MB...29.62 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+ 
+Flood Watches and Warnings are in effect for portions of....
+* South Carolina
+* North Carolina
+* Virginia
+* Maryland
+ 
+A Flood Watch is in effect for portions of...
+* Eastern West Virginia
+* Pennsylvania
+* New Jersey
+* Delaware
+* Upstate New York
+* Northern Vermont
+* Northern New Hampshire
+ 
+A Tornado Watch is in effect for portions of...
+* Eastern North Carolina
+* Northern and Eastern Virginia
+* Maryland
+* District of Columbia
+* Eastern West Virginia
+ 
+Coastal Flood Advisories and Warnings are in effect for portions
+of...
+* Coastal Mid-Atlantic
+ 
+A Gale Warning is in effect for the coastal waters of...
+* Mid-Atlantic
+* Southern New England
+ 
+Wind Advisories are in effect for portions of...
+* Western Virginia
+* Eastern Maryland
+* Delaware
+* Eastern Pennsylvania
+* New Jersey
+* Southern New York
+* Southern Connecticut
+* Northeast New York
+* Vermont
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 500 AM EDT (0900 UTC), the center of Post-Tropical Cyclone Debby
+was located near latitude 38.2 North, longitude 79.1 West. The
+post-tropical cyclone is moving toward the north-northeast near 35
+mph (56 km/h) and this motion is expected to continue, with a 
+gradual turn more to the northeast.
+ 
+Maximum sustained winds are near 30 mph (45 km/h) with higher gusts.
+Some increase in winds are possible as the system transitions 
+to an extratropical cyclone. 
+ 
+The estimated minimum central pressure is 1003 mb (29.62 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Key messages for Debby can be found in the Tropical Cyclone
+Discussion under AWIPS header MIATCDAT4 and WMO header WTNT44 KNHC.
+ 
+RAINFALL: Debby is expected to produce an additional 1 to 3 inches
+of rainfall with locally higher amounts, across portions of the
+coastal Carolinas today, with areas of considerable flooding
+expected.
+ 
+From portions of northern Virginia through Upstate New York, 2 to 4
+inches of rainfall, with local amounts to 6 inches, are expected
+through Friday night. This will likely result in areas of
+considerable flash and urban flooding, as well as river flooding.
+ 
+For portions of Northern New England, 1 to 3 inches of rain with
+locally higher amounts are expected through Friday night. This will
+result in isolated to scattered instances of flash flooding.
+ 
+For a complete depiction of forecast rainfall and flash flooding
+associated with  Debby, please see the National Weather Service
+Storm Total Rainfall Graphic, available at
+hurricanes.gov/graphics_at4.shtml?rainqpf and the Flash Flood Risk
+graphic at hurricanes.gov/graphics_at4.shtml?ero.  For a list of
+rainfall observations (and wind reports) associated this storm, see
+the companion storm summary at WBCSCCNS4 with the WMO header ACUS44
+KWBC or at the following link:
+www.wpc.ncep.noaa.gov/discussions/nfdscc4.html.
+ 
+TORNADOES: The risk for a couple of tornadoes will extend from
+eastern North Carolina into Virginia and Maryland early this
+morning. The threat for tornadoes will shift northward into New
+Jersey, eastern Pennsylvania and eastern New York today.
+ 
+WIND: Wind gusts of 30-50 MPH will be possible today into tonight
+across portions of eastern Maryland, Delaware, southeast
+Pennsylvania, New Jersey, far southeast New York into Long Island,
+coastal Connecticut, and far northeast New York into Vermont. Given
+saturated ground conditions these winds may bring down trees and
+result in isolated to scattered power outages.
+ 
+SURF:  Large swells will continue to affect the Southeast,
+Mid-Atlantic and Southern New England coast. These conditions are
+likely to cause life-threatening surf and rip current conditions.
+Please consult products from your local weather office.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 1100 AM EDT.
+ 
+$$
+Forecaster Chenard
+ 
+NNNN
+
+</message>
+</cycloneMessage>
