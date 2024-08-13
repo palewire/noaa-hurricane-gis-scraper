@@ -1,0 +1,270 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -61.9,
+                        16.6,
+                        0.0
+                    ],
+                    [
+                        -63.4,
+                        17.1,
+                        0.0
+                    ],
+                    [
+                        -65.7,
+                        18.7,
+                        0.0
+                    ],
+                    [
+                        -67.3,
+                        20.7,
+                        0.0
+                    ],
+                    [
+                        -68.3,
+                        23.0,
+                        0.0
+                    ],
+                    [
+                        -68.3,
+                        25.1,
+                        0.0
+                    ],
+                    [
+                        -67.3,
+                        27.2,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "16.6N, 61.9W",
+                "advisoryNum": "7A",
+                "atcfid": "AL052024",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Ernesto (AL052024)</b></font></td></tr> \n                        <tr><td>Advisory #7A </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "45",
+                "maxGustMPH": "50",
+                "maxWindKnots": "35",
+                "maxWindMPH": "45",
+                "minimumPressure": "1005",
+                "pubAdvTime": "800 AM AST Tue Aug 13 2024",
+                "storm": "Tropical Storm Ernesto",
+                "stormMovement": "W",
+                "stormName": "Ernesto",
+                "stormNum": "05",
+                "stormType": "TS",
+                "styleUrl": "#72_line",
+                "timezone": "AST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -61.9,
+                        16.6,
+                        0.0
+                    ],
+                    [
+                        -63.4,
+                        17.1,
+                        0.0
+                    ],
+                    [
+                        -65.7,
+                        18.7,
+                        0.0
+                    ],
+                    [
+                        -67.3,
+                        20.7,
+                        0.0
+                    ],
+                    [
+                        -68.3,
+                        23.0,
+                        0.0
+                    ],
+                    [
+                        -68.3,
+                        25.1,
+                        0.0
+                    ],
+                    [
+                        -67.3,
+                        27.2,
+                        0.0
+                    ],
+                    [
+                        -65.0,
+                        30.5,
+                        0.0
+                    ],
+                    [
+                        -64.5,
+                        33.5,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "7A",
+                "atcfid": "AL052024",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Ernesto (AL052024)</b></font></td></tr> \n                        <tr><td>Advisory #7A </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Tropical Storm Ernesto",
+                "stormName": "Ernesto",
+                "stormNum": "05",
+                "stormType": "TS",
+                "styleUrl": "#120_line",
+                "timezone": "AST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -61.9,
+                    16.6,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Ernesto (AL052024)</b></font></td></tr> \n                        <tr><td>Advisory #7A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 AM AST August 13, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 16.6 N, -61.9 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 35 knots (45 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 45 knots (50 mph) </td></tr> \n                        <tr><td nowrap>Motion: W </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 1005 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -63.4,
+                    17.1,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Ernesto (AL052024)</b></font></td></tr> \n                        <tr><td>Advisory #7A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>12 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 PM AST August 13, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 17.1 N, -63.4 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 40 knots (45 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 50 knots (60 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -65.7,
+                    18.7,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Ernesto (AL052024)</b></font></td></tr> \n                        <tr><td>Advisory #7A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>24 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 AM AST August 14, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 18.7 N, -65.7 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 50 knots (60 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 60 knots (70 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -67.3,
+                    20.7,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Ernesto (AL052024)</b></font></td></tr> \n                        <tr><td>Advisory #7A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>36 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 PM AST August 14, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 20.7 N, -67.3 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 60 knots (70 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 75 knots (85 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -68.3,
+                    23.0,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Ernesto (AL052024)</b></font></td></tr> \n                        <tr><td>Advisory #7A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>48 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 AM AST August 15, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 23.0 N, -68.3 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 70 knots (80 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 85 knots (100 mph) </td></tr>",
+                "styleUrl": "#h_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -68.3,
+                    25.1,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Ernesto (AL052024)</b></font></td></tr> \n                        <tr><td>Advisory #7A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>60 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 PM AST August 15, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 25.1 N, -68.3 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 80 knots (90 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 100 knots (115 mph) </td></tr>",
+                "styleUrl": "#h_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -67.3,
+                    27.2,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Ernesto (AL052024)</b></font></td></tr> \n                        <tr><td>Advisory #7A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>72 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 AM AST August 16, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 27.2 N, -67.3 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 90 knots (105 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 110 knots (125 mph) </td></tr>",
+                "styleUrl": "#h_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -65.0,
+                    30.5,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Ernesto (AL052024)</b></font></td></tr> \n                        <tr><td>Advisory #7A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>96 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 AM AST August 17, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 30.5 N, -65.0 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 95 knots (110 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 115 knots (130 mph) </td></tr>",
+                "styleUrl": "#h_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -64.5,
+                    33.5,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Ernesto (AL052024)</b></font></td></tr> \n                        <tr><td>Advisory #7A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>120 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 AM AST August 18, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 33.5 N, -64.5 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 95 knots (110 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 115 knots (130 mph) </td></tr>",
+                "styleUrl": "#h_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
