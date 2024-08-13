@@ -1,0 +1,667 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://earth.google.com/kml/2.1'>
+<Document>
+<name>Tropical Storm Ernesto (Advisory #9) - Watch/Warnings</name>
+    <description>
+        <TABLE>
+            <TR><TD><B>Title:</B> Tropical Cyclone Watch/Warnings for AL052024 (Advisory #9)</TD></TR>
+            <TR><TD><B>Description:</B>The official watch/warning in KML format is an experimental product produced by the National Hurricane Center.  Coastal areas placed under tropical cyclone watches or warnings are delimited by specific geographical locations known as "breakpoints" (e.g., a hurricane warning is in effect from breakpoint "A" to breakpoint "B").  This file consists of one or more lines connecting the breakpoints delimiting any current watches or warnings. </TD></TR>
+            <TR><TD><B>Date Created:</B> 08-13-2024 - 20:47 UTC </TD></TR>
+            <TR><TD><B>Created:</B> National Hurricane Center </TD></TR>
+            <TR><TD><B>Disclaimer:</B>The official watch/warning in KML format is an experimental product.</TD></TR>
+            <TR><TD><B>For More Information: </B><a href="https://www.nhc.noaa.gov">https://www.nhc.noaa.gov</a></TD></TR>
+        </TABLE>
+    </description>
+        <Style id="TWR">
+                <LineStyle>
+                        <color>ffff0055</color>
+                        <width>3</width>
+                </LineStyle>
+                <PolyStyle>
+                        <color>ffff0055</color>
+                </PolyStyle>
+        </Style>
+        <Style id="TWA">
+                <LineStyle>
+                        <color>ff22e2f7</color>
+                        <width>3</width>
+                </LineStyle>
+                <PolyStyle>
+                        <color>ff22e2f7</color>
+                </PolyStyle>
+        </Style>
+        <Style id="HWA">
+                <LineStyle>
+                        <color>99ffaaff</color>
+                        <width>8</width>
+                </LineStyle>
+                <PolyStyle>
+                        <color>99ffaaff</color>
+                </PolyStyle>
+        </Style>
+        <Style id="HWR">
+                <LineStyle>
+                        <color>990000ff</color>
+                        <width>8</width>
+                </LineStyle>
+                <PolyStyle>
+                        <color>990000ff</color>
+                </PolyStyle>
+        </Style>
+    <Placemark>
+      <name>Hurricane Watch</name>
+        <styleUrl>#HWA</styleUrl>
+        <LineString>
+                <coordinates>
+-64.7,18.42,0 -64.37,18.46,0 -64.32,18.77,0 
+                </coordinates>
+        </LineString>
+        <ExtendedData>
+            <Data name="timezone">
+                <value>AST</value>
+            </Data>
+            <Data name="stormType">
+                <value>TS</value>
+            </Data>
+            <Data name="advisoryDate">
+                <value>500 PM AST Tue Aug 13 2024</value>
+            </Data>
+            <Data name="basin">
+                <value>AL</value>
+            </Data>
+            <Data name="fcstpd">
+                <value>120</value>
+            </Data>
+            <Data name="storm">
+                <value>Tropical Storm Ernesto</value>
+            </Data>
+            <Data name="atcfid">
+                <value>AL052024</value>
+            </Data>
+            <Data name="advisoryNum">
+                <value>9</value>
+            </Data>
+            <Data name="stormNum">
+                <value>5</value>
+            </Data>
+            <Data name="stormName">
+                <value>Ernesto</value>
+            </Data>
+        </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Hurricane Watch</name>
+        <styleUrl>#HWA</styleUrl>
+        <LineString>
+                <coordinates>
+-65.62,18.08,0 -65.24,18.17,0 
+                </coordinates>
+        </LineString>
+        <ExtendedData>
+            <Data name="timezone">
+                <value>AST</value>
+            </Data>
+            <Data name="stormType">
+                <value>TS</value>
+            </Data>
+            <Data name="advisoryDate">
+                <value>500 PM AST Tue Aug 13 2024</value>
+            </Data>
+            <Data name="basin">
+                <value>AL</value>
+            </Data>
+            <Data name="fcstpd">
+                <value>120</value>
+            </Data>
+            <Data name="storm">
+                <value>Tropical Storm Ernesto</value>
+            </Data>
+            <Data name="atcfid">
+                <value>AL052024</value>
+            </Data>
+            <Data name="advisoryNum">
+                <value>9</value>
+            </Data>
+            <Data name="stormNum">
+                <value>5</value>
+            </Data>
+            <Data name="stormName">
+                <value>Ernesto</value>
+            </Data>
+        </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Hurricane Watch</name>
+        <styleUrl>#HWA</styleUrl>
+        <LineString>
+                <coordinates>
+-65.38,18.36,0 -65.21,18.27,0 
+                </coordinates>
+        </LineString>
+        <ExtendedData>
+            <Data name="timezone">
+                <value>AST</value>
+            </Data>
+            <Data name="stormType">
+                <value>TS</value>
+            </Data>
+            <Data name="advisoryDate">
+                <value>500 PM AST Tue Aug 13 2024</value>
+            </Data>
+            <Data name="basin">
+                <value>AL</value>
+            </Data>
+            <Data name="fcstpd">
+                <value>120</value>
+            </Data>
+            <Data name="storm">
+                <value>Tropical Storm Ernesto</value>
+            </Data>
+            <Data name="atcfid">
+                <value>AL052024</value>
+            </Data>
+            <Data name="advisoryNum">
+                <value>9</value>
+            </Data>
+            <Data name="stormNum">
+                <value>5</value>
+            </Data>
+            <Data name="stormName">
+                <value>Ernesto</value>
+            </Data>
+        </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Hurricane Watch</name>
+        <styleUrl>#HWA</styleUrl>
+        <LineString>
+                <coordinates>
+-65.05,18.38,0 -64.83,18.3,0 -64.67,18.36,0 
+                </coordinates>
+        </LineString>
+        <ExtendedData>
+            <Data name="timezone">
+                <value>AST</value>
+            </Data>
+            <Data name="stormType">
+                <value>TS</value>
+            </Data>
+            <Data name="advisoryDate">
+                <value>500 PM AST Tue Aug 13 2024</value>
+            </Data>
+            <Data name="basin">
+                <value>AL</value>
+            </Data>
+            <Data name="fcstpd">
+                <value>120</value>
+            </Data>
+            <Data name="storm">
+                <value>Tropical Storm Ernesto</value>
+            </Data>
+            <Data name="atcfid">
+                <value>AL052024</value>
+            </Data>
+            <Data name="advisoryNum">
+                <value>9</value>
+            </Data>
+            <Data name="stormNum">
+                <value>5</value>
+            </Data>
+            <Data name="stormName">
+                <value>Ernesto</value>
+            </Data>
+        </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Hurricane Watch</name>
+        <styleUrl>#HWA</styleUrl>
+        <LineString>
+                <coordinates>
+-64.96,17.71,0 -64.5,17.75,0 
+                </coordinates>
+        </LineString>
+        <ExtendedData>
+            <Data name="timezone">
+                <value>AST</value>
+            </Data>
+            <Data name="stormType">
+                <value>TS</value>
+            </Data>
+            <Data name="advisoryDate">
+                <value>500 PM AST Tue Aug 13 2024</value>
+            </Data>
+            <Data name="basin">
+                <value>AL</value>
+            </Data>
+            <Data name="fcstpd">
+                <value>120</value>
+            </Data>
+            <Data name="storm">
+                <value>Tropical Storm Ernesto</value>
+            </Data>
+            <Data name="atcfid">
+                <value>AL052024</value>
+            </Data>
+            <Data name="advisoryNum">
+                <value>9</value>
+            </Data>
+            <Data name="stormNum">
+                <value>5</value>
+            </Data>
+            <Data name="stormName">
+                <value>Ernesto</value>
+            </Data>
+        </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Tropical Storm Warning</name>
+        <styleUrl>#TWR</styleUrl>
+        <LineString>
+                <coordinates>
+-62.94,17.47,0 -63.27,17.65,0 
+                </coordinates>
+        </LineString>
+        <ExtendedData>
+            <Data name="timezone">
+                <value>AST</value>
+            </Data>
+            <Data name="stormType">
+                <value>TS</value>
+            </Data>
+            <Data name="advisoryDate">
+                <value>500 PM AST Tue Aug 13 2024</value>
+            </Data>
+            <Data name="basin">
+                <value>AL</value>
+            </Data>
+            <Data name="fcstpd">
+                <value>120</value>
+            </Data>
+            <Data name="storm">
+                <value>Tropical Storm Ernesto</value>
+            </Data>
+            <Data name="atcfid">
+                <value>AL052024</value>
+            </Data>
+            <Data name="advisoryNum">
+                <value>9</value>
+            </Data>
+            <Data name="stormNum">
+                <value>5</value>
+            </Data>
+            <Data name="stormName">
+                <value>Ernesto</value>
+            </Data>
+        </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Tropical Storm Warning</name>
+        <styleUrl>#TWR</styleUrl>
+        <LineString>
+                <coordinates>
+-62.87,17.42,0 -62.12,16.68,0 
+                </coordinates>
+        </LineString>
+        <ExtendedData>
+            <Data name="timezone">
+                <value>AST</value>
+            </Data>
+            <Data name="stormType">
+                <value>TS</value>
+            </Data>
+            <Data name="advisoryDate">
+                <value>500 PM AST Tue Aug 13 2024</value>
+            </Data>
+            <Data name="basin">
+                <value>AL</value>
+            </Data>
+            <Data name="fcstpd">
+                <value>120</value>
+            </Data>
+            <Data name="storm">
+                <value>Tropical Storm Ernesto</value>
+            </Data>
+            <Data name="atcfid">
+                <value>AL052024</value>
+            </Data>
+            <Data name="advisoryNum">
+                <value>9</value>
+            </Data>
+            <Data name="stormNum">
+                <value>5</value>
+            </Data>
+            <Data name="stormName">
+                <value>Ernesto</value>
+            </Data>
+        </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Tropical Storm Warning</name>
+        <styleUrl>#TWR</styleUrl>
+        <LineString>
+                <coordinates>
+-63.12,18.12,0 -62.8,17.87,0 
+                </coordinates>
+        </LineString>
+        <ExtendedData>
+            <Data name="timezone">
+                <value>AST</value>
+            </Data>
+            <Data name="stormType">
+                <value>TS</value>
+            </Data>
+            <Data name="advisoryDate">
+                <value>500 PM AST Tue Aug 13 2024</value>
+            </Data>
+            <Data name="basin">
+                <value>AL</value>
+            </Data>
+            <Data name="fcstpd">
+                <value>120</value>
+            </Data>
+            <Data name="storm">
+                <value>Tropical Storm Ernesto</value>
+            </Data>
+            <Data name="atcfid">
+                <value>AL052024</value>
+            </Data>
+            <Data name="advisoryNum">
+                <value>9</value>
+            </Data>
+            <Data name="stormNum">
+                <value>5</value>
+            </Data>
+            <Data name="stormName">
+                <value>Ernesto</value>
+            </Data>
+        </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Tropical Storm Warning</name>
+        <styleUrl>#TWR</styleUrl>
+        <LineString>
+                <coordinates>
+-63.19,18.15,0 -62.9,18.29,0 
+                </coordinates>
+        </LineString>
+        <ExtendedData>
+            <Data name="timezone">
+                <value>AST</value>
+            </Data>
+            <Data name="stormType">
+                <value>TS</value>
+            </Data>
+            <Data name="advisoryDate">
+                <value>500 PM AST Tue Aug 13 2024</value>
+            </Data>
+            <Data name="basin">
+                <value>AL</value>
+            </Data>
+            <Data name="fcstpd">
+                <value>120</value>
+            </Data>
+            <Data name="storm">
+                <value>Tropical Storm Ernesto</value>
+            </Data>
+            <Data name="atcfid">
+                <value>AL052024</value>
+            </Data>
+            <Data name="advisoryNum">
+                <value>9</value>
+            </Data>
+            <Data name="stormNum">
+                <value>5</value>
+            </Data>
+            <Data name="stormName">
+                <value>Ernesto</value>
+            </Data>
+        </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Tropical Storm Warning</name>
+        <styleUrl>#TWR</styleUrl>
+        <LineString>
+                <coordinates>
+-67.13,18.51,0 -67.26,18.35,0 -67.15,18.22,0 -67.22,17.97,0 -66.9,17.93,0 -66.74,17.99,0 -66.59,17.96,0 -66.48,17.99,0 -66.37,17.94,0 -66.14,17.94,0 -65.84,18.01,0 -65.75,18.18,0 -65.59,18.23,0 -65.62,18.29,0 -65.62,18.38,0 -65.67,18.36,0 -65.86,18.45,0 -66.18,18.47,0 -66.4,18.5,0 -66.46,18.47,0 -66.65,18.49,0 -66.76,18.48,0 -66.97,18.49,0 -67.06,18.52,0 -67.13,18.51,0 
+                </coordinates>
+        </LineString>
+        <ExtendedData>
+            <Data name="timezone">
+                <value>AST</value>
+            </Data>
+            <Data name="stormType">
+                <value>TS</value>
+            </Data>
+            <Data name="advisoryDate">
+                <value>500 PM AST Tue Aug 13 2024</value>
+            </Data>
+            <Data name="basin">
+                <value>AL</value>
+            </Data>
+            <Data name="fcstpd">
+                <value>120</value>
+            </Data>
+            <Data name="storm">
+                <value>Tropical Storm Ernesto</value>
+            </Data>
+            <Data name="atcfid">
+                <value>AL052024</value>
+            </Data>
+            <Data name="advisoryNum">
+                <value>9</value>
+            </Data>
+            <Data name="stormNum">
+                <value>5</value>
+            </Data>
+            <Data name="stormName">
+                <value>Ernesto</value>
+            </Data>
+        </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Tropical Storm Warning</name>
+        <styleUrl>#TWR</styleUrl>
+        <LineString>
+                <coordinates>
+-64.7,18.42,0 -64.37,18.46,0 -64.32,18.77,0 
+                </coordinates>
+        </LineString>
+        <ExtendedData>
+            <Data name="timezone">
+                <value>AST</value>
+            </Data>
+            <Data name="stormType">
+                <value>TS</value>
+            </Data>
+            <Data name="advisoryDate">
+                <value>500 PM AST Tue Aug 13 2024</value>
+            </Data>
+            <Data name="basin">
+                <value>AL</value>
+            </Data>
+            <Data name="fcstpd">
+                <value>120</value>
+            </Data>
+            <Data name="storm">
+                <value>Tropical Storm Ernesto</value>
+            </Data>
+            <Data name="atcfid">
+                <value>AL052024</value>
+            </Data>
+            <Data name="advisoryNum">
+                <value>9</value>
+            </Data>
+            <Data name="stormNum">
+                <value>5</value>
+            </Data>
+            <Data name="stormName">
+                <value>Ernesto</value>
+            </Data>
+        </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Tropical Storm Warning</name>
+        <styleUrl>#TWR</styleUrl>
+        <LineString>
+                <coordinates>
+-65.62,18.08,0 -65.24,18.17,0 
+                </coordinates>
+        </LineString>
+        <ExtendedData>
+            <Data name="timezone">
+                <value>AST</value>
+            </Data>
+            <Data name="stormType">
+                <value>TS</value>
+            </Data>
+            <Data name="advisoryDate">
+                <value>500 PM AST Tue Aug 13 2024</value>
+            </Data>
+            <Data name="basin">
+                <value>AL</value>
+            </Data>
+            <Data name="fcstpd">
+                <value>120</value>
+            </Data>
+            <Data name="storm">
+                <value>Tropical Storm Ernesto</value>
+            </Data>
+            <Data name="atcfid">
+                <value>AL052024</value>
+            </Data>
+            <Data name="advisoryNum">
+                <value>9</value>
+            </Data>
+            <Data name="stormNum">
+                <value>5</value>
+            </Data>
+            <Data name="stormName">
+                <value>Ernesto</value>
+            </Data>
+        </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Tropical Storm Warning</name>
+        <styleUrl>#TWR</styleUrl>
+        <LineString>
+                <coordinates>
+-65.38,18.36,0 -65.21,18.27,0 
+                </coordinates>
+        </LineString>
+        <ExtendedData>
+            <Data name="timezone">
+                <value>AST</value>
+            </Data>
+            <Data name="stormType">
+                <value>TS</value>
+            </Data>
+            <Data name="advisoryDate">
+                <value>500 PM AST Tue Aug 13 2024</value>
+            </Data>
+            <Data name="basin">
+                <value>AL</value>
+            </Data>
+            <Data name="fcstpd">
+                <value>120</value>
+            </Data>
+            <Data name="storm">
+                <value>Tropical Storm Ernesto</value>
+            </Data>
+            <Data name="atcfid">
+                <value>AL052024</value>
+            </Data>
+            <Data name="advisoryNum">
+                <value>9</value>
+            </Data>
+            <Data name="stormNum">
+                <value>5</value>
+            </Data>
+            <Data name="stormName">
+                <value>Ernesto</value>
+            </Data>
+        </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Tropical Storm Warning</name>
+        <styleUrl>#TWR</styleUrl>
+        <LineString>
+                <coordinates>
+-65.05,18.38,0 -64.83,18.3,0 -64.67,18.36,0 
+                </coordinates>
+        </LineString>
+        <ExtendedData>
+            <Data name="timezone">
+                <value>AST</value>
+            </Data>
+            <Data name="stormType">
+                <value>TS</value>
+            </Data>
+            <Data name="advisoryDate">
+                <value>500 PM AST Tue Aug 13 2024</value>
+            </Data>
+            <Data name="basin">
+                <value>AL</value>
+            </Data>
+            <Data name="fcstpd">
+                <value>120</value>
+            </Data>
+            <Data name="storm">
+                <value>Tropical Storm Ernesto</value>
+            </Data>
+            <Data name="atcfid">
+                <value>AL052024</value>
+            </Data>
+            <Data name="advisoryNum">
+                <value>9</value>
+            </Data>
+            <Data name="stormNum">
+                <value>5</value>
+            </Data>
+            <Data name="stormName">
+                <value>Ernesto</value>
+            </Data>
+        </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Tropical Storm Warning</name>
+        <styleUrl>#TWR</styleUrl>
+        <LineString>
+                <coordinates>
+-64.96,17.71,0 -64.5,17.75,0 
+                </coordinates>
+        </LineString>
+        <ExtendedData>
+            <Data name="timezone">
+                <value>AST</value>
+            </Data>
+            <Data name="stormType">
+                <value>TS</value>
+            </Data>
+            <Data name="advisoryDate">
+                <value>500 PM AST Tue Aug 13 2024</value>
+            </Data>
+            <Data name="basin">
+                <value>AL</value>
+            </Data>
+            <Data name="fcstpd">
+                <value>120</value>
+            </Data>
+            <Data name="storm">
+                <value>Tropical Storm Ernesto</value>
+            </Data>
+            <Data name="atcfid">
+                <value>AL052024</value>
+            </Data>
+            <Data name="advisoryNum">
+                <value>9</value>
+            </Data>
+            <Data name="stormNum">
+                <value>5</value>
+            </Data>
+            <Data name="stormName">
+                <value>Ernesto</value>
+            </Data>
+        </ExtendedData>
+    </Placemark>
+</Document>
+</kml>
