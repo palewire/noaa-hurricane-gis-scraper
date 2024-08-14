@@ -1,0 +1,162 @@
+<?xml version="1.0"?>
+<cycloneMessage>
+<!-- System Advisory Meta Information -->
+<atcfID>AL052024</atcfID>
+<issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
+<messageType>ROUTINE ADVISORY</messageType>
+<messageBinNumber>5</messageBinNumber>
+<advisoryNumber>13</advisoryNumber>
+<!-- System Date/Time Information -->
+<messageDateTimeLocal>20240814 05:00:00 PM AST</messageDateTimeLocal>
+<messageDateTimeUTC>20240814 09:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>20240814210000</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0500 PM AST Wed Aug 14</messageDateTimeLocalStr>
+<timeEpochSeconds>1723669200</timeEpochSeconds>
+<!-- System state defined -->
+<systemType>HURRICANE</systemType>
+<systemName>ERNESTO</systemName>
+<!-- Center Location of the System -->
+<!-- Lattitude: North is positive; South is negative -->
+<!-- Longitude: East is positive; West is negative -->
+<!-- units: decimal degrees (tenths) -->
+<centerLocLatitude>21.7</centerLocLatitude>
+<centerLocLongitude>-68.3</centerLocLongitude>
+<!-- Lattitude: North is N; South is S -->
+<!-- Longitude: East is E; West is W -->
+<!-- units: decimal degrees (tenths) -->
+<centerLocLatitudeExpanded>21.7N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>68.3W</centerLocLongitudeExpanded>
+<!-- Maximum Intensity of the System -->
+<!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
+<systemIntensityMph>75</systemIntensityMph>
+<systemIntensityKph>120</systemIntensityKph>
+<systemIntensityKts>65</systemIntensityKts>
+<systemMslpMb>989</systemMslpMb>
+<systemMslpInHg>29.21</systemMslpInHg>
+<systemSaffirSimpsonCategory>CATEGORY 1</systemSaffirSimpsonCategory>
+<formationChancePct48h>N/A</formationChancePct48h>
+<formationChancePct7d>N/A</formationChancePct7d>
+<!-- Current System Movement -->
+<!-- units: Degrees, MPH and KPH -->
+<systemDirectionOfMotion>NW OR 325 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>16</systemSpeedMph>
+<systemSpeedKph>26</systemSpeedKph>
+<systemSpeedKts>14</systemSpeedKts>
+<!-- Current System Location from known Reference Point -->
+<systemGeoRefPt1>ABOUT 180 MI...290 KM E OF GRAND TURK ISLAND</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 765 MI...1230 KM SSW OF BERMUDA</systemGeoRefPt2>
+<!-- Relevant Message -->
+<message>
+ZCZC MIATCPAT5 ALL
+TTAA00 KNHC DDHHMM
+ 
+BULLETIN
+Hurricane Ernesto Advisory Number  13
+NWS National Hurricane Center Miami FL       AL052024
+500 PM AST Wed Aug 14 2024
+ 
+...ERNESTO EXPECTED TO STRENGTHEN OVER THE WESTERN ATLANTIC...
+...HURRICANE WATCH ISSUED FOR BERMUDA...
+ 
+ 
+SUMMARY OF 500 PM AST...2100 UTC...INFORMATION
+----------------------------------------------
+LOCATION...21.7N 68.3W
+ABOUT 180 MI...290 KM E OF GRAND TURK ISLAND
+ABOUT 765 MI...1230 KM SSW OF BERMUDA
+MAXIMUM SUSTAINED WINDS...75 MPH...120 KM/H
+PRESENT MOVEMENT...NW OR 325 DEGREES AT 16 MPH...26 KM/H
+MINIMUM CENTRAL PRESSURE...989 MB...29.21 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+ 
+The Bermuda Weather Service has issued a Hurricane Watch for
+Bermuda.
+ 
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+ 
+A Hurricane Watch is in effect for...
+* Bermuda
+ 
+A Hurricane Watch means that hurricane conditions are possible
+within the watch area.  A watch is typically issued 48 hours
+before the anticipated first occurrence of tropical-storm-force
+winds, conditions that make outside preparations difficult or
+dangerous.
+ 
+For storm information specific to your area, please monitor
+products issued by your national meteorological service.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 500 PM AST (2100 UTC), the center of Hurricane Ernesto was
+located near latitude 21.7 North, longitude 68.3 West.  Ernesto is
+moving toward the northwest near 16 mph (26 km/h).  A turn toward 
+the north-northwest and north is expected tonight and on Thursday.  
+A northward to northeastward motion at a slower forward speed is 
+expected Friday and Saturday.  On the forecast track, the center of 
+Ernesto is expected to pass near Bermuda on Saturday.
+ 
+Maximum sustained winds are near 75 mph (120 km/h) with higher
+gusts.  Strengthening is forecast during the next couple of days, 
+and Ernesto could become a major hurricane by Friday.
+ 
+Hurricane-force winds extend outward up to 35 miles (55 km) from the
+center and tropical-storm-force winds extend outward up to 175 miles
+(280 km).
+ 
+The estimated minimum central pressure is 989 mb (29.21 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Key messages for Ernesto can be found in the Tropical Cyclone
+Discussion under AWIPS header MIATCDAT5 and WMO header WTNT45 KNHC
+and on the web at hurricanes.gov/text/MIATCDAT5.shtml.
+ 
+WIND:  Hurricane conditions are possible on Bermuda Saturday, with
+tropical storm conditions possible by Friday afternoon.
+ 
+RAINFALL: Ernesto is expected to produce total rain accumulations 
+of 3 to 6 inches on Bermuda with isolated maximum amounts of 9 
+inches.  This rainfall may result in considerable life-threatening 
+flash flooding.
+
+Rainfall is expected to diminish this evening across Puerto Rico and 
+the U.S. and British Virgin Islands.  Total rainfall amounts from 
+Ernesto are expected to be in the 6 to 10 inch range, with maximum 
+amounts of 12 inches across southern to eastern Puerto Rico, 3 to 6 
+inches across northwestern Puerto Rico, and 4 to 6 inches across the 
+U.S and British Virgin Islands.
+
+For a complete depiction of forecast rainfall associated with 
+Hurricane Ernesto, please see the National Weather Service Storm 
+Total Rainfall Graphic, available at 
+hurricanes.gov/graphics_at5.shtml?rainqpf
+ 
+SURF: Swells generated by Ernesto are affecting portions of the
+northern Leeward Islands, the Virgin Islands, Puerto Rico, the
+Dominican Republic, and the Turks and Caicos Islands.  These swells
+will reach the southeastern Bahamas tonight, and Bermuda and the
+rest of the Bahamas on Thursday.  Swells are expected to reach the
+east coast of the United States Thursday night and continue into the
+weekend. These swells are likely to cause life-threatening surf and
+rip current conditions.  Please consult products from your local
+weather office.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next intermediate advisory at 800 PM AST.
+Next complete advisory at 1100 PM AST.
+ 
+$$
+Forecaster Berg
+ 
+NNNN
+</message>
+</cycloneMessage>
