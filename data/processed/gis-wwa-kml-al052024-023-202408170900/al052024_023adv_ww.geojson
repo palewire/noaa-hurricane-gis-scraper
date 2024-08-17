@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -64.98,
+                        32.21,
+                        0.0
+                    ],
+                    [
+                        -64.54,
+                        32.43,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryDate": "500 AM AST Sat Aug 17 2024",
+                "advisoryNum": "23",
+                "atcfid": "AL052024",
+                "basin": "AL",
+                "fcstpd": "120",
+                "name": "Hurricane Warning",
+                "storm": "Hurricane Ernesto",
+                "stormName": "Ernesto",
+                "stormNum": "5",
+                "stormType": "HU",
+                "styleUrl": "#HWR",
+                "timezone": "AST"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
