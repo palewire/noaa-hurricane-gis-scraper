@@ -5,13 +5,13 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>5</messageBinNumber>
-<advisoryNumber>32</advisoryNumber>
+<advisoryNumber>33</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20240819 11:00:00 AM AST</messageDateTimeLocal>
-<messageDateTimeUTC>20240819 03:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>20240819150000</messageDateTimeUTC24>
-<messageDateTimeLocalStr>1100 AM AST Mon Aug 19</messageDateTimeLocalStr>
-<timeEpochSeconds>1724079600</timeEpochSeconds>
+<messageDateTimeLocal>20240819 05:00:00 PM AST</messageDateTimeLocal>
+<messageDateTimeUTC>20240819 09:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>20240819210000</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0500 PM AST Mon Aug 19</messageDateTimeLocalStr>
+<timeEpochSeconds>1724101200</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>HURRICANE</systemType>
 <systemName>ERNESTO</systemName>
@@ -19,13 +19,13 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>41.8</centerLocLatitude>
-<centerLocLongitude>-58.5</centerLocLongitude>
+<centerLocLatitude>43.8</centerLocLatitude>
+<centerLocLongitude>-56.1</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>41.8N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>58.5W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>43.8N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>56.1W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>90</systemIntensityMph>
@@ -38,35 +38,35 @@
 <formationChancePct7d>N/A</formationChancePct7d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>NE OR 40 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>28</systemSpeedMph>
-<systemSpeedKph>44</systemSpeedKph>
-<systemSpeedKts>24</systemSpeedKts>
+<systemDirectionOfMotion>NE OR 35 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>26</systemSpeedMph>
+<systemSpeedKph>43</systemSpeedKph>
+<systemSpeedKts>23</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 320 MI...515 KM SE OF HALIFAX NOVA SCOTIA</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 430 MI...695 KM SW OF CAPE RACE NEWFOUNDLAND</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 375 MI...605 KM E OF HALIFAX NOVA SCOTIA</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 250 MI...400 KM SW OF CAPE RACE NEWFOUNDLAND</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT5 ALL
 TTAA00 KNHC DDHHMM
  
 BULLETIN
-Hurricane Ernesto Advisory Number  32
+Hurricane Ernesto Advisory Number  33
 NWS National Hurricane Center Miami FL       AL052024
-1100 AM AST Mon Aug 19 2024
+500 PM AST Mon Aug 19 2024
  
-...ERNESTO STRENGTHENS A LITTLE MORE...
 ...DANGEROUS BEACH CONDITIONS CONTINUING ALONG THE NORTHEAST
 U.S. COAST AND ATLANTIC CANADA...
+...ERNESTO EXPECTED TO BECOME EXTRATROPICAL EARLY TUESDAY...
  
  
-SUMMARY OF 1100 AM AST...1500 UTC...INFORMATION
------------------------------------------------
-LOCATION...41.8N 58.5W
-ABOUT 320 MI...515 KM SE OF HALIFAX NOVA SCOTIA
-ABOUT 430 MI...695 KM SW OF CAPE RACE NEWFOUNDLAND
+SUMMARY OF 500 PM AST...2100 UTC...INFORMATION
+----------------------------------------------
+LOCATION...43.8N 56.1W
+ABOUT 375 MI...605 KM E OF HALIFAX NOVA SCOTIA
+ABOUT 250 MI...400 KM SW OF CAPE RACE NEWFOUNDLAND
 MAXIMUM SUSTAINED WINDS...90 MPH...150 KM/H
-PRESENT MOVEMENT...NE OR 40 DEGREES AT 28 MPH...44 KM/H
+PRESENT MOVEMENT...NE OR 35 DEGREES AT 26 MPH...43 KM/H
 MINIMUM CENTRAL PRESSURE...968 MB...28.59 INCHES
  
  
@@ -86,19 +86,18 @@ of Ernesto.
  
 DISCUSSION AND OUTLOOK
 ----------------------
-At 1100 AM AST (1500 UTC), the center of Hurricane Ernesto was
-located near latitude 41.8 North, longitude 58.5 West. Ernesto is
-moving toward the northeast near 28 mph (44 km/h). A turn
-toward the northeast and east-northeast with an increase in forward
-speed is expected during the next couple of days.  On the forecast
-track, the center of Ernesto will pass near southeastern
-Newfoundland tonight and early Tuesday.
+At 500 PM AST (2100 UTC), the center of Hurricane Ernesto was
+located near latitude 43.8 North, longitude 56.1 West. Ernesto is
+moving toward the northeast near 26 mph (43 km/h).  An even faster 
+motion to the northeast or east-northeast is expected during the 
+next couple of days.  On the forecast track, the center of Ernesto 
+will pass near southeastern Newfoundland tonight and early Tuesday.
  
-Maximum sustained winds are near 90 mph (150 km/h) with higher
-gusts.  Weakening is forecast, and Ernesto is expected
-to become a post-tropical cyclone by early Tuesday.
+Maximum sustained winds remain near 90 mph (150 km/h) with higher
+gusts.  Steady to rapid weakening is forecast, and Ernesto is 
+expected to become a post-tropical cyclone early Tuesday.
  
-Hurricane-force winds extend outward up to 35 miles (55 km) from the
+Hurricane-force winds extend outward up to 45 miles (75 km) from the
 center and tropical-storm-force winds extend outward up to 220 miles
 (350 km).
  
@@ -124,10 +123,10 @@ lifeguards.
  
 NEXT ADVISORY
 -------------
-Next complete advisory at 500 PM AST.
+Next complete advisory at 1100 PM AST.
  
 $$
-Forecaster Cangialosi/Nepaul
+Forecaster Cangialosi
  
 NNNN
 </message>
