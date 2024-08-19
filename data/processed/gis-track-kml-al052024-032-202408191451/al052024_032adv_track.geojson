@@ -1,0 +1,180 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -58.5,
+                        41.8,
+                        0.0
+                    ],
+                    [
+                        -54.6,
+                        44.5,
+                        0.0
+                    ],
+                    [
+                        -46.7,
+                        47.7,
+                        0.0
+                    ],
+                    [
+                        -36.2,
+                        49.9,
+                        0.0
+                    ],
+                    [
+                        -24.4,
+                        52.2,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "41.8N, 58.5W",
+                "advisoryNum": "32",
+                "atcfid": "AL052024",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Ernesto (AL052024)</b></font></td></tr> \n                        <tr><td>Advisory #32 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "100",
+                "maxGustMPH": "115",
+                "maxWindKnots": "80",
+                "maxWindMPH": "90",
+                "minimumPressure": "968",
+                "pubAdvTime": "1100 AM AST Mon Aug 19 2024",
+                "storm": "Hurricane Ernesto",
+                "stormMovement": "NE",
+                "stormName": "Ernesto",
+                "stormNum": "05",
+                "stormType": "HU",
+                "styleUrl": "#72_line",
+                "timezone": "AST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -58.5,
+                        41.8,
+                        0.0
+                    ],
+                    [
+                        -54.6,
+                        44.5,
+                        0.0
+                    ],
+                    [
+                        -46.7,
+                        47.7,
+                        0.0
+                    ],
+                    [
+                        -36.2,
+                        49.9,
+                        0.0
+                    ],
+                    [
+                        -24.4,
+                        52.2,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "32",
+                "atcfid": "AL052024",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Ernesto (AL052024)</b></font></td></tr> \n                        <tr><td>Advisory #32 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Hurricane Ernesto",
+                "stormName": "Ernesto",
+                "stormNum": "05",
+                "stormType": "HU",
+                "styleUrl": "#120_line",
+                "timezone": "AST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -58.5,
+                    41.8,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Ernesto (AL052024)</b></font></td></tr> \n                        <tr><td>Advisory #32</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at: 11:00 AM AST August 19, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 41.8 N, -58.5 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 80 knots (90 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 100 knots (115 mph) </td></tr> \n                        <tr><td nowrap>Motion: NE </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 968 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -54.6,
+                    44.5,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Ernesto (AL052024)</b></font></td></tr> \n                        <tr><td>Advisory #32</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>12 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 PM AST August 19, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 44.5 N, -54.6 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 70 knots (80 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 85 knots (100 mph) </td></tr>",
+                "styleUrl": "#h_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -46.7,
+                    47.7,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Ernesto (AL052024)</b></font></td></tr> \n                        <tr><td>Advisory #32</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>24 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 AM AST August 20, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 47.7 N, -46.7 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 60 knots (70 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 75 knots (85 mph) </td></tr>",
+                "styleUrl": "#xs_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -36.2,
+                    49.9,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Ernesto (AL052024)</b></font></td></tr> \n                        <tr><td>Advisory #32</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>36 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 PM AST August 20, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 49.9 N, -36.2 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 50 knots (60 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 60 knots (70 mph) </td></tr>",
+                "styleUrl": "#xs_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -24.4,
+                    52.2,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Ernesto (AL052024)</b></font></td></tr> \n                        <tr><td>Advisory #32</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>48 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 AM AST August 21, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 52.2 N, -24.4 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 40 knots (45 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 50 knots (60 mph) </td></tr>",
+                "styleUrl": "#xs_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
