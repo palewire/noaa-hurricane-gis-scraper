@@ -1,0 +1,113 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -44.7,
+                    49.0
+                ],
+                "type": "Point"
+            },
+            "id": "0",
+            "properties": {
+                "ADVDATE": "300 PM GMT Tue Aug 20 2024",
+                "ADVISNUM": "36",
+                "BASIN": "AL",
+                "DATELBL": "3:00 PM Tue",
+                "DVLBL": "S",
+                "FCSTPRD": 120.0,
+                "FLDATELBL": "2024-08-20 12:00 PM Tue GMT",
+                "GUST": 75.0,
+                "LAT": 49.0,
+                "LON": -44.7,
+                "MAXWIND": 60.0,
+                "MSLP": 987.0,
+                "SSNUM": 0.0,
+                "STORMNAME": "Post-Tropical Cyclone Ernesto",
+                "STORMNUM": 5.0,
+                "STORMSRC": "Post-Tropical Cyclone",
+                "STORMTYPE": "STS",
+                "TAU": 0.0,
+                "TCDIR": 55.0,
+                "TCDVLP": "Subtropical Storm",
+                "TCSPD": 32.0,
+                "TIMEZONE": "GMT",
+                "VALIDTIME": "20/1200"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -36.0,
+                    50.5
+                ],
+                "type": "Point"
+            },
+            "id": "1",
+            "properties": {
+                "ADVDATE": "300 PM GMT Tue Aug 20 2024",
+                "ADVISNUM": "36",
+                "BASIN": "AL",
+                "DATELBL": "12:00 AM Wed",
+                "DVLBL": "S",
+                "FCSTPRD": 120.0,
+                "FLDATELBL": "2024-08-21 12:00 AM Wed GMT",
+                "GUST": 60.0,
+                "LAT": 50.5,
+                "LON": -36.0,
+                "MAXWIND": 50.0,
+                "MSLP": 9999.0,
+                "SSNUM": 0.0,
+                "STORMNAME": "Post-Tropical Cyclone Ernesto",
+                "STORMNUM": 5.0,
+                "STORMSRC": "Post-Tropical Cyclone",
+                "STORMTYPE": "STS",
+                "TAU": 12.0,
+                "TCDIR": 9999.0,
+                "TCDVLP": "Subtropical Storm",
+                "TCSPD": 9999.0,
+                "TIMEZONE": "GMT",
+                "VALIDTIME": "21/0000"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -23.3,
+                    52.8
+                ],
+                "type": "Point"
+            },
+            "id": "2",
+            "properties": {
+                "ADVDATE": "300 PM GMT Tue Aug 20 2024",
+                "ADVISNUM": "36",
+                "BASIN": "AL",
+                "DATELBL": "12:00 PM Wed",
+                "DVLBL": "S",
+                "FCSTPRD": 120.0,
+                "FLDATELBL": "2024-08-21 12:00 PM Wed GMT",
+                "GUST": 50.0,
+                "LAT": 52.8,
+                "LON": -23.3,
+                "MAXWIND": 40.0,
+                "MSLP": 9999.0,
+                "SSNUM": 0.0,
+                "STORMNAME": "Post-Tropical Cyclone Ernesto",
+                "STORMNUM": 5.0,
+                "STORMSRC": "Post-Tropical Cyclone",
+                "STORMTYPE": "STS",
+                "TAU": 24.0,
+                "TCDIR": 9999.0,
+                "TCDVLP": "Subtropical Storm",
+                "TCSPD": 9999.0,
+                "TIMEZONE": "GMT",
+                "VALIDTIME": "21/1200"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
