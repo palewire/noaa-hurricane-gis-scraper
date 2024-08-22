@@ -677,6 +677,91 @@
                         15.4
                     ],
                     [
+                        -142.6,
+                        15.6
+                    ],
+                    [
+                        -145.0,
+                        15.8
+                    ],
+                    [
+                        -147.5,
+                        16.0
+                    ],
+                    [
+                        -150.1,
+                        16.2
+                    ],
+                    [
+                        -150.1,
+                        16.2
+                    ],
+                    [
+                        -152.6,
+                        16.6
+                    ],
+                    [
+                        -152.6,
+                        16.6
+                    ],
+                    [
+                        -154.8,
+                        16.8
+                    ],
+                    [
+                        -154.8,
+                        16.8
+                    ],
+                    [
+                        -156.4,
+                        17.1
+                    ],
+                    [
+                        -156.4,
+                        17.1
+                    ],
+                    [
+                        -158.0,
+                        17.3
+                    ],
+                    [
+                        -158.0,
+                        17.3
+                    ],
+                    [
+                        -159.6,
+                        17.8
+                    ],
+                    [
+                        -159.6,
+                        17.8
+                    ],
+                    [
+                        -161.3,
+                        18.4
+                    ],
+                    [
+                        -161.3,
+                        18.4
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "593",
+            "properties": {
+                "model": "DRCL",
+                "warning_datetime": "2024-08-22 12:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -140.3,
+                        15.4
+                    ],
+                    [
                         -142.7,
                         15.6
                     ],
@@ -723,7 +808,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "596",
+            "id": "597",
             "properties": {
                 "model": "EGR2",
                 "warning_datetime": "2024-08-22 12:00:00"
@@ -784,7 +869,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "600",
+            "id": "601",
             "properties": {
                 "model": "UKM2",
                 "warning_datetime": "2024-08-22 12:00:00"
@@ -841,7 +926,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "604",
+            "id": "605",
             "properties": {
                 "model": "UKX2",
                 "warning_datetime": "2024-08-22 12:00:00"
@@ -910,7 +995,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "615",
+            "id": "616",
             "properties": {
                 "model": "CEM2",
                 "warning_datetime": "2024-08-22 12:00:00"
@@ -1019,7 +1104,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "621",
+            "id": "622",
             "properties": {
                 "model": "NVG2",
                 "warning_datetime": "2024-08-22 12:00:00"
@@ -1092,7 +1177,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "622",
+            "id": "623",
             "properties": {
                 "model": "AEM2",
                 "warning_datetime": "2024-08-22 12:00:00"
@@ -1185,7 +1270,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "623",
+            "id": "624",
             "properties": {
                 "model": "AVN2",
                 "warning_datetime": "2024-08-22 12:00:00"
@@ -1302,7 +1387,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "624",
+            "id": "625",
             "properties": {
                 "model": "HFA2",
                 "warning_datetime": "2024-08-22 12:00:00"
@@ -1415,7 +1500,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "625",
+            "id": "626",
             "properties": {
                 "model": "HFB2",
                 "warning_datetime": "2024-08-22 12:00:00"
@@ -1508,7 +1593,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "626",
+            "id": "627",
             "properties": {
                 "model": "HMN2",
                 "warning_datetime": "2024-08-22 12:00:00"
@@ -1581,9 +1666,82 @@
                 ],
                 "type": "LineString"
             },
-            "id": "627",
+            "id": "628",
             "properties": {
                 "model": "HWF2",
+                "warning_datetime": "2024-08-22 12:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -140.3,
+                        15.4
+                    ],
+                    [
+                        -140.8,
+                        15.4
+                    ],
+                    [
+                        -142.6,
+                        15.6
+                    ],
+                    [
+                        -145.0,
+                        15.8
+                    ],
+                    [
+                        -147.5,
+                        16.0
+                    ],
+                    [
+                        -150.1,
+                        16.2
+                    ],
+                    [
+                        -150.1,
+                        16.2
+                    ],
+                    [
+                        -152.6,
+                        16.6
+                    ],
+                    [
+                        -152.6,
+                        16.6
+                    ],
+                    [
+                        -154.8,
+                        16.8
+                    ],
+                    [
+                        -154.8,
+                        16.8
+                    ],
+                    [
+                        -158.0,
+                        17.3
+                    ],
+                    [
+                        -158.0,
+                        17.3
+                    ],
+                    [
+                        -161.3,
+                        18.4
+                    ],
+                    [
+                        -161.3,
+                        18.4
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "629",
+            "properties": {
+                "model": "OFCL",
                 "warning_datetime": "2024-08-22 12:00:00"
             },
             "type": "Feature"
