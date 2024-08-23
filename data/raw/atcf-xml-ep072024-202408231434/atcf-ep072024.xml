@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<cycloneMessage>
+<!-- System Advisory Meta Information -->
+<atcfID>EP072024</atcfID>
+<issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
+<messageType>ROUTINE ADVISORY</messageType>
+<messageBinNumber>2</messageBinNumber>
+<advisoryNumber>21</advisoryNumber>
+<!-- System Date/Time Information -->
+<messageDateTimeLocal>20240823 05:00:00 AM HST</messageDateTimeLocal>
+<messageDateTimeUTC>20240823 03:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>20240823150000</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0500 AM HST Fri Aug 23</messageDateTimeLocalStr>
+<timeEpochSeconds>1724425200</timeEpochSeconds>
+<!-- System state defined -->
+<systemType>HURRICANE</systemType>
+<systemName>GILMA</systemName>
+<!-- Center Location of the System -->
+<!-- Lattitude: North is positive; South is negative -->
+<!-- Longitude: East is positive; West is negative -->
+<!-- units: decimal degrees (tenths) -->
+<centerLocLatitude>17.4</centerLocLatitude>
+<centerLocLongitude>-126.8</centerLocLongitude>
+<!-- Lattitude: North is N; South is S -->
+<!-- Longitude: East is E; West is W -->
+<!-- units: decimal degrees (tenths) -->
+<centerLocLatitudeExpanded>17.4N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>126.8W</centerLocLongitudeExpanded>
+<!-- Maximum Intensity of the System -->
+<!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
+<systemIntensityMph>115</systemIntensityMph>
+<systemIntensityKph>185</systemIntensityKph>
+<systemIntensityKts>100</systemIntensityKts>
+<systemMslpMb>962</systemMslpMb>
+<systemMslpInHg>28.41</systemMslpInHg>
+<systemSaffirSimpsonCategory>CATEGORY 3</systemSaffirSimpsonCategory>
+<formationChancePct48h>N/A</formationChancePct48h>
+<formationChancePct7d>N/A</formationChancePct7d>
+<!-- Current System Movement -->
+<!-- units: Degrees, MPH and KPH -->
+<systemDirectionOfMotion>W OR 275 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>8</systemSpeedMph>
+<systemSpeedKph>13</systemSpeedKph>
+<systemSpeedKts>7</systemSpeedKts>
+<!-- Current System Location from known Reference Point -->
+<systemGeoRefPt1>ABOUT 1160 MI...1865 KM WSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 1855 MI...2990 KM E OF HILO HAWAII</systemGeoRefPt2>
+<!-- Relevant Message -->
+<message>
+ZCZC MIATCPEP2 ALL
+TTAA00 KNHC DDHHMM
+ 
+BULLETIN
+Hurricane Gilma Advisory Number  21
+NWS National Hurricane Center Miami FL       EP072024
+500 AM HST Fri Aug 23 2024
+ 
+...GILMA SLOWLY WEAKENING OVER OPEN WATERS...
+ 
+ 
+SUMMARY OF 500 AM HST...1500 UTC...INFORMATION
+----------------------------------------------
+LOCATION...17.4N 126.8W
+ABOUT 1160 MI...1865 KM WSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA
+ABOUT 1855 MI...2990 KM E OF HILO HAWAII
+MAXIMUM SUSTAINED WINDS...115 MPH...185 KM/H
+PRESENT MOVEMENT...W OR 275 DEGREES AT 8 MPH...13 KM/H
+MINIMUM CENTRAL PRESSURE...962 MB...28.41 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+There are no coastal watches or warnings in effect.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 500 AM HST (1500 UTC), the center of Hurricane Gilma was located
+near latitude 17.4 North, longitude 126.8 West. Gilma is moving
+toward the west near 8 mph (13 km/h). A turn toward the 
+west-northwest and a faster forward speed are expected during the 
+next couple of days.
+ 
+Maximum sustained winds are now near 115 mph (185 km/h) with higher
+gusts.  Gilma is a category 3 hurricane on the Saffir-Simpson
+Hurricane Wind Scale.  Weakening is forecast during the next several
+days, but Gilma is expected to remain a hurricane through much of
+the upcoming weekend.
+ 
+Hurricane-force winds extend outward up to 35 miles (55 km) from the
+center and tropical-storm-force winds extend outward up to 115 miles
+(185 km).
+ 
+The estimated minimum central pressure is 962 mb (28.41 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+None
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 1100 AM HST.
+ 
+$$
+Forecaster Beven
+ 
+NNNN
+</message>
+</cycloneMessage>
