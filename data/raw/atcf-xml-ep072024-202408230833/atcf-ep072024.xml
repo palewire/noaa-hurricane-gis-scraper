@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<cycloneMessage>
+<!-- System Advisory Meta Information -->
+<atcfID>EP072024</atcfID>
+<issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
+<messageType>ROUTINE ADVISORY</messageType>
+<messageBinNumber>2</messageBinNumber>
+<advisoryNumber>20</advisoryNumber>
+<!-- System Date/Time Information -->
+<messageDateTimeLocal>20240822 11:00:00 PM HST</messageDateTimeLocal>
+<messageDateTimeUTC>20240823 09:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>20240823090000</messageDateTimeUTC24>
+<messageDateTimeLocalStr>1100 PM HST Thu Aug 22</messageDateTimeLocalStr>
+<timeEpochSeconds>1724403600</timeEpochSeconds>
+<!-- System state defined -->
+<systemType>HURRICANE</systemType>
+<systemName>GILMA</systemName>
+<!-- Center Location of the System -->
+<!-- Lattitude: North is positive; South is negative -->
+<!-- Longitude: East is positive; West is negative -->
+<!-- units: decimal degrees (tenths) -->
+<centerLocLatitude>17.4</centerLocLatitude>
+<centerLocLongitude>-126.1</centerLocLongitude>
+<!-- Lattitude: North is N; South is S -->
+<!-- Longitude: East is E; West is W -->
+<!-- units: decimal degrees (tenths) -->
+<centerLocLatitudeExpanded>17.4N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>126.1W</centerLocLongitudeExpanded>
+<!-- Maximum Intensity of the System -->
+<!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
+<systemIntensityMph>120</systemIntensityMph>
+<systemIntensityKph>195</systemIntensityKph>
+<systemIntensityKts>105</systemIntensityKts>
+<systemMslpMb>959</systemMslpMb>
+<systemMslpInHg>28.32</systemMslpInHg>
+<systemSaffirSimpsonCategory>CATEGORY 3</systemSaffirSimpsonCategory>
+<formationChancePct48h>N/A</formationChancePct48h>
+<formationChancePct7d>N/A</formationChancePct7d>
+<!-- Current System Movement -->
+<!-- units: Degrees, MPH and KPH -->
+<systemDirectionOfMotion>WNW OR 290 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>6</systemSpeedMph>
+<systemSpeedKph>9</systemSpeedKph>
+<systemSpeedKts>5</systemSpeedKts>
+<!-- Current System Location from known Reference Point -->
+<systemGeoRefPt1>ABOUT 1115 MI...1795 KM WSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 1905 MI...3060 KM E OF HILO HAWAII</systemGeoRefPt2>
+<!-- Relevant Message -->
+<message>
+ZCZC MIATCPEP2 ALL
+TTAA00 KNHC DDHHMM
+ 
+BULLETIN
+Hurricane Gilma Advisory Number  20
+NWS National Hurricane Center Miami FL       EP072024
+1100 PM HST Thu Aug 22 2024
+ 
+...GILMA REMAINS A MAJOR HURRICANE OVER OPEN WATERS...
+ 
+ 
+SUMMARY OF 1100 PM HST...0900 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...17.4N 126.1W
+ABOUT 1115 MI...1795 KM WSW OF THE SOUTHERN TIP OF BAJA CALIFORNIA
+ABOUT 1905 MI...3060 KM E OF HILO HAWAII
+MAXIMUM SUSTAINED WINDS...120 MPH...195 KM/H
+PRESENT MOVEMENT...WNW OR 290 DEGREES AT 6 MPH...9 KM/H
+MINIMUM CENTRAL PRESSURE...959 MB...28.32 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+There are no coastal watches or warnings in effect.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 1100 PM HST (0900 UTC), the center of Hurricane Gilma was located 
+near latitude 17.4 North, longitude 126.1 West. Gilma is moving 
+toward the west-northwest near 6 mph (9 km/h). Gradual acceleration 
+toward the west-northwest and west is expected during the next 
+several days.
+ 
+Maximum sustained winds are near 120 mph (195 km/h) with higher 
+gusts. Gilma is a category 3 hurricane on the Saffir-Simpson 
+Hurricane Wind Scale. Weakening is forecast during the next several 
+days, but Gilma is expected to remain a hurricane through much of 
+the upcoming weekend.
+ 
+Hurricane-force winds extend outward up to 35 miles (55 km) from the
+center and tropical-storm-force winds extend outward up to 115 miles
+(185 km).
+ 
+The estimated minimum central pressure is 959 mb (28.32 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+None
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 500 AM HST.
+ 
+$$
+Forecaster Reinhart
+ 
+NNNN
+</message>
+</cycloneMessage>
