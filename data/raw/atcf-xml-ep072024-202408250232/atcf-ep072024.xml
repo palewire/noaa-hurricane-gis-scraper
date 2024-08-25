@@ -3,15 +3,15 @@
 <!-- System Advisory Meta Information -->
 <atcfID>EP072024</atcfID>
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
-<messageType>SPECIAL ADVISORY</messageType>
+<messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>2</messageBinNumber>
-<advisoryNumber>27</advisoryNumber>
+<advisoryNumber>28</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20240824 02:00:00 PM HST</messageDateTimeLocal>
-<messageDateTimeUTC>20240825 12:00:00 AM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>20240825000000</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0200 PM HST Sat Aug 24</messageDateTimeLocalStr>
-<timeEpochSeconds>1724544000</timeEpochSeconds>
+<messageDateTimeLocal>20240824 05:00:00 PM HST</messageDateTimeLocal>
+<messageDateTimeUTC>20240825 03:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>20240825030000</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0500 PM HST Sat Aug 24</messageDateTimeLocalStr>
+<timeEpochSeconds>1724554800</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>HURRICANE</systemType>
 <systemName>GILMA</systemName>
@@ -19,53 +19,53 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>17.7</centerLocLatitude>
-<centerLocLongitude>-131.4</centerLocLongitude>
+<centerLocLatitude>17.8</centerLocLatitude>
+<centerLocLongitude>-131.8</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>17.7N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>131.4W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>17.8N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>131.8W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>120</systemIntensityMph>
-<systemIntensityKph>195</systemIntensityKph>
-<systemIntensityKts>105</systemIntensityKts>
-<systemMslpMb>959</systemMslpMb>
-<systemMslpInHg>28.32</systemMslpInHg>
+<systemIntensityMph>125</systemIntensityMph>
+<systemIntensityKph>205</systemIntensityKph>
+<systemIntensityKts>110</systemIntensityKts>
+<systemMslpMb>955</systemMslpMb>
+<systemMslpInHg>28.20</systemMslpInHg>
 <systemSaffirSimpsonCategory>CATEGORY 3</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct7d>N/A</formationChancePct7d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>W OR 280 DEGREES</systemDirectionOfMotion>
+<systemDirectionOfMotion>WNW OR 285 DEGREES</systemDirectionOfMotion>
 <systemSpeedMph>9</systemSpeedMph>
 <systemSpeedKph>15</systemSpeedKph>
 <systemSpeedKts>8</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 1435 MI...2310 KM W OF THE SOUTHERN TIP OF BAJA CALIFORNIA</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 1555 MI...2500 KM E OF HILO HAWAII</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 1460 MI...2350 KM W OF THE SOUTHERN TIP OF BAJA CALIFORNIA</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 1530 MI...2460 KM E OF HILO HAWAII</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPEP2 ALL
 TTAA00 KNHC DDHHMM
  
 BULLETIN
-Hurricane Gilma Special Advisory Number  27
+Hurricane Gilma Advisory Number  28
 NWS National Hurricane Center Miami FL       EP072024
-200 PM HST Sat Aug 24 2024
+500 PM HST Sat Aug 24 2024
  
-...GILMA BECOMES A MAJOR HURRICANE ONCE AGAIN...
+...GILMA RAPIDLY INTENSIFYING...
  
  
-SUMMARY OF 200 PM HST...0000 UTC...INFORMATION
+SUMMARY OF 500 PM HST...0300 UTC...INFORMATION
 ----------------------------------------------
-LOCATION...17.7N 131.4W
-ABOUT 1435 MI...2310 KM W OF THE SOUTHERN TIP OF BAJA CALIFORNIA
-ABOUT 1555 MI...2500 KM E OF HILO HAWAII
-MAXIMUM SUSTAINED WINDS...120 MPH...195 KM/H
-PRESENT MOVEMENT...W OR 280 DEGREES AT 9 MPH...15 KM/H
-MINIMUM CENTRAL PRESSURE...959 MB...28.32 INCHES
+LOCATION...17.8N 131.8W
+ABOUT 1460 MI...2350 KM W OF THE SOUTHERN TIP OF BAJA CALIFORNIA
+ABOUT 1530 MI...2460 KM E OF HILO HAWAII
+MAXIMUM SUSTAINED WINDS...125 MPH...205 KM/H
+PRESENT MOVEMENT...WNW OR 285 DEGREES AT 9 MPH...15 KM/H
+MINIMUM CENTRAL PRESSURE...955 MB...28.20 INCHES
  
  
 WATCHES AND WARNINGS
@@ -75,24 +75,24 @@ There are no coastal watches or warnings in effect.
  
 DISCUSSION AND OUTLOOK
 ----------------------
-At 200 PM HST (0000 UTC), the center of Hurricane Gilma was located
-near latitude 17.7 North, longitude 131.4 West. Gilma is moving
-toward the west near 9 mph (15 km/h). A continued westward motion
-at a faster forward speed is expected during the next few days.
+At 500 PM HST (0300 UTC), the center of Hurricane Gilma was located 
+near latitude 17.8 North, longitude 131.8 West. Gilma is moving 
+toward the west-northwest near 9 mph (15 km/h). A westward motion at 
+a faster forward speed is expected during the next several days.
  
-Maximum sustained winds have increased to near 120 mph (195 km/h) 
+Maximum sustained winds have increased to near 125 mph (205 km/h) 
 with higher gusts.  Gilma is a category 3 hurricane on the 
 Saffir-Simpson Hurricane Wind Scale. Some additional strengthening 
-could occur through tonight. Weakening is forecast to begin on 
-Sunday, but Gilma is expected to remain a hurricane through the 
-remainder of the weekend. Steady weakening is anticipated early next 
-week.
- 
+could occur through tonight. Gradual weakening is forecast to begin 
+on Sunday, but Gilma is expected to remain a hurricane into early 
+next week. Steady weakening will then continue through the middle 
+of the week.
+
 Hurricane-force winds extend outward up to 35 miles (55 km) from the
 center and tropical-storm-force winds extend outward up to 115 miles
 (185 km).
  
-The estimated minimum central pressure is 959 mb (28.32 inches).
+The estimated minimum central pressure is 955 mb (28.20 inches).
  
  
 HAZARDS AFFECTING LAND
@@ -102,7 +102,7 @@ None
  
 NEXT ADVISORY
 -------------
-Next complete advisory at 500 PM HST.
+Next complete advisory at 1100 PM HST.
  
 $$
 Forecaster Kelly
