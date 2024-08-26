@@ -1,0 +1,270 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -137.4,
+                        18.4,
+                        0.0
+                    ],
+                    [
+                        -138.8,
+                        18.5,
+                        0.0
+                    ],
+                    [
+                        -140.9,
+                        18.7,
+                        0.0
+                    ],
+                    [
+                        -143.1,
+                        18.9,
+                        0.0
+                    ],
+                    [
+                        -145.3,
+                        19.4,
+                        0.0
+                    ],
+                    [
+                        -147.4,
+                        19.9,
+                        0.0
+                    ],
+                    [
+                        -149.5,
+                        20.3,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "18.4N, 137.4W",
+                "advisoryNum": "35",
+                "atcfid": "EP072024",
+                "basin": "ep",
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Gilma (EP072024)</b></font></td></tr> \n                        <tr><td>Advisory #35 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "115",
+                "maxGustMPH": "130",
+                "maxWindKnots": "95",
+                "maxWindMPH": "110",
+                "minimumPressure": "968",
+                "pubAdvTime": "1100 AM HST Mon Aug 26 2024",
+                "storm": "Hurricane Gilma",
+                "stormMovement": "W",
+                "stormName": "Gilma",
+                "stormNum": "07",
+                "stormType": "HU",
+                "styleUrl": "#72_line",
+                "timezone": "HST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -137.4,
+                        18.4,
+                        0.0
+                    ],
+                    [
+                        -138.8,
+                        18.5,
+                        0.0
+                    ],
+                    [
+                        -140.9,
+                        18.7,
+                        0.0
+                    ],
+                    [
+                        -143.1,
+                        18.9,
+                        0.0
+                    ],
+                    [
+                        -145.3,
+                        19.4,
+                        0.0
+                    ],
+                    [
+                        -147.4,
+                        19.9,
+                        0.0
+                    ],
+                    [
+                        -149.5,
+                        20.3,
+                        0.0
+                    ],
+                    [
+                        -154.0,
+                        21.2,
+                        0.0
+                    ],
+                    [
+                        -158.5,
+                        22.8,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "35",
+                "atcfid": "EP072024",
+                "basin": "ep",
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Gilma (EP072024)</b></font></td></tr> \n                        <tr><td>Advisory #35 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Hurricane Gilma",
+                "stormName": "Gilma",
+                "stormNum": "07",
+                "stormType": "HU",
+                "styleUrl": "#120_line",
+                "timezone": "HST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -137.4,
+                    18.4,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Gilma (EP072024)</b></font></td></tr> \n                        <tr><td>Advisory #35</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at: 11:00 AM HST August 26, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 18.4 N, -137.4 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 95 knots (110 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 115 knots (130 mph) </td></tr> \n                        <tr><td nowrap>Motion: W </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 968 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -138.8,
+                    18.5,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Gilma (EP072024)</b></font></td></tr> \n                        <tr><td>Advisory #35</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>12 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 PM HST August 26, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 18.5 N, -138.8 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 90 knots (105 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 110 knots (125 mph) </td></tr>",
+                "styleUrl": "#h_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -140.9,
+                    18.7,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Gilma (EP072024)</b></font></td></tr> \n                        <tr><td>Advisory #35</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>24 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 AM HST August 27, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 18.7 N, -140.9 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 75 knots (85 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 90 knots (105 mph) </td></tr>",
+                "styleUrl": "#h_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -143.1,
+                    18.9,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Gilma (EP072024)</b></font></td></tr> \n                        <tr><td>Advisory #35</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>36 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 PM HST August 27, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 18.9 N, -143.1 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 60 knots (70 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 75 knots (85 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -145.3,
+                    19.4,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Gilma (EP072024)</b></font></td></tr> \n                        <tr><td>Advisory #35</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>48 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 AM HST August 28, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 19.4 N, -145.3 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 50 knots (60 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 60 knots (70 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -147.4,
+                    19.9,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Gilma (EP072024)</b></font></td></tr> \n                        <tr><td>Advisory #35</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>60 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 PM HST August 28, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 19.9 N, -147.4 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 45 knots (50 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 55 knots (65 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -149.5,
+                    20.3,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Gilma (EP072024)</b></font></td></tr> \n                        <tr><td>Advisory #35</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>72 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 AM HST August 29, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 20.3 N, -149.5 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 40 knots (45 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 50 knots (60 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -154.0,
+                    21.2,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Gilma (EP072024)</b></font></td></tr> \n                        <tr><td>Advisory #35</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>96 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 AM HST August 30, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 21.2 N, -154.0 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 30 knots (35 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 40 knots (45 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -158.5,
+                    22.8,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Gilma (EP072024)</b></font></td></tr> \n                        <tr><td>Advisory #35</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>120 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 AM HST August 31, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 22.8 N, -158.5 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 25 knots (30 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 35 knots (40 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
