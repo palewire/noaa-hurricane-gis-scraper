@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+<cycloneMessage>
+<!-- System Advisory Meta Information -->
+<atcfID>EP072024</atcfID>
+<issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
+<messageType>ROUTINE ADVISORY</messageType>
+<messageBinNumber>2</messageBinNumber>
+<advisoryNumber>38</advisoryNumber>
+<!-- System Date/Time Information -->
+<messageDateTimeLocal>20240827 05:00:00 AM HST</messageDateTimeLocal>
+<messageDateTimeUTC>20240827 03:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>20240827150000</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0500 AM HST Tue Aug 27</messageDateTimeLocalStr>
+<timeEpochSeconds>1724770800</timeEpochSeconds>
+<!-- System state defined -->
+<systemType>HURRICANE</systemType>
+<systemName>GILMA</systemName>
+<!-- Center Location of the System -->
+<!-- Lattitude: North is positive; South is negative -->
+<!-- Longitude: East is positive; West is negative -->
+<!-- units: decimal degrees (tenths) -->
+<centerLocLatitude>18.5</centerLocLatitude>
+<centerLocLongitude>-140.7</centerLocLongitude>
+<!-- Lattitude: North is N; South is S -->
+<!-- Longitude: East is E; West is W -->
+<!-- units: decimal degrees (tenths) -->
+<centerLocLatitudeExpanded>18.5N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>140.7W</centerLocLongitudeExpanded>
+<!-- Maximum Intensity of the System -->
+<!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
+<systemIntensityMph>75</systemIntensityMph>
+<systemIntensityKph>120</systemIntensityKph>
+<systemIntensityKts>65</systemIntensityKts>
+<systemMslpMb>990</systemMslpMb>
+<systemMslpInHg>29.24</systemMslpInHg>
+<systemSaffirSimpsonCategory>CATEGORY 1</systemSaffirSimpsonCategory>
+<formationChancePct48h>N/A</formationChancePct48h>
+<formationChancePct7d>N/A</formationChancePct7d>
+<!-- Current System Movement -->
+<!-- units: Degrees, MPH and KPH -->
+<systemDirectionOfMotion>W OR 270 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>13</systemSpeedMph>
+<systemSpeedKph>20</systemSpeedKph>
+<systemSpeedKts>11</systemSpeedKts>
+<!-- Current System Location from known Reference Point -->
+<systemGeoRefPt1>ABOUT 945 MI...1515 KM E OF HILO HAWAII</systemGeoRefPt1>
+<!-- Relevant Message -->
+<message>
+ZCZC MIATCPEP2 ALL
+TTAA00 KNHC DDHHMM
+ 
+BULLETIN
+Hurricane Gilma Advisory Number  38
+NWS National Hurricane Center Miami FL       EP072024
+500 AM HST Tue Aug 27 2024
+ 
+...GILMA RAPIDLY BECOMING LESS ORGANIZED AS IT MOVES INTO THE
+CENTRAL PACIFIC BASIN...
+...FUTURE ADVISORIES WILL BE ISSUED BY THE CENTRAL PACIFIC
+HURRICANE CENTER...
+ 
+ 
+SUMMARY OF 500 AM HST...1500 UTC...INFORMATION
+----------------------------------------------
+LOCATION...18.5N 140.7W
+ABOUT 945 MI...1515 KM E OF HILO HAWAII
+MAXIMUM SUSTAINED WINDS...75 MPH...120 KM/H
+PRESENT MOVEMENT...W OR 270 DEGREES AT 13 MPH...20 KM/H
+MINIMUM CENTRAL PRESSURE...990 MB...29.24 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+There are no coastal watches or warnings in effect.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 500 AM HST (1500 UTC), the center of Hurricane Gilma was located
+near latitude 18.5 North, longitude 140.7 West. Gilma is moving
+toward the west near 13 mph (20 km/h). A slightly faster westward to
+west-northwestward motion is expected for the next few days.
+ 
+Maximum sustained winds have decreased to near 75 mph (120 km/h) 
+with higher gusts. Rapid weakening is expected today, with steady 
+weakening continuing after that. Gilma is forecast to weaken to a 
+remnant low by Thursday night.
+ 
+Hurricane-force winds extend outward up to 15 miles (30 km) from the
+center and tropical-storm-force winds extend outward up to 70 miles
+(110 km).
+ 
+The estimated minimum central pressure is 990 mb (29.24 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+None
+ 
+ 
+NEXT ADVISORY
+-------------
+Future information on Gilma can be found in Public Advisories 
+issued by the Central Pacific Hurricane Center beginning at 1100 AM 
+HST, under AWIPS header HFOTCPCP2 and WMO header WTPA32 PHFO. 
+Products will continue to be available on the web at hurricanes.gov
+ 
+$$
+Forecaster Hagen/Brown
+ 
+NNNN
+
+</message>
+</cycloneMessage>

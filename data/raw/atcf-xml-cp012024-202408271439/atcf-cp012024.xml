@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<cycloneMessage>
+<!-- System Advisory Meta Information -->
+<atcfID>CP012024</atcfID>
+<issuingUnit>NWS CENTRAL PACIFIC HURRICANE CENTER HONOLULU HI</issuingUnit>
+<messageType>ROUTINE ADVISORY</messageType>
+<messageBinNumber>1</messageBinNumber>
+<advisoryNumber>21</advisoryNumber>
+<!-- System Date/Time Information -->
+<messageDateTimeLocal>20240827 05:00:00 AM HST</messageDateTimeLocal>
+<messageDateTimeUTC>20240827 03:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>20240827150000</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0500 AM HST Tue Aug 27</messageDateTimeLocalStr>
+<timeEpochSeconds>1724770800</timeEpochSeconds>
+<!-- System state defined -->
+<systemType>TROPICAL STORM</systemType>
+<systemName>HONE</systemName>
+<!-- Center Location of the System -->
+<!-- Lattitude: North is positive; South is negative -->
+<!-- Longitude: East is positive; West is negative -->
+<!-- units: decimal degrees (tenths) -->
+<centerLocLatitude>19.9</centerLocLatitude>
+<centerLocLongitude>-165.4</centerLocLongitude>
+<!-- Lattitude: North is N; South is S -->
+<!-- Longitude: East is E; West is W -->
+<!-- units: decimal degrees (tenths) -->
+<centerLocLatitudeExpanded>19.9N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>165.4W</centerLocLongitudeExpanded>
+<!-- Maximum Intensity of the System -->
+<!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
+<systemIntensityMph>50</systemIntensityMph>
+<systemIntensityKph>85</systemIntensityKph>
+<systemIntensityKts>45</systemIntensityKts>
+<systemMslpMb>1002</systemMslpMb>
+<systemMslpInHg>29.59</systemMslpInHg>
+<systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
+<formationChancePct48h>N/A</formationChancePct48h>
+<formationChancePct7d>N/A</formationChancePct7d>
+<!-- Current System Movement -->
+<!-- units: Degrees, MPH and KPH -->
+<systemDirectionOfMotion>W OR 280 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>14</systemSpeedMph>
+<systemSpeedKph>22</systemSpeedKph>
+<systemSpeedKts>12</systemSpeedKts>
+<!-- Current System Location from known Reference Point -->
+<systemGeoRefPt1>ABOUT 495 MI...795 KM W OF HONOLULU HAWAII</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 415 MI...665 KM WSW OF LIHUE HAWAII</systemGeoRefPt2>
+<!-- Relevant Message -->
+<message>
+ZCZC HFOTCPCP1 ALL
+TTAA00 PHFO DDHHMM
+ 
+BULLETIN
+Tropical Storm Hone Advisory Number  21
+NWS Central Pacific Hurricane Center Honolulu HI   CP012024
+Issued by NWS National Hurricane Center Miami FL
+500 AM HST Tue Aug 27 2024
+ 
+...HONE CONTINUES MOVING AWAY FROM HAWAII...
+ 
+ 
+SUMMARY OF 500 AM HST...1500 UTC...INFORMATION
+----------------------------------------------
+LOCATION...19.9N 165.4W
+ABOUT 495 MI...795 KM W OF HONOLULU HAWAII
+ABOUT 415 MI...665 KM WSW OF LIHUE HAWAII
+MAXIMUM SUSTAINED WINDS...50 MPH...85 KM/H
+PRESENT MOVEMENT...W OR 280 DEGREES AT 14 MPH...22 KM/H
+MINIMUM CENTRAL PRESSURE...1002 MB...29.59 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+There are no coastal watches or warnings in effect.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 500 AM HST (1500 UTC), the center of Tropical Storm Hone was
+located near latitude 19.9 North, longitude 165.4 West.  Hone is
+moving toward the west near 14 mph (22 km/h), and a westward to 
+west-northwestward motion is expected for the next few days.  On the 
+forecast track, Hone will continue moving away from the main 
+Hawaiian Islands, and pass well north of Johnston Island tonight.
+ 
+Maximum sustained winds are near 50 mph (85 km/h) with higher gusts.
+Gradual weakening is expected during the next couple of days.  
+Hone is expected to become a post-tropical low on Thursday, and 
+then dissipate on Friday.
+
+Tropical-storm-force winds extend outward up to 80 miles (130 km)
+from the center.
+ 
+The estimated minimum central pressure is 1002 mb (29.59 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+None.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 1100 AM HST.
+ 
+$$
+Forecaster Pasch
+ 
+NNNN
+</message>
+</cycloneMessage>
