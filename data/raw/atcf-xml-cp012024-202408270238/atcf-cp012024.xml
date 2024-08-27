@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<cycloneMessage>
+<!-- System Advisory Meta Information -->
+<atcfID>CP012024</atcfID>
+<issuingUnit>NWS CENTRAL PACIFIC HURRICANE CENTER HONOLULU HI</issuingUnit>
+<messageType>ROUTINE ADVISORY</messageType>
+<messageBinNumber>1</messageBinNumber>
+<advisoryNumber>19</advisoryNumber>
+<!-- System Date/Time Information -->
+<messageDateTimeLocal>20240826 05:00:00 PM HST</messageDateTimeLocal>
+<messageDateTimeUTC>20240827 03:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>202408270300</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0500 PM HST Mon Aug 26</messageDateTimeLocalStr>
+<timeEpochSeconds>1724727600</timeEpochSeconds>
+<!-- System state defined -->
+<systemType>TROPICAL STORM</systemType>
+<systemName>HONE</systemName>
+<!-- Center Location of the System -->
+<!-- Lattitude: North is positive; South is negative -->
+<!-- Longitude: East is positive; West is negative -->
+<!-- units: decimal degrees (tenths) -->
+<centerLocLatitude>19.6</centerLocLatitude>
+<centerLocLongitude>-162.9</centerLocLongitude>
+<!-- Lattitude: North is N; South is S -->
+<!-- Longitude: East is E; West is W -->
+<!-- units: decimal degrees (tenths) -->
+<centerLocLatitudeExpanded>19.6N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>162.9W</centerLocLongitudeExpanded>
+<!-- Maximum Intensity of the System -->
+<!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
+<systemIntensityMph>60</systemIntensityMph>
+<systemIntensityKph>95</systemIntensityKph>
+<systemIntensityKts>50</systemIntensityKts>
+<systemMslpMb>1000</systemMslpMb>
+<systemMslpInHg>29.53</systemMslpInHg>
+<systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
+<formationChancePct48h>N/A</formationChancePct48h>
+<formationChancePct7d>N/A</formationChancePct7d>
+<!-- Current System Movement -->
+<!-- units: Degrees, MPH and KPH -->
+<systemDirectionOfMotion>WNW OR 285 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>13</systemSpeedMph>
+<systemSpeedKph>20</systemSpeedKph>
+<systemSpeedKts>11</systemSpeedKts>
+<!-- Current System Location from known Reference Point -->
+<systemGeoRefPt1>ABOUT 345 MI...555 KM WSW OF HONOLULU HAWAII</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 280 MI...450 KM SW OF LIHUE HAWAII</systemGeoRefPt2>
+<!-- Relevant Message -->
+<message>
+ZCZC HFOTCPCP1 ALL
+TTAA00 PHFO DDHHMM
+ 
+BULLETIN
+Tropical Storm Hone Advisory Number  19
+NWS Central Pacific Hurricane Center Honolulu HI   CP012024
+500 PM HST Mon Aug 26 2024
+ 
+...HONE CENTERED ABOUT 275 MILES SOUTHWEST OF KAUAI AND MOVING 
+AWAY FROM HAWAII TOWARD OPEN WATERS...
+ 
+ 
+SUMMARY OF 500 PM HST...0300 UTC...INFORMATION
+----------------------------------------------
+LOCATION...19.6N 162.9W
+ABOUT 345 MI...555 KM WSW OF HONOLULU HAWAII
+ABOUT 280 MI...450 KM SW OF LIHUE HAWAII
+MAXIMUM SUSTAINED WINDS...60 MPH...95 KM/H
+PRESENT MOVEMENT...WNW OR 285 DEGREES AT 13 MPH...20 KM/H
+MINIMUM CENTRAL PRESSURE...1000 MB...29.53 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+There are no coastal watches or warnings in effect.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 500 PM HST (0300 UTC), the center of Tropical Storm Hone was
+located near latitude 19.6 North, longitude 162.9 West. Hone is
+moving toward the west-northwest near 13 mph (20 km/h) and this 
+motion is expected to continue for the next few days. On the 
+forecast track, Hone will continue moving away from the main 
+Hawaiian Islands, and pass well north of Johnston Island Tuesday 
+night.
+ 
+Maximum sustained winds are near 60 mph (95 km/h) with higher
+gusts. Only gradual weakening is expected the next couple of days. 
+Hone is expected to become a post-tropical low on Thursday, then 
+dissipate on Friday.
+ 
+Tropical-storm-force winds extend outward up to 80 miles (130 km)
+from the center.
+ 
+The estimated minimum central pressure is 1000 mb (29.53 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+None.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 1100 PM HST.
+ 
+$$
+Forecaster Birchard
+ 
+NNNN
+</message>
+</cycloneMessage>
