@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<cycloneMessage>
+<!-- System Advisory Meta Information -->
+<atcfID>EP082024</atcfID>
+<issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
+<messageType>ROUTINE ADVISORY</messageType>
+<messageBinNumber>3</messageBinNumber>
+<advisoryNumber>12</advisoryNumber>
+<!-- System Date/Time Information -->
+<messageDateTimeLocal>20240828 05:00:00 AM HST</messageDateTimeLocal>
+<messageDateTimeUTC>20240828 03:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>20240828150000</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0500 AM HST Wed Aug 28</messageDateTimeLocalStr>
+<timeEpochSeconds>1724857200</timeEpochSeconds>
+<!-- System state defined -->
+<systemType>TROPICAL STORM</systemType>
+<systemName>HECTOR</systemName>
+<!-- Center Location of the System -->
+<!-- Lattitude: North is positive; South is negative -->
+<!-- Longitude: East is positive; West is negative -->
+<!-- units: decimal degrees (tenths) -->
+<centerLocLatitude>18.3</centerLocLatitude>
+<centerLocLongitude>-132.9</centerLocLongitude>
+<!-- Lattitude: North is N; South is S -->
+<!-- Longitude: East is E; West is W -->
+<!-- units: decimal degrees (tenths) -->
+<centerLocLatitudeExpanded>18.3N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>132.9W</centerLocLongitudeExpanded>
+<!-- Maximum Intensity of the System -->
+<!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
+<systemIntensityMph>50</systemIntensityMph>
+<systemIntensityKph>85</systemIntensityKph>
+<systemIntensityKts>45</systemIntensityKts>
+<systemMslpMb>1002</systemMslpMb>
+<systemMslpInHg>29.59</systemMslpInHg>
+<systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
+<formationChancePct48h>N/A</formationChancePct48h>
+<formationChancePct7d>N/A</formationChancePct7d>
+<!-- Current System Movement -->
+<!-- units: Degrees, MPH and KPH -->
+<systemDirectionOfMotion>W OR 275 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>10</systemSpeedMph>
+<systemSpeedKph>17</systemSpeedKph>
+<systemSpeedKts>9</systemSpeedKts>
+<!-- Current System Location from known Reference Point -->
+<systemGeoRefPt1>ABOUT 1450 MI...2335 KM E OF HILO HAWAII</systemGeoRefPt1>
+<!-- Relevant Message -->
+<message>
+ZCZC MIATCPEP3 ALL
+TTAA00 KNHC DDHHMM
+ 
+BULLETIN
+Tropical Storm Hector Advisory Number  12
+NWS National Hurricane Center Miami FL       EP082024
+500 AM HST Wed Aug 28 2024
+ 
+...HECTOR FORECAST TO WEAKEN SOON AS IT HEADS WESTWARD...
+ 
+ 
+SUMMARY OF 500 AM HST...1500 UTC...INFORMATION
+----------------------------------------------
+LOCATION...18.3N 132.9W
+ABOUT 1450 MI...2335 KM E OF HILO HAWAII
+MAXIMUM SUSTAINED WINDS...50 MPH...85 KM/H
+PRESENT MOVEMENT...W OR 275 DEGREES AT 10 MPH...17 KM/H
+MINIMUM CENTRAL PRESSURE...1002 MB...29.59 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+There are no coastal watches or warnings in effect.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 500 AM HST (1500 UTC), the center of Tropical Storm Hector was
+located near latitude 18.3 North, longitude 132.9 West. Hector is
+moving toward the west near 10 mph (17 km/h), and this motion is
+expected to continue for the next couple of days.
+ 
+Maximum sustained winds are near 50 mph (85 km/h) with higher gusts.
+Gradual weakening is anticipated during the next couple of days, 
+and Hector is forecast to become a remnant low on Thursday.
+ 
+Tropical-storm-force winds extend outward up to 80 miles (130 km)
+from the center.
+ 
+The estimated minimum central pressure is 1002 mb (29.59 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+None
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 1100 AM HST.
+ 
+$$
+Forecaster Hagen/Reinhart/Konarik
+ 
+NNNN
+</message>
+</cycloneMessage>
