@@ -1,0 +1,180 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -149.5,
+                        19.5,
+                        0.0
+                    ],
+                    [
+                        -151.3,
+                        19.8,
+                        0.0
+                    ],
+                    [
+                        -153.6,
+                        20.4,
+                        0.0
+                    ],
+                    [
+                        -156.0,
+                        21.2,
+                        0.0
+                    ],
+                    [
+                        -158.3,
+                        22.2,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "19.5N, 149.5W",
+                "advisoryNum": "45",
+                "atcfid": "EP072024",
+                "basin": "cp",
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Gilma (EP072024)</b></font></td></tr> \n                        <tr><td>Advisory #45 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "45",
+                "maxGustMPH": "50",
+                "maxWindKnots": "35",
+                "maxWindMPH": "40",
+                "minimumPressure": "1007",
+                "pubAdvTime": "1100 PM HST Wed Aug 28 2024",
+                "storm": "Tropical Storm Gilma",
+                "stormMovement": "W",
+                "stormName": "Gilma",
+                "stormNum": "07",
+                "stormType": "TS",
+                "styleUrl": "#72_line",
+                "timezone": "HST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -149.5,
+                        19.5,
+                        0.0
+                    ],
+                    [
+                        -151.3,
+                        19.8,
+                        0.0
+                    ],
+                    [
+                        -153.6,
+                        20.4,
+                        0.0
+                    ],
+                    [
+                        -156.0,
+                        21.2,
+                        0.0
+                    ],
+                    [
+                        -158.3,
+                        22.2,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "45",
+                "atcfid": "EP072024",
+                "basin": "cp",
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Gilma (EP072024)</b></font></td></tr> \n                        <tr><td>Advisory #45 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Tropical Storm Gilma",
+                "stormName": "Gilma",
+                "stormNum": "07",
+                "stormType": "TS",
+                "styleUrl": "#120_line",
+                "timezone": "HST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -149.5,
+                    19.5,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Gilma (EP072024)</b></font></td></tr> \n                        <tr><td>Advisory #45</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at: 11:00 PM HST August 28, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 19.5 N, -149.5 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 35 knots (40 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 45 knots (50 mph) </td></tr> \n                        <tr><td nowrap>Motion: W </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 1007 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -151.3,
+                    19.8,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Gilma (EP072024)</b></font></td></tr> \n                        <tr><td>Advisory #45</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>12 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 AM HST August 29, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 19.8 N, -151.3 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 30 knots (35 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 40 knots (45 mph) </td></tr>",
+                "styleUrl": "#d_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -153.6,
+                    20.4,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Gilma (EP072024)</b></font></td></tr> \n                        <tr><td>Advisory #45</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>24 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 PM HST August 29, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 20.4 N, -153.6 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 30 knots (35 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 40 knots (45 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -156.0,
+                    21.2,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Gilma (EP072024)</b></font></td></tr> \n                        <tr><td>Advisory #45</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>36 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 AM HST August 30, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 21.2 N, -156.0 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 25 knots (30 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 35 knots (40 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -158.3,
+                    22.2,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Gilma (EP072024)</b></font></td></tr> \n                        <tr><td>Advisory #45</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>48 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 PM HST August 30, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 22.2 N, -158.3 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 25 knots (30 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 35 knots (40 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
