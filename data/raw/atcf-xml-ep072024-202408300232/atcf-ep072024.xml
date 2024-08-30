@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<cycloneMessage>
+<!-- System Advisory Meta Information -->
+<atcfID>EP072024</atcfID>
+<issuingUnit>NWS CENTRAL PACIFIC HURRICANE CENTER HONOLULU HI</issuingUnit>
+<messageType>ROUTINE ADVISORY</messageType>
+<messageBinNumber>2</messageBinNumber>
+<advisoryNumber>48</advisoryNumber>
+<!-- System Date/Time Information -->
+<messageDateTimeLocal>20240829 05:00:00 PM HST</messageDateTimeLocal>
+<messageDateTimeUTC>20240830 03:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>202408300300</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0500 PM HST Thu Aug 29</messageDateTimeLocalStr>
+<timeEpochSeconds>1724986800</timeEpochSeconds>
+<!-- System state defined -->
+<systemType>REMNANTS OF</systemType>
+<systemName>GILMA</systemName>
+<!-- Center Location of the System -->
+<!-- Lattitude: North is positive; South is negative -->
+<!-- Longitude: East is positive; West is negative -->
+<!-- units: decimal degrees (tenths) -->
+<centerLocLatitude>20.6</centerLocLatitude>
+<centerLocLongitude>-152.4</centerLocLongitude>
+<!-- Lattitude: North is N; South is S -->
+<!-- Longitude: East is E; West is W -->
+<!-- units: decimal degrees (tenths) -->
+<centerLocLatitudeExpanded>20.6N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>152.4W</centerLocLongitudeExpanded>
+<!-- Maximum Intensity of the System -->
+<!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
+<systemIntensityMph>30</systemIntensityMph>
+<systemIntensityKph>45</systemIntensityKph>
+<systemIntensityKts>25</systemIntensityKts>
+<systemMslpMb>1011</systemMslpMb>
+<systemMslpInHg>29.86</systemMslpInHg>
+<systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
+<formationChancePct48h>N/A</formationChancePct48h>
+<formationChancePct7d>N/A</formationChancePct7d>
+<!-- Current System Movement -->
+<!-- units: Degrees, MPH and KPH -->
+<systemDirectionOfMotion>WNW OR 300 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>12</systemSpeedMph>
+<systemSpeedKph>19</systemSpeedKph>
+<systemSpeedKts>10</systemSpeedKts>
+<!-- Current System Location from known Reference Point -->
+<systemGeoRefPt1>ABOUT 185 MI...300 KM ENE OF HILO HAWAII</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 360 MI...575 KM E OF HONOLULU HAWAII</systemGeoRefPt2>
+<!-- Relevant Message -->
+<message>
+ZCZC HFOTCPCP2 ALL
+TTAA00 PHFO DDHHMM
+ 
+BULLETIN
+Remnants Of Gilma Advisory Number  48
+NWS Central Pacific Hurricane Center Honolulu HI   EP072024
+500 PM HST Thu Aug 29 2024
+ 
+...GILMA DISSIPATES...
+...LAST CPHC ADVISORY...
+ 
+SUMMARY OF 500 PM HST...0300 UTC...INFORMATION
+----------------------------------------------
+LOCATION...20.6N 152.4W
+ABOUT 185 MI...300 KM ENE OF HILO HAWAII
+ABOUT 360 MI...575 KM E OF HONOLULU HAWAII
+MAXIMUM SUSTAINED WINDS...30 MPH...45 KM/H
+PRESENT MOVEMENT...WNW OR 300 DEGREES AT 12 MPH...19 KM/H
+MINIMUM CENTRAL PRESSURE...1011 MB...29.86 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+There are no coastal watches or warnings in effect.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 500 PM HST (0300 UTC), the remnants of Gilma were located near
+latitude 20.6 North, longitude 152.4 West. The remnants are moving
+toward the west-northwest near 12 mph (19 km/h), and this motion is 
+expected to continue over the next couple of days.
+ 
+Maximum sustained winds are near 30 mph (45 km/h) with higher gusts.
+ 
+The estimated minimum central pressure is 1011 mb (29.86 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+None.
+ 
+ 
+NEXT ADVISORY
+-------------
+This is the last public advisory issued by the Central Pacific
+Hurricane Center on this system. For additional information on this 
+system, please see the National Weather Service's High Seas Forecast 
+issued under AWIPS header HFOHSFNP and WMO header FZPN40 PHFO, and 
+Offshore Forecast issued under AWIPS header HFOOFFHFO and WMO header 
+FZHW60 PHFO.
+ 
+$$
+Forecaster M Ballard
+ 
+NNNN
+ 
+</message>
+</cycloneMessage>
