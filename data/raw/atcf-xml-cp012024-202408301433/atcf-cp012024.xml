@@ -5,13 +5,13 @@
 <issuingUnit>NWS CENTRAL PACIFIC HURRICANE CENTER HONOLULU HI</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>1</messageBinNumber>
-<advisoryNumber>33</advisoryNumber>
+<advisoryNumber>34</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20240830 05:00:00 AM HST</messageDateTimeLocal>
-<messageDateTimeUTC>20240830 03:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>202408301500</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0500 AM HST Fri Aug 30</messageDateTimeLocalStr>
-<timeEpochSeconds>1725030000</timeEpochSeconds>
+<messageDateTimeLocal>20240830 11:00:00 AM HST</messageDateTimeLocal>
+<messageDateTimeUTC>20240830 09:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>202408302100</messageDateTimeUTC24>
+<messageDateTimeLocalStr>1100 AM HST Fri Aug 30</messageDateTimeLocalStr>
+<timeEpochSeconds>1725051600</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL DEPRESSION</systemType>
 <systemName>HONE</systemName>
@@ -19,13 +19,13 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>21.8</centerLocLatitude>
-<centerLocLongitude>-174.7</centerLocLongitude>
+<centerLocLatitude>21.9</centerLocLatitude>
+<centerLocLongitude>-175.9</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>21.8N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>174.7W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>21.9N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>175.9W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
 <systemIntensityMph>35</systemIntensityMph>
@@ -38,73 +38,97 @@
 <formationChancePct7d>N/A</formationChancePct7d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>WNW OR 290 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>8</systemSpeedMph>
-<systemSpeedKph>13</systemSpeedKph>
-<systemSpeedKts>7</systemSpeedKts>
+<systemDirectionOfMotion>W OR 280 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>12</systemSpeedMph>
+<systemSpeedKph>19</systemSpeedKph>
+<systemSpeedKts>10</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 475 MI...760 KM SSE OF MIDWAY ISLAND</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 1080 MI...1735 KM W OF HONOLULU HAWAII</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 445 MI...715 KM SSE OF MIDWAY ISLAND</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 1155 MI...1860 KM W OF HONOLULU HAWAII</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC HFOTCPCP1 ALL
 TTAA00 PHFO DDHHMM
  
 BULLETIN
-Tropical Depression Hone Advisory Number  33
+Tropical Depression Hone Advisory Number  34
 NWS Central Pacific Hurricane Center Honolulu HI   CP012024
-500 AM HST Fri Aug 30 2024
+1100 AM HST Fri Aug 30 2024
  
-...TROPICAL DEPRESSION HONE BEGINNING ITS TURN TO THE NORTHWEST...
+...TROPICAL DEPRESSION HONE EXPECTED TO TURN TO THE NORTHWEST AND
+STRENGTHEN SOON...
+...TROPICAL STORM WATCH ISSUED FOR PORTIONS OF THE NORTHWESTERN
+HAWAIIAN ISLANDS...
  
  
-SUMMARY OF 500 AM HST...1500 UTC...INFORMATION
-----------------------------------------------
-LOCATION...21.8N 174.7W
-ABOUT 475 MI...760 KM SSE OF MIDWAY ISLAND
-ABOUT 1080 MI...1735 KM W OF HONOLULU HAWAII
+SUMMARY OF 1100 AM HST...2100 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...21.9N 175.9W
+ABOUT 445 MI...715 KM SSE OF MIDWAY ISLAND
+ABOUT 1155 MI...1860 KM W OF HONOLULU HAWAII
 MAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H
-PRESENT MOVEMENT...WNW OR 290 DEGREES AT 8 MPH...13 KM/H
+PRESENT MOVEMENT...W OR 280 DEGREES AT 12 MPH...19 KM/H
 MINIMUM CENTRAL PRESSURE...1008 MB...29.77 INCHES
  
  
 WATCHES AND WARNINGS
 --------------------
-There are no coastal watches or warnings in effect.
+CHANGES WITH THIS ADVISORY:
  
-Interests on Midway, Kure, and Pearl and Hermes Atolls should
-monitor the progress of Hone.
+A Tropical Storm Watch has been issued for Kure Atoll, Midway
+Atoll, and portions of the Papahanaumokuakea Marine National
+Monument from Lisianski Island to Pearl and Hermes Atoll.
+ 
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+ 
+A Tropical Storm Watch is in effect for...
+ 
+* Kure Atoll
+* Midway Atoll
+* Portions of the Papahanaumokuakea Marine National
+Monument from Lisianski Island to Pearl and Hermes Atoll
+ 
+A Tropical Storm Watch means tropical storm conditions are
+possible in the watch area within 48 hours.
+ 
+For storm information specific to your area, please monitor
+products issued by the National Weather Service office in
+Honolulu Hawaii.
  
  
 DISCUSSION AND OUTLOOK
 ----------------------
-At 500 AM HST (1500 UTC), the center of Tropical Depression Hone was
-located near latitude 21.8 North, longitude 174.7 West. The
-depression is moving toward the west-northwest near 8 mph (13 km/h).
-A turn toward the northwest is expected later today through the
-weekend. On the forecast track, Hone will pass south of Midway,
-Kure, and Pearl and Hermes Atolls this weekend.
+At 1100 AM HST (2100 UTC), the center of Tropical Depression Hone
+was located near latitude 21.9 North, longitude 175.9 West. The
+depression is moving toward the west near 12 mph (19 km/h), with a 
+turn to the northwest accompanied by a slowing of the forward speed 
+expected in the next 12 to 24 hours. Hone is then expected to 
+continue on a northwest track through Sunday. On the forecast track, 
+Hone is expected to pass south of Kure, Midway and Pearl and Hermes 
+Atolls Saturday night into Sunday.
  
 Maximum sustained winds are near 35 mph (55 km/h) with higher gusts.
-Some strengthening is forecast over the weekend and Hone is
-expected to become a tropical storm Saturday morning.
+Some strengthening is forecast during the next 48 hours with Hone 
+becoming a tropical storm Saturday.
  
 The estimated minimum central pressure is 1008 mb (29.77 inches).
  
  
 HAZARDS AFFECTING LAND
 ----------------------
-None.
+WIND: Tropical storm conditions are possible within the watch area
+late Saturday into Sunday.
  
  
 NEXT ADVISORY
 -------------
-Next complete advisory at 1100 AM HST.
+Next intermediate advisory at 200 PM HST.
+Next complete advisory at 500 PM HST.
  
 $$
-Forecaster Powell
- 
+Forecaster M Ballard
+
+
 NNNN
- 
 </message>
 </cycloneMessage>
