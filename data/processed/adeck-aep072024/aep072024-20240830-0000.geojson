@@ -968,6 +968,52 @@
                         20.4
                     ],
                     [
+                        -154.4,
+                        21.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "4002",
+            "properties": {
+                "model": "DRCL",
+                "warning_datetime": "2024-08-30"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -152.2,
+                        20.4
+                    ],
+                    [
+                        -152.4,
+                        20.6
+                    ],
+                    [
+                        -154.4,
+                        21.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "4049",
+            "properties": {
+                "model": "OFCL",
+                "warning_datetime": "2024-08-30"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -152.2,
+                        20.4
+                    ],
+                    [
                         -154.5,
                         21.1
                     ],
@@ -986,7 +1032,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "4093",
+            "id": "4095",
             "properties": {
                 "model": "OFCI",
                 "warning_datetime": "2024-08-30"
@@ -1043,7 +1089,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "4147",
+            "id": "4149",
             "properties": {
                 "model": "HWF2",
                 "warning_datetime": "2024-08-30"
@@ -1080,7 +1126,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "4176",
+            "id": "4178",
             "properties": {
                 "model": "CTCI",
                 "warning_datetime": "2024-08-30"
