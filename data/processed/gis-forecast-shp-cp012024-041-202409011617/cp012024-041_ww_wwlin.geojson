@@ -1,0 +1,59 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -178.18,
+                        28.4
+                    ],
+                    [
+                        -178.48,
+                        28.4
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "0",
+            "properties": {
+                "ADVDATE": "500 AM HST Sun Sep 01 2024",
+                "ADVISNUM": "41",
+                "BASIN": "CP",
+                "FCSTPRD": 120.0,
+                "STORMNAME": "Hone",
+                "STORMNUM": 1.0,
+                "STORMTYPE": "TS",
+                "TCWW": "TWA"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -177.22,
+                        28.21
+                    ],
+                    [
+                        -177.52,
+                        28.21
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "1",
+            "properties": {
+                "ADVDATE": "500 AM HST Sun Sep 01 2024",
+                "ADVISNUM": "41",
+                "BASIN": "CP",
+                "FCSTPRD": 120.0,
+                "STORMNAME": "Hone",
+                "STORMNUM": 1.0,
+                "STORMTYPE": "TS",
+                "TCWW": "TWA"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
