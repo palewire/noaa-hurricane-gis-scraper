@@ -1,0 +1,255 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -180.7,
+                        26.3,
+                        0.0
+                    ],
+                    [
+                        -181.2,
+                        26.6,
+                        0.0
+                    ],
+                    [
+                        -181.5,
+                        27.1,
+                        0.0
+                    ],
+                    [
+                        -180.8,
+                        28.5,
+                        0.0
+                    ],
+                    [
+                        -180.1,
+                        29.8,
+                        0.0
+                    ],
+                    [
+                        -181.0,
+                        31.1,
+                        0.0
+                    ],
+                    [
+                        -182.2,
+                        32.1,
+                        0.0
+                    ],
+                    [
+                        -182.2,
+                        32.1,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "26.3N, 179.3E",
+                "advisoryNum": "42",
+                "atcfid": "CP012024",
+                "basin": "cp",
+                "description": "<table> \n                        <tr><td><font color=black><b>Post-Tropical Cyclone Hone (CP012024)</b></font></td></tr> \n                        <tr><td>Advisory #42 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "45",
+                "maxGustMPH": "50",
+                "maxWindKnots": "35",
+                "maxWindMPH": "40",
+                "minimumPressure": "1007",
+                "pubAdvTime": "1100 AM HST Sun Sep 01 2024",
+                "storm": "Post-Tropical Cyclone Hone",
+                "stormMovement": "WNW",
+                "stormName": "Hone",
+                "stormNum": "01",
+                "stormType": "PTC",
+                "styleUrl": "#72_line",
+                "timezone": "HST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -180.7,
+                        26.3,
+                        0.0
+                    ],
+                    [
+                        -181.2,
+                        26.6,
+                        0.0
+                    ],
+                    [
+                        -181.5,
+                        27.1,
+                        0.0
+                    ],
+                    [
+                        -180.8,
+                        28.5,
+                        0.0
+                    ],
+                    [
+                        -180.1,
+                        29.8,
+                        0.0
+                    ],
+                    [
+                        -181.0,
+                        31.1,
+                        0.0
+                    ],
+                    [
+                        -182.2,
+                        32.1,
+                        0.0
+                    ],
+                    [
+                        -182.2,
+                        32.1,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "42",
+                "atcfid": "CP012024",
+                "basin": "cp",
+                "description": "<table> \n                        <tr><td><font color=black><b>Post-Tropical Cyclone Hone (CP012024)</b></font></td></tr> \n                        <tr><td>Advisory #42 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Post-Tropical Cyclone Hone",
+                "stormName": "Hone",
+                "stormNum": "01",
+                "stormType": "PTC",
+                "styleUrl": "#120_line",
+                "timezone": "HST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -180.7,
+                    26.3,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Post-Tropical Cyclone Hone (CP012024)</b></font></td></tr> \n                        <tr><td>Advisory #42</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at: 11:00 AM HST September 01, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 26.3 N, -180.7 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 35 knots (40 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 45 knots (50 mph) </td></tr> \n                        <tr><td nowrap>Motion: WNW </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 1007 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -181.2,
+                    26.6,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Post-Tropical Cyclone Hone (CP012024)</b></font></td></tr> \n                        <tr><td>Advisory #42</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>12 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 PM HST September 01, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 26.6 N, -181.2 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 35 knots (40 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 45 knots (50 mph) </td></tr>",
+                "styleUrl": "#xs_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -181.5,
+                    27.1,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Post-Tropical Cyclone Hone (CP012024)</b></font></td></tr> \n                        <tr><td>Advisory #42</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>24 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 AM HST September 02, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 27.1 N, -181.5 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 35 knots (40 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 45 knots (50 mph) </td></tr>",
+                "styleUrl": "#xs_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -180.8,
+                    28.5,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Post-Tropical Cyclone Hone (CP012024)</b></font></td></tr> \n                        <tr><td>Advisory #42</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>36 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 PM HST September 02, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 28.5 N, -180.8 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 35 knots (40 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 45 knots (50 mph) </td></tr>",
+                "styleUrl": "#xs_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -180.1,
+                    29.8,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Post-Tropical Cyclone Hone (CP012024)</b></font></td></tr> \n                        <tr><td>Advisory #42</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>48 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 AM HST September 03, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 29.8 N, -180.1 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 30 knots (35 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 40 knots (45 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -181.0,
+                    31.1,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Post-Tropical Cyclone Hone (CP012024)</b></font></td></tr> \n                        <tr><td>Advisory #42</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>60 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 PM HST September 03, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 31.1 N, -181.0 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 25 knots (30 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 35 knots (40 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -182.2,
+                    32.1,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Post-Tropical Cyclone Hone (CP012024)</b></font></td></tr> \n                        <tr><td>Advisory #42</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>72 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 AM HST September 04, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 32.1 N, -182.2 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 25 knots (30 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 35 knots (40 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -182.2,
+                    32.1,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Post-Tropical Cyclone Hone (CP012024)</b></font></td></tr> \n                        <tr><td>Advisory #42</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>96 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 AM HST September 04, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 32.1 N, -182.2 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 20 knots (25 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 30 knots (35 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
