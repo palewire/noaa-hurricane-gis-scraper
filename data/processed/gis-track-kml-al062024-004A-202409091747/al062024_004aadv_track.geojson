@@ -1,0 +1,270 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -95.8,
+                        23.7,
+                        0.0
+                    ],
+                    [
+                        -95.4,
+                        24.0,
+                        0.0
+                    ],
+                    [
+                        -95.7,
+                        24.9,
+                        0.0
+                    ],
+                    [
+                        -95.0,
+                        26.3,
+                        0.0
+                    ],
+                    [
+                        -93.5,
+                        28.0,
+                        0.0
+                    ],
+                    [
+                        -92.2,
+                        29.7,
+                        0.0
+                    ],
+                    [
+                        -90.7,
+                        32.4,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "23.7N, 95.8W",
+                "advisoryNum": "4A",
+                "atcfid": "AL062024",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Francine (AL062024)</b></font></td></tr> \n                        <tr><td>Advisory #4A </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "55",
+                "maxGustMPH": "65",
+                "maxWindKnots": "45",
+                "maxWindMPH": "60",
+                "minimumPressure": "996",
+                "pubAdvTime": "100 PM CDT Mon Sep 09 2024",
+                "storm": "Tropical Storm Francine",
+                "stormMovement": "NNW",
+                "stormName": "Francine",
+                "stormNum": "06",
+                "stormType": "TS",
+                "styleUrl": "#72_line",
+                "timezone": "CDT"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -95.8,
+                        23.7,
+                        0.0
+                    ],
+                    [
+                        -95.4,
+                        24.0,
+                        0.0
+                    ],
+                    [
+                        -95.7,
+                        24.9,
+                        0.0
+                    ],
+                    [
+                        -95.0,
+                        26.3,
+                        0.0
+                    ],
+                    [
+                        -93.5,
+                        28.0,
+                        0.0
+                    ],
+                    [
+                        -92.2,
+                        29.7,
+                        0.0
+                    ],
+                    [
+                        -90.7,
+                        32.4,
+                        0.0
+                    ],
+                    [
+                        -89.6,
+                        36.2,
+                        0.0
+                    ],
+                    [
+                        -88.8,
+                        37.5,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "4A",
+                "atcfid": "AL062024",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Francine (AL062024)</b></font></td></tr> \n                        <tr><td>Advisory #4A </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Tropical Storm Francine",
+                "stormName": "Francine",
+                "stormNum": "06",
+                "stormType": "TS",
+                "styleUrl": "#120_line",
+                "timezone": "CDT"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -95.8,
+                    23.7,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Francine (AL062024)</b></font></td></tr> \n                        <tr><td>Advisory #4A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  1:00 PM CDT September 09, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 23.7 N, -95.8 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 45 knots (60 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 55 knots (65 mph) </td></tr> \n                        <tr><td nowrap>Motion: NNW </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 996 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -95.4,
+                    24.0,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Francine (AL062024)</b></font></td></tr> \n                        <tr><td>Advisory #4A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>12 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  7:00 PM CDT September 09, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 24.0 N, -95.4 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 50 knots (60 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 60 knots (70 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -95.7,
+                    24.9,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Francine (AL062024)</b></font></td></tr> \n                        <tr><td>Advisory #4A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>24 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  7:00 AM CDT September 10, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 24.9 N, -95.7 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 55 knots (65 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 65 knots (75 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -95.0,
+                    26.3,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Francine (AL062024)</b></font></td></tr> \n                        <tr><td>Advisory #4A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>36 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  7:00 PM CDT September 10, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 26.3 N, -95.0 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 65 knots (75 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 80 knots (90 mph) </td></tr>",
+                "styleUrl": "#h_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -93.5,
+                    28.0,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Francine (AL062024)</b></font></td></tr> \n                        <tr><td>Advisory #4A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>48 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  7:00 AM CDT September 11, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 28.0 N, -93.5 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 75 knots (85 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 90 knots (105 mph) </td></tr>",
+                "styleUrl": "#h_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.2,
+                    29.7,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Francine (AL062024)</b></font></td></tr> \n                        <tr><td>Advisory #4A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>60 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  7:00 PM CDT September 11, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 29.7 N, -92.2 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 75 knots (85 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 90 knots (105 mph) </td></tr>",
+                "styleUrl": "#h_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.7,
+                    32.4,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Francine (AL062024)</b></font></td></tr> \n                        <tr><td>Advisory #4A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>72 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  7:00 AM CDT September 12, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 32.4 N, -90.7 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 35 knots (40 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 45 knots (50 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.6,
+                    36.2,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Francine (AL062024)</b></font></td></tr> \n                        <tr><td>Advisory #4A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>96 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  7:00 AM CDT September 13, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 36.2 N, -89.6 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 25 knots (30 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 35 knots (40 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.8,
+                    37.5,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Francine (AL062024)</b></font></td></tr> \n                        <tr><td>Advisory #4A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>120 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  7:00 AM CDT September 14, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 37.5 N, -88.8 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 20 knots (25 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 30 knots (35 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
