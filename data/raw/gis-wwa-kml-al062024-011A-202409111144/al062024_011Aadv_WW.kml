@@ -1,0 +1,339 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://earth.google.com/kml/2.1'>
+<Document>
+<name>Hurricane Francine (Advisory #11A) - Watch/Warnings</name>
+    <description>
+        <TABLE>
+            <TR><TD><B>Title:</B> Tropical Cyclone Watch/Warnings for AL062024 (Advisory #11A)</TD></TR>
+            <TR><TD><B>Description:</B>The official watch/warning in KML format is an experimental product produced by the National Hurricane Center.  Coastal areas placed under tropical cyclone watches or warnings are delimited by specific geographical locations known as "breakpoints" (e.g., a hurricane warning is in effect from breakpoint "A" to breakpoint "B").  This file consists of one or more lines connecting the breakpoints delimiting any current watches or warnings. </TD></TR>
+            <TR><TD><B>Date Created:</B> 09-11-2024 - 11:43 UTC </TD></TR>
+            <TR><TD><B>Created:</B> National Hurricane Center </TD></TR>
+            <TR><TD><B>Disclaimer:</B>The official watch/warning in KML format is an experimental product.</TD></TR>
+            <TR><TD><B>For More Information: </B><a href="https://www.nhc.noaa.gov">https://www.nhc.noaa.gov</a></TD></TR>
+        </TABLE>
+    </description>
+        <Style id="TWR">
+                <LineStyle>
+                        <color>ffff0055</color>
+                        <width>3</width>
+                </LineStyle>
+                <PolyStyle>
+                        <color>ffff0055</color>
+                </PolyStyle>
+        </Style>
+        <Style id="TWA">
+                <LineStyle>
+                        <color>ff22e2f7</color>
+                        <width>3</width>
+                </LineStyle>
+                <PolyStyle>
+                        <color>ff22e2f7</color>
+                </PolyStyle>
+        </Style>
+        <Style id="HWA">
+                <LineStyle>
+                        <color>99ffaaff</color>
+                        <width>8</width>
+                </LineStyle>
+                <PolyStyle>
+                        <color>99ffaaff</color>
+                </PolyStyle>
+        </Style>
+        <Style id="HWR">
+                <LineStyle>
+                        <color>990000ff</color>
+                        <width>8</width>
+                </LineStyle>
+                <PolyStyle>
+                        <color>990000ff</color>
+                </PolyStyle>
+        </Style>
+    <Placemark>
+      <name>Hurricane Watch</name>
+        <styleUrl>#HWA</styleUrl>
+        <LineString>
+                <coordinates>
+-90.49,30.35,0 -90.59,30.27,0 -90.59,30.19,0 -90.53,30.17,0 -90.45,30.19,0 -90.41,30.27,0 -90.41,30.33,0 -90.49,30.35,0 
+                </coordinates>
+        </LineString>
+        <ExtendedData>
+            <Data name="timezone">
+                <value>CDT</value>
+            </Data>
+            <Data name="stormType">
+                <value>HU</value>
+            </Data>
+            <Data name="advisoryDate">
+                <value>700 AM CDT Wed Sep 11 2024</value>
+            </Data>
+            <Data name="basin">
+                <value>AL</value>
+            </Data>
+            <Data name="fcstpd">
+                <value>120</value>
+            </Data>
+            <Data name="storm">
+                <value>Hurricane Francine</value>
+            </Data>
+            <Data name="atcfid">
+                <value>AL062024</value>
+            </Data>
+            <Data name="advisoryNum">
+                <value>11A</value>
+            </Data>
+            <Data name="stormNum">
+                <value>6</value>
+            </Data>
+            <Data name="stormName">
+                <value>Francine</value>
+            </Data>
+        </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Hurricane Watch</name>
+        <styleUrl>#HWA</styleUrl>
+        <LineString>
+                <coordinates>
+-90.21,30.39,0 -90.35,30.25,0 -90.42,30.21,0 -90.43,30.14,0 -90.42,30.1,0 -90.35,30.05,0 -90.28,30.05,0 -90.15,30.02,0 -90.03,30.04,0 -89.96,30.06,0 -89.87,30.15,0 -89.83,30.1,0 -89.75,30.15,0 -89.77,30.2,0 -89.87,30.25,0 -89.98,30.26,0 -90.02,30.32,0 -90.21,30.39,0 
+                </coordinates>
+        </LineString>
+        <ExtendedData>
+            <Data name="timezone">
+                <value>CDT</value>
+            </Data>
+            <Data name="stormType">
+                <value>HU</value>
+            </Data>
+            <Data name="advisoryDate">
+                <value>700 AM CDT Wed Sep 11 2024</value>
+            </Data>
+            <Data name="basin">
+                <value>AL</value>
+            </Data>
+            <Data name="fcstpd">
+                <value>120</value>
+            </Data>
+            <Data name="storm">
+                <value>Hurricane Francine</value>
+            </Data>
+            <Data name="atcfid">
+                <value>AL062024</value>
+            </Data>
+            <Data name="advisoryNum">
+                <value>11A</value>
+            </Data>
+            <Data name="stormNum">
+                <value>6</value>
+            </Data>
+            <Data name="stormName">
+                <value>Francine</value>
+            </Data>
+        </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Tropical Storm Warning</name>
+        <styleUrl>#TWR</styleUrl>
+        <LineString>
+                <coordinates>
+-93.84,29.69,0 -93.3,29.78,0 -92.61,29.59,0 
+                </coordinates>
+        </LineString>
+        <ExtendedData>
+            <Data name="timezone">
+                <value>CDT</value>
+            </Data>
+            <Data name="stormType">
+                <value>HU</value>
+            </Data>
+            <Data name="advisoryDate">
+                <value>700 AM CDT Wed Sep 11 2024</value>
+            </Data>
+            <Data name="basin">
+                <value>AL</value>
+            </Data>
+            <Data name="fcstpd">
+                <value>120</value>
+            </Data>
+            <Data name="storm">
+                <value>Hurricane Francine</value>
+            </Data>
+            <Data name="atcfid">
+                <value>AL062024</value>
+            </Data>
+            <Data name="advisoryNum">
+                <value>11A</value>
+            </Data>
+            <Data name="stormNum">
+                <value>6</value>
+            </Data>
+            <Data name="stormName">
+                <value>Francine</value>
+            </Data>
+        </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Tropical Storm Warning</name>
+        <styleUrl>#TWR</styleUrl>
+        <LineString>
+                <coordinates>
+-89.96,29.25,0 -89.1,29.12,0 -89.6,30.15,0 -89.33,30.31,0 -88.82,30.4,0 -88.32,30.38,0 -87.55,30.27,0 
+                </coordinates>
+        </LineString>
+        <ExtendedData>
+            <Data name="timezone">
+                <value>CDT</value>
+            </Data>
+            <Data name="stormType">
+                <value>HU</value>
+            </Data>
+            <Data name="advisoryDate">
+                <value>700 AM CDT Wed Sep 11 2024</value>
+            </Data>
+            <Data name="basin">
+                <value>AL</value>
+            </Data>
+            <Data name="fcstpd">
+                <value>120</value>
+            </Data>
+            <Data name="storm">
+                <value>Hurricane Francine</value>
+            </Data>
+            <Data name="atcfid">
+                <value>AL062024</value>
+            </Data>
+            <Data name="advisoryNum">
+                <value>11A</value>
+            </Data>
+            <Data name="stormNum">
+                <value>6</value>
+            </Data>
+            <Data name="stormName">
+                <value>Francine</value>
+            </Data>
+        </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Tropical Storm Warning</name>
+        <styleUrl>#TWR</styleUrl>
+        <LineString>
+                <coordinates>
+-90.49,30.35,0 -90.59,30.27,0 -90.59,30.19,0 -90.53,30.17,0 -90.45,30.19,0 -90.41,30.27,0 -90.41,30.33,0 -90.49,30.35,0 
+                </coordinates>
+        </LineString>
+        <ExtendedData>
+            <Data name="timezone">
+                <value>CDT</value>
+            </Data>
+            <Data name="stormType">
+                <value>HU</value>
+            </Data>
+            <Data name="advisoryDate">
+                <value>700 AM CDT Wed Sep 11 2024</value>
+            </Data>
+            <Data name="basin">
+                <value>AL</value>
+            </Data>
+            <Data name="fcstpd">
+                <value>120</value>
+            </Data>
+            <Data name="storm">
+                <value>Hurricane Francine</value>
+            </Data>
+            <Data name="atcfid">
+                <value>AL062024</value>
+            </Data>
+            <Data name="advisoryNum">
+                <value>11A</value>
+            </Data>
+            <Data name="stormNum">
+                <value>6</value>
+            </Data>
+            <Data name="stormName">
+                <value>Francine</value>
+            </Data>
+        </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Tropical Storm Warning</name>
+        <styleUrl>#TWR</styleUrl>
+        <LineString>
+                <coordinates>
+-90.21,30.39,0 -90.35,30.25,0 -90.42,30.21,0 -90.43,30.14,0 -90.42,30.1,0 -90.35,30.05,0 -90.28,30.05,0 -90.15,30.02,0 -90.03,30.04,0 -89.96,30.06,0 -89.87,30.15,0 -89.83,30.1,0 -89.75,30.15,0 -89.77,30.2,0 -89.87,30.25,0 -89.98,30.26,0 -90.02,30.32,0 -90.21,30.39,0 
+                </coordinates>
+        </LineString>
+        <ExtendedData>
+            <Data name="timezone">
+                <value>CDT</value>
+            </Data>
+            <Data name="stormType">
+                <value>HU</value>
+            </Data>
+            <Data name="advisoryDate">
+                <value>700 AM CDT Wed Sep 11 2024</value>
+            </Data>
+            <Data name="basin">
+                <value>AL</value>
+            </Data>
+            <Data name="fcstpd">
+                <value>120</value>
+            </Data>
+            <Data name="storm">
+                <value>Hurricane Francine</value>
+            </Data>
+            <Data name="atcfid">
+                <value>AL062024</value>
+            </Data>
+            <Data name="advisoryNum">
+                <value>11A</value>
+            </Data>
+            <Data name="stormNum">
+                <value>6</value>
+            </Data>
+            <Data name="stormName">
+                <value>Francine</value>
+            </Data>
+        </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Hurricane Warning</name>
+        <styleUrl>#HWR</styleUrl>
+        <LineString>
+                <coordinates>
+-92.61,29.59,0 -92.16,29.78,0 -91.87,29.72,0 -91.29,29.48,0 -89.96,29.25,0 
+                </coordinates>
+        </LineString>
+        <ExtendedData>
+            <Data name="timezone">
+                <value>CDT</value>
+            </Data>
+            <Data name="stormType">
+                <value>HU</value>
+            </Data>
+            <Data name="advisoryDate">
+                <value>700 AM CDT Wed Sep 11 2024</value>
+            </Data>
+            <Data name="basin">
+                <value>AL</value>
+            </Data>
+            <Data name="fcstpd">
+                <value>120</value>
+            </Data>
+            <Data name="storm">
+                <value>Hurricane Francine</value>
+            </Data>
+            <Data name="atcfid">
+                <value>AL062024</value>
+            </Data>
+            <Data name="advisoryNum">
+                <value>11A</value>
+            </Data>
+            <Data name="stormNum">
+                <value>6</value>
+            </Data>
+            <Data name="stormName">
+                <value>Francine</value>
+            </Data>
+        </ExtendedData>
+    </Placemark>
+</Document>
+</kml>
