@@ -1,0 +1,205 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -92.7,
+                        28.0,
+                        0.0
+                    ],
+                    [
+                        -91.5,
+                        29.5,
+                        0.0
+                    ],
+                    [
+                        -90.3,
+                        31.8,
+                        0.0
+                    ],
+                    [
+                        -90.1,
+                        34.1,
+                        0.0
+                    ],
+                    [
+                        -90.3,
+                        35.2,
+                        0.0
+                    ],
+                    [
+                        -90.2,
+                        35.7,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "28.0N, 92.7W",
+                "advisoryNum": "12",
+                "atcfid": "AL062024",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Francine (AL062024)</b></font></td></tr> \n                        <tr><td>Advisory #12 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "100",
+                "maxGustMPH": "115",
+                "maxWindKnots": "80",
+                "maxWindMPH": "90",
+                "minimumPressure": "976",
+                "pubAdvTime": "1000 AM CDT Wed Sep 11 2024",
+                "storm": "Hurricane Francine",
+                "stormMovement": "NE",
+                "stormName": "Francine",
+                "stormNum": "06",
+                "stormType": "HU",
+                "styleUrl": "#72_line",
+                "timezone": "CDT"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -92.7,
+                        28.0,
+                        0.0
+                    ],
+                    [
+                        -91.5,
+                        29.5,
+                        0.0
+                    ],
+                    [
+                        -90.3,
+                        31.8,
+                        0.0
+                    ],
+                    [
+                        -90.1,
+                        34.1,
+                        0.0
+                    ],
+                    [
+                        -90.3,
+                        35.2,
+                        0.0
+                    ],
+                    [
+                        -90.2,
+                        35.7,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "12",
+                "atcfid": "AL062024",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Francine (AL062024)</b></font></td></tr> \n                        <tr><td>Advisory #12 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Hurricane Francine",
+                "stormName": "Francine",
+                "stormNum": "06",
+                "stormType": "HU",
+                "styleUrl": "#120_line",
+                "timezone": "CDT"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.7,
+                    28.0,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Francine (AL062024)</b></font></td></tr> \n                        <tr><td>Advisory #12</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at: 10:00 AM CDT September 11, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 28.0 N, -92.7 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 80 knots (90 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 100 knots (115 mph) </td></tr> \n                        <tr><td nowrap>Motion: NE </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 976 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -91.5,
+                    29.5,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Francine (AL062024)</b></font></td></tr> \n                        <tr><td>Advisory #12</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>12 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  7:00 PM CDT September 11, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 29.5 N, -91.5 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 80 knots (90 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 100 knots (115 mph) </td></tr>",
+                "styleUrl": "#h_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.3,
+                    31.8,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Francine (AL062024)</b></font></td></tr> \n                        <tr><td>Advisory #12</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>24 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  7:00 AM CDT September 12, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 31.8 N, -90.3 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 40 knots (45 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 50 knots (60 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.1,
+                    34.1,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Francine (AL062024)</b></font></td></tr> \n                        <tr><td>Advisory #12</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>36 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  7:00 PM CDT September 12, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 34.1 N, -90.1 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 30 knots (35 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 40 knots (45 mph) </td></tr>",
+                "styleUrl": "#d_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.3,
+                    35.2,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Francine (AL062024)</b></font></td></tr> \n                        <tr><td>Advisory #12</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>48 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  7:00 AM CDT September 13, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 35.2 N, -90.3 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 20 knots (25 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 30 knots (35 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.2,
+                    35.7,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Francine (AL062024)</b></font></td></tr> \n                        <tr><td>Advisory #12</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>60 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  7:00 PM CDT September 13, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 35.7 N, -90.2 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 20 knots (25 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 30 knots (35 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
