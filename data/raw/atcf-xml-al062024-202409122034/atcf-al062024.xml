@@ -1,0 +1,139 @@
+<?xml version="1.0"?>
+<cycloneMessage>
+<!-- System Advisory Meta Information -->
+<atcfID>AL062024</atcfID>
+<issuingUnit>NWS WEATHER PREDICTION CENTER COLLEGE PARK MD</issuingUnit>
+<messageType>ROUTINE ADVISORY</messageType>
+<messageBinNumber>1</messageBinNumber>
+<advisoryNumber>17</advisoryNumber>
+<!-- System Date/Time Information -->
+<messageDateTimeLocal>20240912 04:00:00 PM CDT</messageDateTimeLocal>
+<messageDateTimeUTC>20240912 09:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>202409122100</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0400 PM CDT Thu Sep 12</messageDateTimeLocalStr>
+<timeEpochSeconds>1726174800</timeEpochSeconds>
+<!-- System state defined -->
+<systemType>POST-TROPICAL CYCLONE</systemType>
+<systemName>FRANCINE</systemName>
+<!-- Center Location of the System -->
+<!-- Lattitude: North is positive; South is negative -->
+<!-- Longitude: East is positive; West is negative -->
+<!-- units: decimal degrees (tenths) -->
+<centerLocLatitude>33.8</centerLocLatitude>
+<centerLocLongitude>-89.8</centerLocLongitude>
+<!-- Lattitude: North is N; South is S -->
+<!-- Longitude: East is E; West is W -->
+<!-- units: decimal degrees (tenths) -->
+<centerLocLatitudeExpanded>33.8N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>89.8W</centerLocLongitudeExpanded>
+<!-- Maximum Intensity of the System -->
+<!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
+<systemIntensityMph>25</systemIntensityMph>
+<systemIntensityKph>35</systemIntensityKph>
+<systemIntensityKts>20</systemIntensityKts>
+<systemMslpMb>996</systemMslpMb>
+<systemMslpInHg>29.42</systemMslpInHg>
+<systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
+<formationChancePct48h>N/A</formationChancePct48h>
+<formationChancePct7d>N/A</formationChancePct7d>
+<!-- Current System Movement -->
+<!-- units: Degrees, MPH and KPH -->
+<systemDirectionOfMotion>N OR 350 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>9</systemSpeedMph>
+<systemSpeedKph>15</systemSpeedKph>
+<systemSpeedKts>8</systemSpeedKts>
+<!-- Current System Location from known Reference Point -->
+<systemGeoRefPt1>ABOUT 90 MI...145 KM S OF MEMPHIS TENNESSEE</systemGeoRefPt1>
+<!-- Relevant Message -->
+<message>
+ZCZC NFDTCPAT1 ALL
+TTAA00 KWNH DDHHMM
+ 
+BULLETIN
+Post-Tropical Cyclone Francine Advisory Number  17
+NWS Weather Prediction Center College Park MD   AL062024
+400 PM CDT Thu Sep 12 2024
+ 
+...FRANCINE BECOMES A POST-TROPICAL CYCLONE...
+...HEAVY RAINFALL AND TORNADO THREAT TO CONTINUE ACROSS PORTIONS OF
+MISSISSIPPI, ALABAMA, GEORGIA, AND THE FLORIDA PANHANDLE...
+ 
+ 
+SUMMARY OF 400 PM CDT...2100 UTC...INFORMATION
+----------------------------------------------
+LOCATION...33.8N 89.8W
+ABOUT 90 MI...145 KM S OF MEMPHIS TENNESSEE
+MAXIMUM SUSTAINED WINDS...25 MPH...35 KM/H
+PRESENT MOVEMENT...N OR 350 DEGREES AT 9 MPH...15 KM/H
+MINIMUM CENTRAL PRESSURE...996 MB...29.42 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+SUMMARY OF WATCHES IN EFFECT:
+ 
+Flood Watches and Wind Advisories are in effect for portions of the 
+Southeast U.S near and southeast the path of Francine.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 400 PM CDT (2100 UTC), the center of Post-Tropical Cyclone
+Francine was located near latitude 33.8 North, longitude 89.8 West.
+The post-tropical cyclone is moving toward the north near 9 mph (15
+km/h) and Francine is expected to turn move toward the northwest 
+and slow down.
+ 
+Maximum sustained winds are near 25 mph (35 km/h) with higher gusts.
+Little change in strength is forecast during the next 24 hours.
+ 
+The estimated minimum central pressure is 996 mb (29.42 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Key messages for Francine can be found in the Tropical Cyclone
+Discussion under AWIPS header MIATCDAT1 and WMO header WTNT41 KNHC.
+ 
+RAINFALL: Francine is expected to bring storm total rainfall of 4 to
+8 inches across portions of Mississippi, eastern Arkansas,
+Tennessee, Alabama, Georgia and the Florida Panhandle. Localized
+amounts of 12 inches are possible over portions of Alabama, the
+Florida Panhandle, and Georgia. This rainfall could lead to
+considerable flash and urban flooding.
+ 
+For a complete depiction of forecast rainfall associated with
+Francine, please see the National Weather Service Storm Total
+Rainfall Graphic, available at
+hurricanes.gov/graphics_at1.shtml?rainqpf and the Flash Flood Risk
+graphic at hurricanes.gov/graphics_at1.shtml?ero.  For a list of
+rainfall observations (and wind reports) associated this storm, see
+the companion storm summary at WBCSCCNS1 with the WMO header ACUS41
+KWBC or at the following link:
+www.wpc.ncep.noaa.gov/discussions/nfdscc1.html.
+ 
+TORNADOES:  A few tornadoes are possible through this evening
+across the Florida Panhandle, southern and central Alabama, and
+southwest Georgia.
+ 
+WIND:  Wind Advisories are in effect across portions of eastern
+Arkansas, western and middle Tennessee, Mississippi, Alabama, and
+northwest Georgia. A few gusts to tropical storm force are
+possible.
+ 
+SURF:  Swells generated by Francine should subside along the
+northern Gulf coast through this evening. These swells are likely to
+cause life-threatening surf and rip current conditions. Please
+consult products from your local weather office.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 1000 PM CDT.
+ 
+$$
+Forecaster Taylor/Lamers
+ 
+NNNN
+</message>
+</cycloneMessage>
