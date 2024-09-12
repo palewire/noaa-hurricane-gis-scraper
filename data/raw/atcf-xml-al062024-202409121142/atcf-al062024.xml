@@ -1,0 +1,185 @@
+<?xml version="1.0"?>
+<cycloneMessage>
+<!-- System Advisory Meta Information -->
+<atcfID>AL062024</atcfID>
+<issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
+<messageType>INTERMEDIATE ADVISORY</messageType>
+<messageBinNumber>1</messageBinNumber>
+<advisoryNumber>15A</advisoryNumber>
+<!-- System Date/Time Information -->
+<messageDateTimeLocal>20240912 07:00:00 AM CDT</messageDateTimeLocal>
+<messageDateTimeUTC>20240912 12:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>20240912120000</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0700 AM CDT Thu Sep 12</messageDateTimeLocalStr>
+<timeEpochSeconds>1726142400</timeEpochSeconds>
+<!-- System state defined -->
+<systemType>TROPICAL DEPRESSION</systemType>
+<systemName>FRANCINE</systemName>
+<!-- Center Location of the System -->
+<!-- Lattitude: North is positive; South is negative -->
+<!-- Longitude: East is positive; West is negative -->
+<!-- units: decimal degrees (tenths) -->
+<centerLocLatitude>31.9</centerLocLatitude>
+<centerLocLongitude>-90.1</centerLocLongitude>
+<!-- Lattitude: North is N; South is S -->
+<!-- Longitude: East is E; West is W -->
+<!-- units: decimal degrees (tenths) -->
+<centerLocLatitudeExpanded>31.9N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>90.1W</centerLocLongitudeExpanded>
+<!-- Maximum Intensity of the System -->
+<!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
+<systemIntensityMph>35</systemIntensityMph>
+<systemIntensityKph>55</systemIntensityKph>
+<systemIntensityKts>30</systemIntensityKts>
+<systemMslpMb>996</systemMslpMb>
+<systemMslpInHg>29.41</systemMslpInHg>
+<systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
+<formationChancePct48h>N/A</formationChancePct48h>
+<formationChancePct7d>N/A</formationChancePct7d>
+<!-- Current System Movement -->
+<!-- units: Degrees, MPH and KPH -->
+<systemDirectionOfMotion>NNE OR 15 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>12</systemSpeedMph>
+<systemSpeedKph>19</systemSpeedKph>
+<systemSpeedKts>10</systemSpeedKts>
+<!-- Current System Location from known Reference Point -->
+<systemGeoRefPt1>ABOUT 30 MI...50 KM S OF JACKSON MISSISSIPPI</systemGeoRefPt1>
+<!-- Relevant Message -->
+<message>
+ZCZC MIATCPAT1 ALL
+TTAA00 KNHC DDHHMM
+ 
+BULLETIN
+Tropical Depression Francine Intermediate Advisory Number 15A
+NWS National Hurricane Center Miami FL       AL062024
+700 AM CDT Thu Sep 12 2024
+ 
+...FRANCINE WEAKENS TO A TROPICAL DEPRESSION OVER SOUTH CENTRAL 
+MISSISSIPPI...
+...HEAVY RAINFALL SPREADING ACROSS MISSISSIPPI, ALABAMA, AND THE
+FLORIDA PANHANDLE...
+ 
+ 
+SUMMARY OF 700 AM CDT...1200 UTC...INFORMATION
+----------------------------------------------
+LOCATION...31.9N 90.1W
+ABOUT 30 MI...50 KM S OF JACKSON MISSISSIPPI
+MAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H
+PRESENT MOVEMENT...NNE OR 15 DEGREES AT 12 MPH...19 KM/H
+MINIMUM CENTRAL PRESSURE...996 MB...29.41 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+
+The Storm Surge Warning has been discontinued between Grand Isle, 
+Louisiana and the mouth of the Pearl River
+
+The Tropical Storm Warning has been discontinued for the coasts of 
+Louisiana, Mississippi, and Alabama, including Lake Maurepas, Lake 
+Pontchartrain, and metropolitan New Orleans. 
+ 
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+ 
+A Storm Surge Warning is in effect for...
+* The mouth of the Pearl River to the Mississippi/Alabama Border
+* Lake Maurepas
+* Lake Pontchartrain
+ 
+A Storm Surge Warning means there is a danger of life-threatening
+inundation, from rising water moving inland from the coastline.
+ 
+For a depiction of areas at risk, please see the National Weather
+Service Storm Surge Watch/Warning Graphic, available at
+hurricanes.gov.  This is a life-threatening situation.  
+ 
+For storm information specific to your area, including possible
+inland watches and warnings, please monitor products issued by your
+local National Weather Service forecast office.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 700 AM CDT (1200 UTC), the center of Tropical Depression 
+Francine was located near latitude 31.9 North, longitude 90.1 West. 
+Francine is moving toward the north-northeast near 12 mph (19 
+km/h). A turn toward the north is expected during the next day or 
+so, with some decrease in forward speed. On the forecast track, the 
+center of Francine will move over central and northern portions of 
+Mississippi through early Friday.
+ 
+Maximum sustained winds have decreased to near 35 mph (55 km/h) 
+with higher gusts. Continued weakening is forecast, and Francine is 
+expected to become a post-tropical cyclone later today.
+ 
+The estimated minimum central pressure is 996 mb (29.41 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Key messages for Francine can be found in the Tropical Cyclone
+Discussion under AWIPS header MIATCDAT1 and WMO header WTNT41 KNHC.
+ 
+WIND:  Wind gusts to tropical-storm force are possible for the next 
+several hours over portions of southeastern Louisiana, southeastern 
+and central Mississippi, and southwestern Alabama.
+ 
+RAINFALL: Francine is expected to bring storm total rainfall of 3 to
+6 inches across portions of Mississippi, eastern Arkansas,
+Tennessee, Alabama, Georgia, and the Florida Panhandle. Localized
+amounts up to 10 inches are possible within rain bands over portions
+of central and northern Alabama and over the Florida Panhandle. This
+rainfall could lead to locally considerable flash and urban
+flooding.
+ 
+For a complete depiction of forecast rainfall associated with
+Francine, please see the National Weather Service Storm Total
+Rainfall Graphic, available at
+hurricanes.gov/graphics_at1.shtml?rainqpf and the Flash Flood Risk
+graphic at hurricanes.gov/graphics_at1.shtml?ero.  For a list of
+rainfall observations (and wind reports) associated this storm, see
+the companion storm summary at WBCSCCNS1 with the WMO header ACUS41
+KWBC or at the following link:
+www.wpc.ncep.noaa.gov/discussions/nfdscc1.html.
+ 
+STORM SURGE:  The combination of a dangerous storm surge and the
+tide will cause normally dry areas near the coast to be flooded by
+rising waters moving inland from the shoreline. The water could
+reach the following heights above ground somewhere in the indicated
+areas if the peak surge occurs at the time of high tide...
+ 
+Mouth of the Pearl River, LA to MS/AL Border...2-4 ft
+Lake Pontchartrain and Lake Maurepas...2-4 ft
+ 
+The deepest water will occur along the immediate coast near and to
+the east of the landfall location, where the surge will be
+accompanied by large and dangerous waves.  Surge-related flooding
+depends on the relative timing of the surge and the tidal cycle, and
+can vary greatly over short distances.  For information specific to 
+your area, please see products issued by your local National 
+Weather Service forecast office.
+ 
+For a complete depiction of areas at risk of storm surge inundation,
+please see the National Weather Service Peak Storm Surge Graphic,
+available at hurricanes.gov/graphics_at1.shtml?peakSurge.
+ 
+TORNADOES:  A few tornadoes are possible today, mainly this morning 
+and afternoon from the Florida Panhandle to north-central Alabama.
+ 
+SURF:  Swells generated by Francine will continue to affect much of
+the northern Gulf coast through today. These swells are likely to
+cause life-threatening surf and rip current conditions. Please
+consult products from your local weather office.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 1000 AM CDT.
+ 
+$$
+Forecaster Beven
+ 
+NNNN
+</message>
+</cycloneMessage>
