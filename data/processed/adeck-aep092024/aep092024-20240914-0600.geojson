@@ -1642,6 +1642,76 @@
                         23.9
                     ],
                     [
+                        -109.3,
+                        25.1
+                    ],
+                    [
+                        -109.7,
+                        25.9
+                    ],
+                    [
+                        -110.4,
+                        26.6
+                    ],
+                    [
+                        -111.2,
+                        27.4
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "743",
+            "properties": {
+                "model": "DRCL",
+                "warning_datetime": "2024-09-14 06:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -109.2,
+                        23.9
+                    ],
+                    [
+                        -109.2,
+                        24.3
+                    ],
+                    [
+                        -109.3,
+                        25.1
+                    ],
+                    [
+                        -109.7,
+                        25.9
+                    ],
+                    [
+                        -110.4,
+                        26.6
+                    ],
+                    [
+                        -111.2,
+                        27.4
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "755",
+            "properties": {
+                "model": "OFCL",
+                "warning_datetime": "2024-09-14 06:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -109.2,
+                        23.9
+                    ],
+                    [
                         -109.4,
                         25.1
                     ],
@@ -1660,9 +1730,42 @@
                 ],
                 "type": "LineString"
             },
-            "id": "767",
+            "id": "769",
             "properties": {
                 "model": "OFCI",
+                "warning_datetime": "2024-09-14 06:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -109.2,
+                        23.9
+                    ],
+                    [
+                        -109.3,
+                        25.1
+                    ],
+                    [
+                        -109.7,
+                        25.9
+                    ],
+                    [
+                        -110.4,
+                        26.6
+                    ],
+                    [
+                        -111.2,
+                        27.4
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "775",
+            "properties": {
+                "model": "RYOC",
                 "warning_datetime": "2024-09-14 06:00:00"
             },
             "type": "Feature"
