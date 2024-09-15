@@ -1344,8 +1344,37 @@
             "type": "Feature"
         },
         {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -109.5,
+                        25.5
+                    ],
+                    [
+                        -109.6,
+                        25.7
+                    ],
+                    [
+                        -110.1,
+                        26.1
+                    ],
+                    [
+                        -111.0,
+                        27.3
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "1123",
+            "properties": {
+                "model": "OFCL",
+                "warning_datetime": "2024-09-15 12:00:00"
+            },
+            "type": "Feature"
+        },
+        {
             "geometry": null,
-            "id": "1134",
+            "id": "1135",
             "properties": {
                 "model": "UKX2",
                 "warning_datetime": "2024-09-15 12:00:00"
@@ -1366,7 +1395,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "1146",
+            "id": "1147",
             "properties": {
                 "model": "OFCI",
                 "warning_datetime": "2024-09-15 12:00:00"
