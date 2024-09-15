@@ -1424,6 +1424,35 @@
                         25.4
                     ],
                     [
+                        -109.3,
+                        25.5
+                    ],
+                    [
+                        -109.8,
+                        25.8
+                    ],
+                    [
+                        -110.4,
+                        26.5
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "1053",
+            "properties": {
+                "model": "OFCL",
+                "warning_datetime": "2024-09-15 06:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -109.3,
+                        25.4
+                    ],
+                    [
                         -109.8,
                         25.9
                     ],
@@ -1438,9 +1467,38 @@
                 ],
                 "type": "LineString"
             },
-            "id": "1074",
+            "id": "1075",
             "properties": {
                 "model": "OFCI",
+                "warning_datetime": "2024-09-15 06:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -109.3,
+                        25.4
+                    ],
+                    [
+                        -109.8,
+                        25.8
+                    ],
+                    [
+                        -110.4,
+                        26.5
+                    ],
+                    [
+                        -111.3,
+                        27.7
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "1082",
+            "properties": {
+                "model": "RYOC",
                 "warning_datetime": "2024-09-15 06:00:00"
             },
             "type": "Feature"
