@@ -1862,6 +1862,35 @@
                         33.4
                     ],
                     [
+                        -78.8,
+                        33.9
+                    ],
+                    [
+                        -79.6,
+                        34.4
+                    ],
+                    [
+                        -80.9,
+                        34.9
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "549",
+            "properties": {
+                "model": "OFCL",
+                "warning_datetime": "2024-09-16 18:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -78.5,
+                        33.4
+                    ],
+                    [
                         -79.4,
                         34.2
                     ],
@@ -1876,7 +1905,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "552",
+            "id": "553",
             "properties": {
                 "model": "OFCI",
                 "warning_datetime": "2024-09-16 18:00:00"
@@ -1933,7 +1962,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "553",
+            "id": "554",
             "properties": {
                 "model": "HWF2",
                 "warning_datetime": "2024-09-16 18:00:00"
