@@ -1,0 +1,230 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -78.1,
+                        32.2,
+                        0.0
+                    ],
+                    [
+                        -78.5,
+                        32.8,
+                        0.0
+                    ],
+                    [
+                        -79.3,
+                        33.6,
+                        0.0
+                    ],
+                    [
+                        -80.0,
+                        34.5,
+                        0.0
+                    ],
+                    [
+                        -80.7,
+                        35.5,
+                        0.0
+                    ],
+                    [
+                        -81.0,
+                        36.6,
+                        0.0
+                    ],
+                    [
+                        -80.5,
+                        36.5,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "32.2N, 78.1W",
+                "advisoryNum": "2A",
+                "atcfid": "AL082024",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Potential Tropical Cyclone Eight (AL082024)</b></font></td></tr> \n                        <tr><td>Advisory #2A </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "50",
+                "maxGustMPH": "60",
+                "maxWindKnots": "40",
+                "maxWindMPH": "45",
+                "minimumPressure": "1005",
+                "pubAdvTime": "200 AM EDT Mon Sep 16 2024",
+                "storm": "Potential Tropical Cyclone Eight",
+                "stormMovement": "NW",
+                "stormName": "Eight",
+                "stormNum": "08",
+                "stormType": "PC",
+                "styleUrl": "#72_line",
+                "timezone": "EDT"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -78.1,
+                        32.2,
+                        0.0
+                    ],
+                    [
+                        -78.5,
+                        32.8,
+                        0.0
+                    ],
+                    [
+                        -79.3,
+                        33.6,
+                        0.0
+                    ],
+                    [
+                        -80.0,
+                        34.5,
+                        0.0
+                    ],
+                    [
+                        -80.7,
+                        35.5,
+                        0.0
+                    ],
+                    [
+                        -81.0,
+                        36.6,
+                        0.0
+                    ],
+                    [
+                        -80.5,
+                        36.5,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "2A",
+                "atcfid": "AL082024",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Potential Tropical Cyclone Eight (AL082024)</b></font></td></tr> \n                        <tr><td>Advisory #2A </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Potential Tropical Cyclone Eight",
+                "stormName": "Eight",
+                "stormNum": "08",
+                "stormType": "PC",
+                "styleUrl": "#120_line",
+                "timezone": "EDT"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -78.1,
+                    32.2,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Potential Tropical Cyclone Eight (AL082024)</b></font></td></tr> \n                        <tr><td>Advisory #2A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 AM EDT September 16, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 32.2 N, -78.1 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 40 knots (45 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 50 knots (60 mph) </td></tr> \n                        <tr><td nowrap>Motion: NW </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 1005 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -78.5,
+                    32.8,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Potential Tropical Cyclone Eight (AL082024)</b></font></td></tr> \n                        <tr><td>Advisory #2A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>12 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 AM EDT September 16, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 32.8 N, -78.5 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 45 knots (50 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 55 knots (65 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.3,
+                    33.6,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Potential Tropical Cyclone Eight (AL082024)</b></font></td></tr> \n                        <tr><td>Advisory #2A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>24 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 PM EDT September 16, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 33.6 N, -79.3 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 35 knots (40 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 45 knots (50 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.0,
+                    34.5,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Potential Tropical Cyclone Eight (AL082024)</b></font></td></tr> \n                        <tr><td>Advisory #2A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>36 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 AM EDT September 17, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 34.5 N, -80.0 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 25 knots (30 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 35 knots (40 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.7,
+                    35.5,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Potential Tropical Cyclone Eight (AL082024)</b></font></td></tr> \n                        <tr><td>Advisory #2A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>48 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 PM EDT September 17, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 35.5 N, -80.7 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 20 knots (25 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 30 knots (35 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.0,
+                    36.6,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Potential Tropical Cyclone Eight (AL082024)</b></font></td></tr> \n                        <tr><td>Advisory #2A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>60 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 AM EDT September 18, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 36.6 N, -81.0 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 20 knots (25 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 30 knots (35 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.5,
+                    36.5,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Potential Tropical Cyclone Eight (AL082024)</b></font></td></tr> \n                        <tr><td>Advisory #2A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>72 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 PM EDT September 18, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 36.5 N, -80.5 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 20 knots (25 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 30 knots (35 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
