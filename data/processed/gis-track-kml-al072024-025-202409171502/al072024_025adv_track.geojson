@@ -1,0 +1,80 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -49.1,
+                        19.5,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "19.5N, 49.1W",
+                "advisoryNum": "25",
+                "atcfid": "AL072024",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Remnants Of Gordon (AL072024)</b></font></td></tr> \n                        <tr><td>Advisory #25 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "35",
+                "maxGustMPH": "40",
+                "maxWindKnots": "25",
+                "maxWindMPH": "30",
+                "minimumPressure": "1007",
+                "pubAdvTime": "1100 AM AST Tue Sep 17 2024",
+                "storm": "Remnants Of Gordon",
+                "stormMovement": "N",
+                "stormName": "Gordon",
+                "stormNum": "07",
+                "stormType": "PTC",
+                "styleUrl": "#72_line",
+                "timezone": "AST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -49.1,
+                        19.5,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "25",
+                "atcfid": "AL072024",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Remnants Of Gordon (AL072024)</b></font></td></tr> \n                        <tr><td>Advisory #25 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Remnants Of Gordon",
+                "stormName": "Gordon",
+                "stormNum": "07",
+                "stormType": "PTC",
+                "styleUrl": "#120_line",
+                "timezone": "AST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.1,
+                    19.5,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Remnants Of Gordon (AL072024)</b></font></td></tr> \n                        <tr><td>Advisory #25</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at: 11:00 AM AST September 17, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 19.5 N, -49.1 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 25 knots (30 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 35 knots (40 mph) </td></tr> \n                        <tr><td nowrap>Motion: N </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 1007 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
