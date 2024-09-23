@@ -1,0 +1,43 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -98.5,
+                        14.5
+                    ],
+                    [
+                        -98.2,
+                        14.8
+                    ],
+                    [
+                        -97.6,
+                        15.4
+                    ],
+                    [
+                        -97.2,
+                        15.8
+                    ],
+                    [
+                        -97.0,
+                        16.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "0",
+            "properties": {
+                "ADVDATE": "600 AM CST Mon Sep 23 2024",
+                "ADVISNUM": "3A",
+                "BASIN": "EP",
+                "FCSTPRD": 120.0,
+                "STORMNAME": "John",
+                "STORMNUM": 10.0,
+                "STORMTYPE": "TS"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
