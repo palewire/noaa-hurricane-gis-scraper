@@ -1,0 +1,149 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.5,
+                    15.5
+                ],
+                "type": "Point"
+            },
+            "id": "0",
+            "properties": {
+                "ADVDATE": "300 PM CST Mon Sep 23 2024",
+                "ADVISNUM": "6",
+                "BASIN": "EP",
+                "DATELBL": "3:00 PM Mon",
+                "DVLBL": "H",
+                "FCSTPRD": 120.0,
+                "FLDATELBL": "2024-09-23 12:00 PM Mon CST",
+                "GUST": 105.0,
+                "LAT": 15.5,
+                "LON": -98.5,
+                "MAXWIND": 85.0,
+                "MSLP": 973.0,
+                "SSNUM": 2.0,
+                "STORMNAME": "Hurricane John",
+                "STORMNUM": 10.0,
+                "STORMSRC": "Tropical Cyclone",
+                "STORMTYPE": "HU",
+                "TAU": 0.0,
+                "TCDIR": 0.0,
+                "TCDVLP": "Hurricane",
+                "TCSPD": 5.0,
+                "TIMEZONE": "CST",
+                "VALIDTIME": "23/1800"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.3,
+                    16.0
+                ],
+                "type": "Point"
+            },
+            "id": "1",
+            "properties": {
+                "ADVDATE": "300 PM CST Mon Sep 23 2024",
+                "ADVISNUM": "6",
+                "BASIN": "EP",
+                "DATELBL": "12:00 AM Tue",
+                "DVLBL": "M",
+                "FCSTPRD": 120.0,
+                "FLDATELBL": "2024-09-24 12:00 AM Tue CST",
+                "GUST": 130.0,
+                "LAT": 16.0,
+                "LON": -98.3,
+                "MAXWIND": 105.0,
+                "MSLP": 9999.0,
+                "SSNUM": 3.0,
+                "STORMNAME": "Hurricane John",
+                "STORMNUM": 10.0,
+                "STORMSRC": "Tropical Cyclone",
+                "STORMTYPE": "MH",
+                "TAU": 12.0,
+                "TCDIR": 9999.0,
+                "TCDVLP": "Major Hurricane",
+                "TCSPD": 9999.0,
+                "TIMEZONE": "CST",
+                "VALIDTIME": "24/0600"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.3,
+                    16.5
+                ],
+                "type": "Point"
+            },
+            "id": "2",
+            "properties": {
+                "ADVDATE": "300 PM CST Mon Sep 23 2024",
+                "ADVISNUM": "6",
+                "BASIN": "EP",
+                "DATELBL": "12:00 PM Tue",
+                "DVLBL": "H",
+                "FCSTPRD": 120.0,
+                "FLDATELBL": "2024-09-24 12:00 PM Tue CST",
+                "GUST": 80.0,
+                "LAT": 16.5,
+                "LON": -98.3,
+                "MAXWIND": 65.0,
+                "MSLP": 9999.0,
+                "SSNUM": 1.0,
+                "STORMNAME": "Hurricane John",
+                "STORMNUM": 10.0,
+                "STORMSRC": "Tropical Cyclone",
+                "STORMTYPE": "HU",
+                "TAU": 24.0,
+                "TCDIR": 9999.0,
+                "TCDVLP": "Hurricane",
+                "TCSPD": 9999.0,
+                "TIMEZONE": "CST",
+                "VALIDTIME": "24/1800"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.4,
+                    16.7
+                ],
+                "type": "Point"
+            },
+            "id": "3",
+            "properties": {
+                "ADVDATE": "300 PM CST Mon Sep 23 2024",
+                "ADVISNUM": "6",
+                "BASIN": "EP",
+                "DATELBL": "12:00 AM Wed",
+                "DVLBL": "D",
+                "FCSTPRD": 120.0,
+                "FLDATELBL": "2024-09-25 12:00 AM Wed CST",
+                "GUST": 40.0,
+                "LAT": 16.7,
+                "LON": -98.4,
+                "MAXWIND": 30.0,
+                "MSLP": 9999.0,
+                "SSNUM": 0.0,
+                "STORMNAME": "Hurricane John",
+                "STORMNUM": 10.0,
+                "STORMSRC": "Post-Tropical Cyclone",
+                "STORMTYPE": "STD",
+                "TAU": 36.0,
+                "TCDIR": 9999.0,
+                "TCDVLP": "Subtropical Depression",
+                "TCSPD": 9999.0,
+                "TIMEZONE": "CST",
+                "VALIDTIME": "25/0600"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
