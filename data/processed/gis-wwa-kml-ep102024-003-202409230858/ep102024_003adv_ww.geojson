@@ -1,0 +1,131 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -96.23,
+                        15.69,
+                        0.0
+                    ],
+                    [
+                        -95.2,
+                        16.16,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryDate": "300 AM CST Mon Sep 23 2024",
+                "advisoryNum": "3",
+                "atcfid": "EP102024",
+                "basin": "EP",
+                "fcstpd": "120",
+                "name": "Tropical Storm Watch",
+                "storm": "Tropical Storm John",
+                "stormName": "John",
+                "stormNum": "10",
+                "stormType": "TS",
+                "styleUrl": "#TWA",
+                "timezone": "CST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -98.57,
+                        16.33,
+                        0.0
+                    ],
+                    [
+                        -97.64,
+                        15.97,
+                        0.0
+                    ],
+                    [
+                        -97.06,
+                        15.86,
+                        0.0
+                    ],
+                    [
+                        -96.49,
+                        15.66,
+                        0.0
+                    ],
+                    [
+                        -96.23,
+                        15.69,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryDate": "300 AM CST Mon Sep 23 2024",
+                "advisoryNum": "3",
+                "atcfid": "EP102024",
+                "basin": "EP",
+                "fcstpd": "120",
+                "name": "Hurricane Watch",
+                "storm": "Tropical Storm John",
+                "stormName": "John",
+                "stormNum": "10",
+                "stormType": "TS",
+                "styleUrl": "#HWA",
+                "timezone": "CST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -98.57,
+                        16.33,
+                        0.0
+                    ],
+                    [
+                        -97.64,
+                        15.97,
+                        0.0
+                    ],
+                    [
+                        -97.06,
+                        15.86,
+                        0.0
+                    ],
+                    [
+                        -96.49,
+                        15.66,
+                        0.0
+                    ],
+                    [
+                        -96.23,
+                        15.69,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryDate": "300 AM CST Mon Sep 23 2024",
+                "advisoryNum": "3",
+                "atcfid": "EP102024",
+                "basin": "EP",
+                "fcstpd": "120",
+                "name": "Tropical Storm Warning",
+                "storm": "Tropical Storm John",
+                "stormName": "John",
+                "stormNum": "10",
+                "stormType": "TS",
+                "styleUrl": "#TWR",
+                "timezone": "CST"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
