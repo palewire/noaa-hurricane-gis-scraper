@@ -1,0 +1,47 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -101.55,
+                        17.64,
+                        0.0
+                    ],
+                    [
+                        -100.63,
+                        17.18,
+                        0.0
+                    ],
+                    [
+                        -99.88,
+                        16.81,
+                        0.0
+                    ],
+                    [
+                        -98.57,
+                        16.33,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryDate": "900 AM CST Tue Sep 24 2024",
+                "advisoryNum": "9",
+                "atcfid": "EP102024",
+                "basin": "EP",
+                "fcstpd": "120",
+                "name": "Tropical Storm Warning",
+                "storm": "Tropical Storm John",
+                "stormName": "John",
+                "stormNum": "10",
+                "stormType": "TS",
+                "styleUrl": "#TWR",
+                "timezone": "CST"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
