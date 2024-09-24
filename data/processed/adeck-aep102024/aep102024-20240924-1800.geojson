@@ -1,0 +1,71 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -98.4,
+                        15.2
+                    ],
+                    [
+                        -98.6,
+                        15.9
+                    ],
+                    [
+                        -99.3,
+                        16.9
+                    ],
+                    [
+                        -100.3,
+                        17.7
+                    ],
+                    [
+                        -100.7,
+                        18.0
+                    ],
+                    [
+                        -100.7,
+                        18.0
+                    ],
+                    [
+                        -100.7,
+                        18.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "11",
+            "properties": {
+                "model": "CARQ",
+                "warning_datetime": "2024-09-24 18:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -100.7,
+                        18.0
+                    ],
+                    [
+                        -100.8,
+                        18.1
+                    ],
+                    [
+                        -101.1,
+                        18.2
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "762",
+            "properties": {
+                "model": "OFCL",
+                "warning_datetime": "2024-09-24 18:00:00"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
