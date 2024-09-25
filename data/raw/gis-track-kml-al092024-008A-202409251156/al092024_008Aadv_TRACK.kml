@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+	<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"> 
+	<Document> 
+	<name>AL092024 (Advisory #8A) - Forecast Track</name> 
+	<open>0</open> 
+	<description>
+		<![CDATA[<TABLE>
+		<TR><TD><B>Title:</B> Tropical Cyclone Forecast Track for AL092024 (Advisory #8A)</TD></TR>
+		<TR><TD><B>Description:</B> This product will aid in the visualization of an official track forecast, the forecast points are connected by black line segments.  The track line(s) are not a forecast product, however, and because there are an infinite number of ways to connect a set of forecast points, the lines should not be interpreted as representing a specific forecast for the location of a tropical cyclone in between official forecast points.  It is also important to remember that tropical cyclone track forecasts are subject to error, and that the effects of a tropical cyclone can span many hundreds of miles from the center.</abstract></TD></TR>
+		<TR><TD><B>Date Created:</B> 09-25-2024 </TD></TR>
+		<TR><TD><B>Created:</B> National Hurricane Center</TD></TR>
+		<TR><TD><B>Disclaimer:</B>The official forecast track in KML format is an experimental product.</TD></TR>
+		<TR><TD><B>For More Information: </B><a href="https://www.nhc.noaa.gov">https://www.nhc.noaa.gov</a></TD></TR></TABLE>]]>
+	</description>
+
+	<Style id="m_point"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>mPoint.png</href> 
+			</Icon> 
+             <hotSpot x="18" y="16" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="d_point"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>dPoint.png</href> 
+			</Icon> 
+             <hotSpot x="18" y="16" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="h_point"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>hPoint.png</href> 
+			</Icon> 
+             <hotSpot x="18" y="16" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="initial_point"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>initialPoint.png</href> 
+			</Icon> 
+             <hotSpot x="18" y="16" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="xm_point"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>xmPoint.png</href> 
+			</Icon> 
+             <hotSpot x="18" y="16" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="xh_point"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>xhPoint.png</href> 
+			</Icon> 
+             <hotSpot x="18" y="16" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="l_point"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>lPoint.png</href> 
+			</Icon> 
+             <hotSpot x="18" y="16" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="120_line"> 
+		<LineStyle> 
+			<color>ff000000</color> 
+			<width>3</width> 
+		</LineStyle> 
+		<PolyStyle> 
+			<color>ff000000</color> 
+		</PolyStyle> 
+	</Style> 
+	<Style id="xd_point"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>xdPoint.png</href> 
+			</Icon> 
+             <hotSpot x="18" y="16" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="72_line"> 
+		<LineStyle> 
+			<color>ff000000</color> 
+			<width>3</width> 
+		</LineStyle> 
+		<PolyStyle> 
+			<color>ff000000</color> 
+		</PolyStyle> 
+	</Style> 
+	<Style id="s_point"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>sPoint.png</href> 
+			</Icon> 
+             <hotSpot x="18" y="16" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="xs_point"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>xsPoint.png</href> 
+			</Icon> 
+             <hotSpot x="18" y="16" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Folder id="Forecast Track"> 
+ 	    <name>Forecast Track</name> 
+
+	   <Placemark> 
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description> 
+	   	  <![CDATA[<table> 
+                        <tr><td><font color=black><b>Tropical Storm Helene (AL092024)</b></font></td></tr> 
+                        <tr><td>Advisory #8A </td></tr> 
+                        <tr><td><hr></td></tr> 
+                        <tr><td>72 Hour Forecast Track</td></tr> 
+	           ]]> 
+             </description> 
+	       <styleUrl>#72_line</styleUrl> 
+
+	       <LineString> 
+	         <coordinates>  -86.2,21.1,0 -86.5,21.9,0 -86.2,24.1,0 -85.0,27.4,0 -84.2,32.0,0 -85.4,35.9,0 -87.8,37.0,0 </coordinates> 
+	       </LineString> 
+
+              <ExtendedData>
+                <Data name="timezone"> 
+                  <value>CDT</value>
+                </Data> 
+                <Data name="stormType"> 
+                  <value>TS</value>
+                </Data> 
+                <Data name="basin"> 
+                  <value>al</value>
+                </Data> 
+                <Data name="fcstpd"> 
+                  <value>72</value>
+                </Data> 
+                <Data name="storm"> 
+                  <value>Tropical Storm Helene</value>
+                </Data> 
+                <Data name="atcfid"> 
+                  <value>AL092024</value>
+                </Data> 
+                <Data name="advisoryNum"> 
+                  <value>8A</value>
+                </Data> 
+                <Data name="stormNum"> 
+                  <value>09</value>
+                </Data> 
+                <Data name="stormName"> 
+                  <value>Helene</value>
+                </Data> 
+                <Data name="pubAdvTime">
+                  <value>700 AM CDT Wed Sep 25 2024</value>
+                </Data>
+                <Data name="TCInitLocation">
+                  <value>21.1N, 86.2W</value>
+                </Data>
+                <Data name="maxWindKnots">
+                  <value>55</value>
+                </Data>
+                <Data name="maxWindMPH">
+                  <value>70</value>
+                </Data>
+                <Data name="maxGustKnots">
+                  <value>65</value>
+                </Data>
+                <Data name="maxGustMPH">
+                  <value>75</value>
+                </Data>
+                <Data name="stormMovement">
+                  <value>NW</value>
+                </Data>
+                <Data name="minimumPressure">
+                  <value>979</value>
+                </Data>
+              </ExtendedData>
+	   </Placemark> 
+
+	   <Placemark> 
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description> 
+	   	  <![CDATA[<table> 
+                        <tr><td><font color=black><b>Tropical Storm Helene (AL092024)</b></font></td></tr> 
+                        <tr><td>Advisory #8A </td></tr> 
+                        <tr><td><hr></td></tr> 
+                        <tr><td>120 Hour Forecast Track</td></tr> 
+	           ]]> 
+             </description> 
+	       <styleUrl>#120_line</styleUrl> 
+
+	       <LineString> 
+	         <coordinates>  -86.2,21.1,0 -86.5,21.9,0 -86.2,24.1,0 -85.0,27.4,0 -84.2,32.0,0 -85.4,35.9,0 -87.8,37.0,0 -88.0,36.5,0 </coordinates> 
+	       </LineString> 
+
+              <ExtendedData>
+                <Data name="timezone"> 
+                  <value>CDT</value>
+                </Data> 
+                <Data name="stormType"> 
+                  <value>TS</value>
+                </Data> 
+                <Data name="basin"> 
+                  <value>al</value>
+                </Data> 
+                <Data name="fcstpd"> 
+                  <value>120</value>
+                </Data> 
+                <Data name="storm"> 
+                  <value>Tropical Storm Helene</value>
+                </Data> 
+                <Data name="atcfid"> 
+                  <value>AL092024</value>
+                </Data> 
+                <Data name="advisoryNum"> 
+                  <value>8A</value>
+                </Data> 
+                <Data name="stormNum"> 
+                  <value>09</value>
+                </Data> 
+                <Data name="stormName"> 
+                  <value>Helene</value>
+                </Data> 
+              </ExtendedData>
+	   </Placemark>
+
+
+	   <Placemark> 
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description> 
+	   	  <![CDATA[<table> 
+                        <tr><td><font color=black><b>Tropical Storm Helene (AL092024)</b></font></td></tr> 
+                        <tr><td>Advisory #8A</td></tr> 
+                        <tr><td><hr></td></tr> 
+                        <tr><td nowrap>Advisory Information</td></tr> 
+	   	        <tr><td nowrap>Valid at:  7:00 AM CDT September 25, 2024 </td></tr> 
+	   	        <tr><td nowrap>Location: 21.1 N, -86.2 W </td></tr> 
+	   	        <tr><td nowrap>Maximum Wind: 55 knots (70 mph) </td></tr> 
+	   	        <tr><td nowrap>Wind Gusts: 65 knots (75 mph) </td></tr> 
+                        <tr><td nowrap>Motion: NW </td></tr>
+                        <tr><td nowrap>Minimum Pressure: 979 mb </td></tr>
+	       ]]></description> 
+	       <styleUrl>#initial_point</styleUrl> 
+	       <Point> 
+	          <coordinates> -86.2,21.1,0 </coordinates> 
+	       </Point> 
+	   </Placemark> 
+
+
+	   <Placemark> 
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description> 
+	   	  <![CDATA[<table> 
+                        <tr><td><font color=black><b>Tropical Storm Helene (AL092024)</b></font></td></tr> 
+                        <tr><td>Advisory #8A</td></tr> 
+                        <tr><td><hr></td></tr> 
+                        <tr><td nowrap>12 hr Forecast</td></tr> 
+	   	        <tr><td nowrap>Valid at:  1:00 PM CDT September 25, 2024 </td></tr> 
+	   	        <tr><td nowrap>Location: 21.9 N, -86.5 W </td></tr> 
+	   	        <tr><td nowrap>Maximum Wind: 70 knots (80 mph) </td></tr> 
+	   	        <tr><td nowrap>Wind Gusts: 85 knots (100 mph) </td></tr> 
+	       ]]></description> 
+	       <styleUrl>#h_point</styleUrl> 
+	       <Point> 
+	          <coordinates> -86.5,21.9,0 </coordinates> 
+	       </Point> 
+	   </Placemark> 
+
+
+	   <Placemark> 
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description> 
+	   	  <![CDATA[<table> 
+                        <tr><td><font color=black><b>Tropical Storm Helene (AL092024)</b></font></td></tr> 
+                        <tr><td>Advisory #8A</td></tr> 
+                        <tr><td><hr></td></tr> 
+                        <tr><td nowrap>24 hr Forecast</td></tr> 
+	   	        <tr><td nowrap>Valid at:  1:00 AM CDT September 26, 2024 </td></tr> 
+	   	        <tr><td nowrap>Location: 24.1 N, -86.2 W </td></tr> 
+	   	        <tr><td nowrap>Maximum Wind: 90 knots (105 mph) </td></tr> 
+	   	        <tr><td nowrap>Wind Gusts: 110 knots (125 mph) </td></tr> 
+	       ]]></description> 
+	       <styleUrl>#h_point</styleUrl> 
+	       <Point> 
+	          <coordinates> -86.2,24.1,0 </coordinates> 
+	       </Point> 
+	   </Placemark> 
+
+
+	   <Placemark> 
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description> 
+	   	  <![CDATA[<table> 
+                        <tr><td><font color=black><b>Tropical Storm Helene (AL092024)</b></font></td></tr> 
+                        <tr><td>Advisory #8A</td></tr> 
+                        <tr><td><hr></td></tr> 
+                        <tr><td nowrap>36 hr Forecast</td></tr> 
+	   	        <tr><td nowrap>Valid at:  1:00 PM CDT September 26, 2024 </td></tr> 
+	   	        <tr><td nowrap>Location: 27.4 N, -85.0 W </td></tr> 
+	   	        <tr><td nowrap>Maximum Wind: 105 knots (120 mph) </td></tr> 
+	   	        <tr><td nowrap>Wind Gusts: 130 knots (150 mph) </td></tr> 
+	       ]]></description> 
+	       <styleUrl>#m_point</styleUrl> 
+	       <Point> 
+	          <coordinates> -85.0,27.4,0 </coordinates> 
+	       </Point> 
+	   </Placemark> 
+
+
+	   <Placemark> 
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description> 
+	   	  <![CDATA[<table> 
+                        <tr><td><font color=black><b>Tropical Storm Helene (AL092024)</b></font></td></tr> 
+                        <tr><td>Advisory #8A</td></tr> 
+                        <tr><td><hr></td></tr> 
+                        <tr><td nowrap>48 hr Forecast</td></tr> 
+	   	        <tr><td nowrap>Valid at:  1:00 AM CDT September 27, 2024 </td></tr> 
+	   	        <tr><td nowrap>Location: 32.0 N, -84.2 W </td></tr> 
+	   	        <tr><td nowrap>Maximum Wind: 65 knots (75 mph) </td></tr> 
+	   	        <tr><td nowrap>Wind Gusts: 80 knots (90 mph) </td></tr> 
+	       ]]></description> 
+	       <styleUrl>#h_point</styleUrl> 
+	       <Point> 
+	          <coordinates> -84.2,32.0,0 </coordinates> 
+	       </Point> 
+	   </Placemark> 
+
+
+	   <Placemark> 
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description> 
+	   	  <![CDATA[<table> 
+                        <tr><td><font color=black><b>Tropical Storm Helene (AL092024)</b></font></td></tr> 
+                        <tr><td>Advisory #8A</td></tr> 
+                        <tr><td><hr></td></tr> 
+                        <tr><td nowrap>60 hr Forecast</td></tr> 
+	   	        <tr><td nowrap>Valid at:  1:00 PM CDT September 27, 2024 </td></tr> 
+	   	        <tr><td nowrap>Location: 35.9 N, -85.4 W </td></tr> 
+	   	        <tr><td nowrap>Maximum Wind: 30 knots (35 mph) </td></tr> 
+	   	        <tr><td nowrap>Wind Gusts: 40 knots (45 mph) </td></tr> 
+	       ]]></description> 
+	       <styleUrl>#xd_point</styleUrl> 
+	       <Point> 
+	          <coordinates> -85.4,35.9,0 </coordinates> 
+	       </Point> 
+	   </Placemark> 
+
+
+	   <Placemark> 
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description> 
+	   	  <![CDATA[<table> 
+                        <tr><td><font color=black><b>Tropical Storm Helene (AL092024)</b></font></td></tr> 
+                        <tr><td>Advisory #8A</td></tr> 
+                        <tr><td><hr></td></tr> 
+                        <tr><td nowrap>72 hr Forecast</td></tr> 
+	   	        <tr><td nowrap>Valid at:  1:00 AM CDT September 28, 2024 </td></tr> 
+	   	        <tr><td nowrap>Location: 37.0 N, -87.8 W </td></tr> 
+	   	        <tr><td nowrap>Maximum Wind: 20 knots (25 mph) </td></tr> 
+	   	        <tr><td nowrap>Wind Gusts: 30 knots (35 mph) </td></tr> 
+	       ]]></description> 
+	       <styleUrl>#xd_point</styleUrl> 
+	       <Point> 
+	          <coordinates> -87.8,37.0,0 </coordinates> 
+	       </Point> 
+	   </Placemark> 
+
+
+	   <Placemark> 
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description> 
+	   	  <![CDATA[<table> 
+                        <tr><td><font color=black><b>Tropical Storm Helene (AL092024)</b></font></td></tr> 
+                        <tr><td>Advisory #8A</td></tr> 
+                        <tr><td><hr></td></tr> 
+                        <tr><td nowrap>96 hr Forecast</td></tr> 
+	   	        <tr><td nowrap>Valid at:  1:00 AM CDT September 29, 2024 </td></tr> 
+	   	        <tr><td nowrap>Location: 36.5 N, -88.0 W </td></tr> 
+	   	        <tr><td nowrap>Maximum Wind: 20 knots (25 mph) </td></tr> 
+	   	        <tr><td nowrap>Wind Gusts: 30 knots (35 mph) </td></tr> 
+	       ]]></description> 
+	       <styleUrl>#xd_point</styleUrl> 
+	       <Point> 
+	          <coordinates> -88.0,36.5,0 </coordinates> 
+	       </Point> 
+	   </Placemark> 
+
+</Folder>
+</Document>
+</kml>
