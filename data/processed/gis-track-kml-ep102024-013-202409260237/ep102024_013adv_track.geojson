@@ -1,0 +1,180 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -102.1,
+                        17.0,
+                        0.0
+                    ],
+                    [
+                        -102.3,
+                        17.3,
+                        0.0
+                    ],
+                    [
+                        -102.5,
+                        17.7,
+                        0.0
+                    ],
+                    [
+                        -102.7,
+                        18.1,
+                        0.0
+                    ],
+                    [
+                        -103.2,
+                        18.4,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "17.0N, 102.1W",
+                "advisoryNum": "13",
+                "atcfid": "EP102024",
+                "basin": "ep",
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm John (EP102024)</b></font></td></tr> \n                        <tr><td>Advisory #13 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "65",
+                "maxGustMPH": "75",
+                "maxWindKnots": "55",
+                "maxWindMPH": "65",
+                "minimumPressure": "984",
+                "pubAdvTime": "900 PM CST Wed Sep 25 2024",
+                "storm": "Tropical Storm John",
+                "stormMovement": "NW",
+                "stormName": "John",
+                "stormNum": "10",
+                "stormType": "TS",
+                "styleUrl": "#72_line",
+                "timezone": "CST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -102.1,
+                        17.0,
+                        0.0
+                    ],
+                    [
+                        -102.3,
+                        17.3,
+                        0.0
+                    ],
+                    [
+                        -102.5,
+                        17.7,
+                        0.0
+                    ],
+                    [
+                        -102.7,
+                        18.1,
+                        0.0
+                    ],
+                    [
+                        -103.2,
+                        18.4,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "13",
+                "atcfid": "EP102024",
+                "basin": "ep",
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm John (EP102024)</b></font></td></tr> \n                        <tr><td>Advisory #13 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Tropical Storm John",
+                "stormName": "John",
+                "stormNum": "10",
+                "stormType": "TS",
+                "styleUrl": "#120_line",
+                "timezone": "CST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -102.1,
+                    17.0,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm John (EP102024)</b></font></td></tr> \n                        <tr><td>Advisory #13</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  9:00 PM CST September 25, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 17.0 N, -102.1 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 55 knots (65 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 65 knots (75 mph) </td></tr> \n                        <tr><td nowrap>Motion: NW </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 984 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -102.3,
+                    17.3,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm John (EP102024)</b></font></td></tr> \n                        <tr><td>Advisory #13</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>12 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  6:00 AM CST September 26, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 17.3 N, -102.3 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 65 knots (75 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 80 knots (90 mph) </td></tr>",
+                "styleUrl": "#h_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -102.5,
+                    17.7,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm John (EP102024)</b></font></td></tr> \n                        <tr><td>Advisory #13</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>24 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  6:00 PM CST September 26, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 17.7 N, -102.5 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 80 knots (90 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 100 knots (115 mph) </td></tr>",
+                "styleUrl": "#h_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -102.7,
+                    18.1,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm John (EP102024)</b></font></td></tr> \n                        <tr><td>Advisory #13</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>36 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  6:00 AM CST September 27, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 18.1 N, -102.7 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 70 knots (80 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 85 knots (100 mph) </td></tr>",
+                "styleUrl": "#h_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -103.2,
+                    18.4,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm John (EP102024)</b></font></td></tr> \n                        <tr><td>Advisory #13</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>48 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  6:00 PM CST September 27, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 18.4 N, -103.2 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 30 knots (35 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 40 knots (45 mph) </td></tr>",
+                "styleUrl": "#d_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

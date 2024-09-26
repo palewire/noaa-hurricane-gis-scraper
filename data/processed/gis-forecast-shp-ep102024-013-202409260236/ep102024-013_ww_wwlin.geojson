@@ -1,0 +1,71 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -100.63,
+                        17.18
+                    ],
+                    [
+                        -99.88,
+                        16.81
+                    ],
+                    [
+                        -98.57,
+                        16.33
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "0",
+            "properties": {
+                "ADVDATE": "900 PM CST Wed Sep 25 2024",
+                "ADVISNUM": "13",
+                "BASIN": "EP",
+                "FCSTPRD": 120.0,
+                "STORMNAME": "John",
+                "STORMNUM": 10.0,
+                "STORMTYPE": "TS",
+                "TCWW": "TWR"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -103.45,
+                        18.31
+                    ],
+                    [
+                        -102.16,
+                        17.92
+                    ],
+                    [
+                        -101.55,
+                        17.64
+                    ],
+                    [
+                        -100.63,
+                        17.18
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "1",
+            "properties": {
+                "ADVDATE": "900 PM CST Wed Sep 25 2024",
+                "ADVISNUM": "13",
+                "BASIN": "EP",
+                "FCSTPRD": 120.0,
+                "STORMNAME": "John",
+                "STORMNUM": 10.0,
+                "STORMTYPE": "TS",
+                "TCWW": "HWR"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
