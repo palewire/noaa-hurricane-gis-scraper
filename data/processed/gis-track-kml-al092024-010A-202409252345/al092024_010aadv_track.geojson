@@ -1,0 +1,250 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -86.6,
+                        23.0,
+                        0.0
+                    ],
+                    [
+                        -86.2,
+                        24.1,
+                        0.0
+                    ],
+                    [
+                        -85.2,
+                        27.4,
+                        0.0
+                    ],
+                    [
+                        -84.6,
+                        32.1,
+                        0.0
+                    ],
+                    [
+                        -86.0,
+                        36.1,
+                        0.0
+                    ],
+                    [
+                        -88.1,
+                        37.1,
+                        0.0
+                    ],
+                    [
+                        -88.7,
+                        36.8,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "23.0N, 86.6W",
+                "advisoryNum": "10A",
+                "atcfid": "AL092024",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Helene (AL092024)</b></font></td></tr> \n                        <tr><td>Advisory #10A </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "90",
+                "maxGustMPH": "105",
+                "maxWindKnots": "75",
+                "maxWindMPH": "85",
+                "minimumPressure": "974",
+                "pubAdvTime": "700 PM CDT Wed Sep 25 2024",
+                "storm": "Hurricane Helene",
+                "stormMovement": "N",
+                "stormName": "Helene",
+                "stormNum": "09",
+                "stormType": "HU",
+                "styleUrl": "#72_line",
+                "timezone": "CDT"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -86.6,
+                        23.0,
+                        0.0
+                    ],
+                    [
+                        -86.2,
+                        24.1,
+                        0.0
+                    ],
+                    [
+                        -85.2,
+                        27.4,
+                        0.0
+                    ],
+                    [
+                        -84.6,
+                        32.1,
+                        0.0
+                    ],
+                    [
+                        -86.0,
+                        36.1,
+                        0.0
+                    ],
+                    [
+                        -88.1,
+                        37.1,
+                        0.0
+                    ],
+                    [
+                        -88.7,
+                        36.8,
+                        0.0
+                    ],
+                    [
+                        -88.0,
+                        37.0,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "10A",
+                "atcfid": "AL092024",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Helene (AL092024)</b></font></td></tr> \n                        <tr><td>Advisory #10A </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Hurricane Helene",
+                "stormName": "Helene",
+                "stormNum": "09",
+                "stormType": "HU",
+                "styleUrl": "#120_line",
+                "timezone": "CDT"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -86.6,
+                    23.0,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Helene (AL092024)</b></font></td></tr> \n                        <tr><td>Advisory #10A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  7:00 PM CDT September 25, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 23.0 N, -86.6 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 75 knots (85 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 90 knots (105 mph) </td></tr> \n                        <tr><td nowrap>Motion: N </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 974 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -86.2,
+                    24.1,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Helene (AL092024)</b></font></td></tr> \n                        <tr><td>Advisory #10A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>12 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  1:00 AM CDT September 26, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 24.1 N, -86.2 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 95 knots (110 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 115 knots (130 mph) </td></tr>",
+                "styleUrl": "#h_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.2,
+                    27.4,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Helene (AL092024)</b></font></td></tr> \n                        <tr><td>Advisory #10A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>24 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  1:00 PM CDT September 26, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 27.4 N, -85.2 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 115 knots (130 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 140 knots (160 mph) </td></tr>",
+                "styleUrl": "#m_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.6,
+                    32.1,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Helene (AL092024)</b></font></td></tr> \n                        <tr><td>Advisory #10A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>36 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  1:00 AM CDT September 27, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 32.1 N, -84.6 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 70 knots (80 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 90 knots (105 mph) </td></tr>",
+                "styleUrl": "#h_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -86.0,
+                    36.1,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Helene (AL092024)</b></font></td></tr> \n                        <tr><td>Advisory #10A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>48 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  1:00 PM CDT September 27, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 36.1 N, -86.0 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 35 knots (40 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 55 knots (65 mph) </td></tr>",
+                "styleUrl": "#xs_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.1,
+                    37.1,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Helene (AL092024)</b></font></td></tr> \n                        <tr><td>Advisory #10A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>60 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  1:00 AM CDT September 28, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 37.1 N, -88.1 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 25 knots (30 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 40 knots (45 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.7,
+                    36.8,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Helene (AL092024)</b></font></td></tr> \n                        <tr><td>Advisory #10A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>72 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  1:00 PM CDT September 28, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 36.8 N, -88.7 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 20 knots (25 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 30 knots (35 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.0,
+                    37.0,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Helene (AL092024)</b></font></td></tr> \n                        <tr><td>Advisory #10A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>96 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  1:00 PM CDT September 29, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 37.0 N, -88.0 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 15 knots (15 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 20 knots (25 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
