@@ -1,0 +1,205 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -102.7,
+                        17.5,
+                        0.0
+                    ],
+                    [
+                        -102.9,
+                        18.0,
+                        0.0
+                    ],
+                    [
+                        -103.4,
+                        18.6,
+                        0.0
+                    ],
+                    [
+                        -104.2,
+                        19.2,
+                        0.0
+                    ],
+                    [
+                        -105.4,
+                        19.8,
+                        0.0
+                    ],
+                    [
+                        -107.0,
+                        20.5,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "17.5N, 102.7W",
+                "advisoryNum": "15A",
+                "atcfid": "EP102024",
+                "basin": "ep",
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane John (EP102024)</b></font></td></tr> \n                        <tr><td>Advisory #15A </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "80",
+                "maxGustMPH": "90",
+                "maxWindKnots": "65",
+                "maxWindMPH": "75",
+                "minimumPressure": "979",
+                "pubAdvTime": "1200 PM CST Thu Sep 26 2024",
+                "storm": "Hurricane John",
+                "stormMovement": "STATIONARY",
+                "stormName": "John",
+                "stormNum": "10",
+                "stormType": "HU",
+                "styleUrl": "#72_line",
+                "timezone": "CST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -102.7,
+                        17.5,
+                        0.0
+                    ],
+                    [
+                        -102.9,
+                        18.0,
+                        0.0
+                    ],
+                    [
+                        -103.4,
+                        18.6,
+                        0.0
+                    ],
+                    [
+                        -104.2,
+                        19.2,
+                        0.0
+                    ],
+                    [
+                        -105.4,
+                        19.8,
+                        0.0
+                    ],
+                    [
+                        -107.0,
+                        20.5,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "15A",
+                "atcfid": "EP102024",
+                "basin": "ep",
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane John (EP102024)</b></font></td></tr> \n                        <tr><td>Advisory #15A </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Hurricane John",
+                "stormName": "John",
+                "stormNum": "10",
+                "stormType": "HU",
+                "styleUrl": "#120_line",
+                "timezone": "CST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -102.7,
+                    17.5,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane John (EP102024)</b></font></td></tr> \n                        <tr><td>Advisory #15A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at: 12:00 PM CST September 26, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 17.5 N, -102.7 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 65 knots (75 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 80 knots (90 mph) </td></tr> \n                        <tr><td nowrap>Motion: STATIONARY </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 979 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -102.9,
+                    18.0,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane John (EP102024)</b></font></td></tr> \n                        <tr><td>Advisory #15A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>12 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  6:00 PM CST September 26, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 18.0 N, -102.9 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 75 knots (85 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 90 knots (105 mph) </td></tr>",
+                "styleUrl": "#h_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -103.4,
+                    18.6,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane John (EP102024)</b></font></td></tr> \n                        <tr><td>Advisory #15A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>24 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  6:00 AM CST September 27, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 18.6 N, -103.4 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 45 knots (50 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 55 knots (65 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -104.2,
+                    19.2,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane John (EP102024)</b></font></td></tr> \n                        <tr><td>Advisory #15A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>36 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  6:00 PM CST September 27, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 19.2 N, -104.2 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 30 knots (35 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 40 knots (45 mph) </td></tr>",
+                "styleUrl": "#d_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.4,
+                    19.8,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane John (EP102024)</b></font></td></tr> \n                        <tr><td>Advisory #15A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>48 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  6:00 AM CST September 28, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 19.8 N, -105.4 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 30 knots (35 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 40 knots (45 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -107.0,
+                    20.5,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane John (EP102024)</b></font></td></tr> \n                        <tr><td>Advisory #15A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>60 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  6:00 PM CST September 28, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 20.5 N, -107.0 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 25 knots (30 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 35 knots (40 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
