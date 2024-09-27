@@ -5,13 +5,13 @@
 <issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
 <messageType>ROUTINE ADVISORY</messageType>
 <messageBinNumber>5</messageBinNumber>
-<advisoryNumber>4</advisoryNumber>
+<advisoryNumber>5</advisoryNumber>
 <!-- System Date/Time Information -->
-<messageDateTimeLocal>20240926 05:00:00 PM AST</messageDateTimeLocal>
-<messageDateTimeUTC>20240926 09:00:00 PM UTC</messageDateTimeUTC>
-<messageDateTimeUTC24>20240926210000</messageDateTimeUTC24>
-<messageDateTimeLocalStr>0500 PM AST Thu Sep 26</messageDateTimeLocalStr>
-<timeEpochSeconds>1727384400</timeEpochSeconds>
+<messageDateTimeLocal>20240926 11:00:00 PM AST</messageDateTimeLocal>
+<messageDateTimeUTC>20240927 03:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>20240927030000</messageDateTimeUTC24>
+<messageDateTimeLocalStr>1100 PM AST Thu Sep 26</messageDateTimeLocalStr>
+<timeEpochSeconds>1727406000</timeEpochSeconds>
 <!-- System state defined -->
 <systemType>TROPICAL STORM</systemType>
 <systemName>ISAAC</systemName>
@@ -19,53 +19,53 @@
 <!-- Lattitude: North is positive; South is negative -->
 <!-- Longitude: East is positive; West is negative -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitude>37.5</centerLocLatitude>
-<centerLocLongitude>-50.6</centerLocLongitude>
+<centerLocLatitude>37.1</centerLocLatitude>
+<centerLocLongitude>-49.8</centerLocLongitude>
 <!-- Lattitude: North is N; South is S -->
 <!-- Longitude: East is E; West is W -->
 <!-- units: decimal degrees (tenths) -->
-<centerLocLatitudeExpanded>37.5N</centerLocLatitudeExpanded>
-<centerLocLongitudeExpanded>50.6W</centerLocLongitudeExpanded>
+<centerLocLatitudeExpanded>37.1N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>49.8W</centerLocLongitudeExpanded>
 <!-- Maximum Intensity of the System -->
 <!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
-<systemIntensityMph>50</systemIntensityMph>
-<systemIntensityKph>85</systemIntensityKph>
-<systemIntensityKts>45</systemIntensityKts>
-<systemMslpMb>995</systemMslpMb>
-<systemMslpInHg>29.39</systemMslpInHg>
+<systemIntensityMph>65</systemIntensityMph>
+<systemIntensityKph>100</systemIntensityKph>
+<systemIntensityKts>55</systemIntensityKts>
+<systemMslpMb>992</systemMslpMb>
+<systemMslpInHg>29.30</systemMslpInHg>
 <systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
 <formationChancePct48h>N/A</formationChancePct48h>
 <formationChancePct7d>N/A</formationChancePct7d>
 <!-- Current System Movement -->
 <!-- units: Degrees, MPH and KPH -->
-<systemDirectionOfMotion>E OR 80 DEGREES</systemDirectionOfMotion>
-<systemSpeedMph>10</systemSpeedMph>
-<systemSpeedKph>17</systemSpeedKph>
-<systemSpeedKts>9</systemSpeedKts>
+<systemDirectionOfMotion>E OR 90 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>12</systemSpeedMph>
+<systemSpeedKph>19</systemSpeedKph>
+<systemSpeedKts>10</systemSpeedKts>
 <!-- Current System Location from known Reference Point -->
-<systemGeoRefPt1>ABOUT 1285 MI...2070 KM W OF THE AZORES</systemGeoRefPt1>
-<systemGeoRefPt2>ABOUT 880 MI...1415 KM ENE OF BERMUDA</systemGeoRefPt2>
+<systemGeoRefPt1>ABOUT 1245 MI...2005 KM W OF THE AZORES</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 910 MI...1470 KM ENE OF BERMUDA</systemGeoRefPt2>
 <!-- Relevant Message -->
 <message>
 ZCZC MIATCPAT5 ALL
 TTAA00 KNHC DDHHMM
  
 BULLETIN
-Tropical Storm Isaac Advisory Number   4
+Tropical Storm Isaac Advisory Number   5
 NWS National Hurricane Center Miami FL       AL102024
-500 PM AST Thu Sep 26 2024
+1100 PM AST Thu Sep 26 2024
  
-...ISAAC CONTINUING EASTWARD WITH NO CHANGE IN STRENGTH...
+...ISAAC STRENGTHENING AND LIKELY TO BECOME A HURRICANE SOON...
  
  
-SUMMARY OF 500 PM AST...2100 UTC...INFORMATION
-----------------------------------------------
-LOCATION...37.5N 50.6W
-ABOUT 1285 MI...2070 KM W OF THE AZORES
-ABOUT 880 MI...1415 KM ENE OF BERMUDA
-MAXIMUM SUSTAINED WINDS...50 MPH...85 KM/H
-PRESENT MOVEMENT...E OR 80 DEGREES AT 10 MPH...17 KM/H
-MINIMUM CENTRAL PRESSURE...995 MB...29.39 INCHES
+SUMMARY OF 1100 PM AST...0300 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...37.1N 49.8W
+ABOUT 1245 MI...2005 KM W OF THE AZORES
+ABOUT 910 MI...1470 KM ENE OF BERMUDA
+MAXIMUM SUSTAINED WINDS...65 MPH...100 KM/H
+PRESENT MOVEMENT...E OR 90 DEGREES AT 12 MPH...19 KM/H
+MINIMUM CENTRAL PRESSURE...992 MB...29.30 INCHES
  
  
 WATCHES AND WARNINGS
@@ -75,19 +75,20 @@ There are no coastal watches or warnings in effect.
  
 DISCUSSION AND OUTLOOK
 ----------------------
-At 500 PM AST (2100 UTC), the center of Tropical Storm Isaac was
-located near latitude 37.5 North, longitude 50.6 West. Isaac is
-moving toward the east near 10 mph (17 km/h), and a turn toward the
-east-northeast is expected by the weekend. 
+At 1100 PM AST (0300 UTC), the center of Tropical Storm Isaac was
+located near latitude 37.1 North, longitude 49.8 West. Isaac is
+moving toward the east near 12 mph (19 km/h) and this motion with a 
+turn more east-northeastward is expected over the next several days.
  
-Maximum sustained winds are near 50 mph (85 km/h) with higher gusts.
-Strengthening is forecast, and Isaac is expected reach or be near
-hurricane strength by late Friday or early Saturday.
+Satellite wind data suggests that maximum sustained winds have 
+increased to near 65 mph (100 km/h) with higher gusts.  Additional 
+strengthening is expected during the next day or so and Isaac is 
+forecast to become a hurricane tomorrow. 
  
 Tropical-storm-force winds extend outward up to 60 miles (95 km)
 from the center.
  
-The estimated minimum central pressure is 995 mb (29.39 inches).
+The estimated minimum central pressure is 992 mb (29.30 inches).
  
  
 HAZARDS AFFECTING LAND
@@ -101,12 +102,11 @@ Please consult products from your local weather office.
  
 NEXT ADVISORY
 -------------
-Next complete advisory at 1100 PM AST.
+Next complete advisory at 500 AM AST.
  
 $$
-Forecaster D. Zelinsky/Bookbinder
+Forecaster Papin
  
 NNNN
-
 </message>
 </cycloneMessage>
