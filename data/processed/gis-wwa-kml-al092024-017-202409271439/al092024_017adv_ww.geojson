@@ -1,0 +1,52 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -80.86,
+                        32.03,
+                        0.0
+                    ],
+                    [
+                        -80.32,
+                        32.49,
+                        0.0
+                    ],
+                    [
+                        -79.27,
+                        33.12,
+                        0.0
+                    ],
+                    [
+                        -79.01,
+                        33.56,
+                        0.0
+                    ],
+                    [
+                        -78.55,
+                        33.85,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryDate": "1100 AM EDT Fri Sep 27 2024",
+                "advisoryNum": "17",
+                "atcfid": "AL092024",
+                "basin": "AL",
+                "fcstpd": "120",
+                "name": "Tropical Storm Warning",
+                "storm": "Tropical Storm Helene",
+                "stormName": "Helene",
+                "stormNum": "9",
+                "stormType": "TS",
+                "styleUrl": "#TWR",
+                "timezone": "EDT"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
