@@ -1893,13 +1893,34 @@
                         18.3
                     ],
                     [
+                        -103.5,
+                        18.5
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "1630",
+            "properties": {
+                "model": "OFCL",
+                "warning_datetime": "2024-09-27 18:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -103.2,
+                        18.3
+                    ],
+                    [
                         -104.6,
                         19.5
                     ]
                 ],
                 "type": "LineString"
             },
-            "id": "1649",
+            "id": "1650",
             "properties": {
                 "model": "UKMI",
                 "warning_datetime": "2024-09-27 18:00:00"
@@ -1932,7 +1953,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "1672",
+            "id": "1673",
             "properties": {
                 "model": "OFCI",
                 "warning_datetime": "2024-09-27 18:00:00"

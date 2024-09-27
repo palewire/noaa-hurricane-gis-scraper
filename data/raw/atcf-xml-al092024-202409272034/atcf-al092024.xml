@@ -1,0 +1,151 @@
+<?xml version="1.0"?>
+<cycloneMessage>
+<!-- System Advisory Meta Information -->
+<atcfID>AL092024</atcfID>
+<issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
+<messageType>ROUTINE ADVISORY</messageType>
+<messageBinNumber>4</messageBinNumber>
+<advisoryNumber>18</advisoryNumber>
+<!-- System Date/Time Information -->
+<messageDateTimeLocal>20240927 04:00:00 PM CDT</messageDateTimeLocal>
+<messageDateTimeUTC>20240927 09:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>20240927210000</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0400 PM CDT Fri Sep 27</messageDateTimeLocalStr>
+<timeEpochSeconds>1727470800</timeEpochSeconds>
+<!-- System state defined -->
+<systemType>POST-TROPICAL CYCLONE</systemType>
+<systemName>HELENE</systemName>
+<!-- Center Location of the System -->
+<!-- Lattitude: North is positive; South is negative -->
+<!-- Longitude: East is positive; West is negative -->
+<!-- units: decimal degrees (tenths) -->
+<centerLocLatitude>37.5</centerLocLatitude>
+<centerLocLongitude>-85.5</centerLocLongitude>
+<!-- Lattitude: North is N; South is S -->
+<!-- Longitude: East is E; West is W -->
+<!-- units: decimal degrees (tenths) -->
+<centerLocLatitudeExpanded>37.5N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>85.5W</centerLocLongitudeExpanded>
+<!-- Maximum Intensity of the System -->
+<!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
+<systemIntensityMph>35</systemIntensityMph>
+<systemIntensityKph>55</systemIntensityKph>
+<systemIntensityKts>30</systemIntensityKts>
+<systemMslpMb>984</systemMslpMb>
+<systemMslpInHg>29.06</systemMslpInHg>
+<systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
+<formationChancePct48h>N/A</formationChancePct48h>
+<formationChancePct7d>N/A</formationChancePct7d>
+<!-- Current System Movement -->
+<!-- units: Degrees, MPH and KPH -->
+<systemDirectionOfMotion>NNW OR 330 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>17</systemSpeedMph>
+<systemSpeedKph>28</systemSpeedKph>
+<systemSpeedKts>15</systemSpeedKts>
+<!-- Current System Location from known Reference Point -->
+<systemGeoRefPt1>ABOUT 50 MI...80 KM SSE OF LOUISVILLE KENTUCKY</systemGeoRefPt1>
+<!-- Relevant Message -->
+<message>
+ZCZC MIATCPAT4 ALL
+TTAA00 KNHC DDHHMM
+ 
+BULLETIN
+Post-Tropical Cyclone Helene Advisory Number  18
+NWS National Hurricane Center Miami FL       AL092024
+400 PM CDT Fri Sep 27 2024
+ 
+...HELENE STILL PRODUCING CATASTROPHIC FLOODING OVER PORTIONS OF
+THE SOUTHERN APPALACHIANS AND TENNESSEE VALLEY...
+...FUTURE ADVISORIES WILL BE ISSUED BY THE WEATHER PREDICTION
+CENTER...
+ 
+ 
+SUMMARY OF 400 PM CDT...2100 UTC...INFORMATION
+----------------------------------------------
+LOCATION...37.5N 85.5W
+ABOUT 50 MI...80 KM SSE OF LOUISVILLE KENTUCKY
+MAXIMUM SUSTAINED WINDS...35 MPH...55 KM/H
+PRESENT MOVEMENT...NNW OR 330 DEGREES AT 17 MPH...28 KM/H
+MINIMUM CENTRAL PRESSURE...984 MB...29.06 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+There are no coastal watches or warnings in effect.
+
+For storm information specific to your area, please monitor 
+products issued by your local National Weather Service forecast 
+office.
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 400 PM CDT (2100 UTC), the center of Post-Tropical Cyclone Helene
+was located near latitude 37.5 North, longitude 85.5 West. The
+post-tropical cyclone is moving toward the north-northwest near 17
+mph (28 km/h). A slowdown in forward speed is expected, and the 
+system is forecast to stall over the Tennessee Valley late tonight 
+and through the weekend.
+ 
+Maximum sustained winds are near 35 mph (55 km/h) with higher gusts.
+Continued weakening is expected during the next couple of days.
+ 
+The estimated minimum central pressure is 984 mb (29.06 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Key Messages for Helene can be found in the Tropical Cyclone
+Discussion under AWIPS header MIATCDAT4 and WMO header WTNT44 KNHC
+and on the web at hurricanes.gov/text/MIATCDAT4.shtml
+ 
+RAINFALL: Over portions of the central and southern Appalachians, 
+Helene is expected to produce additional rainfall amounts of 1 to 2 
+inches leading to widespread total rainfall accumulations of 6 to 12 
+inches, with isolated totals exceeding 20 inches. This rainfall will 
+result in catastrophic and potentially life-threatening flash and 
+urban flooding, along with record level river flooding in many 
+instances. Numerous significant landslides are expected in steep 
+terrain across the southern Appalachians. Elsewhere, 1 to 3 inches 
+of rainfall is expected across portions of the Ohio Valley through 
+Sunday evening.
+
+For a complete depiction of forecast rainfall associated with 
+Tropical Storm Helene, please see the National Weather Service Storm 
+Total Rainfall Graphic, available at 
+hurricanes.gov/graphics_at4.shtml?rainqpf and the Flash Flood Risk 
+graphic at hurricanes.gov/graphics_at4.shtml?ero. 
+
+For a list of rainfall observations (and wind reports) associated 
+this storm, see the companion storm summary at WBCSCCNS4 with the 
+WMO header ACUS44 KWBC or at the following link:
+www.wpc.ncep.noaa.gov/discussions/nfdscc4.html. 
+ 
+TORNADOES: Isolated tornadoes are possible this afternoon and 
+evening over southern Virginia and northeast North Carolina.
+ 
+SURF: Swells generated by Helene will affect the coasts of Georgia
+and the Carolinas during the next day or so.  These swells are
+likely to cause life-threatening surf and rip current conditions.
+Please consult products from your local weather office.
+ 
+ 
+NEXT ADVISORY
+-------------
+This is the last public advisory issued by the National Hurricane 
+Center on Helene.  Future information on this system can be 
+found in Public Advisories issued by the Weather Prediction Center 
+beginning at 1000 PM CDT, under AWIPS header TCPAT4, WMO 
+header WTNT34 KWNH, and on the web at www.hurricanes.gov.
+
+Rainfall forecasts for the United States can always be found at 
+https://www.wpc.ncep.noaa.gov/qpf/qpf2.shtml 
+and outlooks of flash flood risks can be found at 
+https://www.wpc.ncep.noaa.gov/qpf/excessive_rainfall_outlook_ero.php
+.
+ 
+$$
+Forecaster Cangialosi
+ 
+NNNN
+</message>
+</cycloneMessage>
