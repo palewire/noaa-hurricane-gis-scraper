@@ -1,0 +1,270 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -38.4,
+                        41.3,
+                        0.0
+                    ],
+                    [
+                        -37.0,
+                        42.5,
+                        0.0
+                    ],
+                    [
+                        -35.1,
+                        43.7,
+                        0.0
+                    ],
+                    [
+                        -32.3,
+                        44.8,
+                        0.0
+                    ],
+                    [
+                        -30.0,
+                        46.1,
+                        0.0
+                    ],
+                    [
+                        -28.2,
+                        48.3,
+                        0.0
+                    ],
+                    [
+                        -27.4,
+                        50.4,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "41.3N, 38.4W",
+                "advisoryNum": "12",
+                "atcfid": "AL102024",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Isaac (AL102024)</b></font></td></tr> \n                        <tr><td>Advisory #12 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "105",
+                "maxGustMPH": "120",
+                "maxWindKnots": "85",
+                "maxWindMPH": "100",
+                "minimumPressure": "968",
+                "pubAdvTime": "900 PM GMT Sat Sep 28 2024",
+                "storm": "Hurricane Isaac",
+                "stormMovement": "NE",
+                "stormName": "Isaac",
+                "stormNum": "10",
+                "stormType": "HU",
+                "styleUrl": "#72_line",
+                "timezone": "GMT"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -38.4,
+                        41.3,
+                        0.0
+                    ],
+                    [
+                        -37.0,
+                        42.5,
+                        0.0
+                    ],
+                    [
+                        -35.1,
+                        43.7,
+                        0.0
+                    ],
+                    [
+                        -32.3,
+                        44.8,
+                        0.0
+                    ],
+                    [
+                        -30.0,
+                        46.1,
+                        0.0
+                    ],
+                    [
+                        -28.2,
+                        48.3,
+                        0.0
+                    ],
+                    [
+                        -27.4,
+                        50.4,
+                        0.0
+                    ],
+                    [
+                        -26.5,
+                        54.0,
+                        0.0
+                    ],
+                    [
+                        -23.6,
+                        56.9,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "12",
+                "atcfid": "AL102024",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Isaac (AL102024)</b></font></td></tr> \n                        <tr><td>Advisory #12 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Hurricane Isaac",
+                "stormName": "Isaac",
+                "stormNum": "10",
+                "stormType": "HU",
+                "styleUrl": "#120_line",
+                "timezone": "GMT"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -38.4,
+                    41.3,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Isaac (AL102024)</b></font></td></tr> \n                        <tr><td>Advisory #12</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  9:00 PM GMT September 28, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 41.3 N, -38.4 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 85 knots (100 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 105 knots (120 mph) </td></tr> \n                        <tr><td nowrap>Motion: NE </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 968 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -37.0,
+                    42.5,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Isaac (AL102024)</b></font></td></tr> \n                        <tr><td>Advisory #12</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>12 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  6:00 AM GMT September 29, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 42.5 N, -37.0 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 75 knots (85 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 90 knots (105 mph) </td></tr>",
+                "styleUrl": "#h_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -35.1,
+                    43.7,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Isaac (AL102024)</b></font></td></tr> \n                        <tr><td>Advisory #12</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>24 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  6:00 PM GMT September 29, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 43.7 N, -35.1 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 65 knots (75 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 80 knots (90 mph) </td></tr>",
+                "styleUrl": "#h_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -32.3,
+                    44.8,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Isaac (AL102024)</b></font></td></tr> \n                        <tr><td>Advisory #12</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>36 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  6:00 AM GMT September 30, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 44.8 N, -32.3 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 55 knots (65 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 65 knots (75 mph) </td></tr>",
+                "styleUrl": "#xs_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -30.0,
+                    46.1,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Isaac (AL102024)</b></font></td></tr> \n                        <tr><td>Advisory #12</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>48 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  6:00 PM GMT September 30, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 46.1 N, -30.0 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 50 knots (60 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 60 knots (70 mph) </td></tr>",
+                "styleUrl": "#xs_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -28.2,
+                    48.3,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Isaac (AL102024)</b></font></td></tr> \n                        <tr><td>Advisory #12</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>60 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  6:00 AM GMT October 01, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 48.3 N, -28.2 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 45 knots (50 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 55 knots (65 mph) </td></tr>",
+                "styleUrl": "#xs_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -27.4,
+                    50.4,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Isaac (AL102024)</b></font></td></tr> \n                        <tr><td>Advisory #12</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>72 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  6:00 PM GMT October 01, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 50.4 N, -27.4 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 40 knots (45 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 50 knots (60 mph) </td></tr>",
+                "styleUrl": "#xs_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -26.5,
+                    54.0,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Isaac (AL102024)</b></font></td></tr> \n                        <tr><td>Advisory #12</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>96 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  6:00 PM GMT October 02, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 54.0 N, -26.5 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 40 knots (45 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 50 knots (60 mph) </td></tr>",
+                "styleUrl": "#xs_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -23.6,
+                    56.9,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Isaac (AL102024)</b></font></td></tr> \n                        <tr><td>Advisory #12</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>120 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  6:00 PM GMT October 03, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 56.9 N, -23.6 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 35 knots (40 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 45 knots (50 mph) </td></tr>",
+                "styleUrl": "#xs_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
