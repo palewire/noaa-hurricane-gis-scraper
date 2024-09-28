@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+<cycloneMessage>
+<!-- System Advisory Meta Information -->
+<atcfID>AL092024</atcfID>
+<issuingUnit>NWS WEATHER PREDICTION CENTER COLLEGE PARK MD</issuingUnit>
+<messageType>ROUTINE ADVISORY</messageType>
+<messageBinNumber>4</messageBinNumber>
+<advisoryNumber>20</advisoryNumber>
+<!-- System Date/Time Information -->
+<messageDateTimeLocal>20240928 04:00:00 AM CDT</messageDateTimeLocal>
+<messageDateTimeUTC>20240928 09:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>202409280900</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0400 AM CDT Sat Sep 28</messageDateTimeLocalStr>
+<timeEpochSeconds>1727514000</timeEpochSeconds>
+<!-- System state defined -->
+<systemType>POST-TROPICAL CYCLONE</systemType>
+<systemName>HELENE</systemName>
+<!-- Center Location of the System -->
+<!-- Lattitude: North is positive; South is negative -->
+<!-- Longitude: East is positive; West is negative -->
+<!-- units: decimal degrees (tenths) -->
+<centerLocLatitude>37.3</centerLocLatitude>
+<centerLocLongitude>-87.9</centerLocLongitude>
+<!-- Lattitude: North is N; South is S -->
+<!-- Longitude: East is E; West is W -->
+<!-- units: decimal degrees (tenths) -->
+<centerLocLatitudeExpanded>37.3N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>87.9W</centerLocLongitudeExpanded>
+<!-- Maximum Intensity of the System -->
+<!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
+<systemIntensityMph>25</systemIntensityMph>
+<systemIntensityKph>35</systemIntensityKph>
+<systemIntensityKts>20</systemIntensityKts>
+<systemMslpMb>992</systemMslpMb>
+<systemMslpInHg>29.30</systemMslpInHg>
+<systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
+<formationChancePct48h>N/A</formationChancePct48h>
+<formationChancePct7d>N/A</formationChancePct7d>
+<!-- Current System Movement -->
+<!-- units: Degrees, MPH and KPH -->
+<systemDirectionOfMotion>SE OR 140 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>3</systemSpeedMph>
+<systemSpeedKph>6</systemSpeedKph>
+<systemSpeedKts>3</systemSpeedKts>
+<!-- Current System Location from known Reference Point -->
+<systemGeoRefPt1>ABOUT 135 MI...220 KM WSW OF LOUISVILLE KENTUCKY</systemGeoRefPt1>
+<!-- Relevant Message -->
+<message>
+ZCZC NFDTCPAT4 ALL
+TTAA00 KWNH DDHHMM
+ 
+BULLETIN
+Post-Tropical Cyclone Helene Advisory Number  20
+NWS Weather Prediction Center College Park MD   AL092024
+400 AM CDT Sat Sep 28 2024
+ 
+...CATASTROPHIC, HISTORIC FLOODING CONTINUES OVER PORTIONS OF THE
+SOUTHERN APPALACHIANS, THOUGH THE RISK FOR ADDITIONAL HEAVY
+RAINFALL CONTINUES TO WANE...
+ 
+ 
+SUMMARY OF 400 AM CDT...0900 UTC...INFORMATION
+----------------------------------------------
+LOCATION...37.3N 87.9W
+ABOUT 135 MI...220 KM WSW OF LOUISVILLE KENTUCKY
+MAXIMUM SUSTAINED WINDS...25 MPH...35 KM/H
+PRESENT MOVEMENT...SE OR 140 DEGREES AT 3 MPH...6 KM/H
+MINIMUM CENTRAL PRESSURE...992 MB...29.30 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+There are no coastal watches or warnings in effect.
+ 
+Several flood warning and advisories, along with flash flood
+warnings, remain in effect across portions of the southern and 
+central Appalachians, the Southeast, and the Ohio Valley through 
+Saturday morning.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 400 AM CDT (0900 UTC), the center of Post-Tropical Cyclone Helene
+was located near latitude 37.3 North, longitude 87.9 West. The
+post-tropical cyclone is moving toward the southeast near 3 mph (6
+km/h), and will drift slowly southeast and eventually eastward 
+along the Kentucky-Tennessee border through the weekend. 
+ 
+Maximum sustained winds are near 25 mph (35 km/h) with higher gusts.
+Continued weakening is expected during the next couple of days.
+ 
+The estimated minimum central pressure is 992 mb (29.30 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Key Messages for Helene can be found in the Tropical Cyclone
+Discussion under AWIPS header MIATCDAT4 and WMO header WTNT44 KNHC
+and on the web at hurricanes.gov/text/MIATCDAT4.shtml
+ 
+RAINFALL: The remnant low of post tropical cyclone Helene is
+expected to produce an additional 1-2 inches of rainfall across
+portions of the Ohio Valley through early Sunday, with some isolated
+3 inch totals possible.  Most of the rainfall across the central and
+southern Appalachians has come to an end, although a few lingering
+showers are possible through Saturday.
+ 
+For a complete depiction of forecast rainfall associated with
+Tropical Storm Helene, please see the National Weather Service Storm
+Total Rainfall Graphic, available at
+hurricanes.gov/graphics_at4.shtml?rainqpf and the Flash Flood Risk
+graphic at hurricanes.gov/graphics_at4.shtml?ero.
+ 
+For a list of rainfall observations (and wind reports) associated
+this storm, see the companion storm summary at WBCSCCNS4 with the
+WMO header ACUS44 KWBC or at the following link:
+www.wpc.ncep.noaa.gov/discussions/nfdscc4.html.
+ 
+SURF: Swells generated by Helene will affect much the Atlantic
+Seaboard from Florida to Long Island NY through Saturday. These
+swells are likely to cause life-threatening surf and rip current
+conditions. Please consult products from your local weather office.
+
+
+NEXT ADVISORY
+-------------
+Next complete advisory at 1000 AM CDT.
+ 
+$$
+Forecaster Hurley
+ 
+NNNN
+</message>
+</cycloneMessage>
