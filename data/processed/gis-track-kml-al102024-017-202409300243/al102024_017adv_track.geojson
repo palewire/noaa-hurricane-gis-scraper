@@ -1,0 +1,230 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -32.8,
+                        44.4,
+                        0.0
+                    ],
+                    [
+                        -30.1,
+                        45.1,
+                        0.0
+                    ],
+                    [
+                        -26.4,
+                        46.7,
+                        0.0
+                    ],
+                    [
+                        -24.1,
+                        48.6,
+                        0.0
+                    ],
+                    [
+                        -23.1,
+                        50.7,
+                        0.0
+                    ],
+                    [
+                        -22.4,
+                        52.4,
+                        0.0
+                    ],
+                    [
+                        -20.8,
+                        54.4,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "44.4N, 32.8W",
+                "advisoryNum": "17",
+                "atcfid": "AL102024",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Isaac (AL102024)</b></font></td></tr> \n                        <tr><td>Advisory #17 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "65",
+                "maxGustMPH": "75",
+                "maxWindKnots": "55",
+                "maxWindMPH": "65",
+                "minimumPressure": "975",
+                "pubAdvTime": "300 AM GMT Mon Sep 30 2024",
+                "storm": "Tropical Storm Isaac",
+                "stormMovement": "NE",
+                "stormName": "Isaac",
+                "stormNum": "10",
+                "stormType": "TS",
+                "styleUrl": "#72_line",
+                "timezone": "GMT"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -32.8,
+                        44.4,
+                        0.0
+                    ],
+                    [
+                        -30.1,
+                        45.1,
+                        0.0
+                    ],
+                    [
+                        -26.4,
+                        46.7,
+                        0.0
+                    ],
+                    [
+                        -24.1,
+                        48.6,
+                        0.0
+                    ],
+                    [
+                        -23.1,
+                        50.7,
+                        0.0
+                    ],
+                    [
+                        -22.4,
+                        52.4,
+                        0.0
+                    ],
+                    [
+                        -20.8,
+                        54.4,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "17",
+                "atcfid": "AL102024",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Isaac (AL102024)</b></font></td></tr> \n                        <tr><td>Advisory #17 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Tropical Storm Isaac",
+                "stormName": "Isaac",
+                "stormNum": "10",
+                "stormType": "TS",
+                "styleUrl": "#120_line",
+                "timezone": "GMT"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -32.8,
+                    44.4,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Isaac (AL102024)</b></font></td></tr> \n                        <tr><td>Advisory #17</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  3:00 AM GMT September 30, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 44.4 N, -32.8 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 55 knots (65 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 65 knots (75 mph) </td></tr> \n                        <tr><td nowrap>Motion: NE </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 975 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -30.1,
+                    45.1,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Isaac (AL102024)</b></font></td></tr> \n                        <tr><td>Advisory #17</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>12 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at: 12:00 PM GMT September 30, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 45.1 N, -30.1 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 50 knots (60 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 60 knots (70 mph) </td></tr>",
+                "styleUrl": "#xs_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -26.4,
+                    46.7,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Isaac (AL102024)</b></font></td></tr> \n                        <tr><td>Advisory #17</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>24 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at: 12:00 AM GMT October 01, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 46.7 N, -26.4 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 45 knots (50 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 55 knots (65 mph) </td></tr>",
+                "styleUrl": "#xs_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -24.1,
+                    48.6,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Isaac (AL102024)</b></font></td></tr> \n                        <tr><td>Advisory #17</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>36 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at: 12:00 PM GMT October 01, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 48.6 N, -24.1 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 40 knots (45 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 50 knots (60 mph) </td></tr>",
+                "styleUrl": "#xs_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -23.1,
+                    50.7,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Isaac (AL102024)</b></font></td></tr> \n                        <tr><td>Advisory #17</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>48 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at: 12:00 AM GMT October 02, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 50.7 N, -23.1 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 40 knots (45 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 50 knots (60 mph) </td></tr>",
+                "styleUrl": "#xs_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -22.4,
+                    52.4,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Isaac (AL102024)</b></font></td></tr> \n                        <tr><td>Advisory #17</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>60 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at: 12:00 PM GMT October 02, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 52.4 N, -22.4 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 35 knots (40 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 45 knots (50 mph) </td></tr>",
+                "styleUrl": "#xs_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -20.8,
+                    54.4,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Isaac (AL102024)</b></font></td></tr> \n                        <tr><td>Advisory #17</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>72 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at: 12:00 AM GMT October 03, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 54.4 N, -20.8 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 35 knots (40 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 45 knots (50 mph) </td></tr>",
+                "styleUrl": "#xs_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
