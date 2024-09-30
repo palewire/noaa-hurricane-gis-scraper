@@ -1,0 +1,180 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -49.7,
+                        22.1,
+                        0.0
+                    ],
+                    [
+                        -49.8,
+                        22.8,
+                        0.0
+                    ],
+                    [
+                        -49.8,
+                        23.6,
+                        0.0
+                    ],
+                    [
+                        -49.8,
+                        24.7,
+                        0.0
+                    ],
+                    [
+                        -49.5,
+                        25.8,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "22.1N, 49.7W",
+                "advisoryNum": "12",
+                "atcfid": "AL112024",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression Joyce (AL112024)</b></font></td></tr> \n                        <tr><td>Advisory #12 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "40",
+                "maxGustMPH": "45",
+                "maxWindKnots": "30",
+                "maxWindMPH": "35",
+                "minimumPressure": "1006",
+                "pubAdvTime": "500 AM AST Mon Sep 30 2024",
+                "storm": "Tropical Depression Joyce",
+                "stormMovement": "W",
+                "stormName": "Joyce",
+                "stormNum": "11",
+                "stormType": "TD",
+                "styleUrl": "#72_line",
+                "timezone": "AST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -49.7,
+                        22.1,
+                        0.0
+                    ],
+                    [
+                        -49.8,
+                        22.8,
+                        0.0
+                    ],
+                    [
+                        -49.8,
+                        23.6,
+                        0.0
+                    ],
+                    [
+                        -49.8,
+                        24.7,
+                        0.0
+                    ],
+                    [
+                        -49.5,
+                        25.8,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "12",
+                "atcfid": "AL112024",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression Joyce (AL112024)</b></font></td></tr> \n                        <tr><td>Advisory #12 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Tropical Depression Joyce",
+                "stormName": "Joyce",
+                "stormNum": "11",
+                "stormType": "TD",
+                "styleUrl": "#120_line",
+                "timezone": "AST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.7,
+                    22.1,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression Joyce (AL112024)</b></font></td></tr> \n                        <tr><td>Advisory #12</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  5:00 AM AST September 30, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 22.1 N, -49.7 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 30 knots (35 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 40 knots (45 mph) </td></tr> \n                        <tr><td nowrap>Motion: W </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 1006 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.8,
+                    22.8,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression Joyce (AL112024)</b></font></td></tr> \n                        <tr><td>Advisory #12</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>12 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 PM AST September 30, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 22.8 N, -49.8 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 30 knots (35 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 40 knots (45 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.8,
+                    23.6,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression Joyce (AL112024)</b></font></td></tr> \n                        <tr><td>Advisory #12</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>24 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 AM AST October 01, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 23.6 N, -49.8 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 30 knots (35 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 40 knots (45 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.8,
+                    24.7,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression Joyce (AL112024)</b></font></td></tr> \n                        <tr><td>Advisory #12</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>36 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 PM AST October 01, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 24.7 N, -49.8 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 25 knots (30 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 35 knots (40 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.5,
+                    25.8,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression Joyce (AL112024)</b></font></td></tr> \n                        <tr><td>Advisory #12</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>48 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 AM AST October 02, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 25.8 N, -49.5 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 20 knots (25 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 30 knots (35 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
