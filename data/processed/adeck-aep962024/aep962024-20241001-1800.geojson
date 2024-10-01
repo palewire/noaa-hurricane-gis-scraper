@@ -2221,6 +2221,39 @@
                 "warning_datetime": "2024-10-01 18:00:00"
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -94.6,
+                        14.9
+                    ],
+                    [
+                        -94.6,
+                        15.4
+                    ],
+                    [
+                        -94.6,
+                        15.9
+                    ],
+                    [
+                        -94.6,
+                        16.5
+                    ],
+                    [
+                        -94.6,
+                        17.1
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "240",
+            "properties": {
+                "model": "DRCL",
+                "warning_datetime": "2024-10-01 18:00:00"
+            },
+            "type": "Feature"
         }
     ],
     "type": "FeatureCollection"
