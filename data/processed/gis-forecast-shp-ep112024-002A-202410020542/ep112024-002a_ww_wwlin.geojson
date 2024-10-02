@@ -1,0 +1,75 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -93.32,
+                        15.58
+                    ],
+                    [
+                        -92.45,
+                        14.71
+                    ],
+                    [
+                        -92.22,
+                        14.52
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "0",
+            "properties": {
+                "ADVDATE": "1200 AM CST Wed Oct 02 2024",
+                "ADVISNUM": "2A",
+                "BASIN": "EP",
+                "FCSTPRD": 120.0,
+                "STORMNAME": "Eleven-E",
+                "STORMNUM": 11.0,
+                "STORMTYPE": "TD",
+                "TCWW": "TWA"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -96.49,
+                        15.66
+                    ],
+                    [
+                        -96.23,
+                        15.69
+                    ],
+                    [
+                        -95.2,
+                        16.16
+                    ],
+                    [
+                        -93.99,
+                        16.0
+                    ],
+                    [
+                        -93.32,
+                        15.58
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "1",
+            "properties": {
+                "ADVDATE": "1200 AM CST Wed Oct 02 2024",
+                "ADVISNUM": "2A",
+                "BASIN": "EP",
+                "FCSTPRD": 120.0,
+                "STORMNAME": "Eleven-E",
+                "STORMNUM": 11.0,
+                "STORMTYPE": "TD",
+                "TCWW": "TWR"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
