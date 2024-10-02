@@ -1710,6 +1710,47 @@
                         14.3
                     ],
                     [
+                        -96.5,
+                        14.1
+                    ],
+                    [
+                        -96.5,
+                        14.0
+                    ],
+                    [
+                        -96.7,
+                        14.5
+                    ],
+                    [
+                        -96.7,
+                        15.0
+                    ],
+                    [
+                        -96.9,
+                        16.0
+                    ],
+                    [
+                        -98.3,
+                        16.7
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "515",
+            "properties": {
+                "model": "OFCL",
+                "warning_datetime": "2024-10-02 18:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -96.4,
+                        14.3
+                    ],
+                    [
                         -96.8,
                         14.2
                     ],
@@ -1732,7 +1773,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "520",
+            "id": "521",
             "properties": {
                 "model": "OFCI",
                 "warning_datetime": "2024-10-02 18:00:00"
@@ -1773,7 +1814,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "522",
+            "id": "523",
             "properties": {
                 "model": "CEMI",
                 "warning_datetime": "2024-10-02 18:00:00"
@@ -1782,7 +1823,7 @@
         },
         {
             "geometry": null,
-            "id": "524",
+            "id": "525",
             "properties": {
                 "model": "EGRI",
                 "warning_datetime": "2024-10-02 18:00:00"
@@ -1803,7 +1844,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "526",
+            "id": "527",
             "properties": {
                 "model": "UKMI",
                 "warning_datetime": "2024-10-02 18:00:00"
@@ -1864,7 +1905,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "530",
+            "id": "531",
             "properties": {
                 "model": "HMN2",
                 "warning_datetime": "2024-10-02 18:00:00"
@@ -1901,7 +1942,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "531",
+            "id": "532",
             "properties": {
                 "model": "NVGI",
                 "warning_datetime": "2024-10-02 18:00:00"
