@@ -1811,13 +1811,75 @@
                         15.0
                     ],
                     [
+                        -95.3,
+                        15.9
+                    ],
+                    [
+                        -95.4,
+                        17.1
+                    ],
+                    [
+                        -95.5,
+                        18.2
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "725",
+            "properties": {
+                "model": "DRCL",
+                "warning_datetime": "2024-10-03 12:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -95.7,
+                        15.0
+                    ],
+                    [
+                        -95.6,
+                        15.2
+                    ],
+                    [
+                        -95.3,
+                        15.9
+                    ],
+                    [
+                        -95.4,
+                        17.1
+                    ],
+                    [
+                        -95.5,
+                        18.2
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "733",
+            "properties": {
+                "model": "OFCL",
+                "warning_datetime": "2024-10-03 12:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -95.7,
+                        15.0
+                    ],
+                    [
                         -95.7,
                         15.8
                     ]
                 ],
                 "type": "LineString"
             },
-            "id": "735",
+            "id": "737",
             "properties": {
                 "model": "CMC2",
                 "warning_datetime": "2024-10-03 12:00:00"
@@ -1846,7 +1908,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "742",
+            "id": "744",
             "properties": {
                 "model": "OFCI",
                 "warning_datetime": "2024-10-03 12:00:00"
@@ -1875,7 +1937,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "754",
+            "id": "756",
             "properties": {
                 "model": "EGR2",
                 "warning_datetime": "2024-10-03 12:00:00"
@@ -1904,7 +1966,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "758",
+            "id": "760",
             "properties": {
                 "model": "UKM2",
                 "warning_datetime": "2024-10-03 12:00:00"
