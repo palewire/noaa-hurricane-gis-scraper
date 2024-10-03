@@ -1,0 +1,205 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -96.5,
+                        14.0,
+                        0.0
+                    ],
+                    [
+                        -96.5,
+                        14.0,
+                        0.0
+                    ],
+                    [
+                        -96.7,
+                        14.5,
+                        0.0
+                    ],
+                    [
+                        -96.7,
+                        15.0,
+                        0.0
+                    ],
+                    [
+                        -96.9,
+                        16.0,
+                        0.0
+                    ],
+                    [
+                        -98.3,
+                        16.7,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "14.0N, 96.5W",
+                "advisoryNum": "5A",
+                "atcfid": "EP112024",
+                "basin": "ep",
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression Eleven-E (EP112024)</b></font></td></tr> \n                        <tr><td>Advisory #5A </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "40",
+                "maxGustMPH": "45",
+                "maxWindKnots": "30",
+                "maxWindMPH": "35",
+                "minimumPressure": "1004",
+                "pubAdvTime": "600 PM CST Wed Oct 02 2024",
+                "storm": "Tropical Depression Eleven-E",
+                "stormMovement": "SSW",
+                "stormName": "Eleven-E",
+                "stormNum": "11",
+                "stormType": "TD",
+                "styleUrl": "#72_line",
+                "timezone": "CST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -96.5,
+                        14.0,
+                        0.0
+                    ],
+                    [
+                        -96.5,
+                        14.0,
+                        0.0
+                    ],
+                    [
+                        -96.7,
+                        14.5,
+                        0.0
+                    ],
+                    [
+                        -96.7,
+                        15.0,
+                        0.0
+                    ],
+                    [
+                        -96.9,
+                        16.0,
+                        0.0
+                    ],
+                    [
+                        -98.3,
+                        16.7,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "5A",
+                "atcfid": "EP112024",
+                "basin": "ep",
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression Eleven-E (EP112024)</b></font></td></tr> \n                        <tr><td>Advisory #5A </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Tropical Depression Eleven-E",
+                "stormName": "Eleven-E",
+                "stormNum": "11",
+                "stormType": "TD",
+                "styleUrl": "#120_line",
+                "timezone": "CST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.5,
+                    14.0,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression Eleven-E (EP112024)</b></font></td></tr> \n                        <tr><td>Advisory #5A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  6:00 PM CST October 02, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 14.0 N, -96.5 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 30 knots (35 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 40 knots (45 mph) </td></tr> \n                        <tr><td nowrap>Motion: SSW </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 1004 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.5,
+                    14.0,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression Eleven-E (EP112024)</b></font></td></tr> \n                        <tr><td>Advisory #5A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>12 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at: 12:00 AM CST October 03, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 14.0 N, -96.5 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 35 knots (40 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 45 knots (50 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.7,
+                    14.5,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression Eleven-E (EP112024)</b></font></td></tr> \n                        <tr><td>Advisory #5A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>24 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at: 12:00 PM CST October 03, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 14.5 N, -96.7 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 40 knots (45 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 50 knots (60 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.7,
+                    15.0,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression Eleven-E (EP112024)</b></font></td></tr> \n                        <tr><td>Advisory #5A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>36 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at: 12:00 AM CST October 04, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 15.0 N, -96.7 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 40 knots (45 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 50 knots (60 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.9,
+                    16.0,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression Eleven-E (EP112024)</b></font></td></tr> \n                        <tr><td>Advisory #5A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>48 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at: 12:00 PM CST October 04, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 16.0 N, -96.9 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 30 knots (35 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 40 knots (45 mph) </td></tr>",
+                "styleUrl": "#d_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.3,
+                    16.7,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression Eleven-E (EP112024)</b></font></td></tr> \n                        <tr><td>Advisory #5A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>60 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at: 12:00 AM CST October 05, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 16.7 N, -98.3 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 20 knots (25 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 30 knots (35 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
