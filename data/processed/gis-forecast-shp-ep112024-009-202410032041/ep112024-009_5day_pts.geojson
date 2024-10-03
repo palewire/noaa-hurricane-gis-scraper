@@ -1,0 +1,77 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.6,
+                    15.7
+                ],
+                "type": "Point"
+            },
+            "id": "0",
+            "properties": {
+                "ADVDATE": "300 PM CST Thu Oct 03 2024",
+                "ADVISNUM": "9",
+                "BASIN": "EP",
+                "DATELBL": "3:00 PM Thu",
+                "DVLBL": "S",
+                "FCSTPRD": 120.0,
+                "FLDATELBL": "2024-10-03 12:00 PM Thu CST",
+                "GUST": 45.0,
+                "LAT": 15.7,
+                "LON": -94.6,
+                "MAXWIND": 35.0,
+                "MSLP": 1006.0,
+                "SSNUM": 0.0,
+                "STORMNAME": "Remnants Of Eleven-E",
+                "STORMNUM": 11.0,
+                "STORMSRC": "Tropical Cyclone",
+                "STORMTYPE": "TS",
+                "TAU": 0.0,
+                "TCDIR": 360.0,
+                "TCDVLP": "Tropical Storm",
+                "TCSPD": 6.0,
+                "TIMEZONE": "CST",
+                "VALIDTIME": "03/1800"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -94.5,
+                    16.5
+                ],
+                "type": "Point"
+            },
+            "id": "1",
+            "properties": {
+                "ADVDATE": "300 PM CST Thu Oct 03 2024",
+                "ADVISNUM": "9",
+                "BASIN": "EP",
+                "DATELBL": "12:00 AM Fri",
+                "DVLBL": "D",
+                "FCSTPRD": 120.0,
+                "FLDATELBL": "2024-10-04 12:00 AM Fri CST",
+                "GUST": 35.0,
+                "LAT": 16.5,
+                "LON": -94.5,
+                "MAXWIND": 25.0,
+                "MSLP": 9999.0,
+                "SSNUM": 0.0,
+                "STORMNAME": "Remnants Of Eleven-E",
+                "STORMNUM": 11.0,
+                "STORMSRC": "Post-Tropical Cyclone",
+                "STORMTYPE": "STD",
+                "TAU": 12.0,
+                "TCDIR": 9999.0,
+                "TCDVLP": "Subtropical Depression",
+                "TCSPD": 9999.0,
+                "TIMEZONE": "CST",
+                "VALIDTIME": "04/0600"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

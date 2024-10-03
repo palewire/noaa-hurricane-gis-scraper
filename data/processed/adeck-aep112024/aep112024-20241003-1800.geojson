@@ -1852,6 +1852,52 @@
                     ],
                     [
                         -94.5,
+                        16.5
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "800",
+            "properties": {
+                "model": "DRCL",
+                "warning_datetime": "2024-10-03 18:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -94.6,
+                        15.4
+                    ],
+                    [
+                        -94.6,
+                        15.7
+                    ],
+                    [
+                        -94.5,
+                        16.5
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "809",
+            "properties": {
+                "model": "OFCL",
+                "warning_datetime": "2024-10-03 18:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -94.6,
+                        15.4
+                    ],
+                    [
+                        -94.5,
                         16.4
                     ],
                     [
@@ -1865,7 +1911,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "819",
+            "id": "821",
             "properties": {
                 "model": "OFCI",
                 "warning_datetime": "2024-10-03 18:00:00"
@@ -1894,7 +1940,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "823",
+            "id": "825",
             "properties": {
                 "model": "CEMI",
                 "warning_datetime": "2024-10-03 18:00:00"
@@ -1903,7 +1949,7 @@
         },
         {
             "geometry": null,
-            "id": "827",
+            "id": "829",
             "properties": {
                 "model": "EGRI",
                 "warning_datetime": "2024-10-03 18:00:00"
@@ -1924,7 +1970,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "831",
+            "id": "833",
             "properties": {
                 "model": "UKMI",
                 "warning_datetime": "2024-10-03 18:00:00"
