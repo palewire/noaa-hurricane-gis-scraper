@@ -1,0 +1,270 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -34.8,
+                        10.7,
+                        0.0
+                    ],
+                    [
+                        -35.7,
+                        11.2,
+                        0.0
+                    ],
+                    [
+                        -36.8,
+                        12.1,
+                        0.0
+                    ],
+                    [
+                        -38.1,
+                        13.2,
+                        0.0
+                    ],
+                    [
+                        -39.6,
+                        14.6,
+                        0.0
+                    ],
+                    [
+                        -41.3,
+                        15.9,
+                        0.0
+                    ],
+                    [
+                        -43.1,
+                        17.4,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "10.7N, 34.8W",
+                "advisoryNum": "12",
+                "atcfid": "AL132024",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Leslie (AL132024)</b></font></td></tr> \n                        <tr><td>Advisory #12 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "85",
+                "maxGustMPH": "100",
+                "maxWindKnots": "70",
+                "maxWindMPH": "80",
+                "minimumPressure": "985",
+                "pubAdvTime": "500 AM AST Sat Oct 05 2024",
+                "storm": "Hurricane Leslie",
+                "stormMovement": "WNW",
+                "stormName": "Leslie",
+                "stormNum": "13",
+                "stormType": "HU",
+                "styleUrl": "#72_line",
+                "timezone": "AST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -34.8,
+                        10.7,
+                        0.0
+                    ],
+                    [
+                        -35.7,
+                        11.2,
+                        0.0
+                    ],
+                    [
+                        -36.8,
+                        12.1,
+                        0.0
+                    ],
+                    [
+                        -38.1,
+                        13.2,
+                        0.0
+                    ],
+                    [
+                        -39.6,
+                        14.6,
+                        0.0
+                    ],
+                    [
+                        -41.3,
+                        15.9,
+                        0.0
+                    ],
+                    [
+                        -43.1,
+                        17.4,
+                        0.0
+                    ],
+                    [
+                        -46.7,
+                        20.2,
+                        0.0
+                    ],
+                    [
+                        -49.5,
+                        22.3,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "12",
+                "atcfid": "AL132024",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Leslie (AL132024)</b></font></td></tr> \n                        <tr><td>Advisory #12 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Hurricane Leslie",
+                "stormName": "Leslie",
+                "stormNum": "13",
+                "stormType": "HU",
+                "styleUrl": "#120_line",
+                "timezone": "AST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -34.8,
+                    10.7,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Leslie (AL132024)</b></font></td></tr> \n                        <tr><td>Advisory #12</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  5:00 AM AST October 05, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 10.7 N, -34.8 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 70 knots (80 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 85 knots (100 mph) </td></tr> \n                        <tr><td nowrap>Motion: WNW </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 985 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -35.7,
+                    11.2,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Leslie (AL132024)</b></font></td></tr> \n                        <tr><td>Advisory #12</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>12 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 PM AST October 05, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 11.2 N, -35.7 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 75 knots (85 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 90 knots (105 mph) </td></tr>",
+                "styleUrl": "#h_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -36.8,
+                    12.1,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Leslie (AL132024)</b></font></td></tr> \n                        <tr><td>Advisory #12</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>24 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 AM AST October 06, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 12.1 N, -36.8 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 80 knots (90 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 100 knots (115 mph) </td></tr>",
+                "styleUrl": "#h_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -38.1,
+                    13.2,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Leslie (AL132024)</b></font></td></tr> \n                        <tr><td>Advisory #12</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>36 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 PM AST October 06, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 13.2 N, -38.1 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 75 knots (85 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 90 knots (105 mph) </td></tr>",
+                "styleUrl": "#h_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -39.6,
+                    14.6,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Leslie (AL132024)</b></font></td></tr> \n                        <tr><td>Advisory #12</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>48 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 AM AST October 07, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 14.6 N, -39.6 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 70 knots (80 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 85 knots (100 mph) </td></tr>",
+                "styleUrl": "#h_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -41.3,
+                    15.9,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Leslie (AL132024)</b></font></td></tr> \n                        <tr><td>Advisory #12</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>60 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 PM AST October 07, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 15.9 N, -41.3 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 70 knots (80 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 85 knots (100 mph) </td></tr>",
+                "styleUrl": "#h_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -43.1,
+                    17.4,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Leslie (AL132024)</b></font></td></tr> \n                        <tr><td>Advisory #12</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>72 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 AM AST October 08, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 17.4 N, -43.1 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 70 knots (80 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 85 knots (100 mph) </td></tr>",
+                "styleUrl": "#h_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -46.7,
+                    20.2,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Leslie (AL132024)</b></font></td></tr> \n                        <tr><td>Advisory #12</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>96 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 AM AST October 09, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 20.2 N, -46.7 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 65 knots (75 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 80 knots (90 mph) </td></tr>",
+                "styleUrl": "#h_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.5,
+                    22.3,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Leslie (AL132024)</b></font></td></tr> \n                        <tr><td>Advisory #12</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>120 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 AM AST October 10, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 22.3 N, -49.5 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 65 knots (75 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 80 knots (90 mph) </td></tr>",
+                "styleUrl": "#h_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
