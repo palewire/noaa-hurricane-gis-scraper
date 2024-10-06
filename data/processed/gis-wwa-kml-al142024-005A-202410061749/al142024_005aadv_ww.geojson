@@ -1,0 +1,84 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -87.1,
+                        21.61,
+                        0.0
+                    ],
+                    [
+                        -86.82,
+                        21.18,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryDate": "100 PM CDT Sun Oct 06 2024",
+                "advisoryNum": "5A",
+                "atcfid": "AL142024",
+                "basin": "AL",
+                "fcstpd": "120",
+                "name": "Tropical Storm Watch",
+                "storm": "Hurricane Milton",
+                "stormName": "Milton",
+                "stormNum": "14",
+                "stormType": "HU",
+                "styleUrl": "#TWA",
+                "timezone": "CDT"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -90.4,
+                        20.86,
+                        0.0
+                    ],
+                    [
+                        -89.66,
+                        21.29,
+                        0.0
+                    ],
+                    [
+                        -88.89,
+                        21.39,
+                        0.0
+                    ],
+                    [
+                        -88.18,
+                        21.61,
+                        0.0
+                    ],
+                    [
+                        -87.1,
+                        21.61,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryDate": "100 PM CDT Sun Oct 06 2024",
+                "advisoryNum": "5A",
+                "atcfid": "AL142024",
+                "basin": "AL",
+                "fcstpd": "120",
+                "name": "Tropical Storm Warning",
+                "storm": "Hurricane Milton",
+                "stormName": "Milton",
+                "stormNum": "14",
+                "stormType": "HU",
+                "styleUrl": "#TWR",
+                "timezone": "CDT"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
