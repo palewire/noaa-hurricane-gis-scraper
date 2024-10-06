@@ -1,0 +1,107 @@
+<?xml version="1.0"?>
+<cycloneMessage>
+<!-- System Advisory Meta Information -->
+<atcfID>AL132024</atcfID>
+<issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
+<messageType>ROUTINE ADVISORY</messageType>
+<messageBinNumber>3</messageBinNumber>
+<advisoryNumber>15</advisoryNumber>
+<!-- System Date/Time Information -->
+<messageDateTimeLocal>20241005 11:00:00 PM AST</messageDateTimeLocal>
+<messageDateTimeUTC>20241006 03:00:00 AM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>20241006030000</messageDateTimeUTC24>
+<messageDateTimeLocalStr>1100 PM AST Sat Oct 05</messageDateTimeLocalStr>
+<timeEpochSeconds>1728183600</timeEpochSeconds>
+<!-- System state defined -->
+<systemType>HURRICANE</systemType>
+<systemName>LESLIE</systemName>
+<!-- Center Location of the System -->
+<!-- Lattitude: North is positive; South is negative -->
+<!-- Longitude: East is positive; West is negative -->
+<!-- units: decimal degrees (tenths) -->
+<centerLocLatitude>12.4</centerLocLatitude>
+<centerLocLongitude>-36.9</centerLocLongitude>
+<!-- Lattitude: North is N; South is S -->
+<!-- Longitude: East is E; West is W -->
+<!-- units: decimal degrees (tenths) -->
+<centerLocLatitudeExpanded>12.4N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>36.9W</centerLocLongitudeExpanded>
+<!-- Maximum Intensity of the System -->
+<!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
+<systemIntensityMph>80</systemIntensityMph>
+<systemIntensityKph>130</systemIntensityKph>
+<systemIntensityKts>70</systemIntensityKts>
+<systemMslpMb>985</systemMslpMb>
+<systemMslpInHg>29.09</systemMslpInHg>
+<systemSaffirSimpsonCategory>CATEGORY 1</systemSaffirSimpsonCategory>
+<formationChancePct48h>N/A</formationChancePct48h>
+<formationChancePct7d>N/A</formationChancePct7d>
+<!-- Current System Movement -->
+<!-- units: Degrees, MPH and KPH -->
+<systemDirectionOfMotion>NW OR 310 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>9</systemSpeedMph>
+<systemSpeedKph>15</systemSpeedKph>
+<systemSpeedKts>8</systemSpeedKts>
+<!-- Current System Location from known Reference Point -->
+<systemGeoRefPt1>ABOUT 855 MI...1375 KM W OF THE SOUTHERNMOST CABO VERDE ISLANDS</systemGeoRefPt1>
+<!-- Relevant Message -->
+<message>
+ZCZC MIATCPAT3 ALL
+TTAA00 KNHC DDHHMM
+ 
+BULLETIN
+Hurricane Leslie Advisory Number  15
+NWS National Hurricane Center Miami FL       AL132024
+1100 PM AST Sat Oct 05 2024
+ 
+...LESLIE HEADING NORTHWESTWARD...
+ 
+ 
+SUMMARY OF 1100 PM AST...0300 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...12.4N 36.9W
+ABOUT 855 MI...1375 KM W OF THE SOUTHERNMOST CABO VERDE ISLANDS
+MAXIMUM SUSTAINED WINDS...80 MPH...130 KM/H
+PRESENT MOVEMENT...NW OR 310 DEGREES AT 9 MPH...15 KM/H
+MINIMUM CENTRAL PRESSURE...985 MB...29.09 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+There are no coastal watches or warnings in effect.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 1100 PM AST (0300 UTC), the center of Hurricane Leslie was
+located near latitude 12.4 North, longitude 36.9 West. Leslie is
+moving toward the northwest near 9 mph (15 km/h) and this motion is
+expected to continue with a slight increase in forward speed during 
+the next few days.
+ 
+Maximum sustained winds are near 80 mph (130 km/h) with higher 
+gusts.  A gradual weakening trend is forecast to begin Sunday and 
+continue through early next week.
+ 
+Hurricane-force winds extend outward up to 15 miles (30 km) from the
+center and tropical-storm-force winds extend outward up to 90 miles
+(150 km).
+ 
+The estimated minimum central pressure is 985 mb (29.09 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+None.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 500 AM AST.
+ 
+$$
+Forecaster Bucci
+ 
+NNNN
+</message>
+</cycloneMessage>
