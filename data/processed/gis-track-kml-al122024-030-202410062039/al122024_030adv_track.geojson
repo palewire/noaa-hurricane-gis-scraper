@@ -1,0 +1,230 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -46.2,
+                        37.0,
+                        0.0
+                    ],
+                    [
+                        -42.9,
+                        39.4,
+                        0.0
+                    ],
+                    [
+                        -37.2,
+                        42.1,
+                        0.0
+                    ],
+                    [
+                        -30.2,
+                        43.3,
+                        0.0
+                    ],
+                    [
+                        -21.6,
+                        43.6,
+                        0.0
+                    ],
+                    [
+                        -11.7,
+                        44.7,
+                        0.0
+                    ],
+                    [
+                        -2.6,
+                        47.1,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "37.0N, 46.2W",
+                "advisoryNum": "30",
+                "atcfid": "AL122024",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Kirk (AL122024)</b></font></td></tr> \n                        <tr><td>Advisory #30 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "90",
+                "maxGustMPH": "105",
+                "maxWindKnots": "75",
+                "maxWindMPH": "85",
+                "minimumPressure": "961",
+                "pubAdvTime": "500 PM AST Sun Oct 06 2024",
+                "storm": "Hurricane Kirk",
+                "stormMovement": "NNE",
+                "stormName": "Kirk",
+                "stormNum": "12",
+                "stormType": "HU",
+                "styleUrl": "#72_line",
+                "timezone": "AST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -46.2,
+                        37.0,
+                        0.0
+                    ],
+                    [
+                        -42.9,
+                        39.4,
+                        0.0
+                    ],
+                    [
+                        -37.2,
+                        42.1,
+                        0.0
+                    ],
+                    [
+                        -30.2,
+                        43.3,
+                        0.0
+                    ],
+                    [
+                        -21.6,
+                        43.6,
+                        0.0
+                    ],
+                    [
+                        -11.7,
+                        44.7,
+                        0.0
+                    ],
+                    [
+                        -2.6,
+                        47.1,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "30",
+                "atcfid": "AL122024",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Kirk (AL122024)</b></font></td></tr> \n                        <tr><td>Advisory #30 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Hurricane Kirk",
+                "stormName": "Kirk",
+                "stormNum": "12",
+                "stormType": "HU",
+                "styleUrl": "#120_line",
+                "timezone": "AST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -46.2,
+                    37.0,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Kirk (AL122024)</b></font></td></tr> \n                        <tr><td>Advisory #30</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  5:00 PM AST October 06, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 37.0 N, -46.2 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 75 knots (85 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 90 knots (105 mph) </td></tr> \n                        <tr><td nowrap>Motion: NNE </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 961 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -42.9,
+                    39.4,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Kirk (AL122024)</b></font></td></tr> \n                        <tr><td>Advisory #30</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>12 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 AM AST October 07, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 39.4 N, -42.9 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 70 knots (80 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 85 knots (100 mph) </td></tr>",
+                "styleUrl": "#h_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -37.2,
+                    42.1,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Kirk (AL122024)</b></font></td></tr> \n                        <tr><td>Advisory #30</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>24 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 PM AST October 07, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 42.1 N, -37.2 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 65 knots (75 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 80 knots (90 mph) </td></tr>",
+                "styleUrl": "#xh_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -30.2,
+                    43.3,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Kirk (AL122024)</b></font></td></tr> \n                        <tr><td>Advisory #30</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>36 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 AM AST October 08, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 43.3 N, -30.2 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 60 knots (70 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 75 knots (85 mph) </td></tr>",
+                "styleUrl": "#xs_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -21.6,
+                    43.6,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Kirk (AL122024)</b></font></td></tr> \n                        <tr><td>Advisory #30</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>48 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 PM AST October 08, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 43.6 N, -21.6 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 55 knots (65 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 65 knots (75 mph) </td></tr>",
+                "styleUrl": "#xs_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -11.7,
+                    44.7,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Kirk (AL122024)</b></font></td></tr> \n                        <tr><td>Advisory #30</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>60 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 AM AST October 09, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 44.7 N, -11.7 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 50 knots (60 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 60 knots (70 mph) </td></tr>",
+                "styleUrl": "#xs_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.6,
+                    47.1,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Kirk (AL122024)</b></font></td></tr> \n                        <tr><td>Advisory #30</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>72 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 PM AST October 09, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 47.1 N, -2.6 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 45 knots (50 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 55 knots (65 mph) </td></tr>",
+                "styleUrl": "#xs_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
