@@ -1,0 +1,1547 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+	<kml xmlns="http://earth.google.com/kml/2.2"> 
+	<Document> 
+	<name>AL122024 Kirk</name> 
+	<open>0</open> 
+	<description>
+		<![CDATA[<TABLE>
+		<TR><TD><B>Title:</B> Tropical Cyclone Best Track for AL122024</TD></TR>
+		<TR><TD><B>Description:</B> The best track is a subjectively-smoothed representation of the tropical cyclone's location and intensity at 6-h interval over its lifetime.  These best track positions and intensity (maximum 1-minute sustained surface wind speed and minimum sea-level pressure) are based on a post-storm assessment of all available data and may differ from values contained in real-time storm advisories.  In general, they will not reflect the erratic motion implied by connecting the individual center fix positions.  The best track is a living database which servers as the official U.S. National Weather Service historical record of the tropical cyclone. 
+		<TR><TD><B>Date Created:</B> 07-10-2024</TD></TR>
+		<TR><TD><B>Created:</B> National Hurricane Center </TD></TR>
+		<TR><TD><B>Disclaimer:</B> These data are intended for geographic display and analysis at the national level, and for large regional areas. No responsibilty is assumed by the National Oceanic and Atmospheric Administration or the National Hurricane Center in the use of these data.  No wawrranty, expressed or implied, is made by the National Hurricane Center regarding the utility of the data on any other system, nor shall the act of distrubtion constitute any such warranty. </TD></TR>
+		<TR><TD><B>For More Information: </B><a href="https://www.nhc.noaa.gov">https://www.nhc.noaa.gov</a></TD></TR></TABLE>]]>
+	</description>
+	<Schema parent="Placemark" name="AL122024"> 
+		<SimpleField type="wstring" name="StormName"></SimpleField> 
+		<SimpleField type="wstring" name="StormNumber"></SimpleField> 
+		<SimpleField type="wstring" name="StormType"></SimpleField> 
+		<SimpleField type="wstring" name="Basin"></SimpleField> 
+		<SimpleField type="wstring" name="lat"></SimpleField> 
+		<SimpleField type="wstring" name="lon"></SimpleField> 
+		<SimpleField type="wstring" name="Intensity"></SimpleField> 
+		<SimpleField type="wstring" name="MSLP"></SimpleField> 
+		<SimpleField type="wstring" name="DTG"></SimpleField> 
+	</Schema>
+	<Style id="pt"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>ex_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="cat5"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>cat5_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="db"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>ex_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="cat3"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>cat3_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="ss"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>ts_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="lo"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>ex_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="cat4"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>cat4_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="lo"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>ex_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="cat2"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>cat2_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="ts"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>ts_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="cat1"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>cat1_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="ex"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>ex_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="st"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>typhoon_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="tc"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>ex_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="wv"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>ex_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="td"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>td_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="sd"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>ex_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="ty"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>typhoon_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Folder id="data"> 
+ 	    <name>Data</name> 
+
+	   <Placemark>
+	      <name>1800 UTC SEP 27</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>DB GENESIS029 (AL122024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>1800 UTC SEP 27</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>14.7 N, -25.2 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1007 mb; 29.73 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>25 knots;  29 mph;  46 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ex</styleUrl>
+	       <Point>
+	   	   <coordinates>-25.2,14.7,0</coordinates>
+	       </Point>
+	       <lat>14.7</lat>
+	       <lon>-25.2</lon>
+	       <stormName>GENESIS029</stormName>
+	       <stormNum>12</stormNum>
+	       <basin>AL</basin>
+	       <stormType>DB</stormType>
+	       <intensity>25</intensity>
+	       <intensityMPH>29</intensityMPH>
+	       <intensityKPH>46</intensityKPH>
+	       <minSeaLevelPres>1007</minSeaLevelPres>
+	       <atcfdtg>2024092718</atcfdtg>
+	       <dtg>1800 UTC SEP 27</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>0000 UTC SEP 28</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>DB GENESIS029 (AL122024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>0000 UTC SEP 28</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>14.7 N, -26.4 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1007 mb; 29.73 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>25 knots;  29 mph;  46 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ex</styleUrl>
+	       <Point>
+	   	   <coordinates>-26.4,14.7,0</coordinates>
+	       </Point>
+	       <lat>14.7</lat>
+	       <lon>-26.4</lon>
+	       <stormName>GENESIS029</stormName>
+	       <stormNum>12</stormNum>
+	       <basin>AL</basin>
+	       <stormType>DB</stormType>
+	       <intensity>25</intensity>
+	       <intensityMPH>29</intensityMPH>
+	       <intensityKPH>46</intensityKPH>
+	       <minSeaLevelPres>1007</minSeaLevelPres>
+	       <atcfdtg>2024092800</atcfdtg>
+	       <dtg>0000 UTC SEP 28</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>0600 UTC SEP 28</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>DB GENESIS029 (AL122024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>0600 UTC SEP 28</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>14.5 N, -27.7 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1007 mb; 29.73 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>25 knots;  29 mph;  46 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ex</styleUrl>
+	       <Point>
+	   	   <coordinates>-27.7,14.5,0</coordinates>
+	       </Point>
+	       <lat>14.5</lat>
+	       <lon>-27.7</lon>
+	       <stormName>GENESIS029</stormName>
+	       <stormNum>12</stormNum>
+	       <basin>AL</basin>
+	       <stormType>DB</stormType>
+	       <intensity>25</intensity>
+	       <intensityMPH>29</intensityMPH>
+	       <intensityKPH>46</intensityKPH>
+	       <minSeaLevelPres>1007</minSeaLevelPres>
+	       <atcfdtg>2024092806</atcfdtg>
+	       <dtg>0600 UTC SEP 28</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>1200 UTC SEP 28</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>DB GENESIS029 (AL122024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>1200 UTC SEP 28</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>14.3 N, -29.1 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1007 mb; 29.73 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>25 knots;  29 mph;  46 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ex</styleUrl>
+	       <Point>
+	   	   <coordinates>-29.1,14.3,0</coordinates>
+	       </Point>
+	       <lat>14.3</lat>
+	       <lon>-29.1</lon>
+	       <stormName>GENESIS029</stormName>
+	       <stormNum>12</stormNum>
+	       <basin>AL</basin>
+	       <stormType>DB</stormType>
+	       <intensity>25</intensity>
+	       <intensityMPH>29</intensityMPH>
+	       <intensityKPH>46</intensityKPH>
+	       <minSeaLevelPres>1007</minSeaLevelPres>
+	       <atcfdtg>2024092812</atcfdtg>
+	       <dtg>1200 UTC SEP 28</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>1800 UTC SEP 28</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>DB INVEST (AL122024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>1800 UTC SEP 28</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>14.0 N, -30.2 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1007 mb; 29.73 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>25 knots;  29 mph;  46 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ex</styleUrl>
+	       <Point>
+	   	   <coordinates>-30.2,14.0,0</coordinates>
+	       </Point>
+	       <lat>14.0</lat>
+	       <lon>-30.2</lon>
+	       <stormName>INVEST</stormName>
+	       <stormNum>12</stormNum>
+	       <basin>AL</basin>
+	       <stormType>DB</stormType>
+	       <intensity>25</intensity>
+	       <intensityMPH>29</intensityMPH>
+	       <intensityKPH>46</intensityKPH>
+	       <minSeaLevelPres>1007</minSeaLevelPres>
+	       <atcfdtg>2024092818</atcfdtg>
+	       <dtg>1800 UTC SEP 28</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>0000 UTC SEP 29</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>DB INVEST (AL122024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>0000 UTC SEP 29</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>13.7 N, -30.7 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1007 mb; 29.73 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>25 knots;  29 mph;  46 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ex</styleUrl>
+	       <Point>
+	   	   <coordinates>-30.7,13.7,0</coordinates>
+	       </Point>
+	       <lat>13.7</lat>
+	       <lon>-30.7</lon>
+	       <stormName>INVEST</stormName>
+	       <stormNum>12</stormNum>
+	       <basin>AL</basin>
+	       <stormType>DB</stormType>
+	       <intensity>25</intensity>
+	       <intensityMPH>29</intensityMPH>
+	       <intensityKPH>46</intensityKPH>
+	       <minSeaLevelPres>1007</minSeaLevelPres>
+	       <atcfdtg>2024092900</atcfdtg>
+	       <dtg>0000 UTC SEP 29</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>0600 UTC SEP 29</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>DB INVEST (AL122024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>0600 UTC SEP 29</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>13.7 N, -31.2 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1007 mb; 29.73 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>25 knots;  29 mph;  46 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ex</styleUrl>
+	       <Point>
+	   	   <coordinates>-31.2,13.7,0</coordinates>
+	       </Point>
+	       <lat>13.7</lat>
+	       <lon>-31.2</lon>
+	       <stormName>INVEST</stormName>
+	       <stormNum>12</stormNum>
+	       <basin>AL</basin>
+	       <stormType>DB</stormType>
+	       <intensity>25</intensity>
+	       <intensityMPH>29</intensityMPH>
+	       <intensityKPH>46</intensityKPH>
+	       <minSeaLevelPres>1007</minSeaLevelPres>
+	       <atcfdtg>2024092906</atcfdtg>
+	       <dtg>0600 UTC SEP 29</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>1200 UTC SEP 29</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>DB INVEST (AL122024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>1200 UTC SEP 29</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>13.7 N, -31.6 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1007 mb; 29.73 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>30 knots;  35 mph;  56 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ex</styleUrl>
+	       <Point>
+	   	   <coordinates>-31.6,13.7,0</coordinates>
+	       </Point>
+	       <lat>13.7</lat>
+	       <lon>-31.6</lon>
+	       <stormName>INVEST</stormName>
+	       <stormNum>12</stormNum>
+	       <basin>AL</basin>
+	       <stormType>DB</stormType>
+	       <intensity>30</intensity>
+	       <intensityMPH>35</intensityMPH>
+	       <intensityKPH>56</intensityKPH>
+	       <minSeaLevelPres>1007</minSeaLevelPres>
+	       <atcfdtg>2024092912</atcfdtg>
+	       <dtg>1200 UTC SEP 29</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>1800 UTC SEP 29</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>TD TWELVE (AL122024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>1800 UTC SEP 29</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>13.8 N, -32.1 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1006 mb; 29.70 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>30 knots;  35 mph;  56 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#td</styleUrl>
+	       <Point>
+	   	   <coordinates>-32.1,13.8,0</coordinates>
+	       </Point>
+	       <lat>13.8</lat>
+	       <lon>-32.1</lon>
+	       <stormName>TWELVE</stormName>
+	       <stormNum>12</stormNum>
+	       <basin>AL</basin>
+	       <stormType>TD</stormType>
+	       <intensity>30</intensity>
+	       <intensityMPH>35</intensityMPH>
+	       <intensityKPH>56</intensityKPH>
+	       <minSeaLevelPres>1006</minSeaLevelPres>
+	       <atcfdtg>2024092918</atcfdtg>
+	       <dtg>1800 UTC SEP 29</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>0000 UTC SEP 30</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>TD TWELVE (AL122024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>0000 UTC SEP 30</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>13.8 N, -32.8 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1006 mb; 29.70 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>30 knots;  35 mph;  56 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#td</styleUrl>
+	       <Point>
+	   	   <coordinates>-32.8,13.8,0</coordinates>
+	       </Point>
+	       <lat>13.8</lat>
+	       <lon>-32.8</lon>
+	       <stormName>TWELVE</stormName>
+	       <stormNum>12</stormNum>
+	       <basin>AL</basin>
+	       <stormType>TD</stormType>
+	       <intensity>30</intensity>
+	       <intensityMPH>35</intensityMPH>
+	       <intensityKPH>56</intensityKPH>
+	       <minSeaLevelPres>1006</minSeaLevelPres>
+	       <atcfdtg>2024093000</atcfdtg>
+	       <dtg>0000 UTC SEP 30</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>0600 UTC SEP 30</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>TS TWELVE (AL122024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>0600 UTC SEP 30</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>13.6 N, -33.4 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1004 mb; 29.64 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>35 knots;  40 mph;  65 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ts</styleUrl>
+	       <Point>
+	   	   <coordinates>-33.4,13.6,0</coordinates>
+	       </Point>
+	       <lat>13.6</lat>
+	       <lon>-33.4</lon>
+	       <stormName>TWELVE</stormName>
+	       <stormNum>12</stormNum>
+	       <basin>AL</basin>
+	       <stormType>TS</stormType>
+	       <intensity>35</intensity>
+	       <intensityMPH>40</intensityMPH>
+	       <intensityKPH>65</intensityKPH>
+	       <minSeaLevelPres>1004</minSeaLevelPres>
+	       <atcfdtg>2024093006</atcfdtg>
+	       <dtg>0600 UTC SEP 30</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>1200 UTC SEP 30</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>TS KIRK (AL122024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>1200 UTC SEP 30</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>13.4 N, -34.3 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1001 mb; 29.55 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>45 knots;  52 mph;  83 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ts</styleUrl>
+	       <Point>
+	   	   <coordinates>-34.3,13.4,0</coordinates>
+	       </Point>
+	       <lat>13.4</lat>
+	       <lon>-34.3</lon>
+	       <stormName>KIRK</stormName>
+	       <stormNum>12</stormNum>
+	       <basin>AL</basin>
+	       <stormType>TS</stormType>
+	       <intensity>45</intensity>
+	       <intensityMPH>52</intensityMPH>
+	       <intensityKPH>83</intensityKPH>
+	       <minSeaLevelPres>1001</minSeaLevelPres>
+	       <atcfdtg>2024093012</atcfdtg>
+	       <dtg>1200 UTC SEP 30</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>1800 UTC SEP 30</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>TS KIRK (AL122024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>1800 UTC SEP 30</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>13.7 N, -35.3 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>999 mb; 29.50 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>50 knots;  58 mph;  93 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ts</styleUrl>
+	       <Point>
+	   	   <coordinates>-35.3,13.7,0</coordinates>
+	       </Point>
+	       <lat>13.7</lat>
+	       <lon>-35.3</lon>
+	       <stormName>KIRK</stormName>
+	       <stormNum>12</stormNum>
+	       <basin>AL</basin>
+	       <stormType>TS</stormType>
+	       <intensity>50</intensity>
+	       <intensityMPH>58</intensityMPH>
+	       <intensityKPH>93</intensityKPH>
+	       <minSeaLevelPres>999</minSeaLevelPres>
+	       <atcfdtg>2024093018</atcfdtg>
+	       <dtg>1800 UTC SEP 30</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>0000 UTC OCT 01</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>TS KIRK (AL122024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>0000 UTC OCT 01</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>14.2 N, -36.3 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>998 mb; 29.47 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>50 knots;  58 mph;  93 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ts</styleUrl>
+	       <Point>
+	   	   <coordinates>-36.3,14.2,0</coordinates>
+	       </Point>
+	       <lat>14.2</lat>
+	       <lon>-36.3</lon>
+	       <stormName>KIRK</stormName>
+	       <stormNum>12</stormNum>
+	       <basin>AL</basin>
+	       <stormType>TS</stormType>
+	       <intensity>50</intensity>
+	       <intensityMPH>58</intensityMPH>
+	       <intensityKPH>93</intensityKPH>
+	       <minSeaLevelPres>998</minSeaLevelPres>
+	       <atcfdtg>2024100100</atcfdtg>
+	       <dtg>0000 UTC OCT 01</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>0600 UTC OCT 01</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>TS KIRK (AL122024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>0600 UTC OCT 01</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>14.7 N, -37.5 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>995 mb; 29.38 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>50 knots;  58 mph;  93 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ts</styleUrl>
+	       <Point>
+	   	   <coordinates>-37.5,14.7,0</coordinates>
+	       </Point>
+	       <lat>14.7</lat>
+	       <lon>-37.5</lon>
+	       <stormName>KIRK</stormName>
+	       <stormNum>12</stormNum>
+	       <basin>AL</basin>
+	       <stormType>TS</stormType>
+	       <intensity>50</intensity>
+	       <intensityMPH>58</intensityMPH>
+	       <intensityKPH>93</intensityKPH>
+	       <minSeaLevelPres>995</minSeaLevelPres>
+	       <atcfdtg>2024100106</atcfdtg>
+	       <dtg>0600 UTC OCT 01</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>1200 UTC OCT 01</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>TS KIRK (AL122024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>1200 UTC OCT 01</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>15.0 N, -38.7 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>988 mb; 29.17 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>60 knots;  69 mph;  111 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ts</styleUrl>
+	       <Point>
+	   	   <coordinates>-38.7,15.0,0</coordinates>
+	       </Point>
+	       <lat>15.0</lat>
+	       <lon>-38.7</lon>
+	       <stormName>KIRK</stormName>
+	       <stormNum>12</stormNum>
+	       <basin>AL</basin>
+	       <stormType>TS</stormType>
+	       <intensity>60</intensity>
+	       <intensityMPH>69</intensityMPH>
+	       <intensityKPH>111</intensityKPH>
+	       <minSeaLevelPres>988</minSeaLevelPres>
+	       <atcfdtg>2024100112</atcfdtg>
+	       <dtg>1200 UTC OCT 01</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>1800 UTC OCT 01</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>HU KIRK (AL122024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>1800 UTC OCT 01</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>15.9 N, -39.7 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>986 mb; 29.11 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>65 knots;  75 mph;  120 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#cat1</styleUrl>
+	       <Point>
+	   	   <coordinates>-39.7,15.9,0</coordinates>
+	       </Point>
+	       <lat>15.9</lat>
+	       <lon>-39.7</lon>
+	       <stormName>KIRK</stormName>
+	       <stormNum>12</stormNum>
+	       <basin>AL</basin>
+	       <stormType>HU</stormType>
+	       <intensity>65</intensity>
+	       <intensityMPH>75</intensityMPH>
+	       <intensityKPH>120</intensityKPH>
+	       <minSeaLevelPres>986</minSeaLevelPres>
+	       <atcfdtg>2024100118</atcfdtg>
+	       <dtg>1800 UTC OCT 01</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>0000 UTC OCT 02</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>HU KIRK (AL122024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>0000 UTC OCT 02</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>16.4 N, -40.4 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>986 mb; 29.11 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>65 knots;  75 mph;  120 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#cat1</styleUrl>
+	       <Point>
+	   	   <coordinates>-40.4,16.4,0</coordinates>
+	       </Point>
+	       <lat>16.4</lat>
+	       <lon>-40.4</lon>
+	       <stormName>KIRK</stormName>
+	       <stormNum>12</stormNum>
+	       <basin>AL</basin>
+	       <stormType>HU</stormType>
+	       <intensity>65</intensity>
+	       <intensityMPH>75</intensityMPH>
+	       <intensityKPH>120</intensityKPH>
+	       <minSeaLevelPres>986</minSeaLevelPres>
+	       <atcfdtg>2024100200</atcfdtg>
+	       <dtg>0000 UTC OCT 02</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>0600 UTC OCT 02</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>HU KIRK (AL122024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>0600 UTC OCT 02</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>17.2 N, -41.7 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>984 mb; 29.05 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>70 knots;  81 mph;  130 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#cat1</styleUrl>
+	       <Point>
+	   	   <coordinates>-41.7,17.2,0</coordinates>
+	       </Point>
+	       <lat>17.2</lat>
+	       <lon>-41.7</lon>
+	       <stormName>KIRK</stormName>
+	       <stormNum>12</stormNum>
+	       <basin>AL</basin>
+	       <stormType>HU</stormType>
+	       <intensity>70</intensity>
+	       <intensityMPH>81</intensityMPH>
+	       <intensityKPH>130</intensityKPH>
+	       <minSeaLevelPres>984</minSeaLevelPres>
+	       <atcfdtg>2024100206</atcfdtg>
+	       <dtg>0600 UTC OCT 02</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>1200 UTC OCT 02</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>HU KIRK (AL122024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>1200 UTC OCT 02</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>17.7 N, -42.6 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>980 mb; 28.93 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>75 knots;  86 mph;  139 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#cat1</styleUrl>
+	       <Point>
+	   	   <coordinates>-42.6,17.7,0</coordinates>
+	       </Point>
+	       <lat>17.7</lat>
+	       <lon>-42.6</lon>
+	       <stormName>KIRK</stormName>
+	       <stormNum>12</stormNum>
+	       <basin>AL</basin>
+	       <stormType>HU</stormType>
+	       <intensity>75</intensity>
+	       <intensityMPH>86</intensityMPH>
+	       <intensityKPH>139</intensityKPH>
+	       <minSeaLevelPres>980</minSeaLevelPres>
+	       <atcfdtg>2024100212</atcfdtg>
+	       <dtg>1200 UTC OCT 02</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>1800 UTC OCT 02</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>HU KIRK (AL122024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>1800 UTC OCT 02</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>18.5 N, -43.5 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>980 mb; 28.93 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>80 knots;  92 mph;  148 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#cat1</styleUrl>
+	       <Point>
+	   	   <coordinates>-43.5,18.5,0</coordinates>
+	       </Point>
+	       <lat>18.5</lat>
+	       <lon>-43.5</lon>
+	       <stormName>KIRK</stormName>
+	       <stormNum>12</stormNum>
+	       <basin>AL</basin>
+	       <stormType>HU</stormType>
+	       <intensity>80</intensity>
+	       <intensityMPH>92</intensityMPH>
+	       <intensityKPH>148</intensityKPH>
+	       <minSeaLevelPres>980</minSeaLevelPres>
+	       <atcfdtg>2024100218</atcfdtg>
+	       <dtg>1800 UTC OCT 02</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>0000 UTC OCT 03</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>HU KIRK (AL122024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>0000 UTC OCT 03</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>19.0 N, -44.1 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>955 mb; 28.20 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>105 knots;  121 mph;  194 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#cat3</styleUrl>
+	       <Point>
+	   	   <coordinates>-44.1,19.0,0</coordinates>
+	       </Point>
+	       <lat>19.0</lat>
+	       <lon>-44.1</lon>
+	       <stormName>KIRK</stormName>
+	       <stormNum>12</stormNum>
+	       <basin>AL</basin>
+	       <stormType>HU</stormType>
+	       <intensity>105</intensity>
+	       <intensityMPH>121</intensityMPH>
+	       <intensityKPH>194</intensityKPH>
+	       <minSeaLevelPres>955</minSeaLevelPres>
+	       <atcfdtg>2024100300</atcfdtg>
+	       <dtg>0000 UTC OCT 03</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>0600 UTC OCT 03</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>HU KIRK (AL122024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>0600 UTC OCT 03</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>19.6 N, -44.7 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>955 mb; 28.20 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>105 knots;  121 mph;  194 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#cat3</styleUrl>
+	       <Point>
+	   	   <coordinates>-44.7,19.6,0</coordinates>
+	       </Point>
+	       <lat>19.6</lat>
+	       <lon>-44.7</lon>
+	       <stormName>KIRK</stormName>
+	       <stormNum>12</stormNum>
+	       <basin>AL</basin>
+	       <stormType>HU</stormType>
+	       <intensity>105</intensity>
+	       <intensityMPH>121</intensityMPH>
+	       <intensityKPH>194</intensityKPH>
+	       <minSeaLevelPres>955</minSeaLevelPres>
+	       <atcfdtg>2024100306</atcfdtg>
+	       <dtg>0600 UTC OCT 03</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>1200 UTC OCT 03</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>HU KIRK (AL122024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>1200 UTC OCT 03</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>20.1 N, -45.5 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>948 mb; 27.99 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>110 knots;  127 mph;  204 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#cat3</styleUrl>
+	       <Point>
+	   	   <coordinates>-45.5,20.1,0</coordinates>
+	       </Point>
+	       <lat>20.1</lat>
+	       <lon>-45.5</lon>
+	       <stormName>KIRK</stormName>
+	       <stormNum>12</stormNum>
+	       <basin>AL</basin>
+	       <stormType>HU</stormType>
+	       <intensity>110</intensity>
+	       <intensityMPH>127</intensityMPH>
+	       <intensityKPH>204</intensityKPH>
+	       <minSeaLevelPres>948</minSeaLevelPres>
+	       <atcfdtg>2024100312</atcfdtg>
+	       <dtg>1200 UTC OCT 03</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>1800 UTC OCT 03</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>HU KIRK (AL122024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>1800 UTC OCT 03</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>20.7 N, -46.3 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>948 mb; 27.99 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>110 knots;  127 mph;  204 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#cat3</styleUrl>
+	       <Point>
+	   	   <coordinates>-46.3,20.7,0</coordinates>
+	       </Point>
+	       <lat>20.7</lat>
+	       <lon>-46.3</lon>
+	       <stormName>KIRK</stormName>
+	       <stormNum>12</stormNum>
+	       <basin>AL</basin>
+	       <stormType>HU</stormType>
+	       <intensity>110</intensity>
+	       <intensityMPH>127</intensityMPH>
+	       <intensityKPH>204</intensityKPH>
+	       <minSeaLevelPres>948</minSeaLevelPres>
+	       <atcfdtg>2024100318</atcfdtg>
+	       <dtg>1800 UTC OCT 03</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>0000 UTC OCT 04</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>HU KIRK (AL122024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>0000 UTC OCT 04</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>21.1 N, -47.1 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>935 mb; 27.61 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>125 knots;  144 mph;  232 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#cat4</styleUrl>
+	       <Point>
+	   	   <coordinates>-47.1,21.1,0</coordinates>
+	       </Point>
+	       <lat>21.1</lat>
+	       <lon>-47.1</lon>
+	       <stormName>KIRK</stormName>
+	       <stormNum>12</stormNum>
+	       <basin>AL</basin>
+	       <stormType>HU</stormType>
+	       <intensity>125</intensity>
+	       <intensityMPH>144</intensityMPH>
+	       <intensityKPH>232</intensityKPH>
+	       <minSeaLevelPres>935</minSeaLevelPres>
+	       <atcfdtg>2024100400</atcfdtg>
+	       <dtg>0000 UTC OCT 04</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>0600 UTC OCT 04</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>HU KIRK (AL122024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>0600 UTC OCT 04</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>21.9 N, -47.8 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>934 mb; 27.58 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>125 knots;  144 mph;  232 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#cat4</styleUrl>
+	       <Point>
+	   	   <coordinates>-47.8,21.9,0</coordinates>
+	       </Point>
+	       <lat>21.9</lat>
+	       <lon>-47.8</lon>
+	       <stormName>KIRK</stormName>
+	       <stormNum>12</stormNum>
+	       <basin>AL</basin>
+	       <stormType>HU</stormType>
+	       <intensity>125</intensity>
+	       <intensityMPH>144</intensityMPH>
+	       <intensityKPH>232</intensityKPH>
+	       <minSeaLevelPres>934</minSeaLevelPres>
+	       <atcfdtg>2024100406</atcfdtg>
+	       <dtg>0600 UTC OCT 04</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>1200 UTC OCT 04</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>HU KIRK (AL122024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>1200 UTC OCT 04</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>22.5 N, -48.6 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>938 mb; 27.69 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>120 knots;  138 mph;  222 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#cat4</styleUrl>
+	       <Point>
+	   	   <coordinates>-48.6,22.5,0</coordinates>
+	       </Point>
+	       <lat>22.5</lat>
+	       <lon>-48.6</lon>
+	       <stormName>KIRK</stormName>
+	       <stormNum>12</stormNum>
+	       <basin>AL</basin>
+	       <stormType>HU</stormType>
+	       <intensity>120</intensity>
+	       <intensityMPH>138</intensityMPH>
+	       <intensityKPH>222</intensityKPH>
+	       <minSeaLevelPres>938</minSeaLevelPres>
+	       <atcfdtg>2024100412</atcfdtg>
+	       <dtg>1200 UTC OCT 04</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>1800 UTC OCT 04</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>HU KIRK (AL122024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>1800 UTC OCT 04</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>23.3 N, -49.1 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>943 mb; 27.84 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>115 knots;  132 mph;  213 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#cat4</styleUrl>
+	       <Point>
+	   	   <coordinates>-49.1,23.3,0</coordinates>
+	       </Point>
+	       <lat>23.3</lat>
+	       <lon>-49.1</lon>
+	       <stormName>KIRK</stormName>
+	       <stormNum>12</stormNum>
+	       <basin>AL</basin>
+	       <stormType>HU</stormType>
+	       <intensity>115</intensity>
+	       <intensityMPH>132</intensityMPH>
+	       <intensityKPH>213</intensityKPH>
+	       <minSeaLevelPres>943</minSeaLevelPres>
+	       <atcfdtg>2024100418</atcfdtg>
+	       <dtg>1800 UTC OCT 04</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>0000 UTC OCT 05</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>HU KIRK (AL122024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>0000 UTC OCT 05</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>24.3 N, -49.7 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>943 mb; 27.84 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>115 knots;  132 mph;  213 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#cat4</styleUrl>
+	       <Point>
+	   	   <coordinates>-49.7,24.3,0</coordinates>
+	       </Point>
+	       <lat>24.3</lat>
+	       <lon>-49.7</lon>
+	       <stormName>KIRK</stormName>
+	       <stormNum>12</stormNum>
+	       <basin>AL</basin>
+	       <stormType>HU</stormType>
+	       <intensity>115</intensity>
+	       <intensityMPH>132</intensityMPH>
+	       <intensityKPH>213</intensityKPH>
+	       <minSeaLevelPres>943</minSeaLevelPres>
+	       <atcfdtg>2024100500</atcfdtg>
+	       <dtg>0000 UTC OCT 05</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>0600 UTC OCT 05</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>HU KIRK (AL122024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>0600 UTC OCT 05</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>25.4 N, -50.1 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>945 mb; 27.90 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>110 knots;  127 mph;  204 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#cat3</styleUrl>
+	       <Point>
+	   	   <coordinates>-50.1,25.4,0</coordinates>
+	       </Point>
+	       <lat>25.4</lat>
+	       <lon>-50.1</lon>
+	       <stormName>KIRK</stormName>
+	       <stormNum>12</stormNum>
+	       <basin>AL</basin>
+	       <stormType>HU</stormType>
+	       <intensity>110</intensity>
+	       <intensityMPH>127</intensityMPH>
+	       <intensityKPH>204</intensityKPH>
+	       <minSeaLevelPres>945</minSeaLevelPres>
+	       <atcfdtg>2024100506</atcfdtg>
+	       <dtg>0600 UTC OCT 05</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>1200 UTC OCT 05</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>HU KIRK (AL122024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>1200 UTC OCT 05</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>26.7 N, -50.4 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>949 mb; 28.02 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>105 knots;  121 mph;  194 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#cat3</styleUrl>
+	       <Point>
+	   	   <coordinates>-50.4,26.7,0</coordinates>
+	       </Point>
+	       <lat>26.7</lat>
+	       <lon>-50.4</lon>
+	       <stormName>KIRK</stormName>
+	       <stormNum>12</stormNum>
+	       <basin>AL</basin>
+	       <stormType>HU</stormType>
+	       <intensity>105</intensity>
+	       <intensityMPH>121</intensityMPH>
+	       <intensityKPH>194</intensityKPH>
+	       <minSeaLevelPres>949</minSeaLevelPres>
+	       <atcfdtg>2024100512</atcfdtg>
+	       <dtg>1200 UTC OCT 05</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>1800 UTC OCT 05</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>HU KIRK (AL122024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>1800 UTC OCT 05</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>28.7 N, -50.2 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>949 mb; 28.02 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>105 knots;  121 mph;  194 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#cat3</styleUrl>
+	       <Point>
+	   	   <coordinates>-50.2,28.7,0</coordinates>
+	       </Point>
+	       <lat>28.7</lat>
+	       <lon>-50.2</lon>
+	       <stormName>KIRK</stormName>
+	       <stormNum>12</stormNum>
+	       <basin>AL</basin>
+	       <stormType>HU</stormType>
+	       <intensity>105</intensity>
+	       <intensityMPH>121</intensityMPH>
+	       <intensityKPH>194</intensityKPH>
+	       <minSeaLevelPres>949</minSeaLevelPres>
+	       <atcfdtg>2024100518</atcfdtg>
+	       <dtg>1800 UTC OCT 05</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>0000 UTC OCT 06</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>HU KIRK (AL122024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>0000 UTC OCT 06</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>30.4 N, -50.0 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>951 mb; 28.08 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>100 knots;  115 mph;  185 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#cat3</styleUrl>
+	       <Point>
+	   	   <coordinates>-50.0,30.4,0</coordinates>
+	       </Point>
+	       <lat>30.4</lat>
+	       <lon>-50.0</lon>
+	       <stormName>KIRK</stormName>
+	       <stormNum>12</stormNum>
+	       <basin>AL</basin>
+	       <stormType>HU</stormType>
+	       <intensity>100</intensity>
+	       <intensityMPH>115</intensityMPH>
+	       <intensityKPH>185</intensityKPH>
+	       <minSeaLevelPres>951</minSeaLevelPres>
+	       <atcfdtg>2024100600</atcfdtg>
+	       <dtg>0000 UTC OCT 06</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>0600 UTC OCT 06</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>HU KIRK (AL122024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>0600 UTC OCT 06</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>32.6 N, -49.5 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>955 mb; 28.20 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>95 knots;  109 mph;  176 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#cat2</styleUrl>
+	       <Point>
+	   	   <coordinates>-49.5,32.6,0</coordinates>
+	       </Point>
+	       <lat>32.6</lat>
+	       <lon>-49.5</lon>
+	       <stormName>KIRK</stormName>
+	       <stormNum>12</stormNum>
+	       <basin>AL</basin>
+	       <stormType>HU</stormType>
+	       <intensity>95</intensity>
+	       <intensityMPH>109</intensityMPH>
+	       <intensityKPH>176</intensityKPH>
+	       <minSeaLevelPres>955</minSeaLevelPres>
+	       <atcfdtg>2024100606</atcfdtg>
+	       <dtg>0600 UTC OCT 06</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>1200 UTC OCT 06</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>HU KIRK (AL122024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>1200 UTC OCT 06</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>34.7 N, -48.5 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>959 mb; 28.31 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>85 knots;  98 mph;  157 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#cat2</styleUrl>
+	       <Point>
+	   	   <coordinates>-48.5,34.7,0</coordinates>
+	       </Point>
+	       <lat>34.7</lat>
+	       <lon>-48.5</lon>
+	       <stormName>KIRK</stormName>
+	       <stormNum>12</stormNum>
+	       <basin>AL</basin>
+	       <stormType>HU</stormType>
+	       <intensity>85</intensity>
+	       <intensityMPH>98</intensityMPH>
+	       <intensityKPH>157</intensityKPH>
+	       <minSeaLevelPres>959</minSeaLevelPres>
+	       <atcfdtg>2024100612</atcfdtg>
+	       <dtg>1200 UTC OCT 06</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>1800 UTC OCT 06</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>HU KIRK (AL122024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>1800 UTC OCT 06</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>36.2 N, -47.3 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>959 mb; 28.31 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>80 knots;  92 mph;  148 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#cat1</styleUrl>
+	       <Point>
+	   	   <coordinates>-47.3,36.2,0</coordinates>
+	       </Point>
+	       <lat>36.2</lat>
+	       <lon>-47.3</lon>
+	       <stormName>KIRK</stormName>
+	       <stormNum>12</stormNum>
+	       <basin>AL</basin>
+	       <stormType>HU</stormType>
+	       <intensity>80</intensity>
+	       <intensityMPH>92</intensityMPH>
+	       <intensityKPH>148</intensityKPH>
+	       <minSeaLevelPres>959</minSeaLevelPres>
+	       <atcfdtg>2024100618</atcfdtg>
+	       <dtg>1800 UTC OCT 06</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>0000 UTC OCT 07</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>HU KIRK (AL122024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>0000 UTC OCT 07</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>37.9 N, -44.7 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>964 mb; 28.46 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>70 knots;  81 mph;  130 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#cat1</styleUrl>
+	       <Point>
+	   	   <coordinates>-44.7,37.9,0</coordinates>
+	       </Point>
+	       <lat>37.9</lat>
+	       <lon>-44.7</lon>
+	       <stormName>KIRK</stormName>
+	       <stormNum>12</stormNum>
+	       <basin>AL</basin>
+	       <stormType>HU</stormType>
+	       <intensity>70</intensity>
+	       <intensityMPH>81</intensityMPH>
+	       <intensityKPH>130</intensityKPH>
+	       <minSeaLevelPres>964</minSeaLevelPres>
+	       <atcfdtg>2024100700</atcfdtg>
+	       <dtg>0000 UTC OCT 07</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>0600 UTC OCT 07</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>HU KIRK (AL122024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>0600 UTC OCT 07</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>39.5 N, -42.4 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>966 mb; 28.52 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>65 knots;  75 mph;  120 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#cat1</styleUrl>
+	       <Point>
+	   	   <coordinates>-42.4,39.5,0</coordinates>
+	       </Point>
+	       <lat>39.5</lat>
+	       <lon>-42.4</lon>
+	       <stormName>KIRK</stormName>
+	       <stormNum>12</stormNum>
+	       <basin>AL</basin>
+	       <stormType>HU</stormType>
+	       <intensity>65</intensity>
+	       <intensityMPH>75</intensityMPH>
+	       <intensityKPH>120</intensityKPH>
+	       <minSeaLevelPres>966</minSeaLevelPres>
+	       <atcfdtg>2024100706</atcfdtg>
+	       <dtg>0600 UTC OCT 07</dtg>
+	   </Placemark>
+
+        </Folder>
+<Folder>
+<name>Legend</name>
+<open>0</open>
+<visibility>1</visibility>
+<ScreenOverlay>
+<name>Legend</name>
+ <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
+         <screenXY x="0" y="1" xunits="fraction" yunits="fraction"/>
+         <rotationXY x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+         <size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+</ScreenOverlay>
+</Folder>
+</Document>
+</kml>
+
