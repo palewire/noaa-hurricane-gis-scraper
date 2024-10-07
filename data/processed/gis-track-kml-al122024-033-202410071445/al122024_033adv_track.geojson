@@ -1,0 +1,205 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -38.4,
+                        41.7,
+                        0.0
+                    ],
+                    [
+                        -33.6,
+                        43.1,
+                        0.0
+                    ],
+                    [
+                        -25.7,
+                        43.5,
+                        0.0
+                    ],
+                    [
+                        -16.1,
+                        43.7,
+                        0.0
+                    ],
+                    [
+                        -6.1,
+                        45.4,
+                        0.0
+                    ],
+                    [
+                        4.5,
+                        48.5,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "41.7N, 38.4W",
+                "advisoryNum": "33",
+                "atcfid": "AL122024",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Post-Tropical Cyclone Kirk (AL122024)</b></font></td></tr> \n                        <tr><td>Advisory #33 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "80",
+                "maxGustMPH": "90",
+                "maxWindKnots": "65",
+                "maxWindMPH": "75",
+                "minimumPressure": "963",
+                "pubAdvTime": "300 PM GMT Mon Oct 07 2024",
+                "storm": "Post-Tropical Cyclone Kirk",
+                "stormMovement": "NE",
+                "stormName": "Kirk",
+                "stormNum": "12",
+                "stormType": "PTC",
+                "styleUrl": "#72_line",
+                "timezone": "GMT"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -38.4,
+                        41.7,
+                        0.0
+                    ],
+                    [
+                        -33.6,
+                        43.1,
+                        0.0
+                    ],
+                    [
+                        -25.7,
+                        43.5,
+                        0.0
+                    ],
+                    [
+                        -16.1,
+                        43.7,
+                        0.0
+                    ],
+                    [
+                        -6.1,
+                        45.4,
+                        0.0
+                    ],
+                    [
+                        4.5,
+                        48.5,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "33",
+                "atcfid": "AL122024",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Post-Tropical Cyclone Kirk (AL122024)</b></font></td></tr> \n                        <tr><td>Advisory #33 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Post-Tropical Cyclone Kirk",
+                "stormName": "Kirk",
+                "stormNum": "12",
+                "stormType": "PTC",
+                "styleUrl": "#120_line",
+                "timezone": "GMT"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -38.4,
+                    41.7,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Post-Tropical Cyclone Kirk (AL122024)</b></font></td></tr> \n                        <tr><td>Advisory #33</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  3:00 PM GMT October 07, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 41.7 N, -38.4 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 65 knots (75 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 80 knots (90 mph) </td></tr> \n                        <tr><td nowrap>Motion: NE </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 963 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -33.6,
+                    43.1,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Post-Tropical Cyclone Kirk (AL122024)</b></font></td></tr> \n                        <tr><td>Advisory #33</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>12 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at: 12:00 AM GMT October 08, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 43.1 N, -33.6 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 60 knots (70 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 75 knots (85 mph) </td></tr>",
+                "styleUrl": "#xs_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -25.7,
+                    43.5,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Post-Tropical Cyclone Kirk (AL122024)</b></font></td></tr> \n                        <tr><td>Advisory #33</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>24 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at: 12:00 PM GMT October 08, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 43.5 N, -25.7 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 55 knots (65 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 65 knots (75 mph) </td></tr>",
+                "styleUrl": "#xs_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -16.1,
+                    43.7,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Post-Tropical Cyclone Kirk (AL122024)</b></font></td></tr> \n                        <tr><td>Advisory #33</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>36 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at: 12:00 AM GMT October 09, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 43.7 N, -16.1 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 50 knots (60 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 60 knots (70 mph) </td></tr>",
+                "styleUrl": "#xs_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -6.1,
+                    45.4,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Post-Tropical Cyclone Kirk (AL122024)</b></font></td></tr> \n                        <tr><td>Advisory #33</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>48 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at: 12:00 PM GMT October 09, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 45.4 N, -6.1 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 45 knots (50 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 55 knots (65 mph) </td></tr>",
+                "styleUrl": "#xs_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    4.5,
+                    48.5,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Post-Tropical Cyclone Kirk (AL122024)</b></font></td></tr> \n                        <tr><td>Advisory #33</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>60 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at: 12:00 AM GMT October 10, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 48.5 N, 4.5 E </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 35 knots (40 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 45 knots (50 mph) </td></tr>",
+                "styleUrl": "#xs_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
