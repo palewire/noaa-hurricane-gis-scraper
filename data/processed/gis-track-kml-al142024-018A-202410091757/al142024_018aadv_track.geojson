@@ -1,0 +1,270 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -84.0,
+                        26.3,
+                        0.0
+                    ],
+                    [
+                        -83.0,
+                        27.0,
+                        0.0
+                    ],
+                    [
+                        -81.1,
+                        28.0,
+                        0.0
+                    ],
+                    [
+                        -78.3,
+                        28.7,
+                        0.0
+                    ],
+                    [
+                        -75.1,
+                        29.1,
+                        0.0
+                    ],
+                    [
+                        -72.0,
+                        29.3,
+                        0.0
+                    ],
+                    [
+                        -68.9,
+                        29.9,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "26.3N, 84.0W",
+                "advisoryNum": "18A",
+                "atcfid": "AL142024",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Milton (AL142024)</b></font></td></tr> \n                        <tr><td>Advisory #18A </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "150",
+                "maxGustMPH": "175",
+                "maxWindKnots": "125",
+                "maxWindMPH": "130",
+                "minimumPressure": "944",
+                "pubAdvTime": "200 PM EDT Wed Oct 09 2024",
+                "storm": "Hurricane Milton",
+                "stormMovement": "NNE",
+                "stormName": "Milton",
+                "stormNum": "14",
+                "stormType": "MH",
+                "styleUrl": "#72_line",
+                "timezone": "EDT"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -84.0,
+                        26.3,
+                        0.0
+                    ],
+                    [
+                        -83.0,
+                        27.0,
+                        0.0
+                    ],
+                    [
+                        -81.1,
+                        28.0,
+                        0.0
+                    ],
+                    [
+                        -78.3,
+                        28.7,
+                        0.0
+                    ],
+                    [
+                        -75.1,
+                        29.1,
+                        0.0
+                    ],
+                    [
+                        -72.0,
+                        29.3,
+                        0.0
+                    ],
+                    [
+                        -68.9,
+                        29.9,
+                        0.0
+                    ],
+                    [
+                        -62.2,
+                        31.4,
+                        0.0
+                    ],
+                    [
+                        -55.9,
+                        32.8,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "18A",
+                "atcfid": "AL142024",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Milton (AL142024)</b></font></td></tr> \n                        <tr><td>Advisory #18A </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Hurricane Milton",
+                "stormName": "Milton",
+                "stormNum": "14",
+                "stormType": "MH",
+                "styleUrl": "#120_line",
+                "timezone": "EDT"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.0,
+                    26.3,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Milton (AL142024)</b></font></td></tr> \n                        <tr><td>Advisory #18A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 PM EDT October 09, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 26.3 N, -84.0 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 125 knots (130 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 150 knots (175 mph) </td></tr> \n                        <tr><td nowrap>Motion: NNE </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 944 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.0,
+                    27.0,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Milton (AL142024)</b></font></td></tr> \n                        <tr><td>Advisory #18A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>12 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 PM EDT October 09, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 27.0 N, -83.0 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 110 knots (125 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 135 knots (155 mph) </td></tr>",
+                "styleUrl": "#m_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.1,
+                    28.0,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Milton (AL142024)</b></font></td></tr> \n                        <tr><td>Advisory #18A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>24 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 AM EDT October 10, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 28.0 N, -81.1 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 75 knots (85 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 90 knots (105 mph) </td></tr>",
+                "styleUrl": "#h_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -78.3,
+                    28.7,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Milton (AL142024)</b></font></td></tr> \n                        <tr><td>Advisory #18A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>36 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 PM EDT October 10, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 28.7 N, -78.3 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 65 knots (75 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 80 knots (90 mph) </td></tr>",
+                "styleUrl": "#h_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.1,
+                    29.1,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Milton (AL142024)</b></font></td></tr> \n                        <tr><td>Advisory #18A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>48 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 AM EDT October 11, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 29.1 N, -75.1 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 55 knots (65 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 65 knots (75 mph) </td></tr>",
+                "styleUrl": "#xs_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -72.0,
+                    29.3,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Milton (AL142024)</b></font></td></tr> \n                        <tr><td>Advisory #18A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>60 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 PM EDT October 11, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 29.3 N, -72.0 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 50 knots (60 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 60 knots (70 mph) </td></tr>",
+                "styleUrl": "#xs_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -68.9,
+                    29.9,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Milton (AL142024)</b></font></td></tr> \n                        <tr><td>Advisory #18A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>72 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 AM EDT October 12, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 29.9 N, -68.9 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 45 knots (50 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 55 knots (65 mph) </td></tr>",
+                "styleUrl": "#xs_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -62.2,
+                    31.4,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Milton (AL142024)</b></font></td></tr> \n                        <tr><td>Advisory #18A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>96 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 AM EDT October 13, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 31.4 N, -62.2 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 35 knots (40 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 45 knots (50 mph) </td></tr>",
+                "styleUrl": "#xs_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -55.9,
+                    32.8,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Milton (AL142024)</b></font></td></tr> \n                        <tr><td>Advisory #18A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>120 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 AM EDT October 14, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 32.8 N, -55.9 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 30 knots (35 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 40 knots (45 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
