@@ -1,0 +1,230 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -45.9,
+                        31.3,
+                        0.0
+                    ],
+                    [
+                        -42.3,
+                        33.8,
+                        0.0
+                    ],
+                    [
+                        -36.6,
+                        36.5,
+                        0.0
+                    ],
+                    [
+                        -31.0,
+                        37.6,
+                        0.0
+                    ],
+                    [
+                        -25.5,
+                        37.7,
+                        0.0
+                    ],
+                    [
+                        -21.0,
+                        37.1,
+                        0.0
+                    ],
+                    [
+                        -16.4,
+                        37.1,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "31.3N, 45.9W",
+                "advisoryNum": "40",
+                "atcfid": "AL132024",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Leslie (AL132024)</b></font></td></tr> \n                        <tr><td>Advisory #40 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "55",
+                "maxGustMPH": "65",
+                "maxWindKnots": "45",
+                "maxWindMPH": "50",
+                "minimumPressure": "1002",
+                "pubAdvTime": "500 AM AST Sat Oct 12 2024",
+                "storm": "Tropical Storm Leslie",
+                "stormMovement": "NE",
+                "stormName": "Leslie",
+                "stormNum": "13",
+                "stormType": "TS",
+                "styleUrl": "#72_line",
+                "timezone": "AST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -45.9,
+                        31.3,
+                        0.0
+                    ],
+                    [
+                        -42.3,
+                        33.8,
+                        0.0
+                    ],
+                    [
+                        -36.6,
+                        36.5,
+                        0.0
+                    ],
+                    [
+                        -31.0,
+                        37.6,
+                        0.0
+                    ],
+                    [
+                        -25.5,
+                        37.7,
+                        0.0
+                    ],
+                    [
+                        -21.0,
+                        37.1,
+                        0.0
+                    ],
+                    [
+                        -16.4,
+                        37.1,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "40",
+                "atcfid": "AL132024",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Leslie (AL132024)</b></font></td></tr> \n                        <tr><td>Advisory #40 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Tropical Storm Leslie",
+                "stormName": "Leslie",
+                "stormNum": "13",
+                "stormType": "TS",
+                "styleUrl": "#120_line",
+                "timezone": "AST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -45.9,
+                    31.3,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Leslie (AL132024)</b></font></td></tr> \n                        <tr><td>Advisory #40</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  5:00 AM AST October 12, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 31.3 N, -45.9 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 45 knots (50 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 55 knots (65 mph) </td></tr> \n                        <tr><td nowrap>Motion: NE </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 1002 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -42.3,
+                    33.8,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Leslie (AL132024)</b></font></td></tr> \n                        <tr><td>Advisory #40</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>12 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 PM AST October 12, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 33.8 N, -42.3 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 45 knots (50 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 55 knots (65 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -36.6,
+                    36.5,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Leslie (AL132024)</b></font></td></tr> \n                        <tr><td>Advisory #40</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>24 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 AM AST October 13, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 36.5 N, -36.6 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 40 knots (45 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 50 knots (60 mph) </td></tr>",
+                "styleUrl": "#xs_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -31.0,
+                    37.6,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Leslie (AL132024)</b></font></td></tr> \n                        <tr><td>Advisory #40</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>36 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 PM AST October 13, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 37.6 N, -31.0 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 40 knots (45 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 50 knots (60 mph) </td></tr>",
+                "styleUrl": "#xs_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -25.5,
+                    37.7,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Leslie (AL132024)</b></font></td></tr> \n                        <tr><td>Advisory #40</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>48 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 AM AST October 14, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 37.7 N, -25.5 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 35 knots (40 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 45 knots (50 mph) </td></tr>",
+                "styleUrl": "#xs_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -21.0,
+                    37.1,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Leslie (AL132024)</b></font></td></tr> \n                        <tr><td>Advisory #40</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>60 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 PM AST October 14, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 37.1 N, -21.0 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 35 knots (40 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 45 knots (50 mph) </td></tr>",
+                "styleUrl": "#xs_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -16.4,
+                    37.1,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Leslie (AL132024)</b></font></td></tr> \n                        <tr><td>Advisory #40</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>72 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 AM AST October 15, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 37.1 N, -16.4 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 30 knots (35 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 40 knots (45 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
