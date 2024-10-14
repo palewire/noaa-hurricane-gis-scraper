@@ -12,6 +12,7 @@ jobs:
   scrape:
     name: Scrape
     runs-on: ubuntu-latest
+    timeout-minutes: 40
     steps:
       - name: Maximize build space
         uses: easimon/maximize-build-space@master
@@ -72,3 +73,11 @@ jobs:
           git add ./data
           git commit -m "Scrape" --author="palewire <palewire@users.noreply.github.com>" && git push || true
         shell: bash
+
+      - id: git-pull-4
+        name: Pull again
+        run: git pull origin $GITHUB_REF
+
+      - id: git-retry
+        name: Retry
+        run: git push || true
