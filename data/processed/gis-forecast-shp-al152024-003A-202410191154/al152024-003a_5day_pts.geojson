@@ -1,0 +1,113 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.3,
+                    17.3
+                ],
+                "type": "Point"
+            },
+            "id": "0",
+            "properties": {
+                "ADVDATE": "700 AM CDT Sat Oct 19 2024",
+                "ADVISNUM": "3A",
+                "BASIN": "AL",
+                "DATELBL": "7:00 AM Sat",
+                "DVLBL": "S",
+                "FCSTPRD": 120.0,
+                "FLDATELBL": "2024-10-19 4:00 AM Sat CDT",
+                "GUST": 45.0,
+                "LAT": 17.3,
+                "LON": -87.3,
+                "MAXWIND": 40.0,
+                "MSLP": 1002.0,
+                "SSNUM": 0.0,
+                "STORMNAME": "Tropical Storm Nadine",
+                "STORMNUM": 15.0,
+                "STORMSRC": "Tropical Cyclone",
+                "STORMTYPE": "TS",
+                "TAU": 0.0,
+                "TCDIR": 270.0,
+                "TCDVLP": "Tropical Storm",
+                "TCSPD": 8.0,
+                "TIMEZONE": "CDT",
+                "VALIDTIME": "19/0900"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.7,
+                    17.2
+                ],
+                "type": "Point"
+            },
+            "id": "1",
+            "properties": {
+                "ADVDATE": "700 AM CDT Sat Oct 19 2024",
+                "ADVISNUM": "3A",
+                "BASIN": "AL",
+                "DATELBL": "1:00 PM Sat",
+                "DVLBL": "S",
+                "FCSTPRD": 120.0,
+                "FLDATELBL": "2024-10-19 1:00 PM Sat CDT",
+                "GUST": 45.0,
+                "LAT": 17.2,
+                "LON": -88.7,
+                "MAXWIND": 35.0,
+                "MSLP": 9999.0,
+                "SSNUM": 0.0,
+                "STORMNAME": "Tropical Storm Nadine",
+                "STORMNUM": 15.0,
+                "STORMSRC": "Tropical Cyclone",
+                "STORMTYPE": "TS",
+                "TAU": 12.0,
+                "TCDIR": 9999.0,
+                "TCDVLP": "Tropical Storm",
+                "TCSPD": 9999.0,
+                "TIMEZONE": "CDT",
+                "VALIDTIME": "19/1800"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -91.3,
+                    17.0
+                ],
+                "type": "Point"
+            },
+            "id": "2",
+            "properties": {
+                "ADVDATE": "700 AM CDT Sat Oct 19 2024",
+                "ADVISNUM": "3A",
+                "BASIN": "AL",
+                "DATELBL": "1:00 AM Sun",
+                "DVLBL": "D",
+                "FCSTPRD": 120.0,
+                "FLDATELBL": "2024-10-20 1:00 AM Sun CDT",
+                "GUST": 35.0,
+                "LAT": 17.0,
+                "LON": -91.3,
+                "MAXWIND": 25.0,
+                "MSLP": 9999.0,
+                "SSNUM": 0.0,
+                "STORMNAME": "Tropical Storm Nadine",
+                "STORMNUM": 15.0,
+                "STORMSRC": "Tropical Cyclone",
+                "STORMTYPE": "TD",
+                "TAU": 24.0,
+                "TCDIR": 9999.0,
+                "TCDVLP": "Tropical Depression",
+                "TCSPD": 9999.0,
+                "TIMEZONE": "CDT",
+                "VALIDTIME": "20/0600"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
