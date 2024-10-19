@@ -1,0 +1,113 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -86.1,
+                    17.6
+                ],
+                "type": "Point"
+            },
+            "id": "0",
+            "properties": {
+                "ADVDATE": "1000 PM CDT Fri Oct 18 2024",
+                "ADVISNUM": "2",
+                "BASIN": "AL",
+                "DATELBL": "10:00 PM Fri",
+                "DVLBL": "D",
+                "FCSTPRD": 120.0,
+                "FLDATELBL": "2024-10-18 7:00 PM Fri CDT",
+                "GUST": 40.0,
+                "LAT": 17.6,
+                "LON": -86.1,
+                "MAXWIND": 30.0,
+                "MSLP": 1005.0,
+                "SSNUM": 0.0,
+                "STORMNAME": "Potential Tropical Cyclone Fifteen",
+                "STORMNUM": 15.0,
+                "STORMSRC": "Post-Tropical Cyclone",
+                "STORMTYPE": "STD",
+                "TAU": 0.0,
+                "TCDIR": 275.0,
+                "TCDVLP": "Subtropical Depression",
+                "TCSPD": 7.0,
+                "TIMEZONE": "CDT",
+                "VALIDTIME": "19/0000"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.5,
+                    17.5
+                ],
+                "type": "Point"
+            },
+            "id": "1",
+            "properties": {
+                "ADVDATE": "1000 PM CDT Fri Oct 18 2024",
+                "ADVISNUM": "2",
+                "BASIN": "AL",
+                "DATELBL": "7:00 AM Sat",
+                "DVLBL": "S",
+                "FCSTPRD": 120.0,
+                "FLDATELBL": "2024-10-19 7:00 AM Sat CDT",
+                "GUST": 45.0,
+                "LAT": 17.5,
+                "LON": -87.5,
+                "MAXWIND": 35.0,
+                "MSLP": 9999.0,
+                "SSNUM": 0.0,
+                "STORMNAME": "Potential Tropical Cyclone Fifteen",
+                "STORMNUM": 15.0,
+                "STORMSRC": "Tropical Cyclone",
+                "STORMTYPE": "TS",
+                "TAU": 12.0,
+                "TCDIR": 9999.0,
+                "TCDVLP": "Tropical Storm",
+                "TCSPD": 9999.0,
+                "TIMEZONE": "CDT",
+                "VALIDTIME": "19/1200"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.0,
+                    17.3
+                ],
+                "type": "Point"
+            },
+            "id": "2",
+            "properties": {
+                "ADVDATE": "1000 PM CDT Fri Oct 18 2024",
+                "ADVISNUM": "2",
+                "BASIN": "AL",
+                "DATELBL": "7:00 PM Sat",
+                "DVLBL": "D",
+                "FCSTPRD": 120.0,
+                "FLDATELBL": "2024-10-19 7:00 PM Sat CDT",
+                "GUST": 40.0,
+                "LAT": 17.3,
+                "LON": -90.0,
+                "MAXWIND": 30.0,
+                "MSLP": 9999.0,
+                "SSNUM": 0.0,
+                "STORMNAME": "Potential Tropical Cyclone Fifteen",
+                "STORMNUM": 15.0,
+                "STORMSRC": "Tropical Cyclone",
+                "STORMTYPE": "TD",
+                "TAU": 24.0,
+                "TCDIR": 9999.0,
+                "TCDVLP": "Tropical Depression",
+                "TCSPD": 9999.0,
+                "TIMEZONE": "CDT",
+                "VALIDTIME": "20/0000"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
