@@ -1,0 +1,35 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -87.9,
+                        17.3
+                    ],
+                    [
+                        -89.5,
+                        17.3
+                    ],
+                    [
+                        -92.3,
+                        16.8
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "0",
+            "properties": {
+                "ADVDATE": "1000 AM CDT Sat Oct 19 2024",
+                "ADVISNUM": "4",
+                "BASIN": "AL",
+                "FCSTPRD": 120.0,
+                "STORMNAME": "Nadine",
+                "STORMNUM": 15.0,
+                "STORMTYPE": "TS"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
