@@ -1,0 +1,107 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -81.0,
+                        14.4
+                    ],
+                    [
+                        -81.2,
+                        14.7
+                    ],
+                    [
+                        -81.5,
+                        15.1
+                    ],
+                    [
+                        -81.8,
+                        15.5
+                    ],
+                    [
+                        -82.1,
+                        16.0
+                    ],
+                    [
+                        -82.5,
+                        16.5
+                    ],
+                    [
+                        -83.6,
+                        16.9
+                    ],
+                    [
+                        -84.4,
+                        17.2
+                    ],
+                    [
+                        -85.0,
+                        17.3
+                    ],
+                    [
+                        -85.6,
+                        17.3
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "0",
+            "properties": {
+                "SS": 0.0,
+                "STORMNUM": 15.0,
+                "STORMTYPE": "DB"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -85.6,
+                        17.3
+                    ],
+                    [
+                        -86.5,
+                        17.4
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "1",
+            "properties": {
+                "SS": 0.0,
+                "STORMNUM": 15.0,
+                "STORMTYPE": "TD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -85.6,
+                        17.3
+                    ],
+                    [
+                        -86.5,
+                        17.4
+                    ],
+                    [
+                        -86.5,
+                        17.4
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "2",
+            "properties": {
+                "SS": 0.0,
+                "STORMNUM": 15.0,
+                "STORMTYPE": "TD"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

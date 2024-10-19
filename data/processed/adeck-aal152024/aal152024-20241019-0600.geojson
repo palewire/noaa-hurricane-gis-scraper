@@ -2208,13 +2208,42 @@
                         17.4
                     ],
                     [
+                        -87.1,
+                        17.4
+                    ],
+                    [
+                        -88.7,
+                        17.2
+                    ],
+                    [
+                        -91.3,
+                        17.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "471",
+            "properties": {
+                "model": "OFCL",
+                "warning_datetime": "2024-10-19 06:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -86.5,
+                        17.4
+                    ],
+                    [
                         -88.7,
                         17.2
                     ]
                 ],
                 "type": "LineString"
             },
-            "id": "472",
+            "id": "473",
             "properties": {
                 "model": "OFCI",
                 "warning_datetime": "2024-10-19 06:00:00"
@@ -2275,7 +2304,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "473",
+            "id": "474",
             "properties": {
                 "model": "RYOC",
                 "warning_datetime": "2024-10-19 06:00:00"
