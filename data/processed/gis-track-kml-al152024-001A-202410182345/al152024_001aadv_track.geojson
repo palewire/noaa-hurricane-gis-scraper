@@ -1,0 +1,155 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -85.7,
+                        17.5,
+                        0.0
+                    ],
+                    [
+                        -86.2,
+                        17.5,
+                        0.0
+                    ],
+                    [
+                        -88.3,
+                        17.3,
+                        0.0
+                    ],
+                    [
+                        -90.9,
+                        17.2,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "17.5N, 85.7W",
+                "advisoryNum": "1A",
+                "atcfid": "AL152024",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Potential Tropical Cyclone Fifteen (AL152024)</b></font></td></tr> \n                        <tr><td>Advisory #1A </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "40",
+                "maxGustMPH": "45",
+                "maxWindKnots": "30",
+                "maxWindMPH": "35",
+                "minimumPressure": "1005",
+                "pubAdvTime": "700 PM CDT Fri Oct 18 2024",
+                "storm": "Potential Tropical Cyclone Fifteen",
+                "stormMovement": "WNW",
+                "stormName": "Fifteen",
+                "stormNum": "15",
+                "stormType": "PC",
+                "styleUrl": "#72_line",
+                "timezone": "CDT"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -85.7,
+                        17.5,
+                        0.0
+                    ],
+                    [
+                        -86.2,
+                        17.5,
+                        0.0
+                    ],
+                    [
+                        -88.3,
+                        17.3,
+                        0.0
+                    ],
+                    [
+                        -90.9,
+                        17.2,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "1A",
+                "atcfid": "AL152024",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Potential Tropical Cyclone Fifteen (AL152024)</b></font></td></tr> \n                        <tr><td>Advisory #1A </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Potential Tropical Cyclone Fifteen",
+                "stormName": "Fifteen",
+                "stormNum": "15",
+                "stormType": "PC",
+                "styleUrl": "#120_line",
+                "timezone": "CDT"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.7,
+                    17.5,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Potential Tropical Cyclone Fifteen (AL152024)</b></font></td></tr> \n                        <tr><td>Advisory #1A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  7:00 PM CDT October 18, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 17.5 N, -85.7 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 30 knots (35 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 40 knots (45 mph) </td></tr> \n                        <tr><td nowrap>Motion: WNW </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 1005 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -86.2,
+                    17.5,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Potential Tropical Cyclone Fifteen (AL152024)</b></font></td></tr> \n                        <tr><td>Advisory #1A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>12 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  1:00 AM CDT October 19, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 17.5 N, -86.2 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 30 knots (35 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 40 knots (45 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.3,
+                    17.3,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Potential Tropical Cyclone Fifteen (AL152024)</b></font></td></tr> \n                        <tr><td>Advisory #1A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>24 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  1:00 PM CDT October 19, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 17.3 N, -88.3 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 35 knots (40 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 45 knots (50 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.9,
+                    17.2,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Potential Tropical Cyclone Fifteen (AL152024)</b></font></td></tr> \n                        <tr><td>Advisory #1A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>36 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  1:00 AM CDT October 20, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 17.2 N, -90.9 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 25 knots (30 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 35 knots (40 mph) </td></tr>",
+                "styleUrl": "#d_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
