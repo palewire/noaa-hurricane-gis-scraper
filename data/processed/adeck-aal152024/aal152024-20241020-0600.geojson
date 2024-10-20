@@ -2260,8 +2260,33 @@
             "type": "Feature"
         },
         {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -91.2,
+                        17.0
+                    ],
+                    [
+                        -91.8,
+                        16.8
+                    ],
+                    [
+                        -93.8,
+                        15.7
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "770",
+            "properties": {
+                "model": "OFCL",
+                "warning_datetime": "2024-10-20 06:00:00"
+            },
+            "type": "Feature"
+        },
+        {
             "geometry": null,
-            "id": "775",
+            "id": "776",
             "properties": {
                 "model": "OFCI",
                 "warning_datetime": "2024-10-20 06:00:00"
