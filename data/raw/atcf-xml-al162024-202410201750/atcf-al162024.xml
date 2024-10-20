@@ -1,0 +1,191 @@
+<?xml version="1.0"?>
+<cycloneMessage>
+<!-- System Advisory Meta Information -->
+<atcfID>AL162024</atcfID>
+<issuingUnit>NWS NATIONAL HURRICANE CENTER MIAMI FL</issuingUnit>
+<messageType>INTERMEDIATE ADVISORY</messageType>
+<messageBinNumber>1</messageBinNumber>
+<advisoryNumber>6A</advisoryNumber>
+<!-- System Date/Time Information -->
+<messageDateTimeLocal>20241020 02:00:00 PM EDT</messageDateTimeLocal>
+<messageDateTimeUTC>20241020 06:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>20241020180000</messageDateTimeUTC24>
+<messageDateTimeLocalStr>0200 PM EDT Sun Oct 20</messageDateTimeLocalStr>
+<timeEpochSeconds>1729447200</timeEpochSeconds>
+<!-- System state defined -->
+<systemType>HURRICANE</systemType>
+<systemName>OSCAR</systemName>
+<!-- Center Location of the System -->
+<!-- Lattitude: North is positive; South is negative -->
+<!-- Longitude: East is positive; West is negative -->
+<!-- units: decimal degrees (tenths) -->
+<centerLocLatitude>20.6</centerLocLatitude>
+<centerLocLongitude>-74.1</centerLocLongitude>
+<!-- Lattitude: North is N; South is S -->
+<!-- Longitude: East is E; West is W -->
+<!-- units: decimal degrees (tenths) -->
+<centerLocLatitudeExpanded>20.6N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>74.1W</centerLocLongitudeExpanded>
+<!-- Maximum Intensity of the System -->
+<!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
+<systemIntensityMph>80</systemIntensityMph>
+<systemIntensityKph>130</systemIntensityKph>
+<systemIntensityKts>70</systemIntensityKts>
+<systemMslpMb>986</systemMslpMb>
+<systemMslpInHg>29.12</systemMslpInHg>
+<systemSaffirSimpsonCategory>CATEGORY 1</systemSaffirSimpsonCategory>
+<formationChancePct48h>N/A</formationChancePct48h>
+<formationChancePct7d>N/A</formationChancePct7d>
+<!-- Current System Movement -->
+<!-- units: Degrees, MPH and KPH -->
+<systemDirectionOfMotion>WSW OR 250 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>7</systemSpeedMph>
+<systemSpeedKph>11</systemSpeedKph>
+<systemSpeedKts>6</systemSpeedKts>
+<!-- Current System Location from known Reference Point -->
+<systemGeoRefPt1>ABOUT 55 MI...90 KM WSW OF GREAT INAGUA ISLAND</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 80 MI...130 KM ENE OF GUANTANAMO CUBA</systemGeoRefPt2>
+<!-- Relevant Message -->
+<message>
+ZCZC MIATCPAT1 ALL
+TTAA00 KNHC DDHHMM
+ 
+BULLETIN
+Hurricane Oscar Intermediate Advisory Number 6A
+NWS National Hurricane Center Miami FL       AL162024
+200 PM EDT Sun Oct 20 2024
+ 
+...OSCAR APPROACHING THE NORTHERN COAST OF EASTERN CUBA WHERE 
+CONDITIONS WILL SOON DETERIORATE...
+ 
+ 
+SUMMARY OF 200 PM EDT...1800 UTC...INFORMATION
+----------------------------------------------
+LOCATION...20.6N 74.1W
+ABOUT 55 MI...90 KM WSW OF GREAT INAGUA ISLAND
+ABOUT 80 MI...130 KM ENE OF GUANTANAMO CUBA
+MAXIMUM SUSTAINED WINDS...80 MPH...130 KM/H
+PRESENT MOVEMENT...WSW OR 250 DEGREES AT 7 MPH...11 KM/H
+MINIMUM CENTRAL PRESSURE...986 MB...29.12 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+CHANGES WITH THIS ADVISORY:
+ 
+The government of the Bahamas has changed the Hurricane Warning 
+that was in effect for the southeastern Bahamas to a Tropical Storm 
+Warning. 
+ 
+SUMMARY OF WATCHES AND WARNINGS IN EFFECT:
+ 
+A Hurricane Warning is in effect for...
+* North coast of the Cuban Provinces of Holguin and Guantanamo to
+Punta Maisi
+ 
+A Hurricane Watch is in effect for...
+* North coast of the Cuban Province of Las Tunas
+ 
+A Tropical Storm Warning is in effect for...
+* Southeastern Bahamas
+* South coast of Cuban Province of Guantanamo
+* North coast of the Cuban Province of Las Tunas
+ 
+A Tropical Storm Watch is in effect for...
+* North coast of the Cuban Province of Camaguey
+* Central Bahamas
+ 
+A Hurricane Warning means that hurricane conditions are expected
+somewhere within the warning area. Preparations to protect life
+and property should be rushed to completion.
+ 
+A Hurricane Watch means that hurricane conditions are possible
+within the watch area. A watch is typically issued 48 hours
+before the anticipated first occurrence of tropical-storm-force
+winds, conditions that make outside preparations difficult or
+dangerous.
+ 
+A Tropical Storm Warning means that tropical storm conditions are
+expected somewhere within the warning area within 36 hours.
+ 
+A Tropical Storm Watch means that tropical storm conditions are
+possible within the watch area, generally within 48 hours.
+ 
+Interests in the remainder of the Bahamas should monitor the
+progress of Oscar.
+ 
+For storm information specific to your area, please monitor
+products issued by your national meteorological service.
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 200 PM EDT (1800 UTC), the eye of Hurricane Oscar was tracked by 
+radar in Guantanamo Bay near latitude 20.6 North, longitude 74.1 
+West. Oscar is moving toward the west-southwest near 7 mph       
+(11 km/h). A continued west-southwestward motion at a slow forward 
+speed is expected through tonight, followed by a turn toward the 
+northwest and north on Monday and Tuesday.  On the forecast track, 
+the center of Oscar is expected to make landfall along the northern 
+coast of eastern Cuba later this afternoon or evening. The system is 
+then expected to move across eastern Cuba tonight and Monday.  Oscar 
+is then forecast to accelerate northeastward across the central 
+Bahamas on Tuesday.
+ 
+Maximum sustained winds remain near 80 mph (130 km/h) with higher 
+gusts. Oscar is expected to reach the northern coast of eastern 
+Cuba as a hurricane later this afternoon or evening. Weakening is 
+expected after landfall, but Oscar could still be a tropical storm 
+when it moves north of Cuba late Monday and moves across the 
+central Bahamas on Tuesday.
+ 
+Hurricane-force winds extend outward up to 10 miles (20 km) from
+the center and tropical-storm-force winds extend outward up to 45
+miles (75 km).
+ 
+The estimated minimum central pressure is 986 mb (29.12 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Key messages for Oscar can be found in the Tropical Cyclone
+Discussion under AWIPS header MIATCDAT1 and WMO header WTNT41 KNHC
+and on the web at hurricanes.gov/text/MIATCDAT1.shtml
+ 
+WIND:  Hurricane conditions are expected in the warning area in 
+Cuba late this afternoon and evening.
+ 
+Tropical storm conditions are expected for a few more hours in the 
+warning area of the southeastern Bahamas and possible in the watch 
+area of Cuba this afternoon into Monday. Tropical storm conditions 
+are possible in the watch area in the central Bahamas on Tuesday. 
+ 
+RAINFALL: Through Wednesday morning, rainfall amounts of 5 to 10
+inches with isolated amounts of 15 inches are expected across
+eastern Cuba. Across the southeastern Bahamas, 3 to 5 inches are
+expected, with isolated amounts around 8 inches.  Across the Turks
+and Caicos, an additional 2 to 4 inches of rain is expected through
+Wednesday morning.
+ 
+For a complete depiction of forecast rainfall associated with
+Hurricane Oscar, please see the National Weather Service Storm Total
+Rainfall Graphic, available at
+hurricanes.gov/graphics_at1.shtml?rainqpf .
+ 
+STORM SURGE: Water levels of 1 to 3 ft above normal tide levels are 
+expected along the north shore of Cuba in areas of onshore winds.  
+Near the coast, the surge will be accompanied by large and 
+destructive waves.
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 500 PM EDT.
+ 
+$$
+Forecaster Papin
+ 
+NNNN
+ 
+</message>
+</cycloneMessage>
