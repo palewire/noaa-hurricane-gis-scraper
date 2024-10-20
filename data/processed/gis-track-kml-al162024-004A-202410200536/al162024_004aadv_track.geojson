@@ -1,0 +1,250 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -72.6,
+                        21.3,
+                        0.0
+                    ],
+                    [
+                        -73.5,
+                        21.0,
+                        0.0
+                    ],
+                    [
+                        -74.8,
+                        20.6,
+                        0.0
+                    ],
+                    [
+                        -75.8,
+                        20.6,
+                        0.0
+                    ],
+                    [
+                        -76.0,
+                        21.4,
+                        0.0
+                    ],
+                    [
+                        -75.5,
+                        22.2,
+                        0.0
+                    ],
+                    [
+                        -74.2,
+                        23.8,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "21.3N, 72.6W",
+                "advisoryNum": "4A",
+                "atcfid": "AL162024",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Oscar (AL162024)</b></font></td></tr> \n                        <tr><td>Advisory #4A </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "90",
+                "maxGustMPH": "105",
+                "maxWindKnots": "75",
+                "maxWindMPH": "85",
+                "minimumPressure": "987",
+                "pubAdvTime": "200 AM EDT Sun Oct 20 2024",
+                "storm": "Hurricane Oscar",
+                "stormMovement": "W",
+                "stormName": "Oscar",
+                "stormNum": "16",
+                "stormType": "HU",
+                "styleUrl": "#72_line",
+                "timezone": "EDT"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -72.6,
+                        21.3,
+                        0.0
+                    ],
+                    [
+                        -73.5,
+                        21.0,
+                        0.0
+                    ],
+                    [
+                        -74.8,
+                        20.6,
+                        0.0
+                    ],
+                    [
+                        -75.8,
+                        20.6,
+                        0.0
+                    ],
+                    [
+                        -76.0,
+                        21.4,
+                        0.0
+                    ],
+                    [
+                        -75.5,
+                        22.2,
+                        0.0
+                    ],
+                    [
+                        -74.2,
+                        23.8,
+                        0.0
+                    ],
+                    [
+                        -71.5,
+                        27.0,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "4A",
+                "atcfid": "AL162024",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Oscar (AL162024)</b></font></td></tr> \n                        <tr><td>Advisory #4A </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Hurricane Oscar",
+                "stormName": "Oscar",
+                "stormNum": "16",
+                "stormType": "HU",
+                "styleUrl": "#120_line",
+                "timezone": "EDT"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -72.6,
+                    21.3,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Oscar (AL162024)</b></font></td></tr> \n                        <tr><td>Advisory #4A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 AM EDT October 20, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 21.3 N, -72.6 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 75 knots (85 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 90 knots (105 mph) </td></tr> \n                        <tr><td nowrap>Motion: W </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 987 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.5,
+                    21.0,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Oscar (AL162024)</b></font></td></tr> \n                        <tr><td>Advisory #4A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>12 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 AM EDT October 20, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 21.0 N, -73.5 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 75 knots (85 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 90 knots (105 mph) </td></tr>",
+                "styleUrl": "#h_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -74.8,
+                    20.6,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Oscar (AL162024)</b></font></td></tr> \n                        <tr><td>Advisory #4A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>24 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 PM EDT October 20, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 20.6 N, -74.8 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 70 knots (80 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 85 knots (100 mph) </td></tr>",
+                "styleUrl": "#h_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.8,
+                    20.6,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Oscar (AL162024)</b></font></td></tr> \n                        <tr><td>Advisory #4A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>36 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 AM EDT October 21, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 20.6 N, -75.8 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 60 knots (70 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 75 knots (85 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.0,
+                    21.4,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Oscar (AL162024)</b></font></td></tr> \n                        <tr><td>Advisory #4A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>48 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 PM EDT October 21, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 21.4 N, -76.0 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 50 knots (60 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 60 knots (70 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.5,
+                    22.2,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Oscar (AL162024)</b></font></td></tr> \n                        <tr><td>Advisory #4A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>60 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 AM EDT October 22, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 22.2 N, -75.5 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 45 knots (50 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 55 knots (65 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -74.2,
+                    23.8,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Oscar (AL162024)</b></font></td></tr> \n                        <tr><td>Advisory #4A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>72 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 PM EDT October 22, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 23.8 N, -74.2 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 40 knots (45 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 50 knots (60 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.5,
+                    27.0,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Oscar (AL162024)</b></font></td></tr> \n                        <tr><td>Advisory #4A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>96 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 PM EDT October 23, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 27.0 N, -71.5 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 35 knots (40 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 45 knots (50 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
