@@ -1,0 +1,1778 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+	<kml xmlns="http://earth.google.com/kml/2.2"> 
+	<Document> 
+	<name>AL162024 Oscar</name> 
+	<open>0</open> 
+	<description>
+		<![CDATA[<TABLE>
+		<TR><TD><B>Title:</B> Tropical Cyclone Best Track for AL162024</TD></TR>
+		<TR><TD><B>Description:</B> The best track is a subjectively-smoothed representation of the tropical cyclone's location and intensity at 6-h interval over its lifetime.  These best track positions and intensity (maximum 1-minute sustained surface wind speed and minimum sea-level pressure) are based on a post-storm assessment of all available data and may differ from values contained in real-time storm advisories.  In general, they will not reflect the erratic motion implied by connecting the individual center fix positions.  The best track is a living database which servers as the official U.S. National Weather Service historical record of the tropical cyclone. 
+		<TR><TD><B>Date Created:</B> 20-10-2024</TD></TR>
+		<TR><TD><B>Created:</B> National Hurricane Center </TD></TR>
+		<TR><TD><B>Disclaimer:</B> These data are intended for geographic display and analysis at the national level, and for large regional areas. No responsibilty is assumed by the National Oceanic and Atmospheric Administration or the National Hurricane Center in the use of these data.  No wawrranty, expressed or implied, is made by the National Hurricane Center regarding the utility of the data on any other system, nor shall the act of distrubtion constitute any such warranty. </TD></TR>
+		<TR><TD><B>For More Information: </B><a href="https://www.nhc.noaa.gov">https://www.nhc.noaa.gov</a></TD></TR></TABLE>]]>
+	</description>
+	<Schema parent="Placemark" name="AL162024"> 
+		<SimpleField type="wstring" name="StormName"></SimpleField> 
+		<SimpleField type="wstring" name="StormNumber"></SimpleField> 
+		<SimpleField type="wstring" name="StormType"></SimpleField> 
+		<SimpleField type="wstring" name="Basin"></SimpleField> 
+		<SimpleField type="wstring" name="lat"></SimpleField> 
+		<SimpleField type="wstring" name="lon"></SimpleField> 
+		<SimpleField type="wstring" name="Intensity"></SimpleField> 
+		<SimpleField type="wstring" name="MSLP"></SimpleField> 
+		<SimpleField type="wstring" name="DTG"></SimpleField> 
+	</Schema>
+	<Style id="pt"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>ex_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="cat5"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>cat5_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="db"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>ex_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="cat3"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>cat3_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="ss"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>ts_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="lo"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>ex_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="cat4"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>cat4_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="lo"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>ex_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="cat2"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>cat2_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="ts"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>ts_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="cat1"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>cat1_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="ex"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>ex_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="st"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>typhoon_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="tc"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>ex_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="wv"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>ex_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="td"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>td_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="sd"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>ex_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="ty"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>typhoon_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Folder id="data"> 
+ 	    <name>Data</name> 
+
+	   <Placemark>
+	      <name>1200 UTC OCT 09</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>DB GENESIS032 (AL162024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>1200 UTC OCT 09</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>12.8 N, -11.8 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>0 mb; 0 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>20 knots;  23 mph;  37 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ex</styleUrl>
+	       <Point>
+	   	   <coordinates>-11.8,12.8,0</coordinates>
+	       </Point>
+	       <lat>12.8</lat>
+	       <lon>-11.8</lon>
+	       <stormName>GENESIS032</stormName>
+	       <stormNum>16</stormNum>
+	       <basin>AL</basin>
+	       <stormType>DB</stormType>
+	       <intensity>20</intensity>
+	       <intensityMPH>23</intensityMPH>
+	       <intensityKPH>37</intensityKPH>
+	       <minSeaLevelPres>0</minSeaLevelPres>
+	       <atcfdtg>2024100912</atcfdtg>
+	       <dtg>1200 UTC OCT 09</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>1800 UTC OCT 09</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>DB GENESIS032 (AL162024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>1800 UTC OCT 09</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>13.3 N, -13.7 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>0 mb; 0 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>20 knots;  23 mph;  37 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ex</styleUrl>
+	       <Point>
+	   	   <coordinates>-13.7,13.3,0</coordinates>
+	       </Point>
+	       <lat>13.3</lat>
+	       <lon>-13.7</lon>
+	       <stormName>GENESIS032</stormName>
+	       <stormNum>16</stormNum>
+	       <basin>AL</basin>
+	       <stormType>DB</stormType>
+	       <intensity>20</intensity>
+	       <intensityMPH>23</intensityMPH>
+	       <intensityKPH>37</intensityKPH>
+	       <minSeaLevelPres>0</minSeaLevelPres>
+	       <atcfdtg>2024100918</atcfdtg>
+	       <dtg>1800 UTC OCT 09</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>0000 UTC OCT 10</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>DB GENESIS032 (AL162024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>0000 UTC OCT 10</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>13.6 N, -15.5 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1009 mb; 29.79 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>20 knots;  23 mph;  37 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ex</styleUrl>
+	       <Point>
+	   	   <coordinates>-15.5,13.6,0</coordinates>
+	       </Point>
+	       <lat>13.6</lat>
+	       <lon>-15.5</lon>
+	       <stormName>GENESIS032</stormName>
+	       <stormNum>16</stormNum>
+	       <basin>AL</basin>
+	       <stormType>DB</stormType>
+	       <intensity>20</intensity>
+	       <intensityMPH>23</intensityMPH>
+	       <intensityKPH>37</intensityKPH>
+	       <minSeaLevelPres>1009</minSeaLevelPres>
+	       <atcfdtg>2024101000</atcfdtg>
+	       <dtg>0000 UTC OCT 10</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>0600 UTC OCT 10</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>DB GENESIS032 (AL162024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>0600 UTC OCT 10</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>13.7 N, -17.3 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>0 mb; 0 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>25 knots;  29 mph;  46 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ex</styleUrl>
+	       <Point>
+	   	   <coordinates>-17.3,13.7,0</coordinates>
+	       </Point>
+	       <lat>13.7</lat>
+	       <lon>-17.3</lon>
+	       <stormName>GENESIS032</stormName>
+	       <stormNum>16</stormNum>
+	       <basin>AL</basin>
+	       <stormType>DB</stormType>
+	       <intensity>25</intensity>
+	       <intensityMPH>29</intensityMPH>
+	       <intensityKPH>46</intensityKPH>
+	       <minSeaLevelPres>0</minSeaLevelPres>
+	       <atcfdtg>2024101006</atcfdtg>
+	       <dtg>0600 UTC OCT 10</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>1200 UTC OCT 10</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>DB INVEST (AL162024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>1200 UTC OCT 10</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>14.0 N, -18.9 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1008 mb; 29.76 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>25 knots;  29 mph;  46 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ex</styleUrl>
+	       <Point>
+	   	   <coordinates>-18.9,14.0,0</coordinates>
+	       </Point>
+	       <lat>14.0</lat>
+	       <lon>-18.9</lon>
+	       <stormName>INVEST</stormName>
+	       <stormNum>16</stormNum>
+	       <basin>AL</basin>
+	       <stormType>DB</stormType>
+	       <intensity>25</intensity>
+	       <intensityMPH>29</intensityMPH>
+	       <intensityKPH>46</intensityKPH>
+	       <minSeaLevelPres>1008</minSeaLevelPres>
+	       <atcfdtg>2024101012</atcfdtg>
+	       <dtg>1200 UTC OCT 10</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>1800 UTC OCT 10</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>DB INVEST (AL162024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>1800 UTC OCT 10</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>14.4 N, -20.6 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1007 mb; 29.73 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>25 knots;  29 mph;  46 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ex</styleUrl>
+	       <Point>
+	   	   <coordinates>-20.6,14.4,0</coordinates>
+	       </Point>
+	       <lat>14.4</lat>
+	       <lon>-20.6</lon>
+	       <stormName>INVEST</stormName>
+	       <stormNum>16</stormNum>
+	       <basin>AL</basin>
+	       <stormType>DB</stormType>
+	       <intensity>25</intensity>
+	       <intensityMPH>29</intensityMPH>
+	       <intensityKPH>46</intensityKPH>
+	       <minSeaLevelPres>1007</minSeaLevelPres>
+	       <atcfdtg>2024101018</atcfdtg>
+	       <dtg>1800 UTC OCT 10</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>0000 UTC OCT 11</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>DB INVEST (AL162024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>0000 UTC OCT 11</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>14.5 N, -22.1 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1006 mb; 29.70 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>30 knots;  35 mph;  56 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ex</styleUrl>
+	       <Point>
+	   	   <coordinates>-22.1,14.5,0</coordinates>
+	       </Point>
+	       <lat>14.5</lat>
+	       <lon>-22.1</lon>
+	       <stormName>INVEST</stormName>
+	       <stormNum>16</stormNum>
+	       <basin>AL</basin>
+	       <stormType>DB</stormType>
+	       <intensity>30</intensity>
+	       <intensityMPH>35</intensityMPH>
+	       <intensityKPH>56</intensityKPH>
+	       <minSeaLevelPres>1006</minSeaLevelPres>
+	       <atcfdtg>2024101100</atcfdtg>
+	       <dtg>0000 UTC OCT 11</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>0600 UTC OCT 11</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>LO INVEST (AL162024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>0600 UTC OCT 11</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>14.7 N, -23.6 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1006 mb; 29.70 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>30 knots;  35 mph;  56 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ex</styleUrl>
+	       <Point>
+	   	   <coordinates>-23.6,14.7,0</coordinates>
+	       </Point>
+	       <lat>14.7</lat>
+	       <lon>-23.6</lon>
+	       <stormName>INVEST</stormName>
+	       <stormNum>16</stormNum>
+	       <basin>AL</basin>
+	       <stormType>LO</stormType>
+	       <intensity>30</intensity>
+	       <intensityMPH>35</intensityMPH>
+	       <intensityKPH>56</intensityKPH>
+	       <minSeaLevelPres>1006</minSeaLevelPres>
+	       <atcfdtg>2024101106</atcfdtg>
+	       <dtg>0600 UTC OCT 11</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>1200 UTC OCT 11</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>LO INVEST (AL162024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>1200 UTC OCT 11</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>14.8 N, -25.1 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1006 mb; 29.70 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>35 knots;  40 mph;  65 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ex</styleUrl>
+	       <Point>
+	   	   <coordinates>-25.1,14.8,0</coordinates>
+	       </Point>
+	       <lat>14.8</lat>
+	       <lon>-25.1</lon>
+	       <stormName>INVEST</stormName>
+	       <stormNum>16</stormNum>
+	       <basin>AL</basin>
+	       <stormType>LO</stormType>
+	       <intensity>35</intensity>
+	       <intensityMPH>40</intensityMPH>
+	       <intensityKPH>65</intensityKPH>
+	       <minSeaLevelPres>1006</minSeaLevelPres>
+	       <atcfdtg>2024101112</atcfdtg>
+	       <dtg>1200 UTC OCT 11</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>1800 UTC OCT 11</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>LO INVEST (AL162024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>1800 UTC OCT 11</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>15.5 N, -26.3 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1006 mb; 29.70 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>35 knots;  40 mph;  65 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ex</styleUrl>
+	       <Point>
+	   	   <coordinates>-26.3,15.5,0</coordinates>
+	       </Point>
+	       <lat>15.5</lat>
+	       <lon>-26.3</lon>
+	       <stormName>INVEST</stormName>
+	       <stormNum>16</stormNum>
+	       <basin>AL</basin>
+	       <stormType>LO</stormType>
+	       <intensity>35</intensity>
+	       <intensityMPH>40</intensityMPH>
+	       <intensityKPH>65</intensityKPH>
+	       <minSeaLevelPres>1006</minSeaLevelPres>
+	       <atcfdtg>2024101118</atcfdtg>
+	       <dtg>1800 UTC OCT 11</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>0000 UTC OCT 12</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>LO INVEST (AL162024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>0000 UTC OCT 12</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>16.2 N, -27.4 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1006 mb; 29.70 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>35 knots;  40 mph;  65 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ex</styleUrl>
+	       <Point>
+	   	   <coordinates>-27.4,16.2,0</coordinates>
+	       </Point>
+	       <lat>16.2</lat>
+	       <lon>-27.4</lon>
+	       <stormName>INVEST</stormName>
+	       <stormNum>16</stormNum>
+	       <basin>AL</basin>
+	       <stormType>LO</stormType>
+	       <intensity>35</intensity>
+	       <intensityMPH>40</intensityMPH>
+	       <intensityKPH>65</intensityKPH>
+	       <minSeaLevelPres>1006</minSeaLevelPres>
+	       <atcfdtg>2024101200</atcfdtg>
+	       <dtg>0000 UTC OCT 12</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>0600 UTC OCT 12</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>LO INVEST (AL162024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>0600 UTC OCT 12</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>16.8 N, -28.5 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1006 mb; 29.70 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>35 knots;  40 mph;  65 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ex</styleUrl>
+	       <Point>
+	   	   <coordinates>-28.5,16.8,0</coordinates>
+	       </Point>
+	       <lat>16.8</lat>
+	       <lon>-28.5</lon>
+	       <stormName>INVEST</stormName>
+	       <stormNum>16</stormNum>
+	       <basin>AL</basin>
+	       <stormType>LO</stormType>
+	       <intensity>35</intensity>
+	       <intensityMPH>40</intensityMPH>
+	       <intensityKPH>65</intensityKPH>
+	       <minSeaLevelPres>1006</minSeaLevelPres>
+	       <atcfdtg>2024101206</atcfdtg>
+	       <dtg>0600 UTC OCT 12</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>1200 UTC OCT 12</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>LO INVEST (AL162024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>1200 UTC OCT 12</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>17.1 N, -29.6 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1009 mb; 29.79 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>30 knots;  35 mph;  56 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ex</styleUrl>
+	       <Point>
+	   	   <coordinates>-29.6,17.1,0</coordinates>
+	       </Point>
+	       <lat>17.1</lat>
+	       <lon>-29.6</lon>
+	       <stormName>INVEST</stormName>
+	       <stormNum>16</stormNum>
+	       <basin>AL</basin>
+	       <stormType>LO</stormType>
+	       <intensity>30</intensity>
+	       <intensityMPH>35</intensityMPH>
+	       <intensityKPH>56</intensityKPH>
+	       <minSeaLevelPres>1009</minSeaLevelPres>
+	       <atcfdtg>2024101212</atcfdtg>
+	       <dtg>1200 UTC OCT 12</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>1800 UTC OCT 12</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>LO INVEST (AL162024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>1800 UTC OCT 12</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>17.3 N, -30.6 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1009 mb; 29.79 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>25 knots;  29 mph;  46 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ex</styleUrl>
+	       <Point>
+	   	   <coordinates>-30.6,17.3,0</coordinates>
+	       </Point>
+	       <lat>17.3</lat>
+	       <lon>-30.6</lon>
+	       <stormName>INVEST</stormName>
+	       <stormNum>16</stormNum>
+	       <basin>AL</basin>
+	       <stormType>LO</stormType>
+	       <intensity>25</intensity>
+	       <intensityMPH>29</intensityMPH>
+	       <intensityKPH>46</intensityKPH>
+	       <minSeaLevelPres>1009</minSeaLevelPres>
+	       <atcfdtg>2024101218</atcfdtg>
+	       <dtg>1800 UTC OCT 12</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>0000 UTC OCT 13</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>LO INVEST (AL162024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>0000 UTC OCT 13</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>17.9 N, -31.2 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1009 mb; 29.79 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>25 knots;  29 mph;  46 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ex</styleUrl>
+	       <Point>
+	   	   <coordinates>-31.2,17.9,0</coordinates>
+	       </Point>
+	       <lat>17.9</lat>
+	       <lon>-31.2</lon>
+	       <stormName>INVEST</stormName>
+	       <stormNum>16</stormNum>
+	       <basin>AL</basin>
+	       <stormType>LO</stormType>
+	       <intensity>25</intensity>
+	       <intensityMPH>29</intensityMPH>
+	       <intensityKPH>46</intensityKPH>
+	       <minSeaLevelPres>1009</minSeaLevelPres>
+	       <atcfdtg>2024101300</atcfdtg>
+	       <dtg>0000 UTC OCT 13</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>0600 UTC OCT 13</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>LO INVEST (AL162024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>0600 UTC OCT 13</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>18.3 N, -32.3 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1009 mb; 29.79 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>25 knots;  29 mph;  46 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ex</styleUrl>
+	       <Point>
+	   	   <coordinates>-32.3,18.3,0</coordinates>
+	       </Point>
+	       <lat>18.3</lat>
+	       <lon>-32.3</lon>
+	       <stormName>INVEST</stormName>
+	       <stormNum>16</stormNum>
+	       <basin>AL</basin>
+	       <stormType>LO</stormType>
+	       <intensity>25</intensity>
+	       <intensityMPH>29</intensityMPH>
+	       <intensityKPH>46</intensityKPH>
+	       <minSeaLevelPres>1009</minSeaLevelPres>
+	       <atcfdtg>2024101306</atcfdtg>
+	       <dtg>0600 UTC OCT 13</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>1200 UTC OCT 13</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>LO INVEST (AL162024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>1200 UTC OCT 13</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>18.2 N, -33.8 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1011 mb; 29.85 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>25 knots;  29 mph;  46 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ex</styleUrl>
+	       <Point>
+	   	   <coordinates>-33.8,18.2,0</coordinates>
+	       </Point>
+	       <lat>18.2</lat>
+	       <lon>-33.8</lon>
+	       <stormName>INVEST</stormName>
+	       <stormNum>16</stormNum>
+	       <basin>AL</basin>
+	       <stormType>LO</stormType>
+	       <intensity>25</intensity>
+	       <intensityMPH>29</intensityMPH>
+	       <intensityKPH>46</intensityKPH>
+	       <minSeaLevelPres>1011</minSeaLevelPres>
+	       <atcfdtg>2024101312</atcfdtg>
+	       <dtg>1200 UTC OCT 13</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>1800 UTC OCT 13</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>LO INVEST (AL162024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>1800 UTC OCT 13</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>17.7 N, -35.2 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1011 mb; 29.85 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>25 knots;  29 mph;  46 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ex</styleUrl>
+	       <Point>
+	   	   <coordinates>-35.2,17.7,0</coordinates>
+	       </Point>
+	       <lat>17.7</lat>
+	       <lon>-35.2</lon>
+	       <stormName>INVEST</stormName>
+	       <stormNum>16</stormNum>
+	       <basin>AL</basin>
+	       <stormType>LO</stormType>
+	       <intensity>25</intensity>
+	       <intensityMPH>29</intensityMPH>
+	       <intensityKPH>46</intensityKPH>
+	       <minSeaLevelPres>1011</minSeaLevelPres>
+	       <atcfdtg>2024101318</atcfdtg>
+	       <dtg>1800 UTC OCT 13</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>0000 UTC OCT 14</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>LO INVEST (AL162024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>0000 UTC OCT 14</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>17.5 N, -36.4 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1011 mb; 29.85 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>25 knots;  29 mph;  46 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ex</styleUrl>
+	       <Point>
+	   	   <coordinates>-36.4,17.5,0</coordinates>
+	       </Point>
+	       <lat>17.5</lat>
+	       <lon>-36.4</lon>
+	       <stormName>INVEST</stormName>
+	       <stormNum>16</stormNum>
+	       <basin>AL</basin>
+	       <stormType>LO</stormType>
+	       <intensity>25</intensity>
+	       <intensityMPH>29</intensityMPH>
+	       <intensityKPH>46</intensityKPH>
+	       <minSeaLevelPres>1011</minSeaLevelPres>
+	       <atcfdtg>2024101400</atcfdtg>
+	       <dtg>0000 UTC OCT 14</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>0600 UTC OCT 14</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>LO INVEST (AL162024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>0600 UTC OCT 14</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>17.5 N, -37.4 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1011 mb; 29.85 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>25 knots;  29 mph;  46 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ex</styleUrl>
+	       <Point>
+	   	   <coordinates>-37.4,17.5,0</coordinates>
+	       </Point>
+	       <lat>17.5</lat>
+	       <lon>-37.4</lon>
+	       <stormName>INVEST</stormName>
+	       <stormNum>16</stormNum>
+	       <basin>AL</basin>
+	       <stormType>LO</stormType>
+	       <intensity>25</intensity>
+	       <intensityMPH>29</intensityMPH>
+	       <intensityKPH>46</intensityKPH>
+	       <minSeaLevelPres>1011</minSeaLevelPres>
+	       <atcfdtg>2024101406</atcfdtg>
+	       <dtg>0600 UTC OCT 14</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>1200 UTC OCT 14</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>LO INVEST (AL162024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>1200 UTC OCT 14</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>17.4 N, -38.5 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1011 mb; 29.85 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>25 knots;  29 mph;  46 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ex</styleUrl>
+	       <Point>
+	   	   <coordinates>-38.5,17.4,0</coordinates>
+	       </Point>
+	       <lat>17.4</lat>
+	       <lon>-38.5</lon>
+	       <stormName>INVEST</stormName>
+	       <stormNum>16</stormNum>
+	       <basin>AL</basin>
+	       <stormType>LO</stormType>
+	       <intensity>25</intensity>
+	       <intensityMPH>29</intensityMPH>
+	       <intensityKPH>46</intensityKPH>
+	       <minSeaLevelPres>1011</minSeaLevelPres>
+	       <atcfdtg>2024101412</atcfdtg>
+	       <dtg>1200 UTC OCT 14</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>1800 UTC OCT 14</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>LO INVEST (AL162024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>1800 UTC OCT 14</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>17.0 N, -39.7 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1011 mb; 29.85 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>25 knots;  29 mph;  46 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ex</styleUrl>
+	       <Point>
+	   	   <coordinates>-39.7,17.0,0</coordinates>
+	       </Point>
+	       <lat>17.0</lat>
+	       <lon>-39.7</lon>
+	       <stormName>INVEST</stormName>
+	       <stormNum>16</stormNum>
+	       <basin>AL</basin>
+	       <stormType>LO</stormType>
+	       <intensity>25</intensity>
+	       <intensityMPH>29</intensityMPH>
+	       <intensityKPH>46</intensityKPH>
+	       <minSeaLevelPres>1011</minSeaLevelPres>
+	       <atcfdtg>2024101418</atcfdtg>
+	       <dtg>1800 UTC OCT 14</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>0000 UTC OCT 15</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>LO INVEST (AL162024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>0000 UTC OCT 15</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>16.6 N, -40.5 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1010 mb; 29.82 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>30 knots;  35 mph;  56 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ex</styleUrl>
+	       <Point>
+	   	   <coordinates>-40.5,16.6,0</coordinates>
+	       </Point>
+	       <lat>16.6</lat>
+	       <lon>-40.5</lon>
+	       <stormName>INVEST</stormName>
+	       <stormNum>16</stormNum>
+	       <basin>AL</basin>
+	       <stormType>LO</stormType>
+	       <intensity>30</intensity>
+	       <intensityMPH>35</intensityMPH>
+	       <intensityKPH>56</intensityKPH>
+	       <minSeaLevelPres>1010</minSeaLevelPres>
+	       <atcfdtg>2024101500</atcfdtg>
+	       <dtg>0000 UTC OCT 15</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>0600 UTC OCT 15</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>LO INVEST (AL162024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>0600 UTC OCT 15</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>16.3 N, -41.7 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1010 mb; 29.82 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>30 knots;  35 mph;  56 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ex</styleUrl>
+	       <Point>
+	   	   <coordinates>-41.7,16.3,0</coordinates>
+	       </Point>
+	       <lat>16.3</lat>
+	       <lon>-41.7</lon>
+	       <stormName>INVEST</stormName>
+	       <stormNum>16</stormNum>
+	       <basin>AL</basin>
+	       <stormType>LO</stormType>
+	       <intensity>30</intensity>
+	       <intensityMPH>35</intensityMPH>
+	       <intensityKPH>56</intensityKPH>
+	       <minSeaLevelPres>1010</minSeaLevelPres>
+	       <atcfdtg>2024101506</atcfdtg>
+	       <dtg>0600 UTC OCT 15</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>1200 UTC OCT 15</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>LO INVEST (AL162024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>1200 UTC OCT 15</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>16.1 N, -42.6 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1010 mb; 29.82 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>25 knots;  29 mph;  46 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ex</styleUrl>
+	       <Point>
+	   	   <coordinates>-42.6,16.1,0</coordinates>
+	       </Point>
+	       <lat>16.1</lat>
+	       <lon>-42.6</lon>
+	       <stormName>INVEST</stormName>
+	       <stormNum>16</stormNum>
+	       <basin>AL</basin>
+	       <stormType>LO</stormType>
+	       <intensity>25</intensity>
+	       <intensityMPH>29</intensityMPH>
+	       <intensityKPH>46</intensityKPH>
+	       <minSeaLevelPres>1010</minSeaLevelPres>
+	       <atcfdtg>2024101512</atcfdtg>
+	       <dtg>1200 UTC OCT 15</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>1800 UTC OCT 15</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>LO INVEST (AL162024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>1800 UTC OCT 15</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>16.1 N, -43.6 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1010 mb; 29.82 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>25 knots;  29 mph;  46 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ex</styleUrl>
+	       <Point>
+	   	   <coordinates>-43.6,16.1,0</coordinates>
+	       </Point>
+	       <lat>16.1</lat>
+	       <lon>-43.6</lon>
+	       <stormName>INVEST</stormName>
+	       <stormNum>16</stormNum>
+	       <basin>AL</basin>
+	       <stormType>LO</stormType>
+	       <intensity>25</intensity>
+	       <intensityMPH>29</intensityMPH>
+	       <intensityKPH>46</intensityKPH>
+	       <minSeaLevelPres>1010</minSeaLevelPres>
+	       <atcfdtg>2024101518</atcfdtg>
+	       <dtg>1800 UTC OCT 15</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>0000 UTC OCT 16</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>DB INVEST (AL162024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>0000 UTC OCT 16</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>16.0 N, -45.0 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1010 mb; 29.82 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>25 knots;  29 mph;  46 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ex</styleUrl>
+	       <Point>
+	   	   <coordinates>-45.0,16.0,0</coordinates>
+	       </Point>
+	       <lat>16.0</lat>
+	       <lon>-45.0</lon>
+	       <stormName>INVEST</stormName>
+	       <stormNum>16</stormNum>
+	       <basin>AL</basin>
+	       <stormType>DB</stormType>
+	       <intensity>25</intensity>
+	       <intensityMPH>29</intensityMPH>
+	       <intensityKPH>46</intensityKPH>
+	       <minSeaLevelPres>1010</minSeaLevelPres>
+	       <atcfdtg>2024101600</atcfdtg>
+	       <dtg>0000 UTC OCT 16</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>0600 UTC OCT 16</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>DB INVEST (AL162024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>0600 UTC OCT 16</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>16.0 N, -46.6 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1010 mb; 29.82 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>25 knots;  29 mph;  46 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ex</styleUrl>
+	       <Point>
+	   	   <coordinates>-46.6,16.0,0</coordinates>
+	       </Point>
+	       <lat>16.0</lat>
+	       <lon>-46.6</lon>
+	       <stormName>INVEST</stormName>
+	       <stormNum>16</stormNum>
+	       <basin>AL</basin>
+	       <stormType>DB</stormType>
+	       <intensity>25</intensity>
+	       <intensityMPH>29</intensityMPH>
+	       <intensityKPH>46</intensityKPH>
+	       <minSeaLevelPres>1010</minSeaLevelPres>
+	       <atcfdtg>2024101606</atcfdtg>
+	       <dtg>0600 UTC OCT 16</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>1200 UTC OCT 16</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>DB INVEST (AL162024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>1200 UTC OCT 16</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>15.8 N, -48.6 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1011 mb; 29.85 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>25 knots;  29 mph;  46 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ex</styleUrl>
+	       <Point>
+	   	   <coordinates>-48.6,15.8,0</coordinates>
+	       </Point>
+	       <lat>15.8</lat>
+	       <lon>-48.6</lon>
+	       <stormName>INVEST</stormName>
+	       <stormNum>16</stormNum>
+	       <basin>AL</basin>
+	       <stormType>DB</stormType>
+	       <intensity>25</intensity>
+	       <intensityMPH>29</intensityMPH>
+	       <intensityKPH>46</intensityKPH>
+	       <minSeaLevelPres>1011</minSeaLevelPres>
+	       <atcfdtg>2024101612</atcfdtg>
+	       <dtg>1200 UTC OCT 16</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>1800 UTC OCT 16</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>DB INVEST (AL162024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>1800 UTC OCT 16</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>16.0 N, -50.2 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1011 mb; 29.85 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>30 knots;  35 mph;  56 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ex</styleUrl>
+	       <Point>
+	   	   <coordinates>-50.2,16.0,0</coordinates>
+	       </Point>
+	       <lat>16.0</lat>
+	       <lon>-50.2</lon>
+	       <stormName>INVEST</stormName>
+	       <stormNum>16</stormNum>
+	       <basin>AL</basin>
+	       <stormType>DB</stormType>
+	       <intensity>30</intensity>
+	       <intensityMPH>35</intensityMPH>
+	       <intensityKPH>56</intensityKPH>
+	       <minSeaLevelPres>1011</minSeaLevelPres>
+	       <atcfdtg>2024101618</atcfdtg>
+	       <dtg>1800 UTC OCT 16</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>0000 UTC OCT 17</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>DB INVEST (AL162024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>0000 UTC OCT 17</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>16.4 N, -51.9 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1011 mb; 29.85 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>30 knots;  35 mph;  56 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ex</styleUrl>
+	       <Point>
+	   	   <coordinates>-51.9,16.4,0</coordinates>
+	       </Point>
+	       <lat>16.4</lat>
+	       <lon>-51.9</lon>
+	       <stormName>INVEST</stormName>
+	       <stormNum>16</stormNum>
+	       <basin>AL</basin>
+	       <stormType>DB</stormType>
+	       <intensity>30</intensity>
+	       <intensityMPH>35</intensityMPH>
+	       <intensityKPH>56</intensityKPH>
+	       <minSeaLevelPres>1011</minSeaLevelPres>
+	       <atcfdtg>2024101700</atcfdtg>
+	       <dtg>0000 UTC OCT 17</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>0600 UTC OCT 17</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>DB INVEST (AL162024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>0600 UTC OCT 17</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>16.9 N, -53.7 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1011 mb; 29.85 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>30 knots;  35 mph;  56 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ex</styleUrl>
+	       <Point>
+	   	   <coordinates>-53.7,16.9,0</coordinates>
+	       </Point>
+	       <lat>16.9</lat>
+	       <lon>-53.7</lon>
+	       <stormName>INVEST</stormName>
+	       <stormNum>16</stormNum>
+	       <basin>AL</basin>
+	       <stormType>DB</stormType>
+	       <intensity>30</intensity>
+	       <intensityMPH>35</intensityMPH>
+	       <intensityKPH>56</intensityKPH>
+	       <minSeaLevelPres>1011</minSeaLevelPres>
+	       <atcfdtg>2024101706</atcfdtg>
+	       <dtg>0600 UTC OCT 17</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>1200 UTC OCT 17</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>DB INVEST (AL162024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>1200 UTC OCT 17</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>17.3 N, -56.0 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1011 mb; 29.85 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>30 knots;  35 mph;  56 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ex</styleUrl>
+	       <Point>
+	   	   <coordinates>-56.0,17.3,0</coordinates>
+	       </Point>
+	       <lat>17.3</lat>
+	       <lon>-56.0</lon>
+	       <stormName>INVEST</stormName>
+	       <stormNum>16</stormNum>
+	       <basin>AL</basin>
+	       <stormType>DB</stormType>
+	       <intensity>30</intensity>
+	       <intensityMPH>35</intensityMPH>
+	       <intensityKPH>56</intensityKPH>
+	       <minSeaLevelPres>1011</minSeaLevelPres>
+	       <atcfdtg>2024101712</atcfdtg>
+	       <dtg>1200 UTC OCT 17</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>1800 UTC OCT 17</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>DB INVEST (AL162024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>1800 UTC OCT 17</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>17.5 N, -58.4 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1011 mb; 29.85 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>30 knots;  35 mph;  56 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ex</styleUrl>
+	       <Point>
+	   	   <coordinates>-58.4,17.5,0</coordinates>
+	       </Point>
+	       <lat>17.5</lat>
+	       <lon>-58.4</lon>
+	       <stormName>INVEST</stormName>
+	       <stormNum>16</stormNum>
+	       <basin>AL</basin>
+	       <stormType>DB</stormType>
+	       <intensity>30</intensity>
+	       <intensityMPH>35</intensityMPH>
+	       <intensityKPH>56</intensityKPH>
+	       <minSeaLevelPres>1011</minSeaLevelPres>
+	       <atcfdtg>2024101718</atcfdtg>
+	       <dtg>1800 UTC OCT 17</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>0000 UTC OCT 18</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>DB INVEST (AL162024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>0000 UTC OCT 18</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>18.2 N, -60.1 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1012 mb; 29.88 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>30 knots;  35 mph;  56 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ex</styleUrl>
+	       <Point>
+	   	   <coordinates>-60.1,18.2,0</coordinates>
+	       </Point>
+	       <lat>18.2</lat>
+	       <lon>-60.1</lon>
+	       <stormName>INVEST</stormName>
+	       <stormNum>16</stormNum>
+	       <basin>AL</basin>
+	       <stormType>DB</stormType>
+	       <intensity>30</intensity>
+	       <intensityMPH>35</intensityMPH>
+	       <intensityKPH>56</intensityKPH>
+	       <minSeaLevelPres>1012</minSeaLevelPres>
+	       <atcfdtg>2024101800</atcfdtg>
+	       <dtg>0000 UTC OCT 18</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>0600 UTC OCT 18</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>DB INVEST (AL162024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>0600 UTC OCT 18</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>18.8 N, -62.1 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1012 mb; 29.88 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>30 knots;  35 mph;  56 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ex</styleUrl>
+	       <Point>
+	   	   <coordinates>-62.1,18.8,0</coordinates>
+	       </Point>
+	       <lat>18.8</lat>
+	       <lon>-62.1</lon>
+	       <stormName>INVEST</stormName>
+	       <stormNum>16</stormNum>
+	       <basin>AL</basin>
+	       <stormType>DB</stormType>
+	       <intensity>30</intensity>
+	       <intensityMPH>35</intensityMPH>
+	       <intensityKPH>56</intensityKPH>
+	       <minSeaLevelPres>1012</minSeaLevelPres>
+	       <atcfdtg>2024101806</atcfdtg>
+	       <dtg>0600 UTC OCT 18</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>1200 UTC OCT 18</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>DB INVEST (AL162024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>1200 UTC OCT 18</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>19.3 N, -64.0 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1011 mb; 29.85 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>30 knots;  35 mph;  56 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ex</styleUrl>
+	       <Point>
+	   	   <coordinates>-64.0,19.3,0</coordinates>
+	       </Point>
+	       <lat>19.3</lat>
+	       <lon>-64.0</lon>
+	       <stormName>INVEST</stormName>
+	       <stormNum>16</stormNum>
+	       <basin>AL</basin>
+	       <stormType>DB</stormType>
+	       <intensity>30</intensity>
+	       <intensityMPH>35</intensityMPH>
+	       <intensityKPH>56</intensityKPH>
+	       <minSeaLevelPres>1011</minSeaLevelPres>
+	       <atcfdtg>2024101812</atcfdtg>
+	       <dtg>1200 UTC OCT 18</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>1800 UTC OCT 18</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>DB INVEST (AL162024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>1800 UTC OCT 18</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>19.5 N, -65.7 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1011 mb; 29.85 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>30 knots;  35 mph;  56 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ex</styleUrl>
+	       <Point>
+	   	   <coordinates>-65.7,19.5,0</coordinates>
+	       </Point>
+	       <lat>19.5</lat>
+	       <lon>-65.7</lon>
+	       <stormName>INVEST</stormName>
+	       <stormNum>16</stormNum>
+	       <basin>AL</basin>
+	       <stormType>DB</stormType>
+	       <intensity>30</intensity>
+	       <intensityMPH>35</intensityMPH>
+	       <intensityKPH>56</intensityKPH>
+	       <minSeaLevelPres>1011</minSeaLevelPres>
+	       <atcfdtg>2024101818</atcfdtg>
+	       <dtg>1800 UTC OCT 18</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>0000 UTC OCT 19</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>DB INVEST (AL162024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>0000 UTC OCT 19</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>20.1 N, -67.1 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1011 mb; 29.85 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>30 knots;  35 mph;  56 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ex</styleUrl>
+	       <Point>
+	   	   <coordinates>-67.1,20.1,0</coordinates>
+	       </Point>
+	       <lat>20.1</lat>
+	       <lon>-67.1</lon>
+	       <stormName>INVEST</stormName>
+	       <stormNum>16</stormNum>
+	       <basin>AL</basin>
+	       <stormType>DB</stormType>
+	       <intensity>30</intensity>
+	       <intensityMPH>35</intensityMPH>
+	       <intensityKPH>56</intensityKPH>
+	       <minSeaLevelPres>1011</minSeaLevelPres>
+	       <atcfdtg>2024101900</atcfdtg>
+	       <dtg>0000 UTC OCT 19</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>0600 UTC OCT 19</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>TD INVEST (AL162024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>0600 UTC OCT 19</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>21.1 N, -68.3 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1011 mb; 29.85 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>30 knots;  35 mph;  56 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#td</styleUrl>
+	       <Point>
+	   	   <coordinates>-68.3,21.1,0</coordinates>
+	       </Point>
+	       <lat>21.1</lat>
+	       <lon>-68.3</lon>
+	       <stormName>INVEST</stormName>
+	       <stormNum>16</stormNum>
+	       <basin>AL</basin>
+	       <stormType>TD</stormType>
+	       <intensity>30</intensity>
+	       <intensityMPH>35</intensityMPH>
+	       <intensityKPH>56</intensityKPH>
+	       <minSeaLevelPres>1011</minSeaLevelPres>
+	       <atcfdtg>2024101906</atcfdtg>
+	       <dtg>0600 UTC OCT 19</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>1200 UTC OCT 19</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>TS OSCAR (AL162024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>1200 UTC OCT 19</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>21.3 N, -69.8 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>999 mb; 29.50 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>50 knots;  58 mph;  93 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ts</styleUrl>
+	       <Point>
+	   	   <coordinates>-69.8,21.3,0</coordinates>
+	       </Point>
+	       <lat>21.3</lat>
+	       <lon>-69.8</lon>
+	       <stormName>OSCAR</stormName>
+	       <stormNum>16</stormNum>
+	       <basin>AL</basin>
+	       <stormType>TS</stormType>
+	       <intensity>50</intensity>
+	       <intensityMPH>58</intensityMPH>
+	       <intensityKPH>93</intensityKPH>
+	       <minSeaLevelPres>999</minSeaLevelPres>
+	       <atcfdtg>2024101912</atcfdtg>
+	       <dtg>1200 UTC OCT 19</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>1800 UTC OCT 19</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>HU OSCAR (AL162024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>1800 UTC OCT 19</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>21.4 N, -70.6 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>989 mb; 29.20 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>70 knots;  81 mph;  130 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#cat1</styleUrl>
+	       <Point>
+	   	   <coordinates>-70.6,21.4,0</coordinates>
+	       </Point>
+	       <lat>21.4</lat>
+	       <lon>-70.6</lon>
+	       <stormName>OSCAR</stormName>
+	       <stormNum>16</stormNum>
+	       <basin>AL</basin>
+	       <stormType>HU</stormType>
+	       <intensity>70</intensity>
+	       <intensityMPH>81</intensityMPH>
+	       <intensityKPH>130</intensityKPH>
+	       <minSeaLevelPres>989</minSeaLevelPres>
+	       <atcfdtg>2024101918</atcfdtg>
+	       <dtg>1800 UTC OCT 19</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>0000 UTC OCT 20</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>HU OSCAR (AL162024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>0000 UTC OCT 20</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>21.5 N, -71.7 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>987 mb; 29.14 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>75 knots;  86 mph;  139 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#cat1</styleUrl>
+	       <Point>
+	   	   <coordinates>-71.7,21.5,0</coordinates>
+	       </Point>
+	       <lat>21.5</lat>
+	       <lon>-71.7</lon>
+	       <stormName>OSCAR</stormName>
+	       <stormNum>16</stormNum>
+	       <basin>AL</basin>
+	       <stormType>HU</stormType>
+	       <intensity>75</intensity>
+	       <intensityMPH>86</intensityMPH>
+	       <intensityKPH>139</intensityKPH>
+	       <minSeaLevelPres>987</minSeaLevelPres>
+	       <atcfdtg>2024102000</atcfdtg>
+	       <dtg>0000 UTC OCT 20</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>0600 UTC OCT 20</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>HU OSCAR (AL162024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>0600 UTC OCT 20</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>21.2 N, -72.7 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>988 mb; 29.17 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>70 knots;  81 mph;  130 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#cat1</styleUrl>
+	       <Point>
+	   	   <coordinates>-72.7,21.2,0</coordinates>
+	       </Point>
+	       <lat>21.2</lat>
+	       <lon>-72.7</lon>
+	       <stormName>OSCAR</stormName>
+	       <stormNum>16</stormNum>
+	       <basin>AL</basin>
+	       <stormType>HU</stormType>
+	       <intensity>70</intensity>
+	       <intensityMPH>81</intensityMPH>
+	       <intensityKPH>130</intensityKPH>
+	       <minSeaLevelPres>988</minSeaLevelPres>
+	       <atcfdtg>2024102006</atcfdtg>
+	       <dtg>0600 UTC OCT 20</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>1200 UTC OCT 20</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>HU OSCAR (AL162024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>1200 UTC OCT 20</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>20.8 N, -73.6 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>986 mb; 29.11 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>70 knots;  81 mph;  130 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#cat1</styleUrl>
+	       <Point>
+	   	   <coordinates>-73.6,20.8,0</coordinates>
+	       </Point>
+	       <lat>20.8</lat>
+	       <lon>-73.6</lon>
+	       <stormName>OSCAR</stormName>
+	       <stormNum>16</stormNum>
+	       <basin>AL</basin>
+	       <stormType>HU</stormType>
+	       <intensity>70</intensity>
+	       <intensityMPH>81</intensityMPH>
+	       <intensityKPH>130</intensityKPH>
+	       <minSeaLevelPres>986</minSeaLevelPres>
+	       <atcfdtg>2024102012</atcfdtg>
+	       <dtg>1200 UTC OCT 20</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>1800 UTC OCT 20</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>HU OSCAR (AL162024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>1800 UTC OCT 20</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>20.6 N, -74.1 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>986 mb; 29.11 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>70 knots;  81 mph;  130 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#cat1</styleUrl>
+	       <Point>
+	   	   <coordinates>-74.1,20.6,0</coordinates>
+	       </Point>
+	       <lat>20.6</lat>
+	       <lon>-74.1</lon>
+	       <stormName>OSCAR</stormName>
+	       <stormNum>16</stormNum>
+	       <basin>AL</basin>
+	       <stormType>HU</stormType>
+	       <intensity>70</intensity>
+	       <intensityMPH>81</intensityMPH>
+	       <intensityKPH>130</intensityKPH>
+	       <minSeaLevelPres>986</minSeaLevelPres>
+	       <atcfdtg>2024102018</atcfdtg>
+	       <dtg>1800 UTC OCT 20</dtg>
+	   </Placemark>
+
+        </Folder>
+<Folder>
+<name>Legend</name>
+<open>0</open>
+<visibility>1</visibility>
+<ScreenOverlay>
+<name>Legend</name>
+ <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
+         <screenXY x="0" y="1" xunits="fraction" yunits="fraction"/>
+         <rotationXY x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+         <size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+</ScreenOverlay>
+</Folder>
+</Document>
+</kml>
+
