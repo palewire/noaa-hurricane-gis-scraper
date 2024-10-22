@@ -1,0 +1,80 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -74.0,
+                        23.0,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "23.0N, 74.0W",
+                "advisoryNum": "15",
+                "atcfid": "AL162024",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Remnants Of Oscar (AL162024)</b></font></td></tr> \n                        <tr><td>Advisory #15 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "40",
+                "maxGustMPH": "45",
+                "maxWindKnots": "30",
+                "maxWindMPH": "35",
+                "minimumPressure": "1007",
+                "pubAdvTime": "200 PM EDT Tue Oct 22 2024",
+                "storm": "Remnants Of Oscar",
+                "stormMovement": "NE",
+                "stormName": "Oscar",
+                "stormNum": "16",
+                "stormType": "PTC",
+                "styleUrl": "#72_line",
+                "timezone": "EDT"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -74.0,
+                        23.0,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "15",
+                "atcfid": "AL162024",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Remnants Of Oscar (AL162024)</b></font></td></tr> \n                        <tr><td>Advisory #15 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Remnants Of Oscar",
+                "stormName": "Oscar",
+                "stormNum": "16",
+                "stormType": "PTC",
+                "styleUrl": "#120_line",
+                "timezone": "EDT"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -74.0,
+                    23.0,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Remnants Of Oscar (AL162024)</b></font></td></tr> \n                        <tr><td>Advisory #15</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 PM EDT October 22, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 23.0 N, -74.0 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 30 knots (35 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 40 knots (45 mph) </td></tr> \n                        <tr><td nowrap>Motion: NE </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 1007 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
