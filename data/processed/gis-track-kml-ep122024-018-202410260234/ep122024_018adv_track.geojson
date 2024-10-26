@@ -1,0 +1,205 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -126.9,
+                        17.6,
+                        0.0
+                    ],
+                    [
+                        -128.0,
+                        18.9,
+                        0.0
+                    ],
+                    [
+                        -129.2,
+                        20.9,
+                        0.0
+                    ],
+                    [
+                        -130.1,
+                        22.4,
+                        0.0
+                    ],
+                    [
+                        -130.8,
+                        22.7,
+                        0.0
+                    ],
+                    [
+                        -131.7,
+                        22.4,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "17.6N, 126.9W",
+                "advisoryNum": "18",
+                "atcfid": "EP122024",
+                "basin": "ep",
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Kristy (EP122024)</b></font></td></tr> \n                        <tr><td>Advisory #18 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "110",
+                "maxGustMPH": "125",
+                "maxWindKnots": "90",
+                "maxWindMPH": "105",
+                "minimumPressure": "968",
+                "pubAdvTime": "800 PM PDT Fri Oct 25 2024",
+                "storm": "Hurricane Kristy",
+                "stormMovement": "NW",
+                "stormName": "Kristy",
+                "stormNum": "12",
+                "stormType": "HU",
+                "styleUrl": "#72_line",
+                "timezone": "PDT"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -126.9,
+                        17.6,
+                        0.0
+                    ],
+                    [
+                        -128.0,
+                        18.9,
+                        0.0
+                    ],
+                    [
+                        -129.2,
+                        20.9,
+                        0.0
+                    ],
+                    [
+                        -130.1,
+                        22.4,
+                        0.0
+                    ],
+                    [
+                        -130.8,
+                        22.7,
+                        0.0
+                    ],
+                    [
+                        -131.7,
+                        22.4,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "18",
+                "atcfid": "EP122024",
+                "basin": "ep",
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Kristy (EP122024)</b></font></td></tr> \n                        <tr><td>Advisory #18 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Hurricane Kristy",
+                "stormName": "Kristy",
+                "stormNum": "12",
+                "stormType": "HU",
+                "styleUrl": "#120_line",
+                "timezone": "PDT"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -126.9,
+                    17.6,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Kristy (EP122024)</b></font></td></tr> \n                        <tr><td>Advisory #18</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 PM PDT October 25, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 17.6 N, -126.9 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 90 knots (105 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 110 knots (125 mph) </td></tr> \n                        <tr><td nowrap>Motion: NW </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 968 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -128.0,
+                    18.9,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Kristy (EP122024)</b></font></td></tr> \n                        <tr><td>Advisory #18</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>12 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  5:00 AM PDT October 26, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 18.9 N, -128.0 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 75 knots (85 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 90 knots (105 mph) </td></tr>",
+                "styleUrl": "#h_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -129.2,
+                    20.9,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Kristy (EP122024)</b></font></td></tr> \n                        <tr><td>Advisory #18</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>24 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  5:00 PM PDT October 26, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 20.9 N, -129.2 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 55 knots (65 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 65 knots (75 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -130.1,
+                    22.4,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Kristy (EP122024)</b></font></td></tr> \n                        <tr><td>Advisory #18</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>36 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  5:00 AM PDT October 27, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 22.4 N, -130.1 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 40 knots (45 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 50 knots (60 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -130.8,
+                    22.7,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Kristy (EP122024)</b></font></td></tr> \n                        <tr><td>Advisory #18</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>48 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  5:00 PM PDT October 27, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 22.7 N, -130.8 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 30 knots (35 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 40 knots (45 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -131.7,
+                    22.4,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Kristy (EP122024)</b></font></td></tr> \n                        <tr><td>Advisory #18</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>60 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  5:00 AM PDT October 28, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 22.4 N, -131.7 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 25 knots (30 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 35 knots (40 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
