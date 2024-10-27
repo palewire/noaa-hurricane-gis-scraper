@@ -1,0 +1,130 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -129.8,
+                        22.0,
+                        0.0
+                    ],
+                    [
+                        -130.3,
+                        22.2,
+                        0.0
+                    ],
+                    [
+                        -131.5,
+                        21.9,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "22.0N, 129.8W",
+                "advisoryNum": "23",
+                "atcfid": "EP122024",
+                "basin": "ep",
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Kristy (EP122024)</b></font></td></tr> \n                        <tr><td>Advisory #23 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "55",
+                "maxGustMPH": "65",
+                "maxWindKnots": "45",
+                "maxWindMPH": "50",
+                "minimumPressure": "1003",
+                "pubAdvTime": "200 AM PDT Sun Oct 27 2024",
+                "storm": "Tropical Storm Kristy",
+                "stormMovement": "NW",
+                "stormName": "Kristy",
+                "stormNum": "12",
+                "stormType": "TS",
+                "styleUrl": "#72_line",
+                "timezone": "PDT"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -129.8,
+                        22.0,
+                        0.0
+                    ],
+                    [
+                        -130.3,
+                        22.2,
+                        0.0
+                    ],
+                    [
+                        -131.5,
+                        21.9,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "23",
+                "atcfid": "EP122024",
+                "basin": "ep",
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Kristy (EP122024)</b></font></td></tr> \n                        <tr><td>Advisory #23 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Tropical Storm Kristy",
+                "stormName": "Kristy",
+                "stormNum": "12",
+                "stormType": "TS",
+                "styleUrl": "#120_line",
+                "timezone": "PDT"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -129.8,
+                    22.0,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Kristy (EP122024)</b></font></td></tr> \n                        <tr><td>Advisory #23</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 AM PDT October 27, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 22.0 N, -129.8 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 45 knots (50 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 55 knots (65 mph) </td></tr> \n                        <tr><td nowrap>Motion: NW </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 1003 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -130.3,
+                    22.2,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Kristy (EP122024)</b></font></td></tr> \n                        <tr><td>Advisory #23</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>12 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at: 11:00 AM PDT October 27, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 22.2 N, -130.3 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 35 knots (40 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 45 knots (50 mph) </td></tr>",
+                "styleUrl": "#xs_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -131.5,
+                    21.9,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Kristy (EP122024)</b></font></td></tr> \n                        <tr><td>Advisory #23</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>24 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at: 11:00 PM PDT October 27, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 21.9 N, -131.5 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 25 knots (30 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 35 knots (40 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
