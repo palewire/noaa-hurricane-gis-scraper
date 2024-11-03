@@ -1,0 +1,155 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -132.0,
+                        11.1,
+                        0.0
+                    ],
+                    [
+                        -133.0,
+                        11.0,
+                        0.0
+                    ],
+                    [
+                        -134.1,
+                        10.9,
+                        0.0
+                    ],
+                    [
+                        -135.5,
+                        10.7,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "11.1N, 132.0W",
+                "advisoryNum": "8",
+                "atcfid": "EP132024",
+                "basin": "ep",
+                "description": "<table> \n                        <tr><td><font color=black><b>Post-Tropical Cyclone Lane (EP132024)</b></font></td></tr> \n                        <tr><td>Advisory #8 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "35",
+                "maxGustMPH": "40",
+                "maxWindKnots": "25",
+                "maxWindMPH": "30",
+                "minimumPressure": "1008",
+                "pubAdvTime": "700 AM PST Sun Nov 03 2024",
+                "storm": "Post-Tropical Cyclone Lane",
+                "stormMovement": "W",
+                "stormName": "Lane",
+                "stormNum": "13",
+                "stormType": "PTC",
+                "styleUrl": "#72_line",
+                "timezone": "PST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -132.0,
+                        11.1,
+                        0.0
+                    ],
+                    [
+                        -133.0,
+                        11.0,
+                        0.0
+                    ],
+                    [
+                        -134.1,
+                        10.9,
+                        0.0
+                    ],
+                    [
+                        -135.5,
+                        10.7,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "8",
+                "atcfid": "EP132024",
+                "basin": "ep",
+                "description": "<table> \n                        <tr><td><font color=black><b>Post-Tropical Cyclone Lane (EP132024)</b></font></td></tr> \n                        <tr><td>Advisory #8 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Post-Tropical Cyclone Lane",
+                "stormName": "Lane",
+                "stormNum": "13",
+                "stormType": "PTC",
+                "styleUrl": "#120_line",
+                "timezone": "PST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -132.0,
+                    11.1,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Post-Tropical Cyclone Lane (EP132024)</b></font></td></tr> \n                        <tr><td>Advisory #8</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  7:00 AM PST November 03, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 11.1 N, -132.0 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 25 knots (30 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 35 knots (40 mph) </td></tr> \n                        <tr><td nowrap>Motion: W </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 1008 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -133.0,
+                    11.0,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Post-Tropical Cyclone Lane (EP132024)</b></font></td></tr> \n                        <tr><td>Advisory #8</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>12 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  4:00 PM PST November 03, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 11.0 N, -133.0 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 25 knots (30 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 35 knots (40 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -134.1,
+                    10.9,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Post-Tropical Cyclone Lane (EP132024)</b></font></td></tr> \n                        <tr><td>Advisory #8</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>24 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  4:00 AM PST November 04, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 10.9 N, -134.1 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 20 knots (25 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 30 knots (35 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -135.5,
+                    10.7,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Post-Tropical Cyclone Lane (EP132024)</b></font></td></tr> \n                        <tr><td>Advisory #8</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>36 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  4:00 PM PST November 04, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 10.7 N, -135.5 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 20 knots (25 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 30 knots (35 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
