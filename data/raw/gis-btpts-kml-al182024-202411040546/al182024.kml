@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+	<kml xmlns="http://earth.google.com/kml/2.2"> 
+	<Document> 
+	<name>AL182024 Eighteen</name> 
+	<open>0</open> 
+	<description>
+		<![CDATA[<TABLE>
+		<TR><TD><B>Title:</B> Tropical Cyclone Best Track for AL182024</TD></TR>
+		<TR><TD><B>Description:</B> The best track is a subjectively-smoothed representation of the tropical cyclone's location and intensity at 6-h interval over its lifetime.  These best track positions and intensity (maximum 1-minute sustained surface wind speed and minimum sea-level pressure) are based on a post-storm assessment of all available data and may differ from values contained in real-time storm advisories.  In general, they will not reflect the erratic motion implied by connecting the individual center fix positions.  The best track is a living database which servers as the official U.S. National Weather Service historical record of the tropical cyclone. 
+		<TR><TD><B>Date Created:</B> 04-11-2024</TD></TR>
+		<TR><TD><B>Created:</B> National Hurricane Center </TD></TR>
+		<TR><TD><B>Disclaimer:</B> These data are intended for geographic display and analysis at the national level, and for large regional areas. No responsibilty is assumed by the National Oceanic and Atmospheric Administration or the National Hurricane Center in the use of these data.  No wawrranty, expressed or implied, is made by the National Hurricane Center regarding the utility of the data on any other system, nor shall the act of distrubtion constitute any such warranty. </TD></TR>
+		<TR><TD><B>For More Information: </B><a href="https://www.nhc.noaa.gov">https://www.nhc.noaa.gov</a></TD></TR></TABLE>]]>
+	</description>
+	<Schema parent="Placemark" name="AL182024"> 
+		<SimpleField type="wstring" name="StormName"></SimpleField> 
+		<SimpleField type="wstring" name="StormNumber"></SimpleField> 
+		<SimpleField type="wstring" name="StormType"></SimpleField> 
+		<SimpleField type="wstring" name="Basin"></SimpleField> 
+		<SimpleField type="wstring" name="lat"></SimpleField> 
+		<SimpleField type="wstring" name="lon"></SimpleField> 
+		<SimpleField type="wstring" name="Intensity"></SimpleField> 
+		<SimpleField type="wstring" name="MSLP"></SimpleField> 
+		<SimpleField type="wstring" name="DTG"></SimpleField> 
+	</Schema>
+	<Style id="pt"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>ex_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="cat5"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>cat5_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="db"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>ex_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="cat3"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>cat3_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="ss"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>ts_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="lo"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>ex_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="cat4"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>cat4_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="lo"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>ex_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="cat2"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>cat2_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="ts"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>ts_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="cat1"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>cat1_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="ex"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>ex_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="st"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>typhoon_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="tc"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>ex_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="wv"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>ex_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="td"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>td_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="sd"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>ex_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="ty"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>typhoon_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Folder id="data"> 
+ 	    <name>Data</name> 
+
+	   <Placemark>
+	      <name>1200 UTC NOV 01</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>DB GENESIS035 (AL182024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>1200 UTC NOV 01</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>9.5 N, -81.8 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1007 mb; 29.73 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>20 knots;  23 mph;  37 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ex</styleUrl>
+	       <Point>
+	   	   <coordinates>-81.8,9.5,0</coordinates>
+	       </Point>
+	       <lat>9.5</lat>
+	       <lon>-81.8</lon>
+	       <stormName>GENESIS035</stormName>
+	       <stormNum>18</stormNum>
+	       <basin>AL</basin>
+	       <stormType>DB</stormType>
+	       <intensity>20</intensity>
+	       <intensityMPH>23</intensityMPH>
+	       <intensityKPH>37</intensityKPH>
+	       <minSeaLevelPres>1007</minSeaLevelPres>
+	       <atcfdtg>2024110112</atcfdtg>
+	       <dtg>1200 UTC NOV 01</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>1800 UTC NOV 01</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>DB GENESIS035 (AL182024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>1800 UTC NOV 01</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>9.8 N, -81.6 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1007 mb; 29.73 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>20 knots;  23 mph;  37 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ex</styleUrl>
+	       <Point>
+	   	   <coordinates>-81.6,9.8,0</coordinates>
+	       </Point>
+	       <lat>9.8</lat>
+	       <lon>-81.6</lon>
+	       <stormName>GENESIS035</stormName>
+	       <stormNum>18</stormNum>
+	       <basin>AL</basin>
+	       <stormType>DB</stormType>
+	       <intensity>20</intensity>
+	       <intensityMPH>23</intensityMPH>
+	       <intensityKPH>37</intensityKPH>
+	       <minSeaLevelPres>1007</minSeaLevelPres>
+	       <atcfdtg>2024110118</atcfdtg>
+	       <dtg>1800 UTC NOV 01</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>0000 UTC NOV 02</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>DB GENESIS035 (AL182024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>0000 UTC NOV 02</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>10.2 N, -81.4 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1007 mb; 29.73 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>20 knots;  23 mph;  37 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ex</styleUrl>
+	       <Point>
+	   	   <coordinates>-81.4,10.2,0</coordinates>
+	       </Point>
+	       <lat>10.2</lat>
+	       <lon>-81.4</lon>
+	       <stormName>GENESIS035</stormName>
+	       <stormNum>18</stormNum>
+	       <basin>AL</basin>
+	       <stormType>DB</stormType>
+	       <intensity>20</intensity>
+	       <intensityMPH>23</intensityMPH>
+	       <intensityKPH>37</intensityKPH>
+	       <minSeaLevelPres>1007</minSeaLevelPres>
+	       <atcfdtg>2024110200</atcfdtg>
+	       <dtg>0000 UTC NOV 02</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>0600 UTC NOV 02</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>DB GENESIS035 (AL182024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>0600 UTC NOV 02</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>10.7 N, -81.1 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1007 mb; 29.73 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>20 knots;  23 mph;  37 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ex</styleUrl>
+	       <Point>
+	   	   <coordinates>-81.1,10.7,0</coordinates>
+	       </Point>
+	       <lat>10.7</lat>
+	       <lon>-81.1</lon>
+	       <stormName>GENESIS035</stormName>
+	       <stormNum>18</stormNum>
+	       <basin>AL</basin>
+	       <stormType>DB</stormType>
+	       <intensity>20</intensity>
+	       <intensityMPH>23</intensityMPH>
+	       <intensityKPH>37</intensityKPH>
+	       <minSeaLevelPres>1007</minSeaLevelPres>
+	       <atcfdtg>2024110206</atcfdtg>
+	       <dtg>0600 UTC NOV 02</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>1200 UTC NOV 02</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>DB INVEST (AL182024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>1200 UTC NOV 02</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>11.3 N, -80.6 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1007 mb; 29.73 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>20 knots;  23 mph;  37 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ex</styleUrl>
+	       <Point>
+	   	   <coordinates>-80.6,11.3,0</coordinates>
+	       </Point>
+	       <lat>11.3</lat>
+	       <lon>-80.6</lon>
+	       <stormName>INVEST</stormName>
+	       <stormNum>18</stormNum>
+	       <basin>AL</basin>
+	       <stormType>DB</stormType>
+	       <intensity>20</intensity>
+	       <intensityMPH>23</intensityMPH>
+	       <intensityKPH>37</intensityKPH>
+	       <minSeaLevelPres>1007</minSeaLevelPres>
+	       <atcfdtg>2024110212</atcfdtg>
+	       <dtg>1200 UTC NOV 02</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>1800 UTC NOV 02</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>DB INVEST (AL182024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>1800 UTC NOV 02</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>11.7 N, -79.9 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1007 mb; 29.73 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>20 knots;  23 mph;  37 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ex</styleUrl>
+	       <Point>
+	   	   <coordinates>-79.9,11.7,0</coordinates>
+	       </Point>
+	       <lat>11.7</lat>
+	       <lon>-79.9</lon>
+	       <stormName>INVEST</stormName>
+	       <stormNum>18</stormNum>
+	       <basin>AL</basin>
+	       <stormType>DB</stormType>
+	       <intensity>20</intensity>
+	       <intensityMPH>23</intensityMPH>
+	       <intensityKPH>37</intensityKPH>
+	       <minSeaLevelPres>1007</minSeaLevelPres>
+	       <atcfdtg>2024110218</atcfdtg>
+	       <dtg>1800 UTC NOV 02</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>0000 UTC NOV 03</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>DB INVEST (AL182024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>0000 UTC NOV 03</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>12.2 N, -79.2 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1006 mb; 29.70 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>20 knots;  23 mph;  37 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ex</styleUrl>
+	       <Point>
+	   	   <coordinates>-79.2,12.2,0</coordinates>
+	       </Point>
+	       <lat>12.2</lat>
+	       <lon>-79.2</lon>
+	       <stormName>INVEST</stormName>
+	       <stormNum>18</stormNum>
+	       <basin>AL</basin>
+	       <stormType>DB</stormType>
+	       <intensity>20</intensity>
+	       <intensityMPH>23</intensityMPH>
+	       <intensityKPH>37</intensityKPH>
+	       <minSeaLevelPres>1006</minSeaLevelPres>
+	       <atcfdtg>2024110300</atcfdtg>
+	       <dtg>0000 UTC NOV 03</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>0600 UTC NOV 03</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>DB INVEST (AL182024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>0600 UTC NOV 03</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>12.7 N, -78.2 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1006 mb; 29.70 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>25 knots;  29 mph;  46 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ex</styleUrl>
+	       <Point>
+	   	   <coordinates>-78.2,12.7,0</coordinates>
+	       </Point>
+	       <lat>12.7</lat>
+	       <lon>-78.2</lon>
+	       <stormName>INVEST</stormName>
+	       <stormNum>18</stormNum>
+	       <basin>AL</basin>
+	       <stormType>DB</stormType>
+	       <intensity>25</intensity>
+	       <intensityMPH>29</intensityMPH>
+	       <intensityKPH>46</intensityKPH>
+	       <minSeaLevelPres>1006</minSeaLevelPres>
+	       <atcfdtg>2024110306</atcfdtg>
+	       <dtg>0600 UTC NOV 03</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>1200 UTC NOV 03</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>DB INVEST (AL182024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>1200 UTC NOV 03</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>13.0 N, -77.6 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1006 mb; 29.70 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>25 knots;  29 mph;  46 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ex</styleUrl>
+	       <Point>
+	   	   <coordinates>-77.6,13.0,0</coordinates>
+	       </Point>
+	       <lat>13.0</lat>
+	       <lon>-77.6</lon>
+	       <stormName>INVEST</stormName>
+	       <stormNum>18</stormNum>
+	       <basin>AL</basin>
+	       <stormType>DB</stormType>
+	       <intensity>25</intensity>
+	       <intensityMPH>29</intensityMPH>
+	       <intensityKPH>46</intensityKPH>
+	       <minSeaLevelPres>1006</minSeaLevelPres>
+	       <atcfdtg>2024110312</atcfdtg>
+	       <dtg>1200 UTC NOV 03</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>1800 UTC NOV 03</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>DB EIGHTEEN (AL182024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>1800 UTC NOV 03</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>12.7 N, -77.1 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1004 mb; 29.64 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>30 knots;  35 mph;  56 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ex</styleUrl>
+	       <Point>
+	   	   <coordinates>-77.1,12.7,0</coordinates>
+	       </Point>
+	       <lat>12.7</lat>
+	       <lon>-77.1</lon>
+	       <stormName>EIGHTEEN</stormName>
+	       <stormNum>18</stormNum>
+	       <basin>AL</basin>
+	       <stormType>DB</stormType>
+	       <intensity>30</intensity>
+	       <intensityMPH>35</intensityMPH>
+	       <intensityKPH>56</intensityKPH>
+	       <minSeaLevelPres>1004</minSeaLevelPres>
+	       <atcfdtg>2024110318</atcfdtg>
+	       <dtg>1800 UTC NOV 03</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>0000 UTC NOV 04</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>DB EIGHTEEN (AL182024)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>0000 UTC NOV 04</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>13.0 N, -76.9 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1004 mb; 29.64 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>30 knots;  35 mph;  56 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ex</styleUrl>
+	       <Point>
+	   	   <coordinates>-76.9,13.0,0</coordinates>
+	       </Point>
+	       <lat>13.0</lat>
+	       <lon>-76.9</lon>
+	       <stormName>EIGHTEEN</stormName>
+	       <stormNum>18</stormNum>
+	       <basin>AL</basin>
+	       <stormType>DB</stormType>
+	       <intensity>30</intensity>
+	       <intensityMPH>35</intensityMPH>
+	       <intensityKPH>56</intensityKPH>
+	       <minSeaLevelPres>1004</minSeaLevelPres>
+	       <atcfdtg>2024110400</atcfdtg>
+	       <dtg>0000 UTC NOV 04</dtg>
+	   </Placemark>
+
+        </Folder>
+<Folder>
+<name>Legend</name>
+<open>0</open>
+<visibility>1</visibility>
+<ScreenOverlay>
+<name>Legend</name>
+ <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
+         <screenXY x="0" y="1" xunits="fraction" yunits="fraction"/>
+         <rotationXY x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+         <size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+</ScreenOverlay>
+</Folder>
+</Document>
+</kml>
+
