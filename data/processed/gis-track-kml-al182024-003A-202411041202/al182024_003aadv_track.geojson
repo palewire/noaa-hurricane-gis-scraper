@@ -1,0 +1,270 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -76.8,
+                        14.8,
+                        0.0
+                    ],
+                    [
+                        -77.1,
+                        15.5,
+                        0.0
+                    ],
+                    [
+                        -78.3,
+                        17.3,
+                        0.0
+                    ],
+                    [
+                        -79.9,
+                        19.1,
+                        0.0
+                    ],
+                    [
+                        -81.7,
+                        20.8,
+                        0.0
+                    ],
+                    [
+                        -83.4,
+                        22.7,
+                        0.0
+                    ],
+                    [
+                        -84.7,
+                        24.2,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "14.8N, 76.8W",
+                "advisoryNum": "3A",
+                "atcfid": "AL182024",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Potential Tropical Cyclone Eighteen (AL182024)</b></font></td></tr> \n                        <tr><td>Advisory #3A </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "40",
+                "maxGustMPH": "45",
+                "maxWindKnots": "30",
+                "maxWindMPH": "35",
+                "minimumPressure": "1003",
+                "pubAdvTime": "700 AM EST Mon Nov 04 2024",
+                "storm": "Potential Tropical Cyclone Eighteen",
+                "stormMovement": "N",
+                "stormName": "Eighteen",
+                "stormNum": "18",
+                "stormType": "PC",
+                "styleUrl": "#72_line",
+                "timezone": "EST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -76.8,
+                        14.8,
+                        0.0
+                    ],
+                    [
+                        -77.1,
+                        15.5,
+                        0.0
+                    ],
+                    [
+                        -78.3,
+                        17.3,
+                        0.0
+                    ],
+                    [
+                        -79.9,
+                        19.1,
+                        0.0
+                    ],
+                    [
+                        -81.7,
+                        20.8,
+                        0.0
+                    ],
+                    [
+                        -83.4,
+                        22.7,
+                        0.0
+                    ],
+                    [
+                        -84.7,
+                        24.2,
+                        0.0
+                    ],
+                    [
+                        -87.0,
+                        26.0,
+                        0.0
+                    ],
+                    [
+                        -89.5,
+                        27.5,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "3A",
+                "atcfid": "AL182024",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Potential Tropical Cyclone Eighteen (AL182024)</b></font></td></tr> \n                        <tr><td>Advisory #3A </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Potential Tropical Cyclone Eighteen",
+                "stormName": "Eighteen",
+                "stormNum": "18",
+                "stormType": "PC",
+                "styleUrl": "#120_line",
+                "timezone": "EST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.8,
+                    14.8,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Potential Tropical Cyclone Eighteen (AL182024)</b></font></td></tr> \n                        <tr><td>Advisory #3A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  7:00 AM EST November 04, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 14.8 N, -76.8 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 30 knots (35 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 40 knots (45 mph) </td></tr> \n                        <tr><td nowrap>Motion: N </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 1003 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.1,
+                    15.5,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Potential Tropical Cyclone Eighteen (AL182024)</b></font></td></tr> \n                        <tr><td>Advisory #3A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>12 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  1:00 PM EST November 04, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 15.5 N, -77.1 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 35 knots (40 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 45 knots (50 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -78.3,
+                    17.3,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Potential Tropical Cyclone Eighteen (AL182024)</b></font></td></tr> \n                        <tr><td>Advisory #3A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>24 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  1:00 AM EST November 05, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 17.3 N, -78.3 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 45 knots (50 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 55 knots (65 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.9,
+                    19.1,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Potential Tropical Cyclone Eighteen (AL182024)</b></font></td></tr> \n                        <tr><td>Advisory #3A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>36 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  1:00 PM EST November 05, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 19.1 N, -79.9 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 60 knots (70 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 75 knots (85 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -81.7,
+                    20.8,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Potential Tropical Cyclone Eighteen (AL182024)</b></font></td></tr> \n                        <tr><td>Advisory #3A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>48 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  1:00 AM EST November 06, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 20.8 N, -81.7 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 70 knots (80 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 85 knots (100 mph) </td></tr>",
+                "styleUrl": "#h_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.4,
+                    22.7,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Potential Tropical Cyclone Eighteen (AL182024)</b></font></td></tr> \n                        <tr><td>Advisory #3A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>60 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  1:00 PM EST November 06, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 22.7 N, -83.4 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 70 knots (80 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 85 knots (100 mph) </td></tr>",
+                "styleUrl": "#h_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.7,
+                    24.2,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Potential Tropical Cyclone Eighteen (AL182024)</b></font></td></tr> \n                        <tr><td>Advisory #3A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>72 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  1:00 AM EST November 07, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 24.2 N, -84.7 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 70 knots (80 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 85 knots (100 mph) </td></tr>",
+                "styleUrl": "#h_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.0,
+                    26.0,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Potential Tropical Cyclone Eighteen (AL182024)</b></font></td></tr> \n                        <tr><td>Advisory #3A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>96 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  1:00 AM EST November 08, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 26.0 N, -87.0 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 65 knots (75 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 80 knots (90 mph) </td></tr>",
+                "styleUrl": "#h_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.5,
+                    27.5,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Potential Tropical Cyclone Eighteen (AL182024)</b></font></td></tr> \n                        <tr><td>Advisory #3A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>120 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  1:00 AM EST November 09, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 27.5 N, -89.5 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 55 knots (65 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 65 knots (75 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
