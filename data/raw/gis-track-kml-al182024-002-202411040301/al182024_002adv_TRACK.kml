@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+	<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"> 
+	<Document> 
+	<name>AL182024 (Advisory #2) - Forecast Track</name> 
+	<open>0</open> 
+	<description>
+		<![CDATA[<TABLE>
+		<TR><TD><B>Title:</B> Tropical Cyclone Forecast Track for AL182024 (Advisory #2)</TD></TR>
+		<TR><TD><B>Description:</B> This product will aid in the visualization of an official track forecast, the forecast points are connected by black line segments.  The track line(s) are not a forecast product, however, and because there are an infinite number of ways to connect a set of forecast points, the lines should not be interpreted as representing a specific forecast for the location of a tropical cyclone in between official forecast points.  It is also important to remember that tropical cyclone track forecasts are subject to error, and that the effects of a tropical cyclone can span many hundreds of miles from the center.</abstract></TD></TR>
+		<TR><TD><B>Date Created:</B> 11-04-2024 </TD></TR>
+		<TR><TD><B>Created:</B> National Hurricane Center</TD></TR>
+		<TR><TD><B>Disclaimer:</B>The official forecast track in KML format is an experimental product.</TD></TR>
+		<TR><TD><B>For More Information: </B><a href="https://www.nhc.noaa.gov">https://www.nhc.noaa.gov</a></TD></TR></TABLE>]]>
+	</description>
+
+	<Style id="m_point"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>mPoint.png</href> 
+			</Icon> 
+             <hotSpot x="18" y="16" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="d_point"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>dPoint.png</href> 
+			</Icon> 
+             <hotSpot x="18" y="16" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="h_point"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>hPoint.png</href> 
+			</Icon> 
+             <hotSpot x="18" y="16" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="initial_point"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>initialPoint.png</href> 
+			</Icon> 
+             <hotSpot x="18" y="16" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="xm_point"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>xmPoint.png</href> 
+			</Icon> 
+             <hotSpot x="18" y="16" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="xh_point"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>xhPoint.png</href> 
+			</Icon> 
+             <hotSpot x="18" y="16" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="l_point"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>lPoint.png</href> 
+			</Icon> 
+             <hotSpot x="18" y="16" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="120_line"> 
+		<LineStyle> 
+			<color>ff000000</color> 
+			<width>3</width> 
+		</LineStyle> 
+		<PolyStyle> 
+			<color>ff000000</color> 
+		</PolyStyle> 
+	</Style> 
+	<Style id="xd_point"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>xdPoint.png</href> 
+			</Icon> 
+             <hotSpot x="18" y="16" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="72_line"> 
+		<LineStyle> 
+			<color>ff000000</color> 
+			<width>3</width> 
+		</LineStyle> 
+		<PolyStyle> 
+			<color>ff000000</color> 
+		</PolyStyle> 
+	</Style> 
+	<Style id="s_point"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>sPoint.png</href> 
+			</Icon> 
+             <hotSpot x="18" y="16" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="xs_point"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>xsPoint.png</href> 
+			</Icon> 
+             <hotSpot x="18" y="16" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Folder id="Forecast Track"> 
+ 	    <name>Forecast Track</name> 
+
+	   <Placemark> 
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description> 
+	   	  <![CDATA[<table> 
+                        <tr><td><font color=black><b>Potential Tropical Cyclone Eighteen (AL182024)</b></font></td></tr> 
+                        <tr><td>Advisory #2 </td></tr> 
+                        <tr><td><hr></td></tr> 
+                        <tr><td>72 Hour Forecast Track</td></tr> 
+	           ]]> 
+             </description> 
+	       <styleUrl>#72_line</styleUrl> 
+
+	       <LineString> 
+	         <coordinates>  -76.9,13.3,0 -76.9,14.2,0 -77.6,16.0,0 -78.9,17.9,0 -80.9,19.8,0 -82.9,21.8,0 -84.5,23.5,0 </coordinates> 
+	       </LineString> 
+
+              <ExtendedData>
+                <Data name="timezone"> 
+                  <value>EST</value>
+                </Data> 
+                <Data name="stormType"> 
+                  <value>PC</value>
+                </Data> 
+                <Data name="basin"> 
+                  <value>al</value>
+                </Data> 
+                <Data name="fcstpd"> 
+                  <value>72</value>
+                </Data> 
+                <Data name="storm"> 
+                  <value>Potential Tropical Cyclone Eighteen</value>
+                </Data> 
+                <Data name="atcfid"> 
+                  <value>AL182024</value>
+                </Data> 
+                <Data name="advisoryNum"> 
+                  <value>2</value>
+                </Data> 
+                <Data name="stormNum"> 
+                  <value>18</value>
+                </Data> 
+                <Data name="stormName"> 
+                  <value>Eighteen</value>
+                </Data> 
+                <Data name="pubAdvTime">
+                  <value>1000 PM EST Sun Nov 03 2024</value>
+                </Data>
+                <Data name="TCInitLocation">
+                  <value>13.3N, 76.9W</value>
+                </Data>
+                <Data name="maxWindKnots">
+                  <value>30</value>
+                </Data>
+                <Data name="maxWindMPH">
+                  <value>35</value>
+                </Data>
+                <Data name="maxGustKnots">
+                  <value>40</value>
+                </Data>
+                <Data name="maxGustMPH">
+                  <value>45</value>
+                </Data>
+                <Data name="stormMovement">
+                  <value>N</value>
+                </Data>
+                <Data name="minimumPressure">
+                  <value>1004</value>
+                </Data>
+              </ExtendedData>
+	   </Placemark> 
+
+	   <Placemark> 
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description> 
+	   	  <![CDATA[<table> 
+                        <tr><td><font color=black><b>Potential Tropical Cyclone Eighteen (AL182024)</b></font></td></tr> 
+                        <tr><td>Advisory #2 </td></tr> 
+                        <tr><td><hr></td></tr> 
+                        <tr><td>120 Hour Forecast Track</td></tr> 
+	           ]]> 
+             </description> 
+	       <styleUrl>#120_line</styleUrl> 
+
+	       <LineString> 
+	         <coordinates>  -76.9,13.3,0 -76.9,14.2,0 -77.6,16.0,0 -78.9,17.9,0 -80.9,19.8,0 -82.9,21.8,0 -84.5,23.5,0 -87.0,25.5,0 -89.0,26.5,0 </coordinates> 
+	       </LineString> 
+
+              <ExtendedData>
+                <Data name="timezone"> 
+                  <value>EST</value>
+                </Data> 
+                <Data name="stormType"> 
+                  <value>PC</value>
+                </Data> 
+                <Data name="basin"> 
+                  <value>al</value>
+                </Data> 
+                <Data name="fcstpd"> 
+                  <value>120</value>
+                </Data> 
+                <Data name="storm"> 
+                  <value>Potential Tropical Cyclone Eighteen</value>
+                </Data> 
+                <Data name="atcfid"> 
+                  <value>AL182024</value>
+                </Data> 
+                <Data name="advisoryNum"> 
+                  <value>2</value>
+                </Data> 
+                <Data name="stormNum"> 
+                  <value>18</value>
+                </Data> 
+                <Data name="stormName"> 
+                  <value>Eighteen</value>
+                </Data> 
+              </ExtendedData>
+	   </Placemark>
+
+
+	   <Placemark> 
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description> 
+	   	  <![CDATA[<table> 
+                        <tr><td><font color=black><b>Potential Tropical Cyclone Eighteen (AL182024)</b></font></td></tr> 
+                        <tr><td>Advisory #2</td></tr> 
+                        <tr><td><hr></td></tr> 
+                        <tr><td nowrap>Advisory Information</td></tr> 
+	   	        <tr><td nowrap>Valid at: 10:00 PM EST November 03, 2024 </td></tr> 
+	   	        <tr><td nowrap>Location: 13.3 N, -76.9 W </td></tr> 
+	   	        <tr><td nowrap>Maximum Wind: 30 knots (35 mph) </td></tr> 
+	   	        <tr><td nowrap>Wind Gusts: 40 knots (45 mph) </td></tr> 
+                        <tr><td nowrap>Motion: N </td></tr>
+                        <tr><td nowrap>Minimum Pressure: 1004 mb </td></tr>
+	       ]]></description> 
+	       <styleUrl>#initial_point</styleUrl> 
+	       <Point> 
+	          <coordinates> -76.9,13.3,0 </coordinates> 
+	       </Point> 
+	   </Placemark> 
+
+
+	   <Placemark> 
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description> 
+	   	  <![CDATA[<table> 
+                        <tr><td><font color=black><b>Potential Tropical Cyclone Eighteen (AL182024)</b></font></td></tr> 
+                        <tr><td>Advisory #2</td></tr> 
+                        <tr><td><hr></td></tr> 
+                        <tr><td nowrap>12 hr Forecast</td></tr> 
+	   	        <tr><td nowrap>Valid at:  7:00 AM EST November 04, 2024 </td></tr> 
+	   	        <tr><td nowrap>Location: 14.2 N, -76.9 W </td></tr> 
+	   	        <tr><td nowrap>Maximum Wind: 35 knots (40 mph) </td></tr> 
+	   	        <tr><td nowrap>Wind Gusts: 45 knots (50 mph) </td></tr> 
+	       ]]></description> 
+	       <styleUrl>#s_point</styleUrl> 
+	       <Point> 
+	          <coordinates> -76.9,14.2,0 </coordinates> 
+	       </Point> 
+	   </Placemark> 
+
+
+	   <Placemark> 
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description> 
+	   	  <![CDATA[<table> 
+                        <tr><td><font color=black><b>Potential Tropical Cyclone Eighteen (AL182024)</b></font></td></tr> 
+                        <tr><td>Advisory #2</td></tr> 
+                        <tr><td><hr></td></tr> 
+                        <tr><td nowrap>24 hr Forecast</td></tr> 
+	   	        <tr><td nowrap>Valid at:  7:00 PM EST November 04, 2024 </td></tr> 
+	   	        <tr><td nowrap>Location: 16.0 N, -77.6 W </td></tr> 
+	   	        <tr><td nowrap>Maximum Wind: 40 knots (45 mph) </td></tr> 
+	   	        <tr><td nowrap>Wind Gusts: 50 knots (60 mph) </td></tr> 
+	       ]]></description> 
+	       <styleUrl>#s_point</styleUrl> 
+	       <Point> 
+	          <coordinates> -77.6,16.0,0 </coordinates> 
+	       </Point> 
+	   </Placemark> 
+
+
+	   <Placemark> 
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description> 
+	   	  <![CDATA[<table> 
+                        <tr><td><font color=black><b>Potential Tropical Cyclone Eighteen (AL182024)</b></font></td></tr> 
+                        <tr><td>Advisory #2</td></tr> 
+                        <tr><td><hr></td></tr> 
+                        <tr><td nowrap>36 hr Forecast</td></tr> 
+	   	        <tr><td nowrap>Valid at:  7:00 AM EST November 05, 2024 </td></tr> 
+	   	        <tr><td nowrap>Location: 17.9 N, -78.9 W </td></tr> 
+	   	        <tr><td nowrap>Maximum Wind: 50 knots (60 mph) </td></tr> 
+	   	        <tr><td nowrap>Wind Gusts: 60 knots (70 mph) </td></tr> 
+	       ]]></description> 
+	       <styleUrl>#s_point</styleUrl> 
+	       <Point> 
+	          <coordinates> -78.9,17.9,0 </coordinates> 
+	       </Point> 
+	   </Placemark> 
+
+
+	   <Placemark> 
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description> 
+	   	  <![CDATA[<table> 
+                        <tr><td><font color=black><b>Potential Tropical Cyclone Eighteen (AL182024)</b></font></td></tr> 
+                        <tr><td>Advisory #2</td></tr> 
+                        <tr><td><hr></td></tr> 
+                        <tr><td nowrap>48 hr Forecast</td></tr> 
+	   	        <tr><td nowrap>Valid at:  7:00 PM EST November 05, 2024 </td></tr> 
+	   	        <tr><td nowrap>Location: 19.8 N, -80.9 W </td></tr> 
+	   	        <tr><td nowrap>Maximum Wind: 60 knots (70 mph) </td></tr> 
+	   	        <tr><td nowrap>Wind Gusts: 75 knots (85 mph) </td></tr> 
+	       ]]></description> 
+	       <styleUrl>#s_point</styleUrl> 
+	       <Point> 
+	          <coordinates> -80.9,19.8,0 </coordinates> 
+	       </Point> 
+	   </Placemark> 
+
+
+	   <Placemark> 
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description> 
+	   	  <![CDATA[<table> 
+                        <tr><td><font color=black><b>Potential Tropical Cyclone Eighteen (AL182024)</b></font></td></tr> 
+                        <tr><td>Advisory #2</td></tr> 
+                        <tr><td><hr></td></tr> 
+                        <tr><td nowrap>60 hr Forecast</td></tr> 
+	   	        <tr><td nowrap>Valid at:  7:00 AM EST November 06, 2024 </td></tr> 
+	   	        <tr><td nowrap>Location: 21.8 N, -82.9 W </td></tr> 
+	   	        <tr><td nowrap>Maximum Wind: 70 knots (80 mph) </td></tr> 
+	   	        <tr><td nowrap>Wind Gusts: 85 knots (100 mph) </td></tr> 
+	       ]]></description> 
+	       <styleUrl>#h_point</styleUrl> 
+	       <Point> 
+	          <coordinates> -82.9,21.8,0 </coordinates> 
+	       </Point> 
+	   </Placemark> 
+
+
+	   <Placemark> 
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description> 
+	   	  <![CDATA[<table> 
+                        <tr><td><font color=black><b>Potential Tropical Cyclone Eighteen (AL182024)</b></font></td></tr> 
+                        <tr><td>Advisory #2</td></tr> 
+                        <tr><td><hr></td></tr> 
+                        <tr><td nowrap>72 hr Forecast</td></tr> 
+	   	        <tr><td nowrap>Valid at:  7:00 PM EST November 06, 2024 </td></tr> 
+	   	        <tr><td nowrap>Location: 23.5 N, -84.5 W </td></tr> 
+	   	        <tr><td nowrap>Maximum Wind: 65 knots (75 mph) </td></tr> 
+	   	        <tr><td nowrap>Wind Gusts: 80 knots (90 mph) </td></tr> 
+	       ]]></description> 
+	       <styleUrl>#h_point</styleUrl> 
+	       <Point> 
+	          <coordinates> -84.5,23.5,0 </coordinates> 
+	       </Point> 
+	   </Placemark> 
+
+
+	   <Placemark> 
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description> 
+	   	  <![CDATA[<table> 
+                        <tr><td><font color=black><b>Potential Tropical Cyclone Eighteen (AL182024)</b></font></td></tr> 
+                        <tr><td>Advisory #2</td></tr> 
+                        <tr><td><hr></td></tr> 
+                        <tr><td nowrap>96 hr Forecast</td></tr> 
+	   	        <tr><td nowrap>Valid at:  7:00 PM EST November 07, 2024 </td></tr> 
+	   	        <tr><td nowrap>Location: 25.5 N, -87.0 W </td></tr> 
+	   	        <tr><td nowrap>Maximum Wind: 65 knots (75 mph) </td></tr> 
+	   	        <tr><td nowrap>Wind Gusts: 80 knots (90 mph) </td></tr> 
+	       ]]></description> 
+	       <styleUrl>#h_point</styleUrl> 
+	       <Point> 
+	          <coordinates> -87.0,25.5,0 </coordinates> 
+	       </Point> 
+	   </Placemark> 
+
+
+	   <Placemark> 
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description> 
+	   	  <![CDATA[<table> 
+                        <tr><td><font color=black><b>Potential Tropical Cyclone Eighteen (AL182024)</b></font></td></tr> 
+                        <tr><td>Advisory #2</td></tr> 
+                        <tr><td><hr></td></tr> 
+                        <tr><td nowrap>120 hr Forecast</td></tr> 
+	   	        <tr><td nowrap>Valid at:  7:00 PM EST November 08, 2024 </td></tr> 
+	   	        <tr><td nowrap>Location: 26.5 N, -89.0 W </td></tr> 
+	   	        <tr><td nowrap>Maximum Wind: 55 knots (65 mph) </td></tr> 
+	   	        <tr><td nowrap>Wind Gusts: 65 knots (75 mph) </td></tr> 
+	       ]]></description> 
+	       <styleUrl>#s_point</styleUrl> 
+	       <Point> 
+	          <coordinates> -89.0,26.5,0 </coordinates> 
+	       </Point> 
+	   </Placemark> 
+
+</Folder>
+</Document>
+</kml>
