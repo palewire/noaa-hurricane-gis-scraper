@@ -1,0 +1,205 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -105.1,
+                        13.5,
+                        0.0
+                    ],
+                    [
+                        -104.2,
+                        13.2,
+                        0.0
+                    ],
+                    [
+                        -103.3,
+                        12.4,
+                        0.0
+                    ],
+                    [
+                        -102.8,
+                        11.6,
+                        0.0
+                    ],
+                    [
+                        -102.3,
+                        11.0,
+                        0.0
+                    ],
+                    [
+                        -101.5,
+                        10.8,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "13.5N, 105.1W",
+                "advisoryNum": "2",
+                "atcfid": "EP142024",
+                "basin": "ep",
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression Fourteen-E (EP142024)</b></font></td></tr> \n                        <tr><td>Advisory #2 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "35",
+                "maxGustMPH": "40",
+                "maxWindKnots": "25",
+                "maxWindMPH": "30",
+                "minimumPressure": "1006",
+                "pubAdvTime": "300 PM CST Wed Nov 06 2024",
+                "storm": "Tropical Depression Fourteen-E",
+                "stormMovement": "E",
+                "stormName": "Fourteen-E",
+                "stormNum": "14",
+                "stormType": "TD",
+                "styleUrl": "#72_line",
+                "timezone": "CST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -105.1,
+                        13.5,
+                        0.0
+                    ],
+                    [
+                        -104.2,
+                        13.2,
+                        0.0
+                    ],
+                    [
+                        -103.3,
+                        12.4,
+                        0.0
+                    ],
+                    [
+                        -102.8,
+                        11.6,
+                        0.0
+                    ],
+                    [
+                        -102.3,
+                        11.0,
+                        0.0
+                    ],
+                    [
+                        -101.5,
+                        10.8,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "2",
+                "atcfid": "EP142024",
+                "basin": "ep",
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression Fourteen-E (EP142024)</b></font></td></tr> \n                        <tr><td>Advisory #2 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Tropical Depression Fourteen-E",
+                "stormName": "Fourteen-E",
+                "stormNum": "14",
+                "stormType": "TD",
+                "styleUrl": "#120_line",
+                "timezone": "CST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.1,
+                    13.5,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression Fourteen-E (EP142024)</b></font></td></tr> \n                        <tr><td>Advisory #2</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  3:00 PM CST November 06, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 13.5 N, -105.1 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 25 knots (30 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 35 knots (40 mph) </td></tr> \n                        <tr><td nowrap>Motion: E </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 1006 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -104.2,
+                    13.2,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression Fourteen-E (EP142024)</b></font></td></tr> \n                        <tr><td>Advisory #2</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>12 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at: 12:00 AM CST November 07, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 13.2 N, -104.2 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 30 knots (35 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 40 knots (45 mph) </td></tr>",
+                "styleUrl": "#d_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -103.3,
+                    12.4,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression Fourteen-E (EP142024)</b></font></td></tr> \n                        <tr><td>Advisory #2</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>24 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at: 12:00 PM CST November 07, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 12.4 N, -103.3 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 30 knots (35 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 40 knots (45 mph) </td></tr>",
+                "styleUrl": "#d_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -102.8,
+                    11.6,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression Fourteen-E (EP142024)</b></font></td></tr> \n                        <tr><td>Advisory #2</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>36 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at: 12:00 AM CST November 08, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 11.6 N, -102.8 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 30 knots (35 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 40 knots (45 mph) </td></tr>",
+                "styleUrl": "#d_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -102.3,
+                    11.0,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression Fourteen-E (EP142024)</b></font></td></tr> \n                        <tr><td>Advisory #2</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>48 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at: 12:00 PM CST November 08, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 11.0 N, -102.3 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 30 knots (35 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 40 knots (45 mph) </td></tr>",
+                "styleUrl": "#d_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -101.5,
+                    10.8,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression Fourteen-E (EP142024)</b></font></td></tr> \n                        <tr><td>Advisory #2</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>60 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at: 12:00 AM CST November 09, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 10.8 N, -101.5 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 25 knots (30 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 35 knots (40 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
