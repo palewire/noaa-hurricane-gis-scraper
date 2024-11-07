@@ -1,0 +1,80 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -103.8,
+                        12.6,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "12.6N, 103.8W",
+                "advisoryNum": "6",
+                "atcfid": "EP142024",
+                "basin": "ep",
+                "description": "<table> \n                        <tr><td><font color=black><b>Remnants Of Fourteen-E (EP142024)</b></font></td></tr> \n                        <tr><td>Advisory #6 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "30",
+                "maxGustMPH": "35",
+                "maxWindKnots": "20",
+                "maxWindMPH": "25",
+                "minimumPressure": "1009",
+                "pubAdvTime": "300 PM CST Thu Nov 07 2024",
+                "storm": "Remnants Of Fourteen-E",
+                "stormMovement": "ESE",
+                "stormName": "Fourteen-E",
+                "stormNum": "14",
+                "stormType": "PTC",
+                "styleUrl": "#72_line",
+                "timezone": "CST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -103.8,
+                        12.6,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "6",
+                "atcfid": "EP142024",
+                "basin": "ep",
+                "description": "<table> \n                        <tr><td><font color=black><b>Remnants Of Fourteen-E (EP142024)</b></font></td></tr> \n                        <tr><td>Advisory #6 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Remnants Of Fourteen-E",
+                "stormName": "Fourteen-E",
+                "stormNum": "14",
+                "stormType": "PTC",
+                "styleUrl": "#120_line",
+                "timezone": "CST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -103.8,
+                    12.6,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Remnants Of Fourteen-E (EP142024)</b></font></td></tr> \n                        <tr><td>Advisory #6</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  3:00 PM CST November 07, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 12.6 N, -103.8 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 20 knots (25 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 30 knots (35 mph) </td></tr> \n                        <tr><td nowrap>Motion: ESE </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 1009 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
