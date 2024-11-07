@@ -2201,6 +2201,60 @@
                         13.5
                     ],
                     [
+                        -104.9,
+                        13.4
+                    ],
+                    [
+                        -104.0,
+                        12.7
+                    ],
+                    [
+                        -103.3,
+                        11.9
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "1248",
+            "properties": {
+                "model": "OFCL",
+                "warning_datetime": "2024-11-07"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -105.1,
+                        13.5
+                    ],
+                    [
+                        -104.0,
+                        12.7
+                    ],
+                    [
+                        -103.3,
+                        11.9
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "1250",
+            "properties": {
+                "model": "DRCL",
+                "warning_datetime": "2024-11-07"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -105.1,
+                        13.5
+                    ],
+                    [
                         -104.1,
                         12.9
                     ],
@@ -2223,7 +2277,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "1250",
+            "id": "1252",
             "properties": {
                 "model": "OFCI",
                 "warning_datetime": "2024-11-07"
