@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -82.89,
+                        24.63,
+                        0.0
+                    ],
+                    [
+                        -82.86,
+                        24.63,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryDate": "400 AM EST Thu Nov 07 2024",
+                "advisoryNum": "15",
+                "atcfid": "AL182024",
+                "basin": "AL",
+                "fcstpd": "120",
+                "name": "Tropical Storm Warning",
+                "storm": "Hurricane Rafael",
+                "stormName": "Rafael",
+                "stormNum": "18",
+                "stormType": "HU",
+                "styleUrl": "#TWR",
+                "timezone": "EST"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
