@@ -1,0 +1,270 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -88.8,
+                        24.5,
+                        0.0
+                    ],
+                    [
+                        -89.8,
+                        24.7,
+                        0.0
+                    ],
+                    [
+                        -91.0,
+                        25.1,
+                        0.0
+                    ],
+                    [
+                        -91.7,
+                        25.5,
+                        0.0
+                    ],
+                    [
+                        -91.9,
+                        25.8,
+                        0.0
+                    ],
+                    [
+                        -91.7,
+                        25.9,
+                        0.0
+                    ],
+                    [
+                        -91.6,
+                        25.5,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "24.5N, 88.8W",
+                "advisoryNum": "21",
+                "atcfid": "AL182024",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Rafael (AL182024)</b></font></td></tr> \n                        <tr><td>Advisory #21 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "115",
+                "maxGustMPH": "130",
+                "maxWindKnots": "95",
+                "maxWindMPH": "110",
+                "minimumPressure": "961",
+                "pubAdvTime": "900 AM CST Fri Nov 08 2024",
+                "storm": "Hurricane Rafael",
+                "stormMovement": "W",
+                "stormName": "Rafael",
+                "stormNum": "18",
+                "stormType": "HU",
+                "styleUrl": "#72_line",
+                "timezone": "CST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -88.8,
+                        24.5,
+                        0.0
+                    ],
+                    [
+                        -89.8,
+                        24.7,
+                        0.0
+                    ],
+                    [
+                        -91.0,
+                        25.1,
+                        0.0
+                    ],
+                    [
+                        -91.7,
+                        25.5,
+                        0.0
+                    ],
+                    [
+                        -91.9,
+                        25.8,
+                        0.0
+                    ],
+                    [
+                        -91.7,
+                        25.9,
+                        0.0
+                    ],
+                    [
+                        -91.6,
+                        25.5,
+                        0.0
+                    ],
+                    [
+                        -92.0,
+                        23.7,
+                        0.0
+                    ],
+                    [
+                        -92.8,
+                        22.6,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "21",
+                "atcfid": "AL182024",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Rafael (AL182024)</b></font></td></tr> \n                        <tr><td>Advisory #21 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Hurricane Rafael",
+                "stormName": "Rafael",
+                "stormNum": "18",
+                "stormType": "HU",
+                "styleUrl": "#120_line",
+                "timezone": "CST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.8,
+                    24.5,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Rafael (AL182024)</b></font></td></tr> \n                        <tr><td>Advisory #21</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  9:00 AM CST November 08, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 24.5 N, -88.8 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 95 knots (110 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 115 knots (130 mph) </td></tr> \n                        <tr><td nowrap>Motion: W </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 961 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.8,
+                    24.7,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Rafael (AL182024)</b></font></td></tr> \n                        <tr><td>Advisory #21</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>12 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  6:00 PM CST November 08, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 24.7 N, -89.8 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 85 knots (100 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 105 knots (120 mph) </td></tr>",
+                "styleUrl": "#h_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -91.0,
+                    25.1,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Rafael (AL182024)</b></font></td></tr> \n                        <tr><td>Advisory #21</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>24 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  6:00 AM CST November 09, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 25.1 N, -91.0 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 70 knots (80 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 85 knots (100 mph) </td></tr>",
+                "styleUrl": "#h_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -91.7,
+                    25.5,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Rafael (AL182024)</b></font></td></tr> \n                        <tr><td>Advisory #21</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>36 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  6:00 PM CST November 09, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 25.5 N, -91.7 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 55 knots (65 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 65 knots (75 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -91.9,
+                    25.8,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Rafael (AL182024)</b></font></td></tr> \n                        <tr><td>Advisory #21</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>48 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  6:00 AM CST November 10, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 25.8 N, -91.9 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 45 knots (50 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 55 knots (65 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -91.7,
+                    25.9,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Rafael (AL182024)</b></font></td></tr> \n                        <tr><td>Advisory #21</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>60 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  6:00 PM CST November 10, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 25.9 N, -91.7 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 40 knots (45 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 50 knots (60 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -91.6,
+                    25.5,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Rafael (AL182024)</b></font></td></tr> \n                        <tr><td>Advisory #21</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>72 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  6:00 AM CST November 11, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 25.5 N, -91.6 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 35 knots (40 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 45 knots (50 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.0,
+                    23.7,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Rafael (AL182024)</b></font></td></tr> \n                        <tr><td>Advisory #21</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>96 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  6:00 AM CST November 12, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 23.7 N, -92.0 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 30 knots (35 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 40 knots (45 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -92.8,
+                    22.6,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Rafael (AL182024)</b></font></td></tr> \n                        <tr><td>Advisory #21</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>120 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  6:00 AM CST November 13, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 22.6 N, -92.8 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 25 knots (30 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 35 knots (40 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
