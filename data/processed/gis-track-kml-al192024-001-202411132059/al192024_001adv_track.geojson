@@ -1,0 +1,270 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -79.0,
+                        16.2,
+                        0.0
+                    ],
+                    [
+                        -80.9,
+                        16.2,
+                        0.0
+                    ],
+                    [
+                        -83.0,
+                        16.3,
+                        0.0
+                    ],
+                    [
+                        -84.3,
+                        16.4,
+                        0.0
+                    ],
+                    [
+                        -84.8,
+                        16.4,
+                        0.0
+                    ],
+                    [
+                        -84.8,
+                        16.3,
+                        0.0
+                    ],
+                    [
+                        -84.7,
+                        16.1,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "16.2N, 79.0W",
+                "advisoryNum": "1",
+                "atcfid": "AL192024",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Potential Tropical Cyclone Nineteen (AL192024)</b></font></td></tr> \n                        <tr><td>Advisory #1 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "35",
+                "maxGustMPH": "40",
+                "maxWindKnots": "25",
+                "maxWindMPH": "30",
+                "minimumPressure": "1007",
+                "pubAdvTime": "400 PM EST Wed Nov 13 2024",
+                "storm": "Potential Tropical Cyclone Nineteen",
+                "stormMovement": "W",
+                "stormName": "Nineteen",
+                "stormNum": "19",
+                "stormType": "PC",
+                "styleUrl": "#72_line",
+                "timezone": "EST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -79.0,
+                        16.2,
+                        0.0
+                    ],
+                    [
+                        -80.9,
+                        16.2,
+                        0.0
+                    ],
+                    [
+                        -83.0,
+                        16.3,
+                        0.0
+                    ],
+                    [
+                        -84.3,
+                        16.4,
+                        0.0
+                    ],
+                    [
+                        -84.8,
+                        16.4,
+                        0.0
+                    ],
+                    [
+                        -84.8,
+                        16.3,
+                        0.0
+                    ],
+                    [
+                        -84.7,
+                        16.1,
+                        0.0
+                    ],
+                    [
+                        -85.4,
+                        16.3,
+                        0.0
+                    ],
+                    [
+                        -88.5,
+                        18.3,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "1",
+                "atcfid": "AL192024",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Potential Tropical Cyclone Nineteen (AL192024)</b></font></td></tr> \n                        <tr><td>Advisory #1 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Potential Tropical Cyclone Nineteen",
+                "stormName": "Nineteen",
+                "stormNum": "19",
+                "stormType": "PC",
+                "styleUrl": "#120_line",
+                "timezone": "EST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.0,
+                    16.2,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Potential Tropical Cyclone Nineteen (AL192024)</b></font></td></tr> \n                        <tr><td>Advisory #1</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  4:00 PM EST November 13, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 16.2 N, -79.0 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 25 knots (30 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 35 knots (40 mph) </td></tr> \n                        <tr><td nowrap>Motion: W </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 1007 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.9,
+                    16.2,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Potential Tropical Cyclone Nineteen (AL192024)</b></font></td></tr> \n                        <tr><td>Advisory #1</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>12 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  1:00 AM EST November 14, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 16.2 N, -80.9 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 30 knots (35 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 40 knots (45 mph) </td></tr>",
+                "styleUrl": "#d_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.0,
+                    16.3,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Potential Tropical Cyclone Nineteen (AL192024)</b></font></td></tr> \n                        <tr><td>Advisory #1</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>24 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  1:00 PM EST November 14, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 16.3 N, -83.0 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 35 knots (40 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 45 knots (50 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.3,
+                    16.4,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Potential Tropical Cyclone Nineteen (AL192024)</b></font></td></tr> \n                        <tr><td>Advisory #1</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>36 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  1:00 AM EST November 15, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 16.4 N, -84.3 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 45 knots (50 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 55 knots (65 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.8,
+                    16.4,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Potential Tropical Cyclone Nineteen (AL192024)</b></font></td></tr> \n                        <tr><td>Advisory #1</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>48 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  1:00 PM EST November 15, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 16.4 N, -84.8 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 60 knots (70 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 75 knots (85 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.8,
+                    16.3,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Potential Tropical Cyclone Nineteen (AL192024)</b></font></td></tr> \n                        <tr><td>Advisory #1</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>60 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  1:00 AM EST November 16, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 16.3 N, -84.8 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 60 knots (70 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 75 knots (85 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -84.7,
+                    16.1,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Potential Tropical Cyclone Nineteen (AL192024)</b></font></td></tr> \n                        <tr><td>Advisory #1</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>72 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  1:00 PM EST November 16, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 16.1 N, -84.7 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 60 knots (70 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 75 knots (85 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -85.4,
+                    16.3,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Potential Tropical Cyclone Nineteen (AL192024)</b></font></td></tr> \n                        <tr><td>Advisory #1</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>96 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  1:00 PM EST November 17, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 16.3 N, -85.4 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 60 knots (70 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 75 knots (85 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.5,
+                    18.3,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Potential Tropical Cyclone Nineteen (AL192024)</b></font></td></tr> \n                        <tr><td>Advisory #1</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>120 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  1:00 PM EST November 18, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 18.3 N, -88.5 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 55 knots (65 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 65 knots (75 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
