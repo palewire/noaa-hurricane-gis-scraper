@@ -2116,6 +2116,10 @@
                         16.1
                     ],
                     [
+                        -86.3,
+                        16.1
+                    ],
+                    [
                         -86.6,
                         16.3
                     ],
@@ -2134,7 +2138,40 @@
                 ],
                 "type": "LineString"
             },
-            "id": "1075",
+            "id": "1066",
+            "properties": {
+                "model": "OFCL",
+                "warning_datetime": "2024-11-16 06:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -86.3,
+                        16.1
+                    ],
+                    [
+                        -86.6,
+                        16.3
+                    ],
+                    [
+                        -87.6,
+                        16.7
+                    ],
+                    [
+                        -89.1,
+                        17.3
+                    ],
+                    [
+                        -90.8,
+                        18.6
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "1076",
             "properties": {
                 "model": "DRCL",
                 "warning_datetime": "2024-11-16 06:00:00"
@@ -2171,7 +2208,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "1085",
+            "id": "1086",
             "properties": {
                 "model": "OFCI",
                 "warning_datetime": "2024-11-16 06:00:00"
@@ -2208,7 +2245,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "1090",
+            "id": "1091",
             "properties": {
                 "model": "EGRI",
                 "warning_datetime": "2024-11-16 06:00:00"
@@ -2245,7 +2282,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "1095",
+            "id": "1096",
             "properties": {
                 "model": "UKMI",
                 "warning_datetime": "2024-11-16 06:00:00"
