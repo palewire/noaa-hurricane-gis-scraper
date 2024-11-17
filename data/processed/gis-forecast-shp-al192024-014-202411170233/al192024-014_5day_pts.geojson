@@ -1,0 +1,113 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.3,
+                    16.5
+                ],
+                "type": "Point"
+            },
+            "id": "0",
+            "properties": {
+                "ADVDATE": "900 PM CST Sat Nov 16 2024",
+                "ADVISNUM": "14",
+                "BASIN": "AL",
+                "DATELBL": "9:00 PM Sat",
+                "DVLBL": "S",
+                "FCSTPRD": 120.0,
+                "FLDATELBL": "2024-11-16 6:00 PM Sat CST",
+                "GUST": 45.0,
+                "LAT": 16.5,
+                "LON": -87.3,
+                "MAXWIND": 35.0,
+                "MSLP": 1001.0,
+                "SSNUM": 0.0,
+                "STORMNAME": "Tropical Storm Sara",
+                "STORMNUM": 19.0,
+                "STORMSRC": "Tropical Cyclone",
+                "STORMTYPE": "TS",
+                "TAU": 0.0,
+                "TCDIR": 290.0,
+                "TCDVLP": "Tropical Storm",
+                "TCSPD": 4.0,
+                "TIMEZONE": "CST",
+                "VALIDTIME": "17/0000"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -88.0,
+                    16.7
+                ],
+                "type": "Point"
+            },
+            "id": "1",
+            "properties": {
+                "ADVDATE": "900 PM CST Sat Nov 16 2024",
+                "ADVISNUM": "14",
+                "BASIN": "AL",
+                "DATELBL": "6:00 AM Sun",
+                "DVLBL": "S",
+                "FCSTPRD": 120.0,
+                "FLDATELBL": "2024-11-17 6:00 AM Sun CST",
+                "GUST": 45.0,
+                "LAT": 16.7,
+                "LON": -88.0,
+                "MAXWIND": 35.0,
+                "MSLP": 9999.0,
+                "SSNUM": 0.0,
+                "STORMNAME": "Tropical Storm Sara",
+                "STORMNUM": 19.0,
+                "STORMSRC": "Tropical Cyclone",
+                "STORMTYPE": "TS",
+                "TAU": 12.0,
+                "TCDIR": 9999.0,
+                "TCDVLP": "Tropical Storm",
+                "TCSPD": 9999.0,
+                "TIMEZONE": "CST",
+                "VALIDTIME": "17/1200"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.6,
+                    17.6
+                ],
+                "type": "Point"
+            },
+            "id": "2",
+            "properties": {
+                "ADVDATE": "900 PM CST Sat Nov 16 2024",
+                "ADVISNUM": "14",
+                "BASIN": "AL",
+                "DATELBL": "6:00 PM Sun",
+                "DVLBL": "D",
+                "FCSTPRD": 120.0,
+                "FLDATELBL": "2024-11-17 6:00 PM Sun CST",
+                "GUST": 35.0,
+                "LAT": 17.6,
+                "LON": -89.6,
+                "MAXWIND": 25.0,
+                "MSLP": 9999.0,
+                "SSNUM": 0.0,
+                "STORMNAME": "Tropical Storm Sara",
+                "STORMNUM": 19.0,
+                "STORMSRC": "Tropical Cyclone",
+                "STORMTYPE": "TD",
+                "TAU": 24.0,
+                "TCDIR": 9999.0,
+                "TCDVLP": "Tropical Depression",
+                "TCSPD": 9999.0,
+                "TIMEZONE": "CST",
+                "VALIDTIME": "18/0000"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
