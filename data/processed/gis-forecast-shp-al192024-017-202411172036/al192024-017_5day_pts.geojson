@@ -1,0 +1,77 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -89.5,
+                    17.8
+                ],
+                "type": "Point"
+            },
+            "id": "0",
+            "properties": {
+                "ADVDATE": "300 PM CST Sun Nov 17 2024",
+                "ADVISNUM": "17",
+                "BASIN": "AL",
+                "DATELBL": "3:00 PM Sun",
+                "DVLBL": "D",
+                "FCSTPRD": 120.0,
+                "FLDATELBL": "2024-11-17 12:00 PM Sun CST",
+                "GUST": 40.0,
+                "LAT": 17.8,
+                "LON": -89.5,
+                "MAXWIND": 30.0,
+                "MSLP": 1003.0,
+                "SSNUM": 0.0,
+                "STORMNAME": "Tropical Depression Sara",
+                "STORMNUM": 19.0,
+                "STORMSRC": "Tropical Cyclone",
+                "STORMTYPE": "TD",
+                "TAU": 0.0,
+                "TCDIR": 300.0,
+                "TCDVLP": "Tropical Depression",
+                "TCSPD": 10.0,
+                "TIMEZONE": "CST",
+                "VALIDTIME": "17/1800"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -91.1,
+                    18.9
+                ],
+                "type": "Point"
+            },
+            "id": "1",
+            "properties": {
+                "ADVDATE": "300 PM CST Sun Nov 17 2024",
+                "ADVISNUM": "17",
+                "BASIN": "AL",
+                "DATELBL": "12:00 AM Mon",
+                "DVLBL": "D",
+                "FCSTPRD": 120.0,
+                "FLDATELBL": "2024-11-18 12:00 AM Mon CST",
+                "GUST": 35.0,
+                "LAT": 18.9,
+                "LON": -91.1,
+                "MAXWIND": 25.0,
+                "MSLP": 9999.0,
+                "SSNUM": 0.0,
+                "STORMNAME": "Tropical Depression Sara",
+                "STORMNUM": 19.0,
+                "STORMSRC": "Post-Tropical Cyclone",
+                "STORMTYPE": "STD",
+                "TAU": 12.0,
+                "TCDIR": 9999.0,
+                "TCDVLP": "Subtropical Depression",
+                "TCSPD": 9999.0,
+                "TIMEZONE": "CST",
+                "VALIDTIME": "18/0600"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

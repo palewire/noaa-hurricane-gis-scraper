@@ -2046,13 +2046,38 @@
                         17.4
                     ],
                     [
+                        -89.5,
+                        17.8
+                    ],
+                    [
                         -91.1,
                         18.9
                     ]
                 ],
                 "type": "LineString"
             },
-            "id": "1535",
+            "id": "1521",
+            "properties": {
+                "model": "OFCL",
+                "warning_datetime": "2024-11-17 18:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -89.0,
+                        17.4
+                    ],
+                    [
+                        -91.1,
+                        18.9
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "1536",
             "properties": {
                 "model": "DRCL",
                 "warning_datetime": "2024-11-17 18:00:00"
@@ -2073,7 +2098,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "1551",
+            "id": "1552",
             "properties": {
                 "model": "OFCI",
                 "warning_datetime": "2024-11-17 18:00:00"
