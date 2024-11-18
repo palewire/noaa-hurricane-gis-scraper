@@ -2117,8 +2117,33 @@
             "type": "Feature"
         },
         {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -90.2,
+                        18.0
+                    ],
+                    [
+                        -90.7,
+                        18.1
+                    ],
+                    [
+                        -92.0,
+                        19.3
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "1598",
+            "properties": {
+                "model": "OFCL",
+                "warning_datetime": "2024-11-18"
+            },
+            "type": "Feature"
+        },
+        {
             "geometry": null,
-            "id": "1629",
+            "id": "1630",
             "properties": {
                 "model": "OFCI",
                 "warning_datetime": "2024-11-18"
