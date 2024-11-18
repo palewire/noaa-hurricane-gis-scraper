@@ -1,0 +1,80 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -91.5,
+                        19.0,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "19.0N, 91.5W",
+                "advisoryNum": "19",
+                "atcfid": "AL192024",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Remnants Of Sara (AL192024)</b></font></td></tr> \n                        <tr><td>Advisory #19 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "35",
+                "maxGustMPH": "40",
+                "maxWindKnots": "25",
+                "maxWindMPH": "30",
+                "minimumPressure": "1005",
+                "pubAdvTime": "300 AM CST Mon Nov 18 2024",
+                "storm": "Remnants Of Sara",
+                "stormMovement": "NW",
+                "stormName": "Sara",
+                "stormNum": "19",
+                "stormType": "PTC",
+                "styleUrl": "#72_line",
+                "timezone": "CST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -91.5,
+                        19.0,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "19",
+                "atcfid": "AL192024",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Remnants Of Sara (AL192024)</b></font></td></tr> \n                        <tr><td>Advisory #19 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Remnants Of Sara",
+                "stormName": "Sara",
+                "stormNum": "19",
+                "stormType": "PTC",
+                "styleUrl": "#120_line",
+                "timezone": "CST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -91.5,
+                    19.0,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Remnants Of Sara (AL192024)</b></font></td></tr> \n                        <tr><td>Advisory #19</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  3:00 AM CST November 18, 2024 </td></tr> \n\t   \t        <tr><td nowrap>Location: 19.0 N, -91.5 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 25 knots (30 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 35 knots (40 mph) </td></tr> \n                        <tr><td nowrap>Motion: NW </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 1005 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
