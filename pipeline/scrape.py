@@ -14,7 +14,10 @@ from . import utils
 
 THIS_DIR = Path(__file__).parent
 DATA_DIR = THIS_DIR.parent / "data" / "raw"
-DUMMY_URL = "https://www.nhc.noaa.gov/gis/"
+DUMMY_URLS = [
+    "https://www.nhc.noaa.gov/gis/",
+    "https://www.nhc.noaa.gov/",
+]
 
 
 @click.group()
@@ -125,7 +128,7 @@ def feeds() -> None:
     for rss in rss_list:
         d = utils.get_rss_url(rss)
         for entry in d.entries:
-            if entry.id == DUMMY_URL:
+            if entry.id in DUMMY_URLS:
                 continue
 
             # Write out the entry
@@ -134,13 +137,14 @@ def feeds() -> None:
 
             # Loop through the links
             for link in entry.links:
-                if link.href == DUMMY_URL:
+                if link.href in DUMMY_URLS:
                     continue
 
                 # Download the file
                 r = utils.get_url(link.href)
 
                 # Save the file
+                print(link.href)
                 path = this_dir / link.href.split("/")[-1]
                 with open(path, "wb") as f:
                     f.write(r.content)
