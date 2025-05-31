@@ -1645,6 +1645,60 @@
                         19.6
                     ],
                     [
+                        -109.5,
+                        21.1
+                    ],
+                    [
+                        -109.5,
+                        22.3
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "1326",
+            "properties": {
+                "model": "DRCL",
+                "warning_datetime": "2025-05-31 06:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -109.2,
+                        19.6
+                    ],
+                    [
+                        -109.3,
+                        20.0
+                    ],
+                    [
+                        -109.5,
+                        21.1
+                    ],
+                    [
+                        -109.5,
+                        22.3
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "1359",
+            "properties": {
+                "model": "OFCL",
+                "warning_datetime": "2025-05-31 06:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -109.2,
+                        19.6
+                    ],
+                    [
                         -109.4,
                         21.1
                     ],
@@ -1659,7 +1713,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "1370",
+            "id": "1372",
             "properties": {
                 "model": "OFCI",
                 "warning_datetime": "2025-05-31 06:00:00"
@@ -1688,7 +1742,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "1375",
+            "id": "1377",
             "properties": {
                 "model": "EGRI",
                 "warning_datetime": "2025-05-31 06:00:00"
