@@ -45,6 +45,139 @@
             "geometry": {
                 "coordinates": [
                     [
+                        -105.7,
+                        9.7
+                    ],
+                    [
+                        -107.0,
+                        9.5
+                    ],
+                    [
+                        -107.2,
+                        10.1
+                    ],
+                    [
+                        -107.6,
+                        11.0
+                    ],
+                    [
+                        -108.4,
+                        11.5
+                    ],
+                    [
+                        -108.9,
+                        12.2
+                    ],
+                    [
+                        -109.6,
+                        12.7
+                    ],
+                    [
+                        -110.1,
+                        12.9
+                    ],
+                    [
+                        -110.4,
+                        13.3
+                    ],
+                    [
+                        -110.9,
+                        13.3
+                    ],
+                    [
+                        -111.0,
+                        13.6
+                    ],
+                    [
+                        -111.1,
+                        14.0
+                    ],
+                    [
+                        -110.9,
+                        14.3
+                    ],
+                    [
+                        -109.9,
+                        15.0
+                    ],
+                    [
+                        -109.2,
+                        16.8
+                    ],
+                    [
+                        -109.2,
+                        16.8
+                    ],
+                    [
+                        -109.4,
+                        18.7
+                    ],
+                    [
+                        -110.4,
+                        19.6
+                    ],
+                    [
+                        -111.5,
+                        20.6
+                    ],
+                    [
+                        -113.1,
+                        19.6
+                    ],
+                    [
+                        -114.9,
+                        17.4
+                    ],
+                    [
+                        -115.0,
+                        17.1
+                    ],
+                    [
+                        -114.9,
+                        17.3
+                    ],
+                    [
+                        -114.9,
+                        17.4
+                    ],
+                    [
+                        -115.1,
+                        17.5
+                    ],
+                    [
+                        -114.4,
+                        18.1
+                    ],
+                    [
+                        -114.4,
+                        18.3
+                    ],
+                    [
+                        -114.5,
+                        18.0
+                    ],
+                    [
+                        -115.4,
+                        17.2
+                    ],
+                    [
+                        -116.4,
+                        17.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "72",
+            "properties": {
+                "model": "AVNO",
+                "warning_datetime": "2025-06-07"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
                         -108.2,
                         11.1
                     ],
@@ -87,7 +220,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "74",
+            "id": "76",
             "properties": {
                 "model": "CLP5",
                 "warning_datetime": "2025-06-07"
@@ -160,9 +293,18 @@
                 ],
                 "type": "LineString"
             },
-            "id": "77",
+            "id": "80",
             "properties": {
                 "model": "DSHP",
+                "warning_datetime": "2025-06-07"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": null,
+            "id": "83",
+            "properties": {
+                "model": "EGRR",
                 "warning_datetime": "2025-06-07"
             },
             "type": "Feature"
@@ -225,7 +367,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "81",
+            "id": "86",
             "properties": {
                 "model": "HCCA",
                 "warning_datetime": "2025-06-07"
@@ -298,7 +440,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "84",
+            "id": "90",
             "properties": {
                 "model": "IVCN",
                 "warning_datetime": "2025-06-07"
@@ -371,7 +513,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "87",
+            "id": "94",
             "properties": {
                 "model": "LGEM",
                 "warning_datetime": "2025-06-07"
@@ -444,7 +586,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "90",
+            "id": "98",
             "properties": {
                 "model": "NNIB",
                 "warning_datetime": "2025-06-07"
@@ -513,7 +655,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "93",
+            "id": "102",
             "properties": {
                 "model": "NNIC",
                 "warning_datetime": "2025-06-07"
@@ -570,7 +712,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "96",
+            "id": "106",
             "properties": {
                 "model": "OCD5",
                 "warning_datetime": "2025-06-07"
@@ -627,7 +769,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "99",
+            "id": "110",
             "properties": {
                 "model": "SHF5",
                 "warning_datetime": "2025-06-07"
@@ -700,7 +842,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "102",
+            "id": "114",
             "properties": {
                 "model": "SHIP",
                 "warning_datetime": "2025-06-07"
@@ -829,7 +971,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "105",
+            "id": "118",
             "properties": {
                 "model": "TABD",
                 "warning_datetime": "2025-06-07"
@@ -958,7 +1100,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "108",
+            "id": "122",
             "properties": {
                 "model": "TABM",
                 "warning_datetime": "2025-06-07"
@@ -1087,7 +1229,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "111",
+            "id": "126",
             "properties": {
                 "model": "TABS",
                 "warning_datetime": "2025-06-07"
@@ -1184,7 +1326,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "114",
+            "id": "130",
             "properties": {
                 "model": "TCLP",
                 "warning_datetime": "2025-06-07"
@@ -1257,7 +1399,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "117",
+            "id": "134",
             "properties": {
                 "model": "XTRP",
                 "warning_datetime": "2025-06-07"
@@ -1326,7 +1468,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "119",
+            "id": "137",
             "properties": {
                 "model": "AEMI",
                 "warning_datetime": "2025-06-07"
@@ -1399,7 +1541,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "121",
+            "id": "139",
             "properties": {
                 "model": "AVNI",
                 "warning_datetime": "2025-06-07"
@@ -1472,7 +1614,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "125",
+            "id": "144",
             "properties": {
                 "model": "RVCN",
                 "warning_datetime": "2025-06-07"
@@ -1537,7 +1679,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "127",
+            "id": "147",
             "properties": {
                 "model": "TVCA",
                 "warning_datetime": "2025-06-07"
@@ -1602,7 +1744,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "129",
+            "id": "149",
             "properties": {
                 "model": "TVCC",
                 "warning_datetime": "2025-06-07"
@@ -1667,7 +1809,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "131",
+            "id": "151",
             "properties": {
                 "model": "TVCE",
                 "warning_datetime": "2025-06-07"
@@ -1732,7 +1874,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "133",
+            "id": "153",
             "properties": {
                 "model": "TVCN",
                 "warning_datetime": "2025-06-07"
@@ -1789,9 +1931,62 @@
                 ],
                 "type": "LineString"
             },
-            "id": "135",
+            "id": "155",
             "properties": {
                 "model": "TVCX",
+                "warning_datetime": "2025-06-07"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -107.2,
+                        10.3
+                    ],
+                    [
+                        -108.1,
+                        10.8
+                    ],
+                    [
+                        -110.0,
+                        11.4
+                    ],
+                    [
+                        -112.1,
+                        12.1
+                    ],
+                    [
+                        -114.1,
+                        13.0
+                    ],
+                    [
+                        -116.3,
+                        14.0
+                    ],
+                    [
+                        -118.6,
+                        14.9
+                    ],
+                    [
+                        -121.3,
+                        15.4
+                    ],
+                    [
+                        -125.1,
+                        16.0
+                    ],
+                    [
+                        -127.1,
+                        16.8
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "156",
+            "properties": {
+                "model": "UKX",
                 "warning_datetime": "2025-06-07"
             },
             "type": "Feature"
@@ -1846,7 +2041,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "136",
+            "id": "157",
             "properties": {
                 "model": "CEM2",
                 "warning_datetime": "2025-06-07"
@@ -1903,7 +2098,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "137",
+            "id": "158",
             "properties": {
                 "model": "CMC2",
                 "warning_datetime": "2025-06-07"
