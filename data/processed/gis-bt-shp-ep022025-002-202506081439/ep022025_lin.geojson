@@ -1,0 +1,85 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -92.6,
+                        10.0
+                    ],
+                    [
+                        -93.3,
+                        10.3
+                    ],
+                    [
+                        -94.2,
+                        10.7
+                    ],
+                    [
+                        -95.1,
+                        11.2
+                    ],
+                    [
+                        -96.1,
+                        11.6
+                    ],
+                    [
+                        -97.0,
+                        12.3
+                    ],
+                    [
+                        -98.2,
+                        12.8
+                    ],
+                    [
+                        -99.2,
+                        13.5
+                    ],
+                    [
+                        -100.1,
+                        14.2
+                    ],
+                    [
+                        -100.9,
+                        14.6
+                    ],
+                    [
+                        -102.0,
+                        15.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "0",
+            "properties": {
+                "SS": 0.0,
+                "STORMNUM": 2.0,
+                "STORMTYPE": "DB"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -102.0,
+                        15.0
+                    ],
+                    [
+                        -102.7,
+                        15.4
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "1",
+            "properties": {
+                "SS": 0.0,
+                "STORMNUM": 2.0,
+                "STORMTYPE": "DB"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
