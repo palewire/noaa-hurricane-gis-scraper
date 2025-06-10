@@ -1713,6 +1713,47 @@
                         15.4
                     ],
                     [
+                        -114.6,
+                        15.4
+                    ],
+                    [
+                        -114.5,
+                        15.8
+                    ],
+                    [
+                        -113.9,
+                        16.6
+                    ],
+                    [
+                        -113.4,
+                        17.8
+                    ],
+                    [
+                        -113.5,
+                        18.8
+                    ],
+                    [
+                        -114.2,
+                        19.6
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "1152",
+            "properties": {
+                "model": "DRCL",
+                "warning_datetime": "2025-06-10 12:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -114.6,
+                        15.4
+                    ],
+                    [
                         -114.5,
                         16.0
                     ],
@@ -1731,9 +1772,58 @@
                 ],
                 "type": "LineString"
             },
-            "id": "1156",
+            "id": "1157",
             "properties": {
                 "model": "EGR2",
+                "warning_datetime": "2025-06-10 12:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -114.6,
+                        15.4
+                    ],
+                    [
+                        -114.6,
+                        15.4
+                    ],
+                    [
+                        -114.6,
+                        15.5
+                    ],
+                    [
+                        -114.6,
+                        15.5
+                    ],
+                    [
+                        -114.5,
+                        15.8
+                    ],
+                    [
+                        -113.9,
+                        16.6
+                    ],
+                    [
+                        -113.4,
+                        17.8
+                    ],
+                    [
+                        -113.5,
+                        18.8
+                    ],
+                    [
+                        -114.2,
+                        19.6
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "1174",
+            "properties": {
+                "model": "OFCL",
                 "warning_datetime": "2025-06-10 12:00:00"
             },
             "type": "Feature"
@@ -1776,7 +1866,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "1180",
+            "id": "1182",
             "properties": {
                 "model": "NVGI",
                 "warning_datetime": "2025-06-10 12:00:00"
@@ -1817,7 +1907,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "1188",
+            "id": "1190",
             "properties": {
                 "model": "OFCI",
                 "warning_datetime": "2025-06-10 12:00:00"
@@ -1854,7 +1944,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "1198",
+            "id": "1200",
             "properties": {
                 "model": "CTCI",
                 "warning_datetime": "2025-06-10 12:00:00"
@@ -1887,7 +1977,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "1200",
+            "id": "1202",
             "properties": {
                 "model": "UKM2",
                 "warning_datetime": "2025-06-10 12:00:00"
