@@ -2045,6 +2045,55 @@
                         15.0
                     ],
                     [
+                        -114.1,
+                        15.0
+                    ],
+                    [
+                        -114.5,
+                        15.4
+                    ],
+                    [
+                        -114.5,
+                        15.4
+                    ],
+                    [
+                        -114.3,
+                        15.9
+                    ],
+                    [
+                        -114.3,
+                        15.9
+                    ],
+                    [
+                        -113.5,
+                        16.9
+                    ],
+                    [
+                        -113.0,
+                        18.2
+                    ],
+                    [
+                        -113.1,
+                        19.3
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "1004",
+            "properties": {
+                "model": "DRCL",
+                "warning_datetime": "2025-06-10"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -114.1,
+                        15.0
+                    ],
+                    [
                         -114.7,
                         15.7
                     ],
@@ -2063,9 +2112,66 @@
                 ],
                 "type": "LineString"
             },
-            "id": "1007",
+            "id": "1008",
             "properties": {
                 "model": "EGR2",
+                "warning_datetime": "2025-06-10"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -114.1,
+                        15.0
+                    ],
+                    [
+                        -114.1,
+                        15.0
+                    ],
+                    [
+                        -114.2,
+                        15.2
+                    ],
+                    [
+                        -114.2,
+                        15.2
+                    ],
+                    [
+                        -114.5,
+                        15.5
+                    ],
+                    [
+                        -114.5,
+                        15.5
+                    ],
+                    [
+                        -114.3,
+                        15.9
+                    ],
+                    [
+                        -114.3,
+                        15.9
+                    ],
+                    [
+                        -113.5,
+                        16.9
+                    ],
+                    [
+                        -113.0,
+                        18.2
+                    ],
+                    [
+                        -113.1,
+                        19.3
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "1021",
+            "properties": {
+                "model": "OFCL",
                 "warning_datetime": "2025-06-10"
             },
             "type": "Feature"
@@ -2112,7 +2218,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "1025",
+            "id": "1027",
             "properties": {
                 "model": "NVGI",
                 "warning_datetime": "2025-06-10"
@@ -2165,7 +2271,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "1031",
+            "id": "1033",
             "properties": {
                 "model": "OFCI",
                 "warning_datetime": "2025-06-10"
@@ -2214,7 +2320,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "1035",
+            "id": "1037",
             "properties": {
                 "model": "CTCI",
                 "warning_datetime": "2025-06-10"
@@ -2247,7 +2353,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "1036",
+            "id": "1038",
             "properties": {
                 "model": "UKM2",
                 "warning_datetime": "2025-06-10"
