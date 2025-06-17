@@ -1,0 +1,84 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -96.23,
+                        15.69,
+                        0.0
+                    ],
+                    [
+                        -95.2,
+                        16.16,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryDate": "900 PM CST Mon Jun 16 2025",
+                "advisoryNum": "2",
+                "atcfid": "EP052025",
+                "basin": "EP",
+                "fcstpd": "120",
+                "name": "Tropical Storm Watch",
+                "storm": "Tropical Depression Five-E",
+                "stormName": "Five-E",
+                "stormNum": "5",
+                "stormType": "TD",
+                "styleUrl": "#TWA",
+                "timezone": "CST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -98.57,
+                        16.33,
+                        0.0
+                    ],
+                    [
+                        -97.64,
+                        15.97,
+                        0.0
+                    ],
+                    [
+                        -97.06,
+                        15.86,
+                        0.0
+                    ],
+                    [
+                        -96.49,
+                        15.66,
+                        0.0
+                    ],
+                    [
+                        -96.23,
+                        15.69,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryDate": "900 PM CST Mon Jun 16 2025",
+                "advisoryNum": "2",
+                "atcfid": "EP052025",
+                "basin": "EP",
+                "fcstpd": "120",
+                "name": "Hurricane Watch",
+                "storm": "Tropical Depression Five-E",
+                "stormName": "Five-E",
+                "stormNum": "5",
+                "stormType": "TD",
+                "styleUrl": "#HWA",
+                "timezone": "CST"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
