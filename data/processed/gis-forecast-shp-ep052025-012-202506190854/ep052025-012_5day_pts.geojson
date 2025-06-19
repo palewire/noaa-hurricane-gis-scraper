@@ -1,0 +1,113 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.9,
+                    15.9
+                ],
+                "type": "Point"
+            },
+            "id": "0",
+            "properties": {
+                "ADVDATE": "300 AM CST Thu Jun 19 2025",
+                "ADVISNUM": "12",
+                "BASIN": "EP",
+                "DATELBL": "3:00 AM Thu",
+                "DVLBL": "M",
+                "FCSTPRD": 120.0,
+                "FLDATELBL": "2025-06-19 12:00 AM Thu CST",
+                "GUST": 145.0,
+                "LAT": 15.9,
+                "LON": -97.9,
+                "MAXWIND": 120.0,
+                "MSLP": 940.0,
+                "SSNUM": 4.0,
+                "STORMNAME": "Hurricane Erick",
+                "STORMNUM": 5.0,
+                "STORMSRC": "Tropical Cyclone",
+                "STORMTYPE": "MH",
+                "TAU": 0.0,
+                "TCDIR": 310.0,
+                "TCDVLP": "Major Hurricane",
+                "TCSPD": 8.0,
+                "TIMEZONE": "CST",
+                "VALIDTIME": "19/0600"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.9,
+                    16.7
+                ],
+                "type": "Point"
+            },
+            "id": "1",
+            "properties": {
+                "ADVDATE": "300 AM CST Thu Jun 19 2025",
+                "ADVISNUM": "12",
+                "BASIN": "EP",
+                "DATELBL": "12:00 PM Thu",
+                "DVLBL": "H",
+                "FCSTPRD": 120.0,
+                "FLDATELBL": "2025-06-19 12:00 PM Thu CST",
+                "GUST": 100.0,
+                "LAT": 16.7,
+                "LON": -98.9,
+                "MAXWIND": 80.0,
+                "MSLP": 9999.0,
+                "SSNUM": 1.0,
+                "STORMNAME": "Hurricane Erick",
+                "STORMNUM": 5.0,
+                "STORMSRC": "Tropical Cyclone",
+                "STORMTYPE": "HU",
+                "TAU": 12.0,
+                "TCDIR": 9999.0,
+                "TCDVLP": "Hurricane",
+                "TCSPD": 9999.0,
+                "TIMEZONE": "CST",
+                "VALIDTIME": "19/1800"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -99.8,
+                    17.5
+                ],
+                "type": "Point"
+            },
+            "id": "2",
+            "properties": {
+                "ADVDATE": "300 AM CST Thu Jun 19 2025",
+                "ADVISNUM": "12",
+                "BASIN": "EP",
+                "DATELBL": "12:00 AM Fri",
+                "DVLBL": "D",
+                "FCSTPRD": 120.0,
+                "FLDATELBL": "2025-06-20 12:00 AM Fri CST",
+                "GUST": 40.0,
+                "LAT": 17.5,
+                "LON": -99.8,
+                "MAXWIND": 30.0,
+                "MSLP": 9999.0,
+                "SSNUM": 0.0,
+                "STORMNAME": "Hurricane Erick",
+                "STORMNUM": 5.0,
+                "STORMSRC": "Tropical Cyclone",
+                "STORMTYPE": "TD",
+                "TAU": 24.0,
+                "TCDIR": 9999.0,
+                "TCDVLP": "Tropical Depression",
+                "TCSPD": 9999.0,
+                "TIMEZONE": "CST",
+                "VALIDTIME": "20/0600"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
