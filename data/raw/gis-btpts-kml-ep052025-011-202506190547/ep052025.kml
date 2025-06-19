@@ -1,0 +1,887 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+	<kml xmlns="http://earth.google.com/kml/2.2"> 
+	<Document> 
+	<name>EP052025 Erick</name> 
+	<open>0</open> 
+	<description>
+		<![CDATA[<TABLE>
+		<TR><TD><B>Title:</B> Tropical Cyclone Best Track for EP052025</TD></TR>
+		<TR><TD><B>Description:</B> The best track is a subjectively-smoothed representation of the tropical cyclone's location and intensity at 6-h interval over its lifetime.  These best track positions and intensity (maximum 1-minute sustained surface wind speed and minimum sea-level pressure) are based on a post-storm assessment of all available data and may differ from values contained in real-time storm advisories.  In general, they will not reflect the erratic motion implied by connecting the individual center fix positions.  The best track is a living database which servers as the official U.S. National Weather Service historical record of the tropical cyclone. 
+		<TR><TD><B>Date Created:</B> 19-06-2025</TD></TR>
+		<TR><TD><B>Created:</B> National Hurricane Center </TD></TR>
+		<TR><TD><B>Disclaimer:</B> These data are intended for geographic display and analysis at the national level, and for large regional areas. No responsibilty is assumed by the National Oceanic and Atmospheric Administration or the National Hurricane Center in the use of these data.  No wawrranty, expressed or implied, is made by the National Hurricane Center regarding the utility of the data on any other system, nor shall the act of distrubtion constitute any such warranty. </TD></TR>
+		<TR><TD><B>For More Information: </B><a href="https://www.nhc.noaa.gov">https://www.nhc.noaa.gov</a></TD></TR></TABLE>]]>
+	</description>
+	<Schema parent="Placemark" name="EP052025"> 
+		<SimpleField type="wstring" name="StormName"></SimpleField> 
+		<SimpleField type="wstring" name="StormNumber"></SimpleField> 
+		<SimpleField type="wstring" name="StormType"></SimpleField> 
+		<SimpleField type="wstring" name="Basin"></SimpleField> 
+		<SimpleField type="wstring" name="lat"></SimpleField> 
+		<SimpleField type="wstring" name="lon"></SimpleField> 
+		<SimpleField type="wstring" name="Intensity"></SimpleField> 
+		<SimpleField type="wstring" name="MSLP"></SimpleField> 
+		<SimpleField type="wstring" name="DTG"></SimpleField> 
+	</Schema>
+	<Style id="pt"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>ex_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="cat5"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>cat5_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="db"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>ex_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="cat3"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>cat3_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="ss"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>ts_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="lo"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>ex_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="cat4"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>cat4_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="lo"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>ex_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="cat2"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>cat2_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="ts"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>ts_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="cat1"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>cat1_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="ex"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>ex_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="st"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>typhoon_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="tc"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>ex_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="wv"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>ex_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="td"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>td_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="sd"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>ex_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="ty"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>typhoon_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Folder id="data"> 
+ 	    <name>Data</name> 
+
+	   <Placemark>
+	      <name>1200 UTC JUN 14</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>DB INVEST (EP052025)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>1200 UTC JUN 14</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>9.1 N, -85.8 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1009 mb; 29.79 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>25 knots;  29 mph;  46 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ex</styleUrl>
+	       <Point>
+	   	   <coordinates>-85.8,9.1,0</coordinates>
+	       </Point>
+	       <lat>9.1</lat>
+	       <lon>-85.8</lon>
+	       <stormName>INVEST</stormName>
+	       <stormNum>05</stormNum>
+	       <basin>AL</basin>
+	       <stormType>DB</stormType>
+	       <intensity>25</intensity>
+	       <intensityMPH>29</intensityMPH>
+	       <intensityKPH>46</intensityKPH>
+	       <minSeaLevelPres>1009</minSeaLevelPres>
+	       <atcfdtg>2025061412</atcfdtg>
+	       <dtg>1200 UTC JUN 14</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>1800 UTC JUN 14</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>DB INVEST (EP052025)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>1800 UTC JUN 14</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>9.2 N, -86.5 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1009 mb; 29.79 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>25 knots;  29 mph;  46 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ex</styleUrl>
+	       <Point>
+	   	   <coordinates>-86.5,9.2,0</coordinates>
+	       </Point>
+	       <lat>9.2</lat>
+	       <lon>-86.5</lon>
+	       <stormName>INVEST</stormName>
+	       <stormNum>05</stormNum>
+	       <basin>AL</basin>
+	       <stormType>DB</stormType>
+	       <intensity>25</intensity>
+	       <intensityMPH>29</intensityMPH>
+	       <intensityKPH>46</intensityKPH>
+	       <minSeaLevelPres>1009</minSeaLevelPres>
+	       <atcfdtg>2025061418</atcfdtg>
+	       <dtg>1800 UTC JUN 14</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>0000 UTC JUN 15</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>DB INVEST (EP052025)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>0000 UTC JUN 15</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>9.3 N, -87.2 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1009 mb; 29.79 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>25 knots;  29 mph;  46 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ex</styleUrl>
+	       <Point>
+	   	   <coordinates>-87.2,9.3,0</coordinates>
+	       </Point>
+	       <lat>9.3</lat>
+	       <lon>-87.2</lon>
+	       <stormName>INVEST</stormName>
+	       <stormNum>05</stormNum>
+	       <basin>AL</basin>
+	       <stormType>DB</stormType>
+	       <intensity>25</intensity>
+	       <intensityMPH>29</intensityMPH>
+	       <intensityKPH>46</intensityKPH>
+	       <minSeaLevelPres>1009</minSeaLevelPres>
+	       <atcfdtg>2025061500</atcfdtg>
+	       <dtg>0000 UTC JUN 15</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>0600 UTC JUN 15</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>DB INVEST (EP052025)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>0600 UTC JUN 15</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>9.4 N, -87.6 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1009 mb; 29.79 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>25 knots;  29 mph;  46 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ex</styleUrl>
+	       <Point>
+	   	   <coordinates>-87.6,9.4,0</coordinates>
+	       </Point>
+	       <lat>9.4</lat>
+	       <lon>-87.6</lon>
+	       <stormName>INVEST</stormName>
+	       <stormNum>05</stormNum>
+	       <basin>AL</basin>
+	       <stormType>DB</stormType>
+	       <intensity>25</intensity>
+	       <intensityMPH>29</intensityMPH>
+	       <intensityKPH>46</intensityKPH>
+	       <minSeaLevelPres>1009</minSeaLevelPres>
+	       <atcfdtg>2025061506</atcfdtg>
+	       <dtg>0600 UTC JUN 15</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>1200 UTC JUN 15</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>DB INVEST (EP052025)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>1200 UTC JUN 15</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>9.4 N, -87.9 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1009 mb; 29.79 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>25 knots;  29 mph;  46 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ex</styleUrl>
+	       <Point>
+	   	   <coordinates>-87.9,9.4,0</coordinates>
+	       </Point>
+	       <lat>9.4</lat>
+	       <lon>-87.9</lon>
+	       <stormName>INVEST</stormName>
+	       <stormNum>05</stormNum>
+	       <basin>AL</basin>
+	       <stormType>DB</stormType>
+	       <intensity>25</intensity>
+	       <intensityMPH>29</intensityMPH>
+	       <intensityKPH>46</intensityKPH>
+	       <minSeaLevelPres>1009</minSeaLevelPres>
+	       <atcfdtg>2025061512</atcfdtg>
+	       <dtg>1200 UTC JUN 15</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>1800 UTC JUN 15</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>DB INVEST (EP052025)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>1800 UTC JUN 15</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>9.4 N, -88.4 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1009 mb; 29.79 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>25 knots;  29 mph;  46 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ex</styleUrl>
+	       <Point>
+	   	   <coordinates>-88.4,9.4,0</coordinates>
+	       </Point>
+	       <lat>9.4</lat>
+	       <lon>-88.4</lon>
+	       <stormName>INVEST</stormName>
+	       <stormNum>05</stormNum>
+	       <basin>AL</basin>
+	       <stormType>DB</stormType>
+	       <intensity>25</intensity>
+	       <intensityMPH>29</intensityMPH>
+	       <intensityKPH>46</intensityKPH>
+	       <minSeaLevelPres>1009</minSeaLevelPres>
+	       <atcfdtg>2025061518</atcfdtg>
+	       <dtg>1800 UTC JUN 15</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>0000 UTC JUN 16</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>DB INVEST (EP052025)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>0000 UTC JUN 16</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>9.4 N, -89.1 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1009 mb; 29.79 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>25 knots;  29 mph;  46 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ex</styleUrl>
+	       <Point>
+	   	   <coordinates>-89.1,9.4,0</coordinates>
+	       </Point>
+	       <lat>9.4</lat>
+	       <lon>-89.1</lon>
+	       <stormName>INVEST</stormName>
+	       <stormNum>05</stormNum>
+	       <basin>AL</basin>
+	       <stormType>DB</stormType>
+	       <intensity>25</intensity>
+	       <intensityMPH>29</intensityMPH>
+	       <intensityKPH>46</intensityKPH>
+	       <minSeaLevelPres>1009</minSeaLevelPres>
+	       <atcfdtg>2025061600</atcfdtg>
+	       <dtg>0000 UTC JUN 16</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>0600 UTC JUN 16</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>DB INVEST (EP052025)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>0600 UTC JUN 16</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>9.7 N, -89.9 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1009 mb; 29.79 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>25 knots;  29 mph;  46 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ex</styleUrl>
+	       <Point>
+	   	   <coordinates>-89.9,9.7,0</coordinates>
+	       </Point>
+	       <lat>9.7</lat>
+	       <lon>-89.9</lon>
+	       <stormName>INVEST</stormName>
+	       <stormNum>05</stormNum>
+	       <basin>AL</basin>
+	       <stormType>DB</stormType>
+	       <intensity>25</intensity>
+	       <intensityMPH>29</intensityMPH>
+	       <intensityKPH>46</intensityKPH>
+	       <minSeaLevelPres>1009</minSeaLevelPres>
+	       <atcfdtg>2025061606</atcfdtg>
+	       <dtg>0600 UTC JUN 16</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>1200 UTC JUN 16</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>LO INVEST (EP052025)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>1200 UTC JUN 16</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>10.0 N, -90.6 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1009 mb; 29.79 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>25 knots;  29 mph;  46 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ex</styleUrl>
+	       <Point>
+	   	   <coordinates>-90.6,10.0,0</coordinates>
+	       </Point>
+	       <lat>10.0</lat>
+	       <lon>-90.6</lon>
+	       <stormName>INVEST</stormName>
+	       <stormNum>05</stormNum>
+	       <basin>AL</basin>
+	       <stormType>LO</stormType>
+	       <intensity>25</intensity>
+	       <intensityMPH>29</intensityMPH>
+	       <intensityKPH>46</intensityKPH>
+	       <minSeaLevelPres>1009</minSeaLevelPres>
+	       <atcfdtg>2025061612</atcfdtg>
+	       <dtg>1200 UTC JUN 16</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>1800 UTC JUN 16</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>LO FIVE (EP052025)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>1800 UTC JUN 16</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>10.6 N, -91.5 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1009 mb; 29.79 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>30 knots;  35 mph;  56 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ex</styleUrl>
+	       <Point>
+	   	   <coordinates>-91.5,10.6,0</coordinates>
+	       </Point>
+	       <lat>10.6</lat>
+	       <lon>-91.5</lon>
+	       <stormName>FIVE</stormName>
+	       <stormNum>05</stormNum>
+	       <basin>AL</basin>
+	       <stormType>LO</stormType>
+	       <intensity>30</intensity>
+	       <intensityMPH>35</intensityMPH>
+	       <intensityKPH>56</intensityKPH>
+	       <minSeaLevelPres>1009</minSeaLevelPres>
+	       <atcfdtg>2025061618</atcfdtg>
+	       <dtg>1800 UTC JUN 16</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>0000 UTC JUN 17</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>TD FIVE (EP052025)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>0000 UTC JUN 17</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>11.2 N, -92.4 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1007 mb; 29.73 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>30 knots;  35 mph;  56 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#td</styleUrl>
+	       <Point>
+	   	   <coordinates>-92.4,11.2,0</coordinates>
+	       </Point>
+	       <lat>11.2</lat>
+	       <lon>-92.4</lon>
+	       <stormName>FIVE</stormName>
+	       <stormNum>05</stormNum>
+	       <basin>AL</basin>
+	       <stormType>TD</stormType>
+	       <intensity>30</intensity>
+	       <intensityMPH>35</intensityMPH>
+	       <intensityKPH>56</intensityKPH>
+	       <minSeaLevelPres>1007</minSeaLevelPres>
+	       <atcfdtg>2025061700</atcfdtg>
+	       <dtg>0000 UTC JUN 17</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>0600 UTC JUN 17</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>TS ERICK (EP052025)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>0600 UTC JUN 17</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>11.7 N, -93.2 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1005 mb; 29.67 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>35 knots;  40 mph;  65 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ts</styleUrl>
+	       <Point>
+	   	   <coordinates>-93.2,11.7,0</coordinates>
+	       </Point>
+	       <lat>11.7</lat>
+	       <lon>-93.2</lon>
+	       <stormName>ERICK</stormName>
+	       <stormNum>05</stormNum>
+	       <basin>AL</basin>
+	       <stormType>TS</stormType>
+	       <intensity>35</intensity>
+	       <intensityMPH>40</intensityMPH>
+	       <intensityKPH>65</intensityKPH>
+	       <minSeaLevelPres>1005</minSeaLevelPres>
+	       <atcfdtg>2025061706</atcfdtg>
+	       <dtg>0600 UTC JUN 17</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>1200 UTC JUN 17</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>TS ERICK (EP052025)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>1200 UTC JUN 17</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>12.1 N, -93.7 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1003 mb; 29.61 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>40 knots;  46 mph;  74 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ts</styleUrl>
+	       <Point>
+	   	   <coordinates>-93.7,12.1,0</coordinates>
+	       </Point>
+	       <lat>12.1</lat>
+	       <lon>-93.7</lon>
+	       <stormName>ERICK</stormName>
+	       <stormNum>05</stormNum>
+	       <basin>AL</basin>
+	       <stormType>TS</stormType>
+	       <intensity>40</intensity>
+	       <intensityMPH>46</intensityMPH>
+	       <intensityKPH>74</intensityKPH>
+	       <minSeaLevelPres>1003</minSeaLevelPres>
+	       <atcfdtg>2025061712</atcfdtg>
+	       <dtg>1200 UTC JUN 17</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>1800 UTC JUN 17</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>TS ERICK (EP052025)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>1800 UTC JUN 17</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>12.5 N, -94.1 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1001 mb; 29.55 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>45 knots;  52 mph;  83 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ts</styleUrl>
+	       <Point>
+	   	   <coordinates>-94.1,12.5,0</coordinates>
+	       </Point>
+	       <lat>12.5</lat>
+	       <lon>-94.1</lon>
+	       <stormName>ERICK</stormName>
+	       <stormNum>05</stormNum>
+	       <basin>AL</basin>
+	       <stormType>TS</stormType>
+	       <intensity>45</intensity>
+	       <intensityMPH>52</intensityMPH>
+	       <intensityKPH>83</intensityKPH>
+	       <minSeaLevelPres>1001</minSeaLevelPres>
+	       <atcfdtg>2025061718</atcfdtg>
+	       <dtg>1800 UTC JUN 17</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>0000 UTC JUN 18</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>TS ERICK (EP052025)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>0000 UTC JUN 18</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>12.8 N, -94.6 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1001 mb; 29.55 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>50 knots;  58 mph;  93 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ts</styleUrl>
+	       <Point>
+	   	   <coordinates>-94.6,12.8,0</coordinates>
+	       </Point>
+	       <lat>12.8</lat>
+	       <lon>-94.6</lon>
+	       <stormName>ERICK</stormName>
+	       <stormNum>05</stormNum>
+	       <basin>AL</basin>
+	       <stormType>TS</stormType>
+	       <intensity>50</intensity>
+	       <intensityMPH>58</intensityMPH>
+	       <intensityKPH>93</intensityKPH>
+	       <minSeaLevelPres>1001</minSeaLevelPres>
+	       <atcfdtg>2025061800</atcfdtg>
+	       <dtg>0000 UTC JUN 18</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>0600 UTC JUN 18</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>TS ERICK (EP052025)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>0600 UTC JUN 18</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>13.1 N, -95.1 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>996 mb; 29.41 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>55 knots;  63 mph;  102 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ts</styleUrl>
+	       <Point>
+	   	   <coordinates>-95.1,13.1,0</coordinates>
+	       </Point>
+	       <lat>13.1</lat>
+	       <lon>-95.1</lon>
+	       <stormName>ERICK</stormName>
+	       <stormNum>05</stormNum>
+	       <basin>AL</basin>
+	       <stormType>TS</stormType>
+	       <intensity>55</intensity>
+	       <intensityMPH>63</intensityMPH>
+	       <intensityKPH>102</intensityKPH>
+	       <minSeaLevelPres>996</minSeaLevelPres>
+	       <atcfdtg>2025061806</atcfdtg>
+	       <dtg>0600 UTC JUN 18</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>1200 UTC JUN 18</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>HU ERICK (EP052025)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>1200 UTC JUN 18</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>13.6 N, -95.7 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>987 mb; 29.14 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>70 knots;  81 mph;  130 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#cat1</styleUrl>
+	       <Point>
+	   	   <coordinates>-95.7,13.6,0</coordinates>
+	       </Point>
+	       <lat>13.6</lat>
+	       <lon>-95.7</lon>
+	       <stormName>ERICK</stormName>
+	       <stormNum>05</stormNum>
+	       <basin>AL</basin>
+	       <stormType>HU</stormType>
+	       <intensity>70</intensity>
+	       <intensityMPH>81</intensityMPH>
+	       <intensityKPH>130</intensityKPH>
+	       <minSeaLevelPres>987</minSeaLevelPres>
+	       <atcfdtg>2025061812</atcfdtg>
+	       <dtg>1200 UTC JUN 18</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>1800 UTC JUN 18</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>HU ERICK (EP052025)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>1800 UTC JUN 18</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>14.2 N, -96.3 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>970 mb; 28.64 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>90 knots;  104 mph;  167 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#cat2</styleUrl>
+	       <Point>
+	   	   <coordinates>-96.3,14.2,0</coordinates>
+	       </Point>
+	       <lat>14.2</lat>
+	       <lon>-96.3</lon>
+	       <stormName>ERICK</stormName>
+	       <stormNum>05</stormNum>
+	       <basin>AL</basin>
+	       <stormType>HU</stormType>
+	       <intensity>90</intensity>
+	       <intensityMPH>104</intensityMPH>
+	       <intensityKPH>167</intensityKPH>
+	       <minSeaLevelPres>970</minSeaLevelPres>
+	       <atcfdtg>2025061818</atcfdtg>
+	       <dtg>1800 UTC JUN 18</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>0000 UTC JUN 19</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>HU ERICK (EP052025)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>0000 UTC JUN 19</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>14.9 N, -96.7 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>953 mb; 28.14 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>105 knots;  121 mph;  194 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#cat3</styleUrl>
+	       <Point>
+	   	   <coordinates>-96.7,14.9,0</coordinates>
+	       </Point>
+	       <lat>14.9</lat>
+	       <lon>-96.7</lon>
+	       <stormName>ERICK</stormName>
+	       <stormNum>05</stormNum>
+	       <basin>AL</basin>
+	       <stormType>HU</stormType>
+	       <intensity>105</intensity>
+	       <intensityMPH>121</intensityMPH>
+	       <intensityKPH>194</intensityKPH>
+	       <minSeaLevelPres>953</minSeaLevelPres>
+	       <atcfdtg>2025061900</atcfdtg>
+	       <dtg>0000 UTC JUN 19</dtg>
+	   </Placemark>
+
+        </Folder>
+<Folder>
+<name>Legend</name>
+<open>0</open>
+<visibility>1</visibility>
+<ScreenOverlay>
+<name>Legend</name>
+ <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
+         <screenXY x="0" y="1" xunits="fraction" yunits="fraction"/>
+         <rotationXY x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+         <size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+</ScreenOverlay>
+</Folder>
+</Document>
+</kml>
+

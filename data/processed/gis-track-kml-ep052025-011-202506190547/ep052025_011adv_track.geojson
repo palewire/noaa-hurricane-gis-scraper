@@ -1,0 +1,130 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -97.5,
+                        15.5,
+                        0.0
+                    ],
+                    [
+                        -98.0,
+                        16.2,
+                        0.0
+                    ],
+                    [
+                        -99.1,
+                        17.4,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "15.5N, 97.5W",
+                "advisoryNum": "11",
+                "atcfid": "EP052025",
+                "basin": "ep",
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Erick (EP052025)</b></font></td></tr> \n                        <tr><td>Advisory #11 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "150",
+                "maxGustMPH": "175",
+                "maxWindKnots": "125",
+                "maxWindMPH": "145",
+                "minimumPressure": "939",
+                "pubAdvTime": "1200 AM CST Thu Jun 19 2025",
+                "storm": "Hurricane Erick",
+                "stormMovement": "NW",
+                "stormName": "Erick",
+                "stormNum": "05",
+                "stormType": "MH",
+                "styleUrl": "#72_line",
+                "timezone": "CST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -97.5,
+                        15.5,
+                        0.0
+                    ],
+                    [
+                        -98.0,
+                        16.2,
+                        0.0
+                    ],
+                    [
+                        -99.1,
+                        17.4,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "11",
+                "atcfid": "EP052025",
+                "basin": "ep",
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Erick (EP052025)</b></font></td></tr> \n                        <tr><td>Advisory #11 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Hurricane Erick",
+                "stormName": "Erick",
+                "stormNum": "05",
+                "stormType": "MH",
+                "styleUrl": "#120_line",
+                "timezone": "CST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.5,
+                    15.5,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Erick (EP052025)</b></font></td></tr> \n                        <tr><td>Advisory #11</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at: 12:00 AM CST June 19, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 15.5 N, -97.5 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 125 knots (145 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 150 knots (175 mph) </td></tr> \n                        <tr><td nowrap>Motion: NW </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 939 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.0,
+                    16.2,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Erick (EP052025)</b></font></td></tr> \n                        <tr><td>Advisory #11</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>12 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  6:00 AM CST June 19, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 16.2 N, -98.0 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 95 knots (110 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 115 knots (130 mph) </td></tr>",
+                "styleUrl": "#h_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -99.1,
+                    17.4,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Erick (EP052025)</b></font></td></tr> \n                        <tr><td>Advisory #11</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>24 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  6:00 PM CST June 19, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 17.4 N, -99.1 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 35 knots (40 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 45 knots (50 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
