@@ -1,0 +1,42 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -100.63,
+                        17.18,
+                        0.0
+                    ],
+                    [
+                        -99.88,
+                        16.81,
+                        0.0
+                    ],
+                    [
+                        -98.57,
+                        16.33,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryDate": "300 PM CST Thu Jun 19 2025",
+                "advisoryNum": "14",
+                "atcfid": "EP052025",
+                "basin": "EP",
+                "fcstpd": "120",
+                "name": "Tropical Storm Warning",
+                "storm": "Tropical Storm Erick",
+                "stormName": "Erick",
+                "stormNum": "5",
+                "stormType": "TS",
+                "styleUrl": "#TWR",
+                "timezone": "CST"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
