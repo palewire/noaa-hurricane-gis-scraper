@@ -1,0 +1,79 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -100.63,
+                        17.18,
+                        0.0
+                    ],
+                    [
+                        -99.88,
+                        16.81,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryDate": "1200 PM CST Thu Jun 19 2025",
+                "advisoryNum": "13A",
+                "atcfid": "EP052025",
+                "basin": "EP",
+                "fcstpd": "120",
+                "name": "Tropical Storm Warning",
+                "storm": "Hurricane Erick",
+                "stormName": "Erick",
+                "stormNum": "5",
+                "stormType": "HU",
+                "styleUrl": "#TWR",
+                "timezone": "CST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -99.88,
+                        16.81,
+                        0.0
+                    ],
+                    [
+                        -98.57,
+                        16.33,
+                        0.0
+                    ],
+                    [
+                        -97.64,
+                        15.97,
+                        0.0
+                    ],
+                    [
+                        -97.06,
+                        15.86,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryDate": "1200 PM CST Thu Jun 19 2025",
+                "advisoryNum": "13A",
+                "atcfid": "EP052025",
+                "basin": "EP",
+                "fcstpd": "120",
+                "name": "Hurricane Warning",
+                "storm": "Hurricane Erick",
+                "stormName": "Erick",
+                "stormNum": "5",
+                "stormType": "HU",
+                "styleUrl": "#HWR",
+                "timezone": "CST"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
