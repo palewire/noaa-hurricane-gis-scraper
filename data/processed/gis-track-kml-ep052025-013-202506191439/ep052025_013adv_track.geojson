@@ -1,0 +1,105 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -98.8,
+                        16.7,
+                        0.0
+                    ],
+                    [
+                        -100.0,
+                        17.5,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "16.7N, 98.8W",
+                "advisoryNum": "13",
+                "atcfid": "EP052025",
+                "basin": "ep",
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Erick (EP052025)</b></font></td></tr> \n                        <tr><td>Advisory #13 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "90",
+                "maxGustMPH": "105",
+                "maxWindKnots": "75",
+                "maxWindMPH": "85",
+                "minimumPressure": "980",
+                "pubAdvTime": "900 AM CST Thu Jun 19 2025",
+                "storm": "Hurricane Erick",
+                "stormMovement": "NW",
+                "stormName": "Erick",
+                "stormNum": "05",
+                "stormType": "HU",
+                "styleUrl": "#72_line",
+                "timezone": "CST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -98.8,
+                        16.7,
+                        0.0
+                    ],
+                    [
+                        -100.0,
+                        17.5,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "13",
+                "atcfid": "EP052025",
+                "basin": "ep",
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Erick (EP052025)</b></font></td></tr> \n                        <tr><td>Advisory #13 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Hurricane Erick",
+                "stormName": "Erick",
+                "stormNum": "05",
+                "stormType": "HU",
+                "styleUrl": "#120_line",
+                "timezone": "CST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.8,
+                    16.7,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Erick (EP052025)</b></font></td></tr> \n                        <tr><td>Advisory #13</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  9:00 AM CST June 19, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 16.7 N, -98.8 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 75 knots (85 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 90 knots (105 mph) </td></tr> \n                        <tr><td nowrap>Motion: NW </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 980 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -100.0,
+                    17.5,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Erick (EP052025)</b></font></td></tr> \n                        <tr><td>Advisory #13</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>12 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  6:00 PM CST June 19, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 17.5 N, -100.0 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 30 knots (35 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 40 knots (45 mph) </td></tr>",
+                "styleUrl": "#d_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
