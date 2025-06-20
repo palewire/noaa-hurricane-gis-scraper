@@ -1,0 +1,105 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -100.2,
+                        17.7,
+                        0.0
+                    ],
+                    [
+                        -101.1,
+                        18.3,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "17.7N, 100.2W",
+                "advisoryNum": "14A",
+                "atcfid": "EP052025",
+                "basin": "ep",
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression Erick (EP052025)</b></font></td></tr> \n                        <tr><td>Advisory #14A </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "55",
+                "maxGustMPH": "65",
+                "maxWindKnots": "45",
+                "maxWindMPH": "35",
+                "minimumPressure": "1006",
+                "pubAdvTime": "600 PM CST Thu Jun 19 2025",
+                "storm": "Tropical Depression Erick",
+                "stormMovement": "NW",
+                "stormName": "Erick",
+                "stormNum": "05",
+                "stormType": "TD",
+                "styleUrl": "#72_line",
+                "timezone": "CST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -100.2,
+                        17.7,
+                        0.0
+                    ],
+                    [
+                        -101.1,
+                        18.3,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "14A",
+                "atcfid": "EP052025",
+                "basin": "ep",
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression Erick (EP052025)</b></font></td></tr> \n                        <tr><td>Advisory #14A </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Tropical Depression Erick",
+                "stormName": "Erick",
+                "stormNum": "05",
+                "stormType": "TD",
+                "styleUrl": "#120_line",
+                "timezone": "CST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -100.2,
+                    17.7,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression Erick (EP052025)</b></font></td></tr> \n                        <tr><td>Advisory #14A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  6:00 PM CST June 19, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 17.7 N, -100.2 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 45 knots (35 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 55 knots (65 mph) </td></tr> \n                        <tr><td nowrap>Motion: NW </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 1006 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -101.1,
+                    18.3,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression Erick (EP052025)</b></font></td></tr> \n                        <tr><td>Advisory #14A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>12 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at: 12:00 AM CST June 20, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 18.3 N, -101.1 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 25 knots (30 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 35 knots (40 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
