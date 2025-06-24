@@ -1,0 +1,130 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -48.9,
+                        36.6,
+                        0.0
+                    ],
+                    [
+                        -46.3,
+                        37.9,
+                        0.0
+                    ],
+                    [
+                        -41.5,
+                        39.6,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "36.6N, 48.9W",
+                "advisoryNum": "1",
+                "atcfid": "AL012025",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Andrea (AL012025)</b></font></td></tr> \n                        <tr><td>Advisory #1 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "45",
+                "maxGustMPH": "50",
+                "maxWindKnots": "35",
+                "maxWindMPH": "40",
+                "minimumPressure": "1014",
+                "pubAdvTime": "1100 AM AST Tue Jun 24 2025",
+                "storm": "Tropical Storm Andrea",
+                "stormMovement": "ENE",
+                "stormName": "Andrea",
+                "stormNum": "01",
+                "stormType": "TS",
+                "styleUrl": "#72_line",
+                "timezone": "AST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -48.9,
+                        36.6,
+                        0.0
+                    ],
+                    [
+                        -46.3,
+                        37.9,
+                        0.0
+                    ],
+                    [
+                        -41.5,
+                        39.6,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "1",
+                "atcfid": "AL012025",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Andrea (AL012025)</b></font></td></tr> \n                        <tr><td>Advisory #1 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Tropical Storm Andrea",
+                "stormName": "Andrea",
+                "stormNum": "01",
+                "stormType": "TS",
+                "styleUrl": "#120_line",
+                "timezone": "AST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -48.9,
+                    36.6,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Andrea (AL012025)</b></font></td></tr> \n                        <tr><td>Advisory #1</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at: 11:00 AM AST June 24, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 36.6 N, -48.9 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 35 knots (40 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 45 knots (50 mph) </td></tr> \n                        <tr><td nowrap>Motion: ENE </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 1014 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -46.3,
+                    37.9,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Andrea (AL012025)</b></font></td></tr> \n                        <tr><td>Advisory #1</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>12 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 PM AST June 24, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 37.9 N, -46.3 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 35 knots (40 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 45 knots (50 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -41.5,
+                    39.6,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Andrea (AL012025)</b></font></td></tr> \n                        <tr><td>Advisory #1</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>24 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 AM AST June 25, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 39.6 N, -41.5 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 30 knots (35 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 40 knots (45 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
