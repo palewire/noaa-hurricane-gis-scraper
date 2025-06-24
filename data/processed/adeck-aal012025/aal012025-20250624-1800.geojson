@@ -1371,8 +1371,33 @@
             "type": "Feature"
         },
         {
-            "geometry": null,
+            "geometry": {
+                "coordinates": [
+                    [
+                        -48.1,
+                        37.3
+                    ],
+                    [
+                        -47.4,
+                        37.9
+                    ],
+                    [
+                        -44.5,
+                        39.0
+                    ]
+                ],
+                "type": "LineString"
+            },
             "id": "628",
+            "properties": {
+                "model": "OFCL",
+                "warning_datetime": "2025-06-24 18:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": null,
+            "id": "629",
             "properties": {
                 "model": "EGRI",
                 "warning_datetime": "2025-06-24 18:00:00"
@@ -1393,7 +1418,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "629",
+            "id": "630",
             "properties": {
                 "model": "OFCI",
                 "warning_datetime": "2025-06-24 18:00:00"
@@ -1402,7 +1427,7 @@
         },
         {
             "geometry": null,
-            "id": "630",
+            "id": "631",
             "properties": {
                 "model": "UKMI",
                 "warning_datetime": "2025-06-24 18:00:00"
