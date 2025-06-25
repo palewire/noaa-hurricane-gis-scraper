@@ -1,0 +1,86 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.7,
+                    36.2
+                ],
+                "type": "Point"
+            },
+            "id": "0",
+            "properties": {
+                "BASIN": "al",
+                "DAY": 24.0,
+                "DTG": 2025062412.0,
+                "HHMM": "1200",
+                "INTENSITY": 35.0,
+                "LAT": 36.2,
+                "LON": -49.7,
+                "MONTH": "06",
+                "MSLP": 1014.0,
+                "SS": 0.0,
+                "STORMNAME": "ANDREA",
+                "STORMNUM": 1.0,
+                "STORMTYPE": "TS",
+                "YEAR": 2025.0
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -48.1,
+                    37.3
+                ],
+                "type": "Point"
+            },
+            "id": "1",
+            "properties": {
+                "BASIN": "al",
+                "DAY": 24.0,
+                "DTG": 2025062418.0,
+                "HHMM": "1800",
+                "INTENSITY": 35.0,
+                "LAT": 37.3,
+                "LON": -48.1,
+                "MONTH": "06",
+                "MSLP": 1014.0,
+                "SS": 0.0,
+                "STORMNAME": "ANDREA",
+                "STORMNUM": 1.0,
+                "STORMTYPE": "TS",
+                "YEAR": 2025.0
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -45.7,
+                    38.3
+                ],
+                "type": "Point"
+            },
+            "id": "2",
+            "properties": {
+                "BASIN": "al",
+                "DAY": 25.0,
+                "DTG": 2025062500.0,
+                "HHMM": "0000",
+                "INTENSITY": 30.0,
+                "LAT": 38.3,
+                "LON": -45.7,
+                "MONTH": "06",
+                "MSLP": 1015.0,
+                "SS": 0.0,
+                "STORMNAME": "ANDREA",
+                "STORMNUM": 1.0,
+                "STORMTYPE": "LO",
+                "YEAR": 2025.0
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
