@@ -1,0 +1,155 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -95.1,
+                        19.7,
+                        0.0
+                    ],
+                    [
+                        -96.0,
+                        20.3,
+                        0.0
+                    ],
+                    [
+                        -97.3,
+                        21.3,
+                        0.0
+                    ],
+                    [
+                        -98.8,
+                        22.1,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "19.7N, 95.1W",
+                "advisoryNum": "2",
+                "atcfid": "AL022025",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression Two (AL022025)</b></font></td></tr> \n                        <tr><td>Advisory #2 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "35",
+                "maxGustMPH": "40",
+                "maxWindKnots": "25",
+                "maxWindMPH": "30",
+                "minimumPressure": "1011",
+                "pubAdvTime": "1000 PM CDT Sat Jun 28 2025",
+                "storm": "Tropical Depression Two",
+                "stormMovement": "WNW",
+                "stormName": "Two",
+                "stormNum": "02",
+                "stormType": "TD",
+                "styleUrl": "#72_line",
+                "timezone": "CDT"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -95.1,
+                        19.7,
+                        0.0
+                    ],
+                    [
+                        -96.0,
+                        20.3,
+                        0.0
+                    ],
+                    [
+                        -97.3,
+                        21.3,
+                        0.0
+                    ],
+                    [
+                        -98.8,
+                        22.1,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "2",
+                "atcfid": "AL022025",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression Two (AL022025)</b></font></td></tr> \n                        <tr><td>Advisory #2 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Tropical Depression Two",
+                "stormName": "Two",
+                "stormNum": "02",
+                "stormType": "TD",
+                "styleUrl": "#120_line",
+                "timezone": "CDT"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -95.1,
+                    19.7,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression Two (AL022025)</b></font></td></tr> \n                        <tr><td>Advisory #2</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at: 10:00 PM CDT June 28, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 19.7 N, -95.1 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 25 knots (30 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 35 knots (40 mph) </td></tr> \n                        <tr><td nowrap>Motion: WNW </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 1011 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -96.0,
+                    20.3,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression Two (AL022025)</b></font></td></tr> \n                        <tr><td>Advisory #2</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>12 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  7:00 AM CDT June 29, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 20.3 N, -96.0 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 30 knots (35 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 40 knots (45 mph) </td></tr>",
+                "styleUrl": "#d_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.3,
+                    21.3,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression Two (AL022025)</b></font></td></tr> \n                        <tr><td>Advisory #2</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>24 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  7:00 PM CDT June 29, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 21.3 N, -97.3 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 35 knots (40 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 45 knots (50 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -98.8,
+                    22.1,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression Two (AL022025)</b></font></td></tr> \n                        <tr><td>Advisory #2</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>36 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  7:00 AM CDT June 30, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 22.1 N, -98.8 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 25 knots (30 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 35 knots (40 mph) </td></tr>",
+                "styleUrl": "#d_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
