@@ -1,0 +1,35 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -96.2,
+                        20.4
+                    ],
+                    [
+                        -97.2,
+                        21.2
+                    ],
+                    [
+                        -98.2,
+                        22.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "0",
+            "properties": {
+                "ADVDATE": "1000 AM CDT Sun Jun 29 2025",
+                "ADVISNUM": "4",
+                "BASIN": "AL",
+                "FCSTPRD": 120.0,
+                "STORMNAME": "Barry",
+                "STORMNUM": 2.0,
+                "STORMTYPE": "TS"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
