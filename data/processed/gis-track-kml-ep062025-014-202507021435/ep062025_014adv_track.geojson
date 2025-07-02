@@ -1,0 +1,230 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -109.0,
+                        19.0,
+                        0.0
+                    ],
+                    [
+                        -110.1,
+                        19.7,
+                        0.0
+                    ],
+                    [
+                        -111.5,
+                        20.6,
+                        0.0
+                    ],
+                    [
+                        -113.0,
+                        21.7,
+                        0.0
+                    ],
+                    [
+                        -114.6,
+                        22.7,
+                        0.0
+                    ],
+                    [
+                        -116.3,
+                        23.7,
+                        0.0
+                    ],
+                    [
+                        -118.0,
+                        24.4,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "19.0N, 109.0W",
+                "advisoryNum": "14",
+                "atcfid": "EP062025",
+                "basin": "ep",
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Flossie (EP062025)</b></font></td></tr> \n                        <tr><td>Advisory #14 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "115",
+                "maxGustMPH": "130",
+                "maxWindKnots": "95",
+                "maxWindMPH": "110",
+                "minimumPressure": "967",
+                "pubAdvTime": "800 AM MST Wed Jul 02 2025",
+                "storm": "Hurricane Flossie",
+                "stormMovement": "WNW",
+                "stormName": "Flossie",
+                "stormNum": "06",
+                "stormType": "HU",
+                "styleUrl": "#72_line",
+                "timezone": "MST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -109.0,
+                        19.0,
+                        0.0
+                    ],
+                    [
+                        -110.1,
+                        19.7,
+                        0.0
+                    ],
+                    [
+                        -111.5,
+                        20.6,
+                        0.0
+                    ],
+                    [
+                        -113.0,
+                        21.7,
+                        0.0
+                    ],
+                    [
+                        -114.6,
+                        22.7,
+                        0.0
+                    ],
+                    [
+                        -116.3,
+                        23.7,
+                        0.0
+                    ],
+                    [
+                        -118.0,
+                        24.4,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "14",
+                "atcfid": "EP062025",
+                "basin": "ep",
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Flossie (EP062025)</b></font></td></tr> \n                        <tr><td>Advisory #14 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Hurricane Flossie",
+                "stormName": "Flossie",
+                "stormNum": "06",
+                "stormType": "HU",
+                "styleUrl": "#120_line",
+                "timezone": "MST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -109.0,
+                    19.0,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Flossie (EP062025)</b></font></td></tr> \n                        <tr><td>Advisory #14</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 AM MST July 02, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 19.0 N, -109.0 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 95 knots (110 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 115 knots (130 mph) </td></tr> \n                        <tr><td nowrap>Motion: WNW </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 967 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -110.1,
+                    19.7,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Flossie (EP062025)</b></font></td></tr> \n                        <tr><td>Advisory #14</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>12 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  5:00 PM MST July 02, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 19.7 N, -110.1 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 80 knots (90 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 100 knots (115 mph) </td></tr>",
+                "styleUrl": "#h_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -111.5,
+                    20.6,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Flossie (EP062025)</b></font></td></tr> \n                        <tr><td>Advisory #14</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>24 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  5:00 AM MST July 03, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 20.6 N, -111.5 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 60 knots (70 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 75 knots (85 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -113.0,
+                    21.7,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Flossie (EP062025)</b></font></td></tr> \n                        <tr><td>Advisory #14</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>36 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  5:00 PM MST July 03, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 21.7 N, -113.0 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 45 knots (50 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 55 knots (65 mph) </td></tr>",
+                "styleUrl": "#xs_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -114.6,
+                    22.7,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Flossie (EP062025)</b></font></td></tr> \n                        <tr><td>Advisory #14</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>48 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  5:00 AM MST July 04, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 22.7 N, -114.6 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 35 knots (40 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 45 knots (50 mph) </td></tr>",
+                "styleUrl": "#xs_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.3,
+                    23.7,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Flossie (EP062025)</b></font></td></tr> \n                        <tr><td>Advisory #14</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>60 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  5:00 PM MST July 04, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 23.7 N, -116.3 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 25 knots (30 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 35 knots (40 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -118.0,
+                    24.4,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Flossie (EP062025)</b></font></td></tr> \n                        <tr><td>Advisory #14</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>72 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  5:00 AM MST July 05, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 24.4 N, -118.0 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 20 knots (25 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 30 knots (35 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
