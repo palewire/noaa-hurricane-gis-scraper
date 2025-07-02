@@ -1,0 +1,42 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -105.14,
+                        19.57,
+                        0.0
+                    ],
+                    [
+                        -104.33,
+                        19.05,
+                        0.0
+                    ],
+                    [
+                        -103.45,
+                        18.31,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryDate": "800 PM MST Tue Jul 01 2025",
+                "advisoryNum": "12",
+                "atcfid": "EP062025",
+                "basin": "EP",
+                "fcstpd": "120",
+                "name": "Tropical Storm Warning",
+                "storm": "Hurricane Flossie",
+                "stormName": "Flossie",
+                "stormNum": "6",
+                "stormType": "HU",
+                "styleUrl": "#TWR",
+                "timezone": "MST"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
