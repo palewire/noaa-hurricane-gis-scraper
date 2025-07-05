@@ -1,0 +1,87 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -83.0,
+                        26.3
+                    ],
+                    [
+                        -81.6,
+                        26.7
+                    ],
+                    [
+                        -80.5,
+                        28.1
+                    ],
+                    [
+                        -80.0,
+                        29.5
+                    ],
+                    [
+                        -79.7,
+                        30.1
+                    ],
+                    [
+                        -79.2,
+                        30.7
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "0",
+            "properties": {
+                "SS": 0.0,
+                "STORMNUM": 3.0,
+                "STORMTYPE": "DB"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -79.2,
+                        30.7
+                    ],
+                    [
+                        -79.0,
+                        30.8
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "1",
+            "properties": {
+                "SS": 0.0,
+                "STORMNUM": 3.0,
+                "STORMTYPE": "LO"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -79.0,
+                        30.8
+                    ],
+                    [
+                        -79.0,
+                        30.5
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "2",
+            "properties": {
+                "SS": 0.0,
+                "STORMNUM": 3.0,
+                "STORMTYPE": "LO"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

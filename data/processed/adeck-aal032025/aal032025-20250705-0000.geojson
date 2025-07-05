@@ -2084,6 +2084,10 @@
                         30.5
                     ],
                     [
+                        -78.9,
+                        30.6
+                    ],
+                    [
                         -79.1,
                         30.9
                     ],
@@ -2106,7 +2110,44 @@
                 ],
                 "type": "LineString"
             },
-            "id": "266",
+            "id": "265",
+            "properties": {
+                "model": "OFCL",
+                "warning_datetime": "2025-07-05"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -79.0,
+                        30.5
+                    ],
+                    [
+                        -79.1,
+                        30.9
+                    ],
+                    [
+                        -79.5,
+                        31.7
+                    ],
+                    [
+                        -79.8,
+                        32.9
+                    ],
+                    [
+                        -79.6,
+                        34.2
+                    ],
+                    [
+                        -78.5,
+                        35.5
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "267",
             "properties": {
                 "model": "DRCL",
                 "warning_datetime": "2025-07-05"
@@ -2151,7 +2192,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "267",
+            "id": "268",
             "properties": {
                 "model": "GDMI",
                 "warning_datetime": "2025-07-05"
@@ -2192,7 +2233,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "268",
+            "id": "269",
             "properties": {
                 "model": "NVG2",
                 "warning_datetime": "2025-07-05"
@@ -2229,7 +2270,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "269",
+            "id": "270",
             "properties": {
                 "model": "OFCI",
                 "warning_datetime": "2025-07-05"
@@ -2286,7 +2327,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "270",
+            "id": "271",
             "properties": {
                 "model": "UKX2",
                 "warning_datetime": "2025-07-05"
