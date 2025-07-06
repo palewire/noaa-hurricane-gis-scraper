@@ -1,0 +1,155 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -79.2,
+                        34.0,
+                        0.0
+                    ],
+                    [
+                        -79.3,
+                        34.9,
+                        0.0
+                    ],
+                    [
+                        -78.6,
+                        36.3,
+                        0.0
+                    ],
+                    [
+                        -76.7,
+                        37.7,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "34.0N, 79.2W",
+                "advisoryNum": "7A",
+                "atcfid": "AL032025",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Chantal (AL032025)</b></font></td></tr> \n                        <tr><td>Advisory #7A </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "60",
+                "maxGustMPH": "70",
+                "maxWindKnots": "45",
+                "maxWindMPH": "40",
+                "minimumPressure": "1005",
+                "pubAdvTime": "800 AM EDT Sun Jul 06 2025",
+                "storm": "Tropical Storm Chantal",
+                "stormMovement": "NNW",
+                "stormName": "Chantal",
+                "stormNum": "03",
+                "stormType": "TS",
+                "styleUrl": "#72_line",
+                "timezone": "EDT"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -79.2,
+                        34.0,
+                        0.0
+                    ],
+                    [
+                        -79.3,
+                        34.9,
+                        0.0
+                    ],
+                    [
+                        -78.6,
+                        36.3,
+                        0.0
+                    ],
+                    [
+                        -76.7,
+                        37.7,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "7A",
+                "atcfid": "AL032025",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Chantal (AL032025)</b></font></td></tr> \n                        <tr><td>Advisory #7A </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Tropical Storm Chantal",
+                "stormName": "Chantal",
+                "stormNum": "03",
+                "stormType": "TS",
+                "styleUrl": "#120_line",
+                "timezone": "EDT"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.2,
+                    34.0,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Chantal (AL032025)</b></font></td></tr> \n                        <tr><td>Advisory #7A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 AM EDT July 06, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 34.0 N, -79.2 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 45 knots (40 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 60 knots (70 mph) </td></tr> \n                        <tr><td nowrap>Motion: NNW </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 1005 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.3,
+                    34.9,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Chantal (AL032025)</b></font></td></tr> \n                        <tr><td>Advisory #7A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>12 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 PM EDT July 06, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 34.9 N, -79.3 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 30 knots (35 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 40 knots (45 mph) </td></tr>",
+                "styleUrl": "#d_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -78.6,
+                    36.3,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Chantal (AL032025)</b></font></td></tr> \n                        <tr><td>Advisory #7A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>24 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 AM EDT July 07, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 36.3 N, -78.6 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 25 knots (30 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 35 knots (40 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.7,
+                    37.7,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Chantal (AL032025)</b></font></td></tr> \n                        <tr><td>Advisory #7A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>36 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 PM EDT July 07, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 37.7 N, -76.7 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 20 knots (25 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 30 knots (35 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
