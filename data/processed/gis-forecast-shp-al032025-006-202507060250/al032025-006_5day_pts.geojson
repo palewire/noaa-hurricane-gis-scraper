@@ -1,0 +1,149 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -78.8,
+                    32.7
+                ],
+                "type": "Point"
+            },
+            "id": "0",
+            "properties": {
+                "ADVDATE": "1100 PM EDT Sat Jul 05 2025",
+                "ADVISNUM": "6",
+                "BASIN": "AL",
+                "DATELBL": "11:00 PM Sat",
+                "DVLBL": "S",
+                "FCSTPRD": 120.0,
+                "FLDATELBL": "2025-07-05 8:00 PM Sat EDT",
+                "GUST": 55.0,
+                "LAT": 32.7,
+                "LON": -78.8,
+                "MAXWIND": 45.0,
+                "MSLP": 1004.0,
+                "SSNUM": 0.0,
+                "STORMNAME": "Tropical Storm Chantal",
+                "STORMNUM": 3.0,
+                "STORMSRC": "Tropical Cyclone",
+                "STORMTYPE": "TS",
+                "TAU": 0.0,
+                "TCDIR": 350.0,
+                "TCDVLP": "Tropical Storm",
+                "TCSPD": 7.0,
+                "TIMEZONE": "EDT",
+                "VALIDTIME": "06/0000"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.3,
+                    33.6
+                ],
+                "type": "Point"
+            },
+            "id": "1",
+            "properties": {
+                "ADVDATE": "1100 PM EDT Sat Jul 05 2025",
+                "ADVISNUM": "6",
+                "BASIN": "AL",
+                "DATELBL": "8:00 AM Sun",
+                "DVLBL": "S",
+                "FCSTPRD": 120.0,
+                "FLDATELBL": "2025-07-06 8:00 AM Sun EDT",
+                "GUST": 45.0,
+                "LAT": 33.6,
+                "LON": -79.3,
+                "MAXWIND": 35.0,
+                "MSLP": 9999.0,
+                "SSNUM": 0.0,
+                "STORMNAME": "Tropical Storm Chantal",
+                "STORMNUM": 3.0,
+                "STORMSRC": "Tropical Cyclone",
+                "STORMTYPE": "TS",
+                "TAU": 12.0,
+                "TCDIR": 9999.0,
+                "TCDVLP": "Tropical Storm",
+                "TCSPD": 9999.0,
+                "TIMEZONE": "EDT",
+                "VALIDTIME": "06/1200"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.3,
+                    34.8
+                ],
+                "type": "Point"
+            },
+            "id": "2",
+            "properties": {
+                "ADVDATE": "1100 PM EDT Sat Jul 05 2025",
+                "ADVISNUM": "6",
+                "BASIN": "AL",
+                "DATELBL": "8:00 PM Sun",
+                "DVLBL": "D",
+                "FCSTPRD": 120.0,
+                "FLDATELBL": "2025-07-06 8:00 PM Sun EDT",
+                "GUST": 35.0,
+                "LAT": 34.8,
+                "LON": -79.3,
+                "MAXWIND": 25.0,
+                "MSLP": 9999.0,
+                "SSNUM": 0.0,
+                "STORMNAME": "Tropical Storm Chantal",
+                "STORMNUM": 3.0,
+                "STORMSRC": "Tropical Cyclone",
+                "STORMTYPE": "TD",
+                "TAU": 24.0,
+                "TCDIR": 9999.0,
+                "TCDVLP": "Tropical Depression",
+                "TCSPD": 9999.0,
+                "TIMEZONE": "EDT",
+                "VALIDTIME": "07/0000"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -78.0,
+                    36.0
+                ],
+                "type": "Point"
+            },
+            "id": "3",
+            "properties": {
+                "ADVDATE": "1100 PM EDT Sat Jul 05 2025",
+                "ADVISNUM": "6",
+                "BASIN": "AL",
+                "DATELBL": "8:00 AM Mon",
+                "DVLBL": "D",
+                "FCSTPRD": 120.0,
+                "FLDATELBL": "2025-07-07 8:00 AM Mon EDT",
+                "GUST": 30.0,
+                "LAT": 36.0,
+                "LON": -78.0,
+                "MAXWIND": 20.0,
+                "MSLP": 9999.0,
+                "SSNUM": 0.0,
+                "STORMNAME": "Tropical Storm Chantal",
+                "STORMNUM": 3.0,
+                "STORMSRC": "Post-Tropical Cyclone",
+                "STORMTYPE": "STD",
+                "TAU": 36.0,
+                "TCDIR": 9999.0,
+                "TCDVLP": "Subtropical Depression",
+                "TCSPD": 9999.0,
+                "TIMEZONE": "EDT",
+                "VALIDTIME": "07/1200"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
