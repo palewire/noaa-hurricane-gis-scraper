@@ -1,0 +1,52 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -79.27,
+                        33.12,
+                        0.0
+                    ],
+                    [
+                        -79.01,
+                        33.56,
+                        0.0
+                    ],
+                    [
+                        -78.55,
+                        33.85,
+                        0.0
+                    ],
+                    [
+                        -77.96,
+                        33.84,
+                        0.0
+                    ],
+                    [
+                        -77.52,
+                        34.44,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryDate": "500 AM EDT Sun Jul 06 2025",
+                "advisoryNum": "7",
+                "atcfid": "AL032025",
+                "basin": "AL",
+                "fcstpd": "120",
+                "name": "Tropical Storm Warning",
+                "storm": "Tropical Storm Chantal",
+                "stormName": "Chantal",
+                "stormNum": "3",
+                "stormType": "TS",
+                "styleUrl": "#TWR",
+                "timezone": "EDT"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
