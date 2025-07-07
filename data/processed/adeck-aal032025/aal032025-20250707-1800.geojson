@@ -1566,6 +1566,31 @@
                         38.3
                     ],
                     [
+                        -75.0,
+                        38.8
+                    ],
+                    [
+                        -72.0,
+                        40.6
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "1036",
+            "properties": {
+                "model": "OFCL",
+                "warning_datetime": "2025-07-07 18:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -75.7,
+                        38.3
+                    ],
+                    [
                         -71.9,
                         40.3
                     ],
@@ -1608,7 +1633,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "1042",
+            "id": "1043",
             "properties": {
                 "model": "UKXI",
                 "warning_datetime": "2025-07-07 18:00:00"
@@ -1629,7 +1654,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "1076",
+            "id": "1077",
             "properties": {
                 "model": "OFCI",
                 "warning_datetime": "2025-07-07 18:00:00"
@@ -1638,7 +1663,7 @@
         },
         {
             "geometry": null,
-            "id": "1119",
+            "id": "1120",
             "properties": {
                 "model": "CTC2",
                 "warning_datetime": "2025-07-07 18:00:00"
