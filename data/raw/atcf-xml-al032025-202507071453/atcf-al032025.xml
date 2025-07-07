@@ -1,0 +1,135 @@
+<?xml version="1.0"?>
+<cycloneMessage>
+<!-- System Advisory Meta Information -->
+<atcfID>AL032025</atcfID>
+<issuingUnit>NWS WEATHER PREDICTION CENTER COLLEGE PARK MD</issuingUnit>
+<messageType>ROUTINE ADVISORY</messageType>
+<messageBinNumber>3</messageBinNumber>
+<advisoryNumber>12</advisoryNumber>
+<!-- System Date/Time Information -->
+<messageDateTimeLocal>20250707 11:00:00 AM EDT</messageDateTimeLocal>
+<messageDateTimeUTC>20250707 03:00:00 PM UTC</messageDateTimeUTC>
+<messageDateTimeUTC24>20250707150000</messageDateTimeUTC24>
+<messageDateTimeLocalStr>1100 AM EDT Mon Jul 07</messageDateTimeLocalStr>
+<timeEpochSeconds>1751900400</timeEpochSeconds>
+<!-- System state defined -->
+<systemType>POST-TROPICAL CYCLONE</systemType>
+<systemName>CHANTAL</systemName>
+<!-- Center Location of the System -->
+<!-- Lattitude: North is positive; South is negative -->
+<!-- Longitude: East is positive; West is negative -->
+<!-- units: decimal degrees (tenths) -->
+<centerLocLatitude>37.5</centerLocLatitude>
+<centerLocLongitude>-76.3</centerLocLongitude>
+<!-- Lattitude: North is N; South is S -->
+<!-- Longitude: East is E; West is W -->
+<!-- units: decimal degrees (tenths) -->
+<centerLocLatitudeExpanded>37.5N</centerLocLatitudeExpanded>
+<centerLocLongitudeExpanded>76.3W</centerLocLongitudeExpanded>
+<!-- Maximum Intensity of the System -->
+<!-- units: MPH, KPH, KTS, MB and/or INCHES HG -->
+<systemIntensityMph>30</systemIntensityMph>
+<systemIntensityKph>45</systemIntensityKph>
+<systemIntensityKts>25</systemIntensityKts>
+<systemMslpMb>1009</systemMslpMb>
+<systemMslpInHg>29.80</systemMslpInHg>
+<systemSaffirSimpsonCategory>N/A</systemSaffirSimpsonCategory>
+<formationChancePct48h>N/A</formationChancePct48h>
+<formationChancePct7d>N/A</formationChancePct7d>
+<!-- Current System Movement -->
+<!-- units: Degrees, MPH and KPH -->
+<systemDirectionOfMotion>NE OR 50 DEGREES</systemDirectionOfMotion>
+<systemSpeedMph>17</systemSpeedMph>
+<systemSpeedKph>28</systemSpeedKph>
+<systemSpeedKts>15</systemSpeedKts>
+<!-- Current System Location from known Reference Point -->
+<systemGeoRefPt1>ABOUT 30 MI...50 KM NNE OF NEWPORT NEWS VIRGINIA</systemGeoRefPt1>
+<systemGeoRefPt2>ABOUT 120 MI...190 KM SSW OF DOVER DELAWARE</systemGeoRefPt2>
+<!-- Relevant Message -->
+<message>
+ZCZC NFDTCPAT3 ALL
+TTAA00 KWNH DDHHMM
+ 
+BULLETIN
+Post-Tropical Cyclone Chantal Advisory Number  12
+NWS Weather Prediction Center College Park MD   AL032025
+1100 AM EDT Mon Jul 07 2025
+ 
+...CHANTAL BECOMES POST-TROPICAL...
+...FLASH FLOOD THREAT CONTINUES NEAR AND NORTHEAST OF THE CENTER...
+ 
+ 
+SUMMARY OF 1100 AM EDT...1500 UTC...INFORMATION
+-----------------------------------------------
+LOCATION...37.5N 76.3W
+ABOUT 30 MI...50 KM NNE OF NEWPORT NEWS VIRGINIA
+ABOUT 120 MI...190 KM SSW OF DOVER DELAWARE
+MAXIMUM SUSTAINED WINDS...30 MPH...45 KM/H
+PRESENT MOVEMENT...NE OR 50 DEGREES AT 17 MPH...28 KM/H
+MINIMUM CENTRAL PRESSURE...1009 MB...29.80 INCHES
+ 
+ 
+WATCHES AND WARNINGS
+--------------------
+A Flood Watch is in effect for...
+* Portions of Eastern Virginia
+* Portions of Southern and Eastern Maryland
+* State of Delaware
+* Portions of Southern New Jersey
+* Portions of Southeastern Pennsylvania
+ 
+ 
+DISCUSSION AND OUTLOOK
+----------------------
+At 1100 AM EDT (1500 UTC), the center of Post-Tropical Cyclone
+Chantal was located near latitude 37.5 North, longitude 76.3 West.
+The post-tropical cyclone is moving toward the northeast near 17 mph
+(28 km/h) and this motion is expected to continue.
+ 
+Maximum sustained winds are near 30 mph (45 km/h) with higher gusts.
+Little change in strength is forecast during the next 48 hours.
+ 
+The estimated minimum central pressure is 1009 mb (29.80 inches).
+ 
+ 
+HAZARDS AFFECTING LAND
+----------------------
+Key messages for Post-Tropical Cyclone Chantal can be found in the
+Tropical Cyclone Discussion under AWIPS header MIATCDAT3 and WMO
+header WTNT43 KNHC.
+ 
+RAINFALL: Post-Tropical Cyclone Chantal will continue to produce
+heavy rainfall across portions of Virginia, Maryland, Delaware, New
+Jersey, and Pennsylvania today. Additional rainfall of 1 to 3
+inches, with locally higher amounts, is expected. Isolated to
+scattered flash flooding is possible.
+ 
+For a complete depiction of forecast rainfall and flash flooding
+associated with Post-Tropical Cyclone Chantal, please see the
+National Weather Service Storm Total Rainfall Graphic, available at
+hurricanes.gov/graphics_at3.shtml?rainqpf
+ 
+For a list of rainfall observations (and wind reports) associated
+this storm, see the companion storm summary at WBCSCCNS4 with the
+WMO header ACUS44 KWBC or at the following link:
+www.wpc.ncep.noaa.gov/discussions/nfdscc4.html
+ 
+SURF: Life-threatening surf and rip current conditions are expected
+to continue at beaches along the U.S. east coast from northeastern
+Florida to the Mid-Atlantic states during the next day or so.
+ 
+A depiction of rip current risk for the United States can be found
+at: hurricanes.gov/graphics_at3.shtml?ripCurrents
+ 
+ 
+NEXT ADVISORY
+-------------
+Next complete advisory at 500 PM EDT.
+ 
+$$
+Forecaster Santorelli/Taylor/Shieh
+ 
+NNNN
+
+</message>
+</cycloneMessage>
