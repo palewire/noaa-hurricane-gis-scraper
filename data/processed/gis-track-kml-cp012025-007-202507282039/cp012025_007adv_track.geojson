@@ -1,0 +1,270 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -151.0,
+                        10.6,
+                        0.0
+                    ],
+                    [
+                        -152.6,
+                        10.6,
+                        0.0
+                    ],
+                    [
+                        -155.0,
+                        10.6,
+                        0.0
+                    ],
+                    [
+                        -157.7,
+                        10.7,
+                        0.0
+                    ],
+                    [
+                        -161.0,
+                        10.9,
+                        0.0
+                    ],
+                    [
+                        -164.5,
+                        11.2,
+                        0.0
+                    ],
+                    [
+                        -168.1,
+                        11.7,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "10.6N, 151.0W",
+                "advisoryNum": "7",
+                "atcfid": "CP012025",
+                "basin": "cp",
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Iona (CP012025)</b></font></td></tr> \n                        <tr><td>Advisory #7 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "80",
+                "maxGustMPH": "90",
+                "maxWindKnots": "65",
+                "maxWindMPH": "75",
+                "minimumPressure": "993",
+                "pubAdvTime": "1100 AM HST Mon Jul 28 2025",
+                "storm": "Hurricane Iona",
+                "stormMovement": "W",
+                "stormName": "Iona",
+                "stormNum": "01",
+                "stormType": "HU",
+                "styleUrl": "#72_line",
+                "timezone": "HST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -151.0,
+                        10.6,
+                        0.0
+                    ],
+                    [
+                        -152.6,
+                        10.6,
+                        0.0
+                    ],
+                    [
+                        -155.0,
+                        10.6,
+                        0.0
+                    ],
+                    [
+                        -157.7,
+                        10.7,
+                        0.0
+                    ],
+                    [
+                        -161.0,
+                        10.9,
+                        0.0
+                    ],
+                    [
+                        -164.5,
+                        11.2,
+                        0.0
+                    ],
+                    [
+                        -168.1,
+                        11.7,
+                        0.0
+                    ],
+                    [
+                        -175.2,
+                        12.9,
+                        0.0
+                    ],
+                    [
+                        -181.5,
+                        14.7,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "7",
+                "atcfid": "CP012025",
+                "basin": "cp",
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Iona (CP012025)</b></font></td></tr> \n                        <tr><td>Advisory #7 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Hurricane Iona",
+                "stormName": "Iona",
+                "stormNum": "01",
+                "stormType": "HU",
+                "styleUrl": "#120_line",
+                "timezone": "HST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -151.0,
+                    10.6,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Iona (CP012025)</b></font></td></tr> \n                        <tr><td>Advisory #7</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at: 11:00 AM HST July 28, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 10.6 N, -151.0 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 65 knots (75 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 80 knots (90 mph) </td></tr> \n                        <tr><td nowrap>Motion: W </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 993 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -152.6,
+                    10.6,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Iona (CP012025)</b></font></td></tr> \n                        <tr><td>Advisory #7</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>12 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 PM HST July 28, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 10.6 N, -152.6 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 80 knots (90 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 100 knots (115 mph) </td></tr>",
+                "styleUrl": "#h_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -155.0,
+                    10.6,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Iona (CP012025)</b></font></td></tr> \n                        <tr><td>Advisory #7</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>24 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 AM HST July 29, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 10.6 N, -155.0 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 95 knots (110 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 115 knots (130 mph) </td></tr>",
+                "styleUrl": "#h_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -157.7,
+                    10.7,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Iona (CP012025)</b></font></td></tr> \n                        <tr><td>Advisory #7</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>36 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 PM HST July 29, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 10.7 N, -157.7 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 90 knots (105 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 110 knots (125 mph) </td></tr>",
+                "styleUrl": "#h_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -161.0,
+                    10.9,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Iona (CP012025)</b></font></td></tr> \n                        <tr><td>Advisory #7</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>48 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 AM HST July 30, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 10.9 N, -161.0 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 80 knots (90 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 100 knots (115 mph) </td></tr>",
+                "styleUrl": "#h_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -164.5,
+                    11.2,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Iona (CP012025)</b></font></td></tr> \n                        <tr><td>Advisory #7</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>60 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 PM HST July 30, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 11.2 N, -164.5 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 65 knots (75 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 80 knots (90 mph) </td></tr>",
+                "styleUrl": "#h_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -168.1,
+                    11.7,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Iona (CP012025)</b></font></td></tr> \n                        <tr><td>Advisory #7</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>72 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 AM HST July 31, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 11.7 N, -168.1 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 55 knots (65 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 65 knots (75 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -175.2,
+                    12.9,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Iona (CP012025)</b></font></td></tr> \n                        <tr><td>Advisory #7</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>96 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 AM HST August 01, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 12.9 N, -175.2 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 45 knots (50 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 55 knots (65 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -181.5,
+                    14.7,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Iona (CP012025)</b></font></td></tr> \n                        <tr><td>Advisory #7</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>120 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 AM HST August 02, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 14.7 N, -181.5 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 40 knots (45 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 50 knots (60 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
