@@ -1,0 +1,83 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -139.6,
+                        11.9
+                    ],
+                    [
+                        -140.5,
+                        11.9
+                    ],
+                    [
+                        -141.4,
+                        11.8
+                    ],
+                    [
+                        -142.3,
+                        11.8
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "0",
+            "properties": {
+                "SS": 0.0,
+                "STORMNUM": 2.0,
+                "STORMTYPE": "DB"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -142.3,
+                        11.8
+                    ],
+                    [
+                        -143.2,
+                        12.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "1",
+            "properties": {
+                "SS": 0.0,
+                "STORMNUM": 2.0,
+                "STORMTYPE": "LO"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -142.3,
+                        11.8
+                    ],
+                    [
+                        -143.2,
+                        12.0
+                    ],
+                    [
+                        -143.2,
+                        12.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "2",
+            "properties": {
+                "SS": 0.0,
+                "STORMNUM": 2.0,
+                "STORMTYPE": "LO"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
