@@ -1,0 +1,205 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -179.5,
+                        15.8,
+                        0.0
+                    ],
+                    [
+                        -181.7,
+                        16.8,
+                        0.0
+                    ],
+                    [
+                        -184.2,
+                        18.0,
+                        0.0
+                    ],
+                    [
+                        -186.4,
+                        19.1,
+                        0.0
+                    ],
+                    [
+                        -188.4,
+                        20.6,
+                        0.0
+                    ],
+                    [
+                        -190.3,
+                        22.1,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "15.8N, 179.5W",
+                "advisoryNum": "24",
+                "atcfid": "CP012025",
+                "basin": "cp",
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression Iona (CP012025)</b></font></td></tr> \n                        <tr><td>Advisory #24 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "40",
+                "maxGustMPH": "45",
+                "maxWindKnots": "30",
+                "maxWindMPH": "35",
+                "minimumPressure": "1008",
+                "pubAdvTime": "500 PM HST Fri Aug 01 2025",
+                "storm": "Tropical Depression Iona",
+                "stormMovement": "WNW",
+                "stormName": "Iona",
+                "stormNum": "01",
+                "stormType": "TD",
+                "styleUrl": "#72_line",
+                "timezone": "HST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -179.5,
+                        15.8,
+                        0.0
+                    ],
+                    [
+                        -181.7,
+                        16.8,
+                        0.0
+                    ],
+                    [
+                        -184.2,
+                        18.0,
+                        0.0
+                    ],
+                    [
+                        -186.4,
+                        19.1,
+                        0.0
+                    ],
+                    [
+                        -188.4,
+                        20.6,
+                        0.0
+                    ],
+                    [
+                        -190.3,
+                        22.1,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "24",
+                "atcfid": "CP012025",
+                "basin": "cp",
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression Iona (CP012025)</b></font></td></tr> \n                        <tr><td>Advisory #24 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Tropical Depression Iona",
+                "stormName": "Iona",
+                "stormNum": "01",
+                "stormType": "TD",
+                "styleUrl": "#120_line",
+                "timezone": "HST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -179.5,
+                    15.8,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression Iona (CP012025)</b></font></td></tr> \n                        <tr><td>Advisory #24</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  5:00 PM HST August 01, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 15.8 N, -179.5 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 30 knots (35 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 40 knots (45 mph) </td></tr> \n                        <tr><td nowrap>Motion: WNW </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 1008 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -181.7,
+                    16.8,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression Iona (CP012025)</b></font></td></tr> \n                        <tr><td>Advisory #24</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>12 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 AM HST August 02, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 16.8 N, -181.7 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 30 knots (35 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 40 knots (45 mph) </td></tr>",
+                "styleUrl": "#d_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -184.2,
+                    18.0,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression Iona (CP012025)</b></font></td></tr> \n                        <tr><td>Advisory #24</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>24 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 PM HST August 02, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 18.0 N, -184.2 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 30 knots (35 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 40 knots (45 mph) </td></tr>",
+                "styleUrl": "#d_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -186.4,
+                    19.1,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression Iona (CP012025)</b></font></td></tr> \n                        <tr><td>Advisory #24</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>36 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 AM HST August 03, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 19.1 N, -186.4 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 30 knots (35 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 40 knots (45 mph) </td></tr>",
+                "styleUrl": "#d_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -188.4,
+                    20.6,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression Iona (CP012025)</b></font></td></tr> \n                        <tr><td>Advisory #24</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>48 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 PM HST August 03, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 20.6 N, -188.4 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 30 knots (35 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 40 knots (45 mph) </td></tr>",
+                "styleUrl": "#d_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -190.3,
+                    22.1,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression Iona (CP012025)</b></font></td></tr> \n                        <tr><td>Advisory #24</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>60 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 AM HST August 04, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 22.1 N, -190.3 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 25 knots (30 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 35 knots (40 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
