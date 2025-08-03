@@ -2186,6 +2186,51 @@
                         19.8
                     ],
                     [
+                        -132.9,
+                        19.8
+                    ],
+                    [
+                        -136.1,
+                        20.8
+                    ],
+                    [
+                        -139.1,
+                        21.4
+                    ],
+                    [
+                        -141.8,
+                        21.8
+                    ],
+                    [
+                        -144.5,
+                        22.0
+                    ],
+                    [
+                        -147.2,
+                        22.2
+                    ],
+                    [
+                        -149.9,
+                        22.5
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "1628",
+            "properties": {
+                "model": "DRCL",
+                "warning_datetime": "2025-08-03 06:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -132.9,
+                        19.8
+                    ],
+                    [
                         -136.1,
                         20.9
                     ],
@@ -2204,7 +2249,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "1639",
+            "id": "1640",
             "properties": {
                 "model": "GRPI",
                 "warning_datetime": "2025-08-03 06:00:00"
@@ -2237,7 +2282,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "1653",
+            "id": "1654",
             "properties": {
                 "model": "ICON",
                 "warning_datetime": "2025-08-03 06:00:00"
@@ -2298,7 +2343,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "1672",
+            "id": "1673",
             "properties": {
                 "model": "NVGI",
                 "warning_datetime": "2025-08-03 06:00:00"
@@ -2331,9 +2376,62 @@
                 ],
                 "type": "LineString"
             },
-            "id": "1698",
+            "id": "1699",
             "properties": {
                 "model": "GEN2",
+                "warning_datetime": "2025-08-03 06:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -132.9,
+                        19.8
+                    ],
+                    [
+                        -132.9,
+                        19.8
+                    ],
+                    [
+                        -133.7,
+                        20.1
+                    ],
+                    [
+                        -133.7,
+                        20.1
+                    ],
+                    [
+                        -136.1,
+                        20.8
+                    ],
+                    [
+                        -139.1,
+                        21.4
+                    ],
+                    [
+                        -141.8,
+                        21.8
+                    ],
+                    [
+                        -144.5,
+                        22.0
+                    ],
+                    [
+                        -147.2,
+                        22.2
+                    ],
+                    [
+                        -149.9,
+                        22.5
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "1712",
+            "properties": {
+                "model": "OFCL",
                 "warning_datetime": "2025-08-03 06:00:00"
             },
             "type": "Feature"
@@ -2376,7 +2474,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "1729",
+            "id": "1731",
             "properties": {
                 "model": "OFCI",
                 "warning_datetime": "2025-08-03 06:00:00"
