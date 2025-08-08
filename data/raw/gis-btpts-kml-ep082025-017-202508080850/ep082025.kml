@@ -1133,6 +1133,39 @@
 	       <dtg>0600 UTC AUG 08</dtg>
 	   </Placemark>
 
+	   <Placemark>
+	      <name>1200 UTC AUG 08</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>TS HENRIETTE (EP082025)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>1200 UTC AUG 08</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>19.5 N, -140.8 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1008 mb; 29.76 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>35 knots;  40 mph;  65 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ts</styleUrl>
+	       <Point>
+	   	   <coordinates>-140.8,19.5,0</coordinates>
+	       </Point>
+	       <lat>19.5</lat>
+	       <lon>-140.8</lon>
+	       <stormName>HENRIETTE</stormName>
+	       <stormNum>08</stormNum>
+	       <basin>AL</basin>
+	       <stormType>TS</stormType>
+	       <intensity>35</intensity>
+	       <intensityMPH>40</intensityMPH>
+	       <intensityKPH>65</intensityKPH>
+	       <minSeaLevelPres>1008</minSeaLevelPres>
+	       <atcfdtg>2025080812</atcfdtg>
+	       <dtg>1200 UTC AUG 08</dtg>
+	   </Placemark>
+
         </Folder>
 <Folder>
 <name>Legend</name>
