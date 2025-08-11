@@ -1,0 +1,130 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -119.6,
+                        23.2,
+                        0.0
+                    ],
+                    [
+                        -121.2,
+                        23.4,
+                        0.0
+                    ],
+                    [
+                        -123.5,
+                        23.5,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "23.2N, 119.6W",
+                "advisoryNum": "20",
+                "atcfid": "EP092025",
+                "basin": "ep",
+                "description": "<table> \n                        <tr><td><font color=black><b>Post-Tropical Cyclone Ivo (EP092025)</b></font></td></tr> \n                        <tr><td>Advisory #20 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "35",
+                "maxGustMPH": "40",
+                "maxWindKnots": "25",
+                "maxWindMPH": "30",
+                "minimumPressure": "1008",
+                "pubAdvTime": "800 AM PDT Mon Aug 11 2025",
+                "storm": "Post-Tropical Cyclone Ivo",
+                "stormMovement": "WNW",
+                "stormName": "Ivo",
+                "stormNum": "09",
+                "stormType": "PTC",
+                "styleUrl": "#72_line",
+                "timezone": "PDT"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -119.6,
+                        23.2,
+                        0.0
+                    ],
+                    [
+                        -121.2,
+                        23.4,
+                        0.0
+                    ],
+                    [
+                        -123.5,
+                        23.5,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "20",
+                "atcfid": "EP092025",
+                "basin": "ep",
+                "description": "<table> \n                        <tr><td><font color=black><b>Post-Tropical Cyclone Ivo (EP092025)</b></font></td></tr> \n                        <tr><td>Advisory #20 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Post-Tropical Cyclone Ivo",
+                "stormName": "Ivo",
+                "stormNum": "09",
+                "stormType": "PTC",
+                "styleUrl": "#120_line",
+                "timezone": "PDT"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.6,
+                    23.2,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Post-Tropical Cyclone Ivo (EP092025)</b></font></td></tr> \n                        <tr><td>Advisory #20</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 AM PDT August 11, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 23.2 N, -119.6 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 25 knots (30 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 35 knots (40 mph) </td></tr> \n                        <tr><td nowrap>Motion: WNW </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 1008 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -121.2,
+                    23.4,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Post-Tropical Cyclone Ivo (EP092025)</b></font></td></tr> \n                        <tr><td>Advisory #20</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>12 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  5:00 PM PDT August 11, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 23.4 N, -121.2 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 20 knots (25 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 30 knots (35 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -123.5,
+                    23.5,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Post-Tropical Cyclone Ivo (EP092025)</b></font></td></tr> \n                        <tr><td>Advisory #20</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>24 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  5:00 AM PDT August 12, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 23.5 N, -123.5 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 20 knots (25 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 30 knots (35 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
