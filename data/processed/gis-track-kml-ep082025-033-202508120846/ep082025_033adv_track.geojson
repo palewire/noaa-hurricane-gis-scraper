@@ -1,0 +1,230 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -160.1,
+                        31.7,
+                        0.0
+                    ],
+                    [
+                        -161.9,
+                        33.1,
+                        0.0
+                    ],
+                    [
+                        -164.5,
+                        35.0,
+                        0.0
+                    ],
+                    [
+                        -166.9,
+                        37.0,
+                        0.0
+                    ],
+                    [
+                        -169.1,
+                        39.2,
+                        0.0
+                    ],
+                    [
+                        -169.9,
+                        41.3,
+                        0.0
+                    ],
+                    [
+                        -169.4,
+                        43.2,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "31.7N, 160.1W",
+                "advisoryNum": "33",
+                "atcfid": "EP082025",
+                "basin": "cp",
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Henriette (EP082025)</b></font></td></tr> \n                        <tr><td>Advisory #33 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "80",
+                "maxGustMPH": "90",
+                "maxWindKnots": "65",
+                "maxWindMPH": "75",
+                "minimumPressure": "990",
+                "pubAdvTime": "1100 PM HST Mon Aug 11 2025",
+                "storm": "Hurricane Henriette",
+                "stormMovement": "NW",
+                "stormName": "Henriette",
+                "stormNum": "08",
+                "stormType": "HU",
+                "styleUrl": "#72_line",
+                "timezone": "HST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -160.1,
+                        31.7,
+                        0.0
+                    ],
+                    [
+                        -161.9,
+                        33.1,
+                        0.0
+                    ],
+                    [
+                        -164.5,
+                        35.0,
+                        0.0
+                    ],
+                    [
+                        -166.9,
+                        37.0,
+                        0.0
+                    ],
+                    [
+                        -169.1,
+                        39.2,
+                        0.0
+                    ],
+                    [
+                        -169.9,
+                        41.3,
+                        0.0
+                    ],
+                    [
+                        -169.4,
+                        43.2,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "33",
+                "atcfid": "EP082025",
+                "basin": "cp",
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Henriette (EP082025)</b></font></td></tr> \n                        <tr><td>Advisory #33 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Hurricane Henriette",
+                "stormName": "Henriette",
+                "stormNum": "08",
+                "stormType": "HU",
+                "styleUrl": "#120_line",
+                "timezone": "HST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -160.1,
+                    31.7,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Henriette (EP082025)</b></font></td></tr> \n                        <tr><td>Advisory #33</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at: 11:00 PM HST August 11, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 31.7 N, -160.1 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 65 knots (75 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 80 knots (90 mph) </td></tr> \n                        <tr><td nowrap>Motion: NW </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 990 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -161.9,
+                    33.1,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Henriette (EP082025)</b></font></td></tr> \n                        <tr><td>Advisory #33</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>12 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 AM HST August 12, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 33.1 N, -161.9 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 60 knots (70 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 75 knots (85 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -164.5,
+                    35.0,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Henriette (EP082025)</b></font></td></tr> \n                        <tr><td>Advisory #33</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>24 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 PM HST August 12, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 35.0 N, -164.5 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 55 knots (65 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 65 knots (75 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -166.9,
+                    37.0,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Henriette (EP082025)</b></font></td></tr> \n                        <tr><td>Advisory #33</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>36 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 AM HST August 13, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 37.0 N, -166.9 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 45 knots (50 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 55 knots (65 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -169.1,
+                    39.2,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Henriette (EP082025)</b></font></td></tr> \n                        <tr><td>Advisory #33</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>48 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 PM HST August 13, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 39.2 N, -169.1 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 35 knots (40 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 45 knots (50 mph) </td></tr>",
+                "styleUrl": "#xs_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -169.9,
+                    41.3,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Henriette (EP082025)</b></font></td></tr> \n                        <tr><td>Advisory #33</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>60 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 AM HST August 14, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 41.3 N, -169.9 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 25 knots (30 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 35 knots (40 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -169.4,
+                    43.2,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Henriette (EP082025)</b></font></td></tr> \n                        <tr><td>Advisory #33</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>72 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 PM HST August 14, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 43.2 N, -169.4 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 20 knots (25 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 30 knots (35 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
