@@ -1945,8 +1945,49 @@
             "type": "Feature"
         },
         {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -162.3,
+                        33.6
+                    ],
+                    [
+                        -162.3,
+                        33.6
+                    ],
+                    [
+                        -164.9,
+                        35.7
+                    ],
+                    [
+                        -167.2,
+                        37.7
+                    ],
+                    [
+                        -169.0,
+                        39.9
+                    ],
+                    [
+                        -169.5,
+                        42.0
+                    ],
+                    [
+                        -169.8,
+                        44.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "3218",
+            "properties": {
+                "model": "DRCL",
+                "warning_datetime": "2025-08-12 18:00:00"
+            },
+            "type": "Feature"
+        },
+        {
             "geometry": null,
-            "id": "3252",
+            "id": "3253",
             "properties": {
                 "model": "GRPI",
                 "warning_datetime": "2025-08-12 18:00:00"
@@ -1955,9 +1996,58 @@
         },
         {
             "geometry": null,
-            "id": "3298",
+            "id": "3299",
             "properties": {
                 "model": "GEN2",
+                "warning_datetime": "2025-08-12 18:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -162.3,
+                        33.6
+                    ],
+                    [
+                        -162.3,
+                        33.6
+                    ],
+                    [
+                        -162.9,
+                        34.1
+                    ],
+                    [
+                        -162.9,
+                        34.1
+                    ],
+                    [
+                        -164.9,
+                        35.7
+                    ],
+                    [
+                        -167.2,
+                        37.7
+                    ],
+                    [
+                        -169.0,
+                        39.9
+                    ],
+                    [
+                        -169.5,
+                        42.0
+                    ],
+                    [
+                        -169.8,
+                        44.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "3334",
+            "properties": {
+                "model": "OFCL",
                 "warning_datetime": "2025-08-12 18:00:00"
             },
             "type": "Feature"
@@ -1996,7 +2086,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "3385",
+            "id": "3387",
             "properties": {
                 "model": "OFCI",
                 "warning_datetime": "2025-08-12 18:00:00"
