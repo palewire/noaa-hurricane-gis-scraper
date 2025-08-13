@@ -1713,10 +1713,80 @@
             "type": "Feature"
         },
         {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -165.0,
+                        36.0
+                    ],
+                    [
+                        -167.4,
+                        38.6
+                    ],
+                    [
+                        -168.5,
+                        41.0
+                    ],
+                    [
+                        -168.1,
+                        43.2
+                    ],
+                    [
+                        -166.8,
+                        43.8
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "3379",
+            "properties": {
+                "model": "DRCL",
+                "warning_datetime": "2025-08-13 06:00:00"
+            },
+            "type": "Feature"
+        },
+        {
             "geometry": null,
-            "id": "3463",
+            "id": "3464",
             "properties": {
                 "model": "GEN2",
+                "warning_datetime": "2025-08-13 06:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -165.0,
+                        36.0
+                    ],
+                    [
+                        -165.6,
+                        36.7
+                    ],
+                    [
+                        -167.4,
+                        38.6
+                    ],
+                    [
+                        -168.5,
+                        41.0
+                    ],
+                    [
+                        -168.1,
+                        43.2
+                    ],
+                    [
+                        -166.8,
+                        43.8
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "3501",
+            "properties": {
+                "model": "OFCL",
                 "warning_datetime": "2025-08-13 06:00:00"
             },
             "type": "Feature"
@@ -1751,7 +1821,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "3555",
+            "id": "3557",
             "properties": {
                 "model": "OFCI",
                 "warning_datetime": "2025-08-13 06:00:00"
