@@ -87,9 +87,18 @@
                 ],
                 "type": "LineString"
             },
-            "id": "15",
+            "id": "16",
             "properties": {
                 "model": "CLP5",
+                "warning_datetime": "2025-08-15 12:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": null,
+            "id": "24",
+            "properties": {
+                "model": "CTCX",
                 "warning_datetime": "2025-08-15 12:00:00"
             },
             "type": "Feature"
@@ -160,9 +169,18 @@
                 ],
                 "type": "LineString"
             },
-            "id": "29",
+            "id": "32",
             "properties": {
                 "model": "DSHP",
+                "warning_datetime": "2025-08-15 12:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": null,
+            "id": "41",
+            "properties": {
+                "model": "GDMN",
                 "warning_datetime": "2025-08-15 12:00:00"
             },
             "type": "Feature"
@@ -193,7 +211,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "44",
+            "id": "49",
             "properties": {
                 "model": "HCCA",
                 "warning_datetime": "2025-08-15 12:00:00"
@@ -266,7 +284,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "52",
+            "id": "58",
             "properties": {
                 "model": "IVCN",
                 "warning_datetime": "2025-08-15 12:00:00"
@@ -339,7 +357,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "60",
+            "id": "67",
             "properties": {
                 "model": "LGEM",
                 "warning_datetime": "2025-08-15 12:00:00"
@@ -412,7 +430,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "68",
+            "id": "76",
             "properties": {
                 "model": "NNIB",
                 "warning_datetime": "2025-08-15 12:00:00"
@@ -485,7 +503,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "76",
+            "id": "85",
             "properties": {
                 "model": "NNIC",
                 "warning_datetime": "2025-08-15 12:00:00"
@@ -542,7 +560,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "84",
+            "id": "94",
             "properties": {
                 "model": "OCD5",
                 "warning_datetime": "2025-08-15 12:00:00"
@@ -599,7 +617,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "92",
+            "id": "103",
             "properties": {
                 "model": "SHF5",
                 "warning_datetime": "2025-08-15 12:00:00"
@@ -672,7 +690,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "100",
+            "id": "112",
             "properties": {
                 "model": "SHIP",
                 "warning_datetime": "2025-08-15 12:00:00"
@@ -801,7 +819,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "108",
+            "id": "121",
             "properties": {
                 "model": "TABD",
                 "warning_datetime": "2025-08-15 12:00:00"
@@ -930,7 +948,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "116",
+            "id": "130",
             "properties": {
                 "model": "TABM",
                 "warning_datetime": "2025-08-15 12:00:00"
@@ -1059,7 +1077,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "124",
+            "id": "139",
             "properties": {
                 "model": "TABS",
                 "warning_datetime": "2025-08-15 12:00:00"
@@ -1100,7 +1118,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "132",
+            "id": "148",
             "properties": {
                 "model": "TCLP",
                 "warning_datetime": "2025-08-15 12:00:00"
@@ -1173,7 +1191,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "140",
+            "id": "157",
             "properties": {
                 "model": "XTRP",
                 "warning_datetime": "2025-08-15 12:00:00"
@@ -1182,7 +1200,1058 @@
         },
         {
             "geometry": null,
-            "id": "388",
+            "id": "162",
+            "properties": {
+                "model": "CMC",
+                "warning_datetime": "2025-08-15 12:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": null,
+            "id": "166",
+            "properties": {
+                "model": "NGX",
+                "warning_datetime": "2025-08-15 12:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": null,
+            "id": "170",
+            "properties": {
+                "model": "UKM",
+                "warning_datetime": "2025-08-15 12:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -96.9,
+                        24.3
+                    ],
+                    [
+                        -98.0,
+                        26.9
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "174",
+            "properties": {
+                "model": "UKX",
+                "warning_datetime": "2025-08-15 12:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -97.5,
+                        25.2
+                    ],
+                    [
+                        -97.8,
+                        26.1
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "181",
+            "properties": {
+                "model": "AC00",
+                "warning_datetime": "2025-08-15 12:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -97.5,
+                        25.1
+                    ],
+                    [
+                        -97.7,
+                        26.1
+                    ],
+                    [
+                        -98.2,
+                        27.1
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "188",
+            "properties": {
+                "model": "AEMN",
+                "warning_datetime": "2025-08-15 12:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -97.7,
+                        25.0
+                    ],
+                    [
+                        -98.2,
+                        25.6
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "195",
+            "properties": {
+                "model": "AP01",
+                "warning_datetime": "2025-08-15 12:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": null,
+            "id": "202",
+            "properties": {
+                "model": "AP02",
+                "warning_datetime": "2025-08-15 12:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -97.4,
+                        25.1
+                    ],
+                    [
+                        -97.4,
+                        26.1
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "209",
+            "properties": {
+                "model": "AP03",
+                "warning_datetime": "2025-08-15 12:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -97.7,
+                        24.4
+                    ],
+                    [
+                        -97.9,
+                        25.1
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "216",
+            "properties": {
+                "model": "AP04",
+                "warning_datetime": "2025-08-15 12:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -97.2,
+                        25.5
+                    ],
+                    [
+                        -97.5,
+                        26.6
+                    ],
+                    [
+                        -98.0,
+                        27.2
+                    ],
+                    [
+                        -98.9,
+                        28.2
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "223",
+            "properties": {
+                "model": "AP05",
+                "warning_datetime": "2025-08-15 12:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -97.4,
+                        25.0
+                    ],
+                    [
+                        -97.9,
+                        26.0
+                    ],
+                    [
+                        -98.4,
+                        26.8
+                    ],
+                    [
+                        -100.4,
+                        27.3
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "230",
+            "properties": {
+                "model": "AP06",
+                "warning_datetime": "2025-08-15 12:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -97.7,
+                        25.1
+                    ],
+                    [
+                        -98.4,
+                        26.1
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "237",
+            "properties": {
+                "model": "AP07",
+                "warning_datetime": "2025-08-15 12:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -97.4,
+                        25.3
+                    ],
+                    [
+                        -97.6,
+                        26.2
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "244",
+            "properties": {
+                "model": "AP08",
+                "warning_datetime": "2025-08-15 12:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -97.4,
+                        25.5
+                    ],
+                    [
+                        -97.4,
+                        26.5
+                    ],
+                    [
+                        -97.9,
+                        27.8
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "251",
+            "properties": {
+                "model": "AP09",
+                "warning_datetime": "2025-08-15 12:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -97.5,
+                        25.5
+                    ],
+                    [
+                        -97.8,
+                        26.5
+                    ],
+                    [
+                        -98.3,
+                        27.5
+                    ],
+                    [
+                        -99.6,
+                        28.7
+                    ],
+                    [
+                        -100.6,
+                        29.4
+                    ],
+                    [
+                        -101.6,
+                        29.4
+                    ],
+                    [
+                        -102.3,
+                        28.6
+                    ],
+                    [
+                        -103.1,
+                        28.1
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "258",
+            "properties": {
+                "model": "AP10",
+                "warning_datetime": "2025-08-15 12:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -97.6,
+                        25.1
+                    ],
+                    [
+                        -97.6,
+                        26.1
+                    ],
+                    [
+                        -98.3,
+                        26.9
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "265",
+            "properties": {
+                "model": "AP11",
+                "warning_datetime": "2025-08-15 12:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -97.7,
+                        25.4
+                    ],
+                    [
+                        -98.1,
+                        26.4
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "272",
+            "properties": {
+                "model": "AP12",
+                "warning_datetime": "2025-08-15 12:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -97.6,
+                        24.6
+                    ],
+                    [
+                        -98.2,
+                        25.8
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "279",
+            "properties": {
+                "model": "AP13",
+                "warning_datetime": "2025-08-15 12:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -97.5,
+                        25.4
+                    ],
+                    [
+                        -97.9,
+                        26.3
+                    ],
+                    [
+                        -98.6,
+                        27.4
+                    ],
+                    [
+                        -99.7,
+                        28.4
+                    ],
+                    [
+                        -101.3,
+                        28.8
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "286",
+            "properties": {
+                "model": "AP14",
+                "warning_datetime": "2025-08-15 12:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -97.4,
+                        24.8
+                    ],
+                    [
+                        -97.7,
+                        25.7
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "293",
+            "properties": {
+                "model": "AP15",
+                "warning_datetime": "2025-08-15 12:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -97.3,
+                        25.2
+                    ],
+                    [
+                        -97.5,
+                        26.2
+                    ],
+                    [
+                        -98.5,
+                        27.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "300",
+            "properties": {
+                "model": "AP16",
+                "warning_datetime": "2025-08-15 12:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -97.5,
+                        25.4
+                    ],
+                    [
+                        -97.7,
+                        26.6
+                    ],
+                    [
+                        -98.0,
+                        27.5
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "307",
+            "properties": {
+                "model": "AP17",
+                "warning_datetime": "2025-08-15 12:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -97.7,
+                        25.2
+                    ],
+                    [
+                        -98.0,
+                        26.4
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "314",
+            "properties": {
+                "model": "AP18",
+                "warning_datetime": "2025-08-15 12:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -97.5,
+                        25.3
+                    ],
+                    [
+                        -97.5,
+                        26.3
+                    ],
+                    [
+                        -97.9,
+                        27.4
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "321",
+            "properties": {
+                "model": "AP19",
+                "warning_datetime": "2025-08-15 12:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -97.5,
+                        25.3
+                    ],
+                    [
+                        -97.8,
+                        26.4
+                    ],
+                    [
+                        -98.2,
+                        27.3
+                    ],
+                    [
+                        -99.2,
+                        28.4
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "328",
+            "properties": {
+                "model": "AP20",
+                "warning_datetime": "2025-08-15 12:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -97.3,
+                        25.2
+                    ],
+                    [
+                        -97.3,
+                        25.9
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "335",
+            "properties": {
+                "model": "AP21",
+                "warning_datetime": "2025-08-15 12:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -97.6,
+                        25.3
+                    ],
+                    [
+                        -97.7,
+                        26.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "342",
+            "properties": {
+                "model": "AP22",
+                "warning_datetime": "2025-08-15 12:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -97.5,
+                        25.2
+                    ],
+                    [
+                        -97.9,
+                        26.1
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "349",
+            "properties": {
+                "model": "AP23",
+                "warning_datetime": "2025-08-15 12:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -97.4,
+                        24.9
+                    ],
+                    [
+                        -97.3,
+                        26.2
+                    ],
+                    [
+                        -97.6,
+                        27.3
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "356",
+            "properties": {
+                "model": "AP24",
+                "warning_datetime": "2025-08-15 12:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -97.4,
+                        25.4
+                    ],
+                    [
+                        -97.4,
+                        26.7
+                    ],
+                    [
+                        -98.1,
+                        27.7
+                    ],
+                    [
+                        -99.2,
+                        29.1
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "363",
+            "properties": {
+                "model": "AP25",
+                "warning_datetime": "2025-08-15 12:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -97.6,
+                        25.1
+                    ],
+                    [
+                        -98.0,
+                        26.2
+                    ],
+                    [
+                        -98.6,
+                        27.2
+                    ],
+                    [
+                        -99.9,
+                        27.7
+                    ],
+                    [
+                        -101.4,
+                        27.8
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "370",
+            "properties": {
+                "model": "AP26",
+                "warning_datetime": "2025-08-15 12:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -97.6,
+                        24.8
+                    ],
+                    [
+                        -97.8,
+                        25.7
+                    ],
+                    [
+                        -98.4,
+                        26.7
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "377",
+            "properties": {
+                "model": "AP27",
+                "warning_datetime": "2025-08-15 12:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -97.7,
+                        24.3
+                    ],
+                    [
+                        -97.9,
+                        24.7
+                    ],
+                    [
+                        -97.9,
+                        25.3
+                    ],
+                    [
+                        -99.9,
+                        25.4
+                    ],
+                    [
+                        -100.6,
+                        26.2
+                    ],
+                    [
+                        -101.1,
+                        26.9
+                    ],
+                    [
+                        -101.6,
+                        26.2
+                    ],
+                    [
+                        -102.7,
+                        26.8
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "384",
+            "properties": {
+                "model": "AP28",
+                "warning_datetime": "2025-08-15 12:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -97.5,
+                        24.9
+                    ],
+                    [
+                        -97.7,
+                        25.9
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "391",
+            "properties": {
+                "model": "AP29",
+                "warning_datetime": "2025-08-15 12:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -97.6,
+                        25.1
+                    ],
+                    [
+                        -97.6,
+                        25.9
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "398",
+            "properties": {
+                "model": "AP30",
+                "warning_datetime": "2025-08-15 12:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": null,
+            "id": "405",
+            "properties": {
+                "model": "AVNO",
+                "warning_datetime": "2025-08-15 12:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -97.3,
+                        24.8
+                    ],
+                    [
+                        -98.0,
+                        26.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "409",
+            "properties": {
+                "model": "CEMN",
+                "warning_datetime": "2025-08-15 12:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -96.9,
+                        24.9
+                    ],
+                    [
+                        -97.3,
+                        26.1
+                    ],
+                    [
+                        -98.2,
+                        27.0
+                    ],
+                    [
+                        -99.8,
+                        27.3
+                    ],
+                    [
+                        -100.6,
+                        27.0
+                    ],
+                    [
+                        -100.9,
+                        27.3
+                    ],
+                    [
+                        -102.1,
+                        26.7
+                    ],
+                    [
+                        -104.1,
+                        26.4
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "416",
+            "properties": {
+                "model": "HFSA",
+                "warning_datetime": "2025-08-15 12:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -96.9,
+                        24.9
+                    ],
+                    [
+                        -97.2,
+                        26.2
+                    ],
+                    [
+                        -98.4,
+                        27.2
+                    ],
+                    [
+                        -99.8,
+                        27.3
+                    ],
+                    [
+                        -100.9,
+                        26.7
+                    ],
+                    [
+                        -100.8,
+                        27.0
+                    ],
+                    [
+                        -102.3,
+                        26.1
+                    ],
+                    [
+                        -104.4,
+                        25.9
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "423",
+            "properties": {
+                "model": "HFSB",
+                "warning_datetime": "2025-08-15 12:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -96.6,
+                        25.0
+                    ],
+                    [
+                        -97.8,
+                        26.3
+                    ],
+                    [
+                        -98.0,
+                        27.1
+                    ],
+                    [
+                        -99.3,
+                        28.1
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "430",
+            "properties": {
+                "model": "HMON",
+                "warning_datetime": "2025-08-15 12:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -96.8,
+                        24.8
+                    ],
+                    [
+                        -97.4,
+                        25.9
+                    ],
+                    [
+                        -98.2,
+                        27.0
+                    ],
+                    [
+                        -99.1,
+                        28.2
+                    ],
+                    [
+                        -100.4,
+                        28.9
+                    ],
+                    [
+                        -101.5,
+                        29.3
+                    ],
+                    [
+                        -102.2,
+                        29.4
+                    ],
+                    [
+                        -104.4,
+                        28.4
+                    ],
+                    [
+                        -105.7,
+                        28.2
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "437",
+            "properties": {
+                "model": "HWRF",
+                "warning_datetime": "2025-08-15 12:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": null,
+            "id": "444",
+            "properties": {
+                "model": "NVGM",
+                "warning_datetime": "2025-08-15 12:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": null,
+            "id": "449",
             "properties": {
                 "model": "AEMI",
                 "warning_datetime": "2025-08-15 12:00:00"
@@ -1219,7 +2288,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "394",
+            "id": "456",
             "properties": {
                 "model": "AVNI",
                 "warning_datetime": "2025-08-15 12:00:00"
@@ -1256,7 +2325,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "406",
+            "id": "469",
             "properties": {
                 "model": "HFAI",
                 "warning_datetime": "2025-08-15 12:00:00"
@@ -1277,7 +2346,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "412",
+            "id": "476",
             "properties": {
                 "model": "HFBI",
                 "warning_datetime": "2025-08-15 12:00:00"
@@ -1306,7 +2375,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "417",
+            "id": "482",
             "properties": {
                 "model": "HMNI",
                 "warning_datetime": "2025-08-15 12:00:00"
@@ -1343,7 +2412,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "422",
+            "id": "488",
             "properties": {
                 "model": "HWFI",
                 "warning_datetime": "2025-08-15 12:00:00"
@@ -1372,7 +2441,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "428",
+            "id": "495",
             "properties": {
                 "model": "ICON",
                 "warning_datetime": "2025-08-15 12:00:00"
@@ -1409,7 +2478,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "438",
+            "id": "506",
             "properties": {
                 "model": "RVCN",
                 "warning_datetime": "2025-08-15 12:00:00"
@@ -1446,7 +2515,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "444",
+            "id": "513",
             "properties": {
                 "model": "TVCA",
                 "warning_datetime": "2025-08-15 12:00:00"
@@ -1483,7 +2552,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "450",
+            "id": "520",
             "properties": {
                 "model": "TVCC",
                 "warning_datetime": "2025-08-15 12:00:00"
@@ -1520,7 +2589,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "456",
+            "id": "527",
             "properties": {
                 "model": "TVCE",
                 "warning_datetime": "2025-08-15 12:00:00"
@@ -1557,7 +2626,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "462",
+            "id": "534",
             "properties": {
                 "model": "TVCN",
                 "warning_datetime": "2025-08-15 12:00:00"
@@ -1594,7 +2663,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "468",
+            "id": "541",
             "properties": {
                 "model": "TVCX",
                 "warning_datetime": "2025-08-15 12:00:00"
@@ -1623,7 +2692,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "474",
+            "id": "549",
             "properties": {
                 "model": "CEM2",
                 "warning_datetime": "2025-08-15 12:00:00"
@@ -1644,7 +2713,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "476",
+            "id": "551",
             "properties": {
                 "model": "CMC2",
                 "warning_datetime": "2025-08-15 12:00:00"
@@ -1665,7 +2734,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "479",
+            "id": "554",
             "properties": {
                 "model": "CTCI",
                 "warning_datetime": "2025-08-15 12:00:00"
@@ -1674,7 +2743,7 @@
         },
         {
             "geometry": null,
-            "id": "483",
+            "id": "558",
             "properties": {
                 "model": "GDMI",
                 "warning_datetime": "2025-08-15 12:00:00"
@@ -1695,7 +2764,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "489",
+            "id": "564",
             "properties": {
                 "model": "UKX2",
                 "warning_datetime": "2025-08-15 12:00:00"
