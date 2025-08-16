@@ -1,0 +1,270 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -64.0,
+                        20.0,
+                        0.0
+                    ],
+                    [
+                        -65.7,
+                        20.4,
+                        0.0
+                    ],
+                    [
+                        -67.6,
+                        21.4,
+                        0.0
+                    ],
+                    [
+                        -69.2,
+                        22.7,
+                        0.0
+                    ],
+                    [
+                        -70.2,
+                        24.0,
+                        0.0
+                    ],
+                    [
+                        -70.9,
+                        25.5,
+                        0.0
+                    ],
+                    [
+                        -71.3,
+                        27.3,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "20.0N, 64.0W",
+                "advisoryNum": "22",
+                "atcfid": "AL052025",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Erin (AL052025)</b></font></td></tr> \n                        <tr><td>Advisory #22 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "170",
+                "maxGustMPH": "195",
+                "maxWindKnots": "140",
+                "maxWindMPH": "160",
+                "minimumPressure": "915",
+                "pubAdvTime": "500 PM AST Sat Aug 16 2025",
+                "storm": "Hurricane Erin",
+                "stormMovement": "W",
+                "stormName": "Erin",
+                "stormNum": "05",
+                "stormType": "MH",
+                "styleUrl": "#72_line",
+                "timezone": "AST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -64.0,
+                        20.0,
+                        0.0
+                    ],
+                    [
+                        -65.7,
+                        20.4,
+                        0.0
+                    ],
+                    [
+                        -67.6,
+                        21.4,
+                        0.0
+                    ],
+                    [
+                        -69.2,
+                        22.7,
+                        0.0
+                    ],
+                    [
+                        -70.2,
+                        24.0,
+                        0.0
+                    ],
+                    [
+                        -70.9,
+                        25.5,
+                        0.0
+                    ],
+                    [
+                        -71.3,
+                        27.3,
+                        0.0
+                    ],
+                    [
+                        -70.8,
+                        31.7,
+                        0.0
+                    ],
+                    [
+                        -65.0,
+                        36.8,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "22",
+                "atcfid": "AL052025",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Erin (AL052025)</b></font></td></tr> \n                        <tr><td>Advisory #22 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Hurricane Erin",
+                "stormName": "Erin",
+                "stormNum": "05",
+                "stormType": "MH",
+                "styleUrl": "#120_line",
+                "timezone": "AST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -64.0,
+                    20.0,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Erin (AL052025)</b></font></td></tr> \n                        <tr><td>Advisory #22</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  5:00 PM AST August 16, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 20.0 N, -64.0 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 140 knots (160 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 170 knots (195 mph) </td></tr> \n                        <tr><td nowrap>Motion: W </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 915 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -65.7,
+                    20.4,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Erin (AL052025)</b></font></td></tr> \n                        <tr><td>Advisory #22</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>12 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 AM AST August 17, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 20.4 N, -65.7 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 140 knots (160 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 170 knots (195 mph) </td></tr>",
+                "styleUrl": "#m_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -67.6,
+                    21.4,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Erin (AL052025)</b></font></td></tr> \n                        <tr><td>Advisory #22</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>24 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 PM AST August 17, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 21.4 N, -67.6 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 140 knots (160 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 170 knots (195 mph) </td></tr>",
+                "styleUrl": "#m_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -69.2,
+                    22.7,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Erin (AL052025)</b></font></td></tr> \n                        <tr><td>Advisory #22</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>36 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 AM AST August 18, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 22.7 N, -69.2 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 135 knots (155 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 165 knots (190 mph) </td></tr>",
+                "styleUrl": "#m_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -70.2,
+                    24.0,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Erin (AL052025)</b></font></td></tr> \n                        <tr><td>Advisory #22</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>48 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 PM AST August 18, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 24.0 N, -70.2 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 130 knots (150 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 160 knots (185 mph) </td></tr>",
+                "styleUrl": "#m_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -70.9,
+                    25.5,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Erin (AL052025)</b></font></td></tr> \n                        <tr><td>Advisory #22</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>60 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 AM AST August 19, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 25.5 N, -70.9 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 125 knots (145 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 150 knots (175 mph) </td></tr>",
+                "styleUrl": "#m_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.3,
+                    27.3,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Erin (AL052025)</b></font></td></tr> \n                        <tr><td>Advisory #22</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>72 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 PM AST August 19, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 27.3 N, -71.3 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 120 knots (140 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 145 knots (165 mph) </td></tr>",
+                "styleUrl": "#m_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -70.8,
+                    31.7,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Erin (AL052025)</b></font></td></tr> \n                        <tr><td>Advisory #22</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>96 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 PM AST August 20, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 31.7 N, -70.8 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 110 knots (125 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 135 knots (155 mph) </td></tr>",
+                "styleUrl": "#m_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -65.0,
+                    36.8,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Erin (AL052025)</b></font></td></tr> \n                        <tr><td>Advisory #22</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>120 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 PM AST August 21, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 36.8 N, -65.0 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 100 knots (115 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 120 knots (140 mph) </td></tr>",
+                "styleUrl": "#m_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
