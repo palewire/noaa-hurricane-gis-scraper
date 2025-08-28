@@ -1,0 +1,155 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -120.7,
+                        24.6,
+                        0.0
+                    ],
+                    [
+                        -121.0,
+                        25.9,
+                        0.0
+                    ],
+                    [
+                        -121.1,
+                        26.9,
+                        0.0
+                    ],
+                    [
+                        -121.2,
+                        27.3,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "24.6N, 120.7W",
+                "advisoryNum": "14",
+                "atcfid": "EP102025",
+                "basin": "ep",
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Juliette (EP102025)</b></font></td></tr> \n                        <tr><td>Advisory #14 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "50",
+                "maxGustMPH": "60",
+                "maxWindKnots": "40",
+                "maxWindMPH": "45",
+                "minimumPressure": "1006",
+                "pubAdvTime": "800 PM PDT Wed Aug 27 2025",
+                "storm": "Tropical Storm Juliette",
+                "stormMovement": "NNW",
+                "stormName": "Juliette",
+                "stormNum": "10",
+                "stormType": "TS",
+                "styleUrl": "#72_line",
+                "timezone": "PDT"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -120.7,
+                        24.6,
+                        0.0
+                    ],
+                    [
+                        -121.0,
+                        25.9,
+                        0.0
+                    ],
+                    [
+                        -121.1,
+                        26.9,
+                        0.0
+                    ],
+                    [
+                        -121.2,
+                        27.3,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "14",
+                "atcfid": "EP102025",
+                "basin": "ep",
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Juliette (EP102025)</b></font></td></tr> \n                        <tr><td>Advisory #14 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Tropical Storm Juliette",
+                "stormName": "Juliette",
+                "stormNum": "10",
+                "stormType": "TS",
+                "styleUrl": "#120_line",
+                "timezone": "PDT"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -120.7,
+                    24.6,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Juliette (EP102025)</b></font></td></tr> \n                        <tr><td>Advisory #14</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 PM PDT August 27, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 24.6 N, -120.7 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 40 knots (45 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 50 knots (60 mph) </td></tr> \n                        <tr><td nowrap>Motion: NNW </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 1006 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -121.0,
+                    25.9,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Juliette (EP102025)</b></font></td></tr> \n                        <tr><td>Advisory #14</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>12 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  5:00 AM PDT August 28, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 25.9 N, -121.0 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 35 knots (40 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 45 knots (50 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -121.1,
+                    26.9,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Juliette (EP102025)</b></font></td></tr> \n                        <tr><td>Advisory #14</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>24 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  5:00 PM PDT August 28, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 26.9 N, -121.1 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 25 knots (30 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 35 knots (40 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -121.2,
+                    27.3,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Juliette (EP102025)</b></font></td></tr> \n                        <tr><td>Advisory #14</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>36 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  5:00 AM PDT August 29, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 27.3 N, -121.2 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 20 knots (25 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 30 knots (35 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
