@@ -473,9 +473,9 @@ Forecaster Gibbs (CPHC)
               <a href='/abouttafbprod.shtml'>About Marine</a><br>
             </div>
             <div class='footer-column'>
-              <a class='footer-column-head' href='/socialmedia'>Social Media</a><br>
+              <a class='footer-column-head' href='/twitter.php'>Social Media</a><br>
               <a href="/nhcexit.php?outurl=http://www.facebook.com/NWSNHC"><img src="/css/images/f_logo.png" alt="Follow the National Hurricane Center on Facebook" width="15" height="15"> &nbsp; NHC on Facebook</a><br>
-              <a href="/x.php"><img src="/css/images/Xlogo.png" alt="Follow the National Hurricane Center on X" height="15" width="15"> &nbsp; X</a><br>
+              <a href="/twitter.php"><img src="/css/images/twitter_logo.png" alt="Follow the National Hurricane Center on Twitter" height="15" width="15"> &nbsp; Twitter</a><br>
               <a href="/nhcexit.php?outurl=http://www.youtube.com/user/NWSNHC"><img src="/css/images/youtube_logo.png" alt="Subscribe the National Hurricane Center on YouTube" height="12" width="15"> &nbsp; YouTube</a><br>
               <a href="/nhcexit.php?outurl=http://noaanhc.wordpress.com/"><img src="/css/images/w_logo.png" alt="Read the National Hurricane Center Inside the Eye blog on WordPress" height="15" width="15"> &nbsp; NHC Blog:<br>&nbsp; &nbsp; &nbsp; "Inside the Eye" </a><br>
               <br>
@@ -484,7 +484,7 @@ Forecaster Gibbs (CPHC)
               <a href="/prepare/hazards.php">Hurricane Hazards</a><br>
               <a href="https://www.weather.gov/safety/hurricane-ww">Watches and Warnings</a><br>
               <a href="/prepare/marine.php">Marine Safety</a><br>
-              <a href="http://www.ready.gov/hurricanes">Ready.gov Hurricanes</a> | <a href="https://www.listo.gov/es/huracanes">en Espa&ntilde;ol</a><br>
+              <a href="http://www.ready.gov/hurricanes">Ready.gov Hurricanes</a><br>
               <a href="https://www.weather.gov/wrn/force">Weather-Ready Nation</a><br>
               <a href="http://www.fema.gov/emergency-management-agencies">Emergency Management Offices</a><br>
             </div>
@@ -496,14 +496,14 @@ Forecaster Gibbs (CPHC)
               <br> -->
               <a class='footer-column-head' href='/aboutresearch.shtml'>Research and Development</a><br>
               <a href="http://www.aoml.noaa.gov/hrd/">NOAA Hurricane Research Division</a><br>
-              <a href="/hot/">Hurricane and Ocean Testbed (HOT)</a><br>
+              <a href="/hot/">Hurricane and Ocean Testbed</a><br>
               <a href="/nhcexit.php?outurl=http://www.hfip.org">Hurricane Forecast Improvement Program</a><br>
               <br>
               <a class='footer-column-head' href='/aboutintro.shtml'>Other Resources</a><br>
               <a href="/qa/">Q & A with NHC</a><br>
               <a href="http://www.aoml.noaa.gov/general/lib/lib1/nhclib/">NHC/AOML Library Branch</a><br>
               <a href="http://www.aoml.noaa.gov/hrd/tcfaq/tcfaqHED.html">NOAA: Hurricane FAQs</a><br>
-              <a href="/nhop.html">National Hurricane Operations Plan</a><br>
+              <a href="/nhop">National Hurricane Operations Plan</a><br>
               <a href="/nhcexit.php?outurl=http://www.wx4nhc.org">WX4NHC Amateur Radio</a><br>
             </div>
             <div class='footer-column'>
@@ -514,8 +514,8 @@ Forecaster Gibbs (CPHC)
               <a href="http://www.weather.gov">Local Forecast Offices</a><br>
               <br>
               <a class='footer-column-head' href="/aboutrsmc.shtml">Worldwide Tropical Cyclone Centers</a><br>
-              <a href="/nhcexit.php?outurl=https://weather.gc.ca/hurricane/index_e.html">Canadian Hurricane Centre</a><br>
-              <a href="/nhcexit.php?outurl=https://www.metoc.navy.mil/jtwc/jtwc.html">Joint Typhoon Warning Center</a><br>
+              <a href="/nhcexit.php?outurl=http://www.ec.gc.ca/ouragans-hurricanes/">Canadian Hurricane Centre</a><br>
+              <a href="/nhcexit.php?outurl=http://www.metoc.navy.mil/jtwc/">Joint Typhoon Warning Center</a><br>
               <a href="/aboutrsmc.shtml">Other Tropical Cyclone Centers</a><br>
               <a href="/nhcexit.php?outurl=http://severe.worldweather.org">WMO Severe Weather Info Centre</a>
             </div>
@@ -562,18 +562,18 @@ Forecaster Gibbs (CPHC)
    	    <div class="footer-legal-column3">
             <p>
               <a href="http://www.weather.gov/privacy">Privacy Policy</a><br>
-              <a href="https://www.noaa.gov/information-technology/foia">Freedom of Information Act (FOIA)</a><br>
+              <a href="http://www.rdc.noaa.gov/~foia">Freedom of Information Act (FOIA)</a><br>
               <a href="http://www.weather.gov/about">About Us</a><br>
-	      <!--<a href="http://www.weather.gov/careers">Career Opportunities</a>-->
+              <a href="http://www.weather.gov/careers">Career Opportunities</a>
             </p>
             </div>
           </div>
 	
         </div><!-- end of <div class="footer-legal"> -->
-
-      </div><!-- End of content div -->
+       </div><!-- End of content div -->
     </div><!-- End of center div -->
-    <div id="wrap"> </div> 
+    <div id="wrap"> </div>
+    <script async src="/assets/js/uswds.min.js"></script>
   </body>
 </html>
 
