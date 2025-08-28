@@ -1,0 +1,35 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -42.9,
+                        41.2
+                    ],
+                    [
+                        -38.7,
+                        42.7
+                    ],
+                    [
+                        -31.5,
+                        44.9
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "0",
+            "properties": {
+                "ADVDATE": "900 AM GMT Thu Aug 28 2025",
+                "ADVISNUM": "19",
+                "BASIN": "AL",
+                "FCSTPRD": 120.0,
+                "STORMNAME": "Fernand",
+                "STORMNUM": 6.0,
+                "STORMTYPE": "PTC"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

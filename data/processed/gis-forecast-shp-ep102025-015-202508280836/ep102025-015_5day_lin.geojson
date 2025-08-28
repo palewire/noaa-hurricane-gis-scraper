@@ -1,0 +1,35 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -120.8,
+                        25.4
+                    ],
+                    [
+                        -121.0,
+                        26.2
+                    ],
+                    [
+                        -121.2,
+                        26.9
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "0",
+            "properties": {
+                "ADVDATE": "200 AM PDT Thu Aug 28 2025",
+                "ADVISNUM": "15",
+                "BASIN": "EP",
+                "FCSTPRD": 120.0,
+                "STORMNAME": "Juliette",
+                "STORMNUM": 10.0,
+                "STORMTYPE": "PTC"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
