@@ -1,0 +1,722 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+	<kml xmlns="http://earth.google.com/kml/2.2"> 
+	<Document> 
+	<name>EP122025 Lorena</name> 
+	<open>0</open> 
+	<description>
+		<![CDATA[<TABLE>
+		<TR><TD><B>Title:</B> Tropical Cyclone Best Track for EP122025</TD></TR>
+		<TR><TD><B>Description:</B> The best track is a subjectively-smoothed representation of the tropical cyclone's location and intensity at 6-h interval over its lifetime.  These best track positions and intensity (maximum 1-minute sustained surface wind speed and minimum sea-level pressure) are based on a post-storm assessment of all available data and may differ from values contained in real-time storm advisories.  In general, they will not reflect the erratic motion implied by connecting the individual center fix positions.  The best track is a living database which servers as the official U.S. National Weather Service historical record of the tropical cyclone. 
+		<TR><TD><B>Date Created:</B> 03-09-2025</TD></TR>
+		<TR><TD><B>Created:</B> National Hurricane Center </TD></TR>
+		<TR><TD><B>Disclaimer:</B> These data are intended for geographic display and analysis at the national level, and for large regional areas. No responsibilty is assumed by the National Oceanic and Atmospheric Administration or the National Hurricane Center in the use of these data.  No wawrranty, expressed or implied, is made by the National Hurricane Center regarding the utility of the data on any other system, nor shall the act of distrubtion constitute any such warranty. </TD></TR>
+		<TR><TD><B>For More Information: </B><a href="https://www.nhc.noaa.gov">https://www.nhc.noaa.gov</a></TD></TR></TABLE>]]>
+	</description>
+	<Schema parent="Placemark" name="EP122025"> 
+		<SimpleField type="wstring" name="StormName"></SimpleField> 
+		<SimpleField type="wstring" name="StormNumber"></SimpleField> 
+		<SimpleField type="wstring" name="StormType"></SimpleField> 
+		<SimpleField type="wstring" name="Basin"></SimpleField> 
+		<SimpleField type="wstring" name="lat"></SimpleField> 
+		<SimpleField type="wstring" name="lon"></SimpleField> 
+		<SimpleField type="wstring" name="Intensity"></SimpleField> 
+		<SimpleField type="wstring" name="MSLP"></SimpleField> 
+		<SimpleField type="wstring" name="DTG"></SimpleField> 
+	</Schema>
+	<Style id="pt"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>ex_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="cat5"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>cat5_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="db"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>ex_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="cat3"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>cat3_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="ss"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>ts_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="lo"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>ex_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="cat4"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>cat4_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="lo"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>ex_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="cat2"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>cat2_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="ts"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>ts_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="cat1"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>cat1_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="ex"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>ex_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="st"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>typhoon_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="tc"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>ex_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="wv"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>ex_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="td"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>td_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="sd"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>ex_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="ty"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>typhoon_nhemi.png</href> 
+			</Icon> 
+             <hotSpot x="15" y="17" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Folder id="data"> 
+ 	    <name>Data</name> 
+
+	   <Placemark>
+	      <name>1200 UTC AUG 31</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>DB GENESIS021 (EP122025)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>1200 UTC AUG 31</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>13.3 N, -96.7 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1010 mb; 29.82 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>25 knots;  29 mph;  46 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ex</styleUrl>
+	       <Point>
+	   	   <coordinates>-96.7,13.3,0</coordinates>
+	       </Point>
+	       <lat>13.3</lat>
+	       <lon>-96.7</lon>
+	       <stormName>GENESIS021</stormName>
+	       <stormNum>12</stormNum>
+	       <basin>AL</basin>
+	       <stormType>DB</stormType>
+	       <intensity>25</intensity>
+	       <intensityMPH>29</intensityMPH>
+	       <intensityKPH>46</intensityKPH>
+	       <minSeaLevelPres>1010</minSeaLevelPres>
+	       <atcfdtg>2025083112</atcfdtg>
+	       <dtg>1200 UTC AUG 31</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>1800 UTC AUG 31</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>DB GENESIS021 (EP122025)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>1800 UTC AUG 31</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>13.9 N, -98.2 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1009 mb; 29.79 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>25 knots;  29 mph;  46 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ex</styleUrl>
+	       <Point>
+	   	   <coordinates>-98.2,13.9,0</coordinates>
+	       </Point>
+	       <lat>13.9</lat>
+	       <lon>-98.2</lon>
+	       <stormName>GENESIS021</stormName>
+	       <stormNum>12</stormNum>
+	       <basin>AL</basin>
+	       <stormType>DB</stormType>
+	       <intensity>25</intensity>
+	       <intensityMPH>29</intensityMPH>
+	       <intensityKPH>46</intensityKPH>
+	       <minSeaLevelPres>1009</minSeaLevelPres>
+	       <atcfdtg>2025083118</atcfdtg>
+	       <dtg>1800 UTC AUG 31</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>0000 UTC SEP 01</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>DB GENESIS021 (EP122025)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>0000 UTC SEP 01</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>14.5 N, -99.8 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1009 mb; 29.79 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>25 knots;  29 mph;  46 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ex</styleUrl>
+	       <Point>
+	   	   <coordinates>-99.8,14.5,0</coordinates>
+	       </Point>
+	       <lat>14.5</lat>
+	       <lon>-99.8</lon>
+	       <stormName>GENESIS021</stormName>
+	       <stormNum>12</stormNum>
+	       <basin>AL</basin>
+	       <stormType>DB</stormType>
+	       <intensity>25</intensity>
+	       <intensityMPH>29</intensityMPH>
+	       <intensityKPH>46</intensityKPH>
+	       <minSeaLevelPres>1009</minSeaLevelPres>
+	       <atcfdtg>2025090100</atcfdtg>
+	       <dtg>0000 UTC SEP 01</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>0600 UTC SEP 01</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>DB GENESIS021 (EP122025)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>0600 UTC SEP 01</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>15.3 N, -101.1 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1009 mb; 29.79 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>25 knots;  29 mph;  46 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ex</styleUrl>
+	       <Point>
+	   	   <coordinates>-101.1,15.3,0</coordinates>
+	       </Point>
+	       <lat>15.3</lat>
+	       <lon>-101.1</lon>
+	       <stormName>GENESIS021</stormName>
+	       <stormNum>12</stormNum>
+	       <basin>AL</basin>
+	       <stormType>DB</stormType>
+	       <intensity>25</intensity>
+	       <intensityMPH>29</intensityMPH>
+	       <intensityKPH>46</intensityKPH>
+	       <minSeaLevelPres>1009</minSeaLevelPres>
+	       <atcfdtg>2025090106</atcfdtg>
+	       <dtg>0600 UTC SEP 01</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>1200 UTC SEP 01</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>DB INVEST (EP122025)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>1200 UTC SEP 01</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>15.9 N, -102.3 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1009 mb; 29.79 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>25 knots;  29 mph;  46 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ex</styleUrl>
+	       <Point>
+	   	   <coordinates>-102.3,15.9,0</coordinates>
+	       </Point>
+	       <lat>15.9</lat>
+	       <lon>-102.3</lon>
+	       <stormName>INVEST</stormName>
+	       <stormNum>12</stormNum>
+	       <basin>AL</basin>
+	       <stormType>DB</stormType>
+	       <intensity>25</intensity>
+	       <intensityMPH>29</intensityMPH>
+	       <intensityKPH>46</intensityKPH>
+	       <minSeaLevelPres>1009</minSeaLevelPres>
+	       <atcfdtg>2025090112</atcfdtg>
+	       <dtg>1200 UTC SEP 01</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>1800 UTC SEP 01</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>DB INVEST (EP122025)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>1800 UTC SEP 01</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>16.5 N, -103.5 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1008 mb; 29.76 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>30 knots;  35 mph;  56 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ex</styleUrl>
+	       <Point>
+	   	   <coordinates>-103.5,16.5,0</coordinates>
+	       </Point>
+	       <lat>16.5</lat>
+	       <lon>-103.5</lon>
+	       <stormName>INVEST</stormName>
+	       <stormNum>12</stormNum>
+	       <basin>AL</basin>
+	       <stormType>DB</stormType>
+	       <intensity>30</intensity>
+	       <intensityMPH>35</intensityMPH>
+	       <intensityKPH>56</intensityKPH>
+	       <minSeaLevelPres>1008</minSeaLevelPres>
+	       <atcfdtg>2025090118</atcfdtg>
+	       <dtg>1800 UTC SEP 01</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>0000 UTC SEP 02</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>DB TWELVE (EP122025)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>0000 UTC SEP 02</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>17.0 N, -104.8 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1007 mb; 29.73 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>30 knots;  35 mph;  56 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ex</styleUrl>
+	       <Point>
+	   	   <coordinates>-104.8,17.0,0</coordinates>
+	       </Point>
+	       <lat>17.0</lat>
+	       <lon>-104.8</lon>
+	       <stormName>TWELVE</stormName>
+	       <stormNum>12</stormNum>
+	       <basin>AL</basin>
+	       <stormType>DB</stormType>
+	       <intensity>30</intensity>
+	       <intensityMPH>35</intensityMPH>
+	       <intensityKPH>56</intensityKPH>
+	       <minSeaLevelPres>1007</minSeaLevelPres>
+	       <atcfdtg>2025090200</atcfdtg>
+	       <dtg>0000 UTC SEP 02</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>0600 UTC SEP 02</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>TD TWELVE (EP122025)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>0600 UTC SEP 02</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>17.3 N, -106.3 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1007 mb; 29.73 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>30 knots;  35 mph;  56 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#td</styleUrl>
+	       <Point>
+	   	   <coordinates>-106.3,17.3,0</coordinates>
+	       </Point>
+	       <lat>17.3</lat>
+	       <lon>-106.3</lon>
+	       <stormName>TWELVE</stormName>
+	       <stormNum>12</stormNum>
+	       <basin>AL</basin>
+	       <stormType>TD</stormType>
+	       <intensity>30</intensity>
+	       <intensityMPH>35</intensityMPH>
+	       <intensityKPH>56</intensityKPH>
+	       <minSeaLevelPres>1007</minSeaLevelPres>
+	       <atcfdtg>2025090206</atcfdtg>
+	       <dtg>0600 UTC SEP 02</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>1200 UTC SEP 02</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>TS LORENA (EP122025)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>1200 UTC SEP 02</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>18.0 N, -107.4 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1005 mb; 29.67 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>35 knots;  40 mph;  65 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ts</styleUrl>
+	       <Point>
+	   	   <coordinates>-107.4,18.0,0</coordinates>
+	       </Point>
+	       <lat>18.0</lat>
+	       <lon>-107.4</lon>
+	       <stormName>LORENA</stormName>
+	       <stormNum>12</stormNum>
+	       <basin>AL</basin>
+	       <stormType>TS</stormType>
+	       <intensity>35</intensity>
+	       <intensityMPH>40</intensityMPH>
+	       <intensityKPH>65</intensityKPH>
+	       <minSeaLevelPres>1005</minSeaLevelPres>
+	       <atcfdtg>2025090212</atcfdtg>
+	       <dtg>1200 UTC SEP 02</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>1800 UTC SEP 02</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>TS LORENA (EP122025)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>1800 UTC SEP 02</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>18.9 N, -108.3 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>1002 mb; 29.58 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>45 knots;  52 mph;  83 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ts</styleUrl>
+	       <Point>
+	   	   <coordinates>-108.3,18.9,0</coordinates>
+	       </Point>
+	       <lat>18.9</lat>
+	       <lon>-108.3</lon>
+	       <stormName>LORENA</stormName>
+	       <stormNum>12</stormNum>
+	       <basin>AL</basin>
+	       <stormType>TS</stormType>
+	       <intensity>45</intensity>
+	       <intensityMPH>52</intensityMPH>
+	       <intensityKPH>83</intensityKPH>
+	       <minSeaLevelPres>1002</minSeaLevelPres>
+	       <atcfdtg>2025090218</atcfdtg>
+	       <dtg>1800 UTC SEP 02</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>0000 UTC SEP 03</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>TS LORENA (EP122025)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>0000 UTC SEP 03</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>19.8 N, -109.2 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>997 mb; 29.44 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>55 knots;  63 mph;  102 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ts</styleUrl>
+	       <Point>
+	   	   <coordinates>-109.2,19.8,0</coordinates>
+	       </Point>
+	       <lat>19.8</lat>
+	       <lon>-109.2</lon>
+	       <stormName>LORENA</stormName>
+	       <stormNum>12</stormNum>
+	       <basin>AL</basin>
+	       <stormType>TS</stormType>
+	       <intensity>55</intensity>
+	       <intensityMPH>63</intensityMPH>
+	       <intensityKPH>102</intensityKPH>
+	       <minSeaLevelPres>997</minSeaLevelPres>
+	       <atcfdtg>2025090300</atcfdtg>
+	       <dtg>0000 UTC SEP 03</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>0600 UTC SEP 03</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>TS LORENA (EP122025)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>0600 UTC SEP 03</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>20.7 N, -110.0 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>993 mb; 29.32 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>60 knots;  69 mph;  111 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#ts</styleUrl>
+	       <Point>
+	   	   <coordinates>-110.0,20.7,0</coordinates>
+	       </Point>
+	       <lat>20.7</lat>
+	       <lon>-110.0</lon>
+	       <stormName>LORENA</stormName>
+	       <stormNum>12</stormNum>
+	       <basin>AL</basin>
+	       <stormType>TS</stormType>
+	       <intensity>60</intensity>
+	       <intensityMPH>69</intensityMPH>
+	       <intensityKPH>111</intensityKPH>
+	       <minSeaLevelPres>993</minSeaLevelPres>
+	       <atcfdtg>2025090306</atcfdtg>
+	       <dtg>0600 UTC SEP 03</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>1200 UTC SEP 03</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>HU LORENA (EP122025)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>1200 UTC SEP 03</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>22.0 N, -111.1 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>990 mb; 29.23 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>65 knots;  75 mph;  120 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#cat1</styleUrl>
+	       <Point>
+	   	   <coordinates>-111.1,22.0,0</coordinates>
+	       </Point>
+	       <lat>22.0</lat>
+	       <lon>-111.1</lon>
+	       <stormName>LORENA</stormName>
+	       <stormNum>12</stormNum>
+	       <basin>AL</basin>
+	       <stormType>HU</stormType>
+	       <intensity>65</intensity>
+	       <intensityMPH>75</intensityMPH>
+	       <intensityKPH>120</intensityKPH>
+	       <minSeaLevelPres>990</minSeaLevelPres>
+	       <atcfdtg>2025090312</atcfdtg>
+	       <dtg>1200 UTC SEP 03</dtg>
+	   </Placemark>
+
+	   <Placemark>
+	      <name>1800 UTC SEP 03</name>
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description>
+	   	  <![CDATA[<table>
+	       		<tr><td>HU LORENA (EP122025)</td></tr>
+	       		<tr><td><hr></td></tr>
+	       		<tr><td>1800 UTC SEP 03</td></tr>
+	       		<tr><td>Storm Location:</td></tr>
+	       		<tr><td> <B>22.5 N, -112.1 W</B> </td></tr>
+	       		<tr><td>Min Sea Level Pressure:</td></tr>
+	       		<tr><td>985 mb; 29.08 in Hg</td></tr>
+	       		<tr><td>Maxium Intensity:</td></tr>
+	       		<tr><td>70 knots;  81 mph;  130 kph</td></tr></table>]]>
+	       </description>
+	       <styleUrl>#cat1</styleUrl>
+	       <Point>
+	   	   <coordinates>-112.1,22.5,0</coordinates>
+	       </Point>
+	       <lat>22.5</lat>
+	       <lon>-112.1</lon>
+	       <stormName>LORENA</stormName>
+	       <stormNum>12</stormNum>
+	       <basin>AL</basin>
+	       <stormType>HU</stormType>
+	       <intensity>70</intensity>
+	       <intensityMPH>81</intensityMPH>
+	       <intensityKPH>130</intensityKPH>
+	       <minSeaLevelPres>985</minSeaLevelPres>
+	       <atcfdtg>2025090318</atcfdtg>
+	       <dtg>1800 UTC SEP 03</dtg>
+	   </Placemark>
+
+        </Folder>
+<Folder>
+<name>Legend</name>
+<open>0</open>
+<visibility>1</visibility>
+<ScreenOverlay>
+<name>Legend</name>
+ <overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
+         <screenXY x="0" y="1" xunits="fraction" yunits="fraction"/>
+         <rotationXY x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+         <size x="-1" y="-1" xunits="pixels" yunits="pixels"/>
+</ScreenOverlay>
+</Folder>
+</Document>
+</kml>
+
