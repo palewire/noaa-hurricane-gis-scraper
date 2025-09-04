@@ -1,0 +1,79 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -112.26,
+                        27.34
+                    ],
+                    [
+                        -112.8,
+                        28.02
+                    ],
+                    [
+                        -113.54,
+                        28.9
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "0",
+            "properties": {
+                "ADVDATE": "200 AM MST Thu Sep 04 2025",
+                "ADVISNUM": "10",
+                "BASIN": "EP",
+                "FCSTPRD": 120.0,
+                "STORMNAME": "Lorena",
+                "STORMNUM": 12.0,
+                "STORMTYPE": "HU",
+                "TCWW": "TWA"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -115.05,
+                        27.85
+                    ],
+                    [
+                        -113.56,
+                        26.69
+                    ],
+                    [
+                        -112.13,
+                        25.79
+                    ],
+                    [
+                        -112.26,
+                        24.75
+                    ],
+                    [
+                        -111.84,
+                        24.5
+                    ],
+                    [
+                        -111.13,
+                        24.1
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "1",
+            "properties": {
+                "ADVDATE": "200 AM MST Thu Sep 04 2025",
+                "ADVISNUM": "10",
+                "BASIN": "EP",
+                "FCSTPRD": 120.0,
+                "STORMNAME": "Lorena",
+                "STORMNUM": 12.0,
+                "STORMTYPE": "HU",
+                "TCWW": "TWR"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

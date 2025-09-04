@@ -1,0 +1,230 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -113.7,
+                        24.0,
+                        0.0
+                    ],
+                    [
+                        -114.2,
+                        24.7,
+                        0.0
+                    ],
+                    [
+                        -114.3,
+                        25.4,
+                        0.0
+                    ],
+                    [
+                        -113.9,
+                        26.1,
+                        0.0
+                    ],
+                    [
+                        -113.5,
+                        26.7,
+                        0.0
+                    ],
+                    [
+                        -113.1,
+                        27.3,
+                        0.0
+                    ],
+                    [
+                        -112.9,
+                        28.0,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "24.0N, 113.7W",
+                "advisoryNum": "10",
+                "atcfid": "EP122025",
+                "basin": "ep",
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Lorena (EP122025)</b></font></td></tr> \n                        <tr><td>Advisory #10 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "85",
+                "maxGustMPH": "100",
+                "maxWindKnots": "70",
+                "maxWindMPH": "80",
+                "minimumPressure": "986",
+                "pubAdvTime": "200 AM MST Thu Sep 04 2025",
+                "storm": "Hurricane Lorena",
+                "stormMovement": "NW",
+                "stormName": "Lorena",
+                "stormNum": "12",
+                "stormType": "HU",
+                "styleUrl": "#72_line",
+                "timezone": "MST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -113.7,
+                        24.0,
+                        0.0
+                    ],
+                    [
+                        -114.2,
+                        24.7,
+                        0.0
+                    ],
+                    [
+                        -114.3,
+                        25.4,
+                        0.0
+                    ],
+                    [
+                        -113.9,
+                        26.1,
+                        0.0
+                    ],
+                    [
+                        -113.5,
+                        26.7,
+                        0.0
+                    ],
+                    [
+                        -113.1,
+                        27.3,
+                        0.0
+                    ],
+                    [
+                        -112.9,
+                        28.0,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "10",
+                "atcfid": "EP122025",
+                "basin": "ep",
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Lorena (EP122025)</b></font></td></tr> \n                        <tr><td>Advisory #10 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Hurricane Lorena",
+                "stormName": "Lorena",
+                "stormNum": "12",
+                "stormType": "HU",
+                "styleUrl": "#120_line",
+                "timezone": "MST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -113.7,
+                    24.0,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Lorena (EP122025)</b></font></td></tr> \n                        <tr><td>Advisory #10</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 AM MST September 04, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 24.0 N, -113.7 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 70 knots (80 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 85 knots (100 mph) </td></tr> \n                        <tr><td nowrap>Motion: NW </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 986 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -114.2,
+                    24.7,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Lorena (EP122025)</b></font></td></tr> \n                        <tr><td>Advisory #10</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>12 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at: 11:00 AM MST September 04, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 24.7 N, -114.2 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 60 knots (70 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 75 knots (85 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -114.3,
+                    25.4,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Lorena (EP122025)</b></font></td></tr> \n                        <tr><td>Advisory #10</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>24 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at: 11:00 PM MST September 04, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 25.4 N, -114.3 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 45 knots (50 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 55 knots (65 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -113.9,
+                    26.1,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Lorena (EP122025)</b></font></td></tr> \n                        <tr><td>Advisory #10</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>36 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at: 11:00 AM MST September 05, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 26.1 N, -113.9 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 35 knots (40 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 45 knots (50 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -113.5,
+                    26.7,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Lorena (EP122025)</b></font></td></tr> \n                        <tr><td>Advisory #10</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>48 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at: 11:00 PM MST September 05, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 26.7 N, -113.5 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 30 knots (35 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 40 knots (45 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -113.1,
+                    27.3,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Lorena (EP122025)</b></font></td></tr> \n                        <tr><td>Advisory #10</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>60 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at: 11:00 AM MST September 06, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 27.3 N, -113.1 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 25 knots (30 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 35 knots (40 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -112.9,
+                    28.0,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Lorena (EP122025)</b></font></td></tr> \n                        <tr><td>Advisory #10</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>72 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at: 11:00 PM MST September 06, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 28.0 N, -112.9 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 20 knots (25 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 30 knots (35 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
