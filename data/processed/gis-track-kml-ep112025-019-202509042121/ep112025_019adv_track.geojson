@@ -1,0 +1,270 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -134.6,
+                        13.9,
+                        0.0
+                    ],
+                    [
+                        -135.9,
+                        14.1,
+                        0.0
+                    ],
+                    [
+                        -137.6,
+                        14.5,
+                        0.0
+                    ],
+                    [
+                        -139.5,
+                        15.0,
+                        0.0
+                    ],
+                    [
+                        -141.4,
+                        15.7,
+                        0.0
+                    ],
+                    [
+                        -143.3,
+                        16.3,
+                        0.0
+                    ],
+                    [
+                        -145.3,
+                        17.1,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "13.9N, 134.6W",
+                "advisoryNum": "19",
+                "atcfid": "EP112025",
+                "basin": "ep",
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Kiko (EP112025)</b></font></td></tr> \n                        <tr><td>Advisory #19 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "140",
+                "maxGustMPH": "160",
+                "maxWindKnots": "115",
+                "maxWindMPH": "130",
+                "minimumPressure": "951",
+                "pubAdvTime": "1100 AM HST Thu Sep 04 2025",
+                "storm": "Hurricane Kiko",
+                "stormMovement": "W",
+                "stormName": "Kiko",
+                "stormNum": "11",
+                "stormType": "MH",
+                "styleUrl": "#72_line",
+                "timezone": "HST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -134.6,
+                        13.9,
+                        0.0
+                    ],
+                    [
+                        -135.9,
+                        14.1,
+                        0.0
+                    ],
+                    [
+                        -137.6,
+                        14.5,
+                        0.0
+                    ],
+                    [
+                        -139.5,
+                        15.0,
+                        0.0
+                    ],
+                    [
+                        -141.4,
+                        15.7,
+                        0.0
+                    ],
+                    [
+                        -143.3,
+                        16.3,
+                        0.0
+                    ],
+                    [
+                        -145.3,
+                        17.1,
+                        0.0
+                    ],
+                    [
+                        -149.1,
+                        18.7,
+                        0.0
+                    ],
+                    [
+                        -154.0,
+                        20.3,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "19",
+                "atcfid": "EP112025",
+                "basin": "ep",
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Kiko (EP112025)</b></font></td></tr> \n                        <tr><td>Advisory #19 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Hurricane Kiko",
+                "stormName": "Kiko",
+                "stormNum": "11",
+                "stormType": "MH",
+                "styleUrl": "#120_line",
+                "timezone": "HST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -134.6,
+                    13.9,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Kiko (EP112025)</b></font></td></tr> \n                        <tr><td>Advisory #19</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at: 11:00 AM HST September 04, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 13.9 N, -134.6 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 115 knots (130 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 140 knots (160 mph) </td></tr> \n                        <tr><td nowrap>Motion: W </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 951 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -135.9,
+                    14.1,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Kiko (EP112025)</b></font></td></tr> \n                        <tr><td>Advisory #19</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>12 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 PM HST September 04, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 14.1 N, -135.9 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 120 knots (140 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 145 knots (165 mph) </td></tr>",
+                "styleUrl": "#m_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -137.6,
+                    14.5,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Kiko (EP112025)</b></font></td></tr> \n                        <tr><td>Advisory #19</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>24 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 AM HST September 05, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 14.5 N, -137.6 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 125 knots (145 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 150 knots (175 mph) </td></tr>",
+                "styleUrl": "#m_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -139.5,
+                    15.0,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Kiko (EP112025)</b></font></td></tr> \n                        <tr><td>Advisory #19</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>36 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 PM HST September 05, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 15.0 N, -139.5 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 120 knots (140 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 145 knots (165 mph) </td></tr>",
+                "styleUrl": "#m_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -141.4,
+                    15.7,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Kiko (EP112025)</b></font></td></tr> \n                        <tr><td>Advisory #19</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>48 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 AM HST September 06, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 15.7 N, -141.4 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 115 knots (130 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 140 knots (160 mph) </td></tr>",
+                "styleUrl": "#m_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -143.3,
+                    16.3,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Kiko (EP112025)</b></font></td></tr> \n                        <tr><td>Advisory #19</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>60 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 PM HST September 06, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 16.3 N, -143.3 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 110 knots (125 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 135 knots (155 mph) </td></tr>",
+                "styleUrl": "#m_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -145.3,
+                    17.1,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Kiko (EP112025)</b></font></td></tr> \n                        <tr><td>Advisory #19</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>72 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 AM HST September 07, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 17.1 N, -145.3 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 105 knots (120 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 130 knots (150 mph) </td></tr>",
+                "styleUrl": "#m_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -149.1,
+                    18.7,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Kiko (EP112025)</b></font></td></tr> \n                        <tr><td>Advisory #19</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>96 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 AM HST September 08, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 18.7 N, -149.1 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 80 knots (90 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 100 knots (115 mph) </td></tr>",
+                "styleUrl": "#h_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -154.0,
+                    20.3,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Kiko (EP112025)</b></font></td></tr> \n                        <tr><td>Advisory #19</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>120 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 AM HST September 09, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 20.3 N, -154.0 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 50 knots (60 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 60 knots (70 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
