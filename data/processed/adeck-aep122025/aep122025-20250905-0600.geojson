@@ -1837,6 +1837,43 @@
                         24.4
                     ],
                     [
+                        -115.0,
+                        24.7
+                    ],
+                    [
+                        -115.2,
+                        25.1
+                    ],
+                    [
+                        -115.8,
+                        25.4
+                    ],
+                    [
+                        -116.7,
+                        25.8
+                    ],
+                    [
+                        -117.7,
+                        26.1
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "1171",
+            "properties": {
+                "model": "DRCL",
+                "warning_datetime": "2025-09-05 06:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -115.0,
+                        24.4
+                    ],
+                    [
                         -114.8,
                         24.5
                     ],
@@ -1859,9 +1896,50 @@
                 ],
                 "type": "LineString"
             },
-            "id": "1190",
+            "id": "1191",
             "properties": {
                 "model": "GDMI",
+                "warning_datetime": "2025-09-05 06:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -115.0,
+                        24.4
+                    ],
+                    [
+                        -115.0,
+                        24.5
+                    ],
+                    [
+                        -115.0,
+                        24.7
+                    ],
+                    [
+                        -115.2,
+                        25.1
+                    ],
+                    [
+                        -115.8,
+                        25.4
+                    ],
+                    [
+                        -116.7,
+                        25.8
+                    ],
+                    [
+                        -117.7,
+                        26.1
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "1210",
+            "properties": {
+                "model": "OFCL",
                 "warning_datetime": "2025-09-05 06:00:00"
             },
             "type": "Feature"
@@ -1896,7 +1974,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "1228",
+            "id": "1230",
             "properties": {
                 "model": "OFCI",
                 "warning_datetime": "2025-09-05 06:00:00"
@@ -1925,7 +2003,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "1254",
+            "id": "1256",
             "properties": {
                 "model": "EAII",
                 "warning_datetime": "2025-09-05 06:00:00"
@@ -1946,7 +2024,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "1265",
+            "id": "1267",
             "properties": {
                 "model": "GRPI",
                 "warning_datetime": "2025-09-05 06:00:00"
@@ -1955,7 +2033,7 @@
         },
         {
             "geometry": null,
-            "id": "1283",
+            "id": "1285",
             "properties": {
                 "model": "GEN2",
                 "warning_datetime": "2025-09-05 06:00:00"
@@ -1988,7 +2066,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "1295",
+            "id": "1297",
             "properties": {
                 "model": "UKMI",
                 "warning_datetime": "2025-09-05 06:00:00"
@@ -2029,7 +2107,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "1301",
+            "id": "1303",
             "properties": {
                 "model": "CTC2",
                 "warning_datetime": "2025-09-05 06:00:00"
