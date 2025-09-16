@@ -1,0 +1,205 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -115.7,
+                        21.9,
+                        0.0
+                    ],
+                    [
+                        -117.3,
+                        23.2,
+                        0.0
+                    ],
+                    [
+                        -118.6,
+                        24.6,
+                        0.0
+                    ],
+                    [
+                        -119.5,
+                        25.6,
+                        0.0
+                    ],
+                    [
+                        -120.0,
+                        26.3,
+                        0.0
+                    ],
+                    [
+                        -120.2,
+                        26.7,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "21.9N, 115.7W",
+                "advisoryNum": "15",
+                "atcfid": "EP132025",
+                "basin": "ep",
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Mario (EP132025)</b></font></td></tr> \n                        <tr><td>Advisory #15 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "55",
+                "maxGustMPH": "65",
+                "maxWindKnots": "45",
+                "maxWindMPH": "50",
+                "minimumPressure": "1000",
+                "pubAdvTime": "200 AM PDT Tue Sep 16 2025",
+                "storm": "Tropical Storm Mario",
+                "stormMovement": "NW",
+                "stormName": "Mario",
+                "stormNum": "13",
+                "stormType": "TS",
+                "styleUrl": "#72_line",
+                "timezone": "PDT"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -115.7,
+                        21.9,
+                        0.0
+                    ],
+                    [
+                        -117.3,
+                        23.2,
+                        0.0
+                    ],
+                    [
+                        -118.6,
+                        24.6,
+                        0.0
+                    ],
+                    [
+                        -119.5,
+                        25.6,
+                        0.0
+                    ],
+                    [
+                        -120.0,
+                        26.3,
+                        0.0
+                    ],
+                    [
+                        -120.2,
+                        26.7,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "15",
+                "atcfid": "EP132025",
+                "basin": "ep",
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Mario (EP132025)</b></font></td></tr> \n                        <tr><td>Advisory #15 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Tropical Storm Mario",
+                "stormName": "Mario",
+                "stormNum": "13",
+                "stormType": "TS",
+                "styleUrl": "#120_line",
+                "timezone": "PDT"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.7,
+                    21.9,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Mario (EP132025)</b></font></td></tr> \n                        <tr><td>Advisory #15</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 AM PDT September 16, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 21.9 N, -115.7 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 45 knots (50 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 55 knots (65 mph) </td></tr> \n                        <tr><td nowrap>Motion: NW </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 1000 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -117.3,
+                    23.2,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Mario (EP132025)</b></font></td></tr> \n                        <tr><td>Advisory #15</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>12 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at: 11:00 AM PDT September 16, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 23.2 N, -117.3 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 35 knots (40 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 45 knots (50 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -118.6,
+                    24.6,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Mario (EP132025)</b></font></td></tr> \n                        <tr><td>Advisory #15</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>24 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at: 11:00 PM PDT September 16, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 24.6 N, -118.6 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 30 knots (35 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 40 knots (45 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.5,
+                    25.6,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Mario (EP132025)</b></font></td></tr> \n                        <tr><td>Advisory #15</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>36 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at: 11:00 AM PDT September 17, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 25.6 N, -119.5 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 25 knots (30 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 35 knots (40 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -120.0,
+                    26.3,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Mario (EP132025)</b></font></td></tr> \n                        <tr><td>Advisory #15</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>48 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at: 11:00 PM PDT September 17, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 26.3 N, -120.0 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 20 knots (25 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 30 knots (35 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -120.2,
+                    26.7,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Mario (EP132025)</b></font></td></tr> \n                        <tr><td>Advisory #15</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>60 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at: 11:00 AM PDT September 18, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 26.7 N, -120.2 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 15 knots (15 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 20 knots (25 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
