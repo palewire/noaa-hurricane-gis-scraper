@@ -1,0 +1,155 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -118.3,
+                        23.7,
+                        0.0
+                    ],
+                    [
+                        -119.2,
+                        24.7,
+                        0.0
+                    ],
+                    [
+                        -119.8,
+                        25.6,
+                        0.0
+                    ],
+                    [
+                        -120.2,
+                        26.3,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "23.7N, 118.3W",
+                "advisoryNum": "18",
+                "atcfid": "EP132025",
+                "basin": "ep",
+                "description": "<table> \n                        <tr><td><font color=black><b>Post-Tropical Cyclone Mario (EP132025)</b></font></td></tr> \n                        <tr><td>Advisory #18 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "35",
+                "maxGustMPH": "40",
+                "maxWindKnots": "25",
+                "maxWindMPH": "30",
+                "minimumPressure": "1006",
+                "pubAdvTime": "800 PM PDT Tue Sep 16 2025",
+                "storm": "Post-Tropical Cyclone Mario",
+                "stormMovement": "NW",
+                "stormName": "Mario",
+                "stormNum": "13",
+                "stormType": "PTC",
+                "styleUrl": "#72_line",
+                "timezone": "PDT"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -118.3,
+                        23.7,
+                        0.0
+                    ],
+                    [
+                        -119.2,
+                        24.7,
+                        0.0
+                    ],
+                    [
+                        -119.8,
+                        25.6,
+                        0.0
+                    ],
+                    [
+                        -120.2,
+                        26.3,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "18",
+                "atcfid": "EP132025",
+                "basin": "ep",
+                "description": "<table> \n                        <tr><td><font color=black><b>Post-Tropical Cyclone Mario (EP132025)</b></font></td></tr> \n                        <tr><td>Advisory #18 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Post-Tropical Cyclone Mario",
+                "stormName": "Mario",
+                "stormNum": "13",
+                "stormType": "PTC",
+                "styleUrl": "#120_line",
+                "timezone": "PDT"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -118.3,
+                    23.7,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Post-Tropical Cyclone Mario (EP132025)</b></font></td></tr> \n                        <tr><td>Advisory #18</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 PM PDT September 16, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 23.7 N, -118.3 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 25 knots (30 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 35 knots (40 mph) </td></tr> \n                        <tr><td nowrap>Motion: NW </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 1006 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.2,
+                    24.7,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Post-Tropical Cyclone Mario (EP132025)</b></font></td></tr> \n                        <tr><td>Advisory #18</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>12 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  5:00 AM PDT September 17, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 24.7 N, -119.2 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 20 knots (25 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 30 knots (35 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.8,
+                    25.6,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Post-Tropical Cyclone Mario (EP132025)</b></font></td></tr> \n                        <tr><td>Advisory #18</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>24 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  5:00 PM PDT September 17, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 25.6 N, -119.8 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 20 knots (25 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 30 knots (35 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -120.2,
+                    26.3,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Post-Tropical Cyclone Mario (EP132025)</b></font></td></tr> \n                        <tr><td>Advisory #18</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>36 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  5:00 AM PDT September 18, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 26.3 N, -120.2 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 15 knots (15 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 20 knots (25 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
