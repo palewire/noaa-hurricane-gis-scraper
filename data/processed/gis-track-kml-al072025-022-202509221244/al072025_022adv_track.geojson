@@ -1,0 +1,270 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -62.2,
+                        30.6,
+                        0.0
+                    ],
+                    [
+                        -62.1,
+                        31.3,
+                        0.0
+                    ],
+                    [
+                        -60.5,
+                        32.9,
+                        0.0
+                    ],
+                    [
+                        -57.4,
+                        34.4,
+                        0.0
+                    ],
+                    [
+                        -53.1,
+                        35.4,
+                        0.0
+                    ],
+                    [
+                        -47.6,
+                        36.0,
+                        0.0
+                    ],
+                    [
+                        -41.5,
+                        36.7,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "30.6N, 62.2W",
+                "advisoryNum": "22",
+                "atcfid": "AL072025",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Gabrielle (AL072025)</b></font></td></tr> \n                        <tr><td>Advisory #22 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "130",
+                "maxGustMPH": "150",
+                "maxWindKnots": "105",
+                "maxWindMPH": "120",
+                "minimumPressure": "957",
+                "pubAdvTime": "900 AM AST Mon Sep 22 2025",
+                "storm": "Hurricane Gabrielle",
+                "stormMovement": "N",
+                "stormName": "Gabrielle",
+                "stormNum": "07",
+                "stormType": "MH",
+                "styleUrl": "#72_line",
+                "timezone": "AST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -62.2,
+                        30.6,
+                        0.0
+                    ],
+                    [
+                        -62.1,
+                        31.3,
+                        0.0
+                    ],
+                    [
+                        -60.5,
+                        32.9,
+                        0.0
+                    ],
+                    [
+                        -57.4,
+                        34.4,
+                        0.0
+                    ],
+                    [
+                        -53.1,
+                        35.4,
+                        0.0
+                    ],
+                    [
+                        -47.6,
+                        36.0,
+                        0.0
+                    ],
+                    [
+                        -41.5,
+                        36.7,
+                        0.0
+                    ],
+                    [
+                        -28.9,
+                        40.7,
+                        0.0
+                    ],
+                    [
+                        -19.9,
+                        44.2,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "22",
+                "atcfid": "AL072025",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Gabrielle (AL072025)</b></font></td></tr> \n                        <tr><td>Advisory #22 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Hurricane Gabrielle",
+                "stormName": "Gabrielle",
+                "stormNum": "07",
+                "stormType": "MH",
+                "styleUrl": "#120_line",
+                "timezone": "AST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -62.2,
+                    30.6,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Gabrielle (AL072025)</b></font></td></tr> \n                        <tr><td>Advisory #22</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  9:00 AM AST September 22, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 30.6 N, -62.2 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 105 knots (120 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 130 knots (150 mph) </td></tr> \n                        <tr><td nowrap>Motion: N </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 957 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -62.1,
+                    31.3,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Gabrielle (AL072025)</b></font></td></tr> \n                        <tr><td>Advisory #22</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>12 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 PM AST September 22, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 31.3 N, -62.1 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 115 knots (130 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 140 knots (160 mph) </td></tr>",
+                "styleUrl": "#m_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -60.5,
+                    32.9,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Gabrielle (AL072025)</b></font></td></tr> \n                        <tr><td>Advisory #22</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>24 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 AM AST September 23, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 32.9 N, -60.5 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 110 knots (125 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 135 knots (155 mph) </td></tr>",
+                "styleUrl": "#m_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -57.4,
+                    34.4,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Gabrielle (AL072025)</b></font></td></tr> \n                        <tr><td>Advisory #22</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>36 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 PM AST September 23, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 34.4 N, -57.4 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 95 knots (110 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 115 knots (130 mph) </td></tr>",
+                "styleUrl": "#h_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -53.1,
+                    35.4,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Gabrielle (AL072025)</b></font></td></tr> \n                        <tr><td>Advisory #22</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>48 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 AM AST September 24, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 35.4 N, -53.1 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 90 knots (105 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 110 knots (125 mph) </td></tr>",
+                "styleUrl": "#h_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -47.6,
+                    36.0,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Gabrielle (AL072025)</b></font></td></tr> \n                        <tr><td>Advisory #22</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>60 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 PM AST September 24, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 36.0 N, -47.6 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 80 knots (90 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 100 knots (115 mph) </td></tr>",
+                "styleUrl": "#h_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -41.5,
+                    36.7,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Gabrielle (AL072025)</b></font></td></tr> \n                        <tr><td>Advisory #22</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>72 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 AM AST September 25, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 36.7 N, -41.5 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 75 knots (85 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 90 knots (105 mph) </td></tr>",
+                "styleUrl": "#h_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -28.9,
+                    40.7,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Gabrielle (AL072025)</b></font></td></tr> \n                        <tr><td>Advisory #22</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>96 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 AM AST September 26, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 40.7 N, -28.9 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 70 knots (80 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 85 knots (100 mph) </td></tr>",
+                "styleUrl": "#h_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -19.9,
+                    44.2,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Gabrielle (AL072025)</b></font></td></tr> \n                        <tr><td>Advisory #22</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>120 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 AM AST September 27, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 44.2 N, -19.9 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 55 knots (65 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 65 knots (75 mph) </td></tr>",
+                "styleUrl": "#xs_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
