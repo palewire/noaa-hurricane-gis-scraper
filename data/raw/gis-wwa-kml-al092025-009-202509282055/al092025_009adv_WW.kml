@@ -1,0 +1,503 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://earth.google.com/kml/2.1'>
+<Document>
+<name>Tropical Storm Imelda (Advisory #9) - Watch/Warnings</name>
+    <description>
+        <TABLE>
+            <TR><TD><B>Title:</B> Tropical Cyclone Watch/Warnings for AL092025 (Advisory #9)</TD></TR>
+            <TR><TD><B>Description:</B>The official watch/warning in KML format is an experimental product produced by the National Hurricane Center.  Coastal areas placed under tropical cyclone watches or warnings are delimited by specific geographical locations known as "breakpoints" (e.g., a hurricane warning is in effect from breakpoint "A" to breakpoint "B").  This file consists of one or more lines connecting the breakpoints delimiting any current watches or warnings. </TD></TR>
+            <TR><TD><B>Date Created:</B> 09-28-2025 - 20:53 UTC </TD></TR>
+            <TR><TD><B>Created:</B> National Hurricane Center </TD></TR>
+            <TR><TD><B>Disclaimer:</B>The official watch/warning in KML format is an experimental product.</TD></TR>
+            <TR><TD><B>For More Information: </B><a href="https://www.nhc.noaa.gov">https://www.nhc.noaa.gov</a></TD></TR>
+        </TABLE>
+    </description>
+        <Style id="TWR">
+                <LineStyle>
+                        <color>ffff0055</color>
+                        <width>3</width>
+                </LineStyle>
+                <PolyStyle>
+                        <color>ffff0055</color>
+                </PolyStyle>
+        </Style>
+        <Style id="TWA">
+                <LineStyle>
+                        <color>ff22e2f7</color>
+                        <width>3</width>
+                </LineStyle>
+                <PolyStyle>
+                        <color>ff22e2f7</color>
+                </PolyStyle>
+        </Style>
+        <Style id="HWA">
+                <LineStyle>
+                        <color>99ffaaff</color>
+                        <width>8</width>
+                </LineStyle>
+                <PolyStyle>
+                        <color>99ffaaff</color>
+                </PolyStyle>
+        </Style>
+        <Style id="HWR">
+                <LineStyle>
+                        <color>990000ff</color>
+                        <width>8</width>
+                </LineStyle>
+                <PolyStyle>
+                        <color>990000ff</color>
+                </PolyStyle>
+        </Style>
+    <Placemark>
+      <name>Tropical Storm Warning</name>
+        <styleUrl>#TWR</styleUrl>
+        <LineString>
+                <coordinates>
+-78.15,25.33,0 -78.42,24.6,0 -78.0,24.16,0 -77.76,23.63,0 -77.47,23.95,0 -78.15,25.33,0 
+                </coordinates>
+        </LineString>
+        <ExtendedData>
+            <Data name="timezone">
+                <value>EDT</value>
+            </Data>
+            <Data name="stormType">
+                <value>TS</value>
+            </Data>
+            <Data name="advisoryDate">
+                <value>500 PM EDT Sun Sep 28 2025</value>
+            </Data>
+            <Data name="basin">
+                <value>AL</value>
+            </Data>
+            <Data name="fcstpd">
+                <value>120</value>
+            </Data>
+            <Data name="storm">
+                <value>Tropical Storm Imelda</value>
+            </Data>
+            <Data name="atcfid">
+                <value>AL092025</value>
+            </Data>
+            <Data name="advisoryNum">
+                <value>9</value>
+            </Data>
+            <Data name="stormNum">
+                <value>9</value>
+            </Data>
+            <Data name="stormName">
+                <value>Imelda</value>
+            </Data>
+        </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Tropical Storm Warning</name>
+        <styleUrl>#TWR</styleUrl>
+        <LineString>
+                <coordinates>
+-75.75,24.73,0 -75.33,24.07,0 
+                </coordinates>
+        </LineString>
+        <ExtendedData>
+            <Data name="timezone">
+                <value>EDT</value>
+            </Data>
+            <Data name="stormType">
+                <value>TS</value>
+            </Data>
+            <Data name="advisoryDate">
+                <value>500 PM EDT Sun Sep 28 2025</value>
+            </Data>
+            <Data name="basin">
+                <value>AL</value>
+            </Data>
+            <Data name="fcstpd">
+                <value>120</value>
+            </Data>
+            <Data name="storm">
+                <value>Tropical Storm Imelda</value>
+            </Data>
+            <Data name="atcfid">
+                <value>AL092025</value>
+            </Data>
+            <Data name="advisoryNum">
+                <value>9</value>
+            </Data>
+            <Data name="stormNum">
+                <value>9</value>
+            </Data>
+            <Data name="stormName">
+                <value>Imelda</value>
+            </Data>
+        </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Tropical Storm Warning</name>
+        <styleUrl>#TWR</styleUrl>
+        <LineString>
+                <coordinates>
+-74.46,24.19,0 -74.54,23.9,0 
+                </coordinates>
+        </LineString>
+        <ExtendedData>
+            <Data name="timezone">
+                <value>EDT</value>
+            </Data>
+            <Data name="stormType">
+                <value>TS</value>
+            </Data>
+            <Data name="advisoryDate">
+                <value>500 PM EDT Sun Sep 28 2025</value>
+            </Data>
+            <Data name="basin">
+                <value>AL</value>
+            </Data>
+            <Data name="fcstpd">
+                <value>120</value>
+            </Data>
+            <Data name="storm">
+                <value>Tropical Storm Imelda</value>
+            </Data>
+            <Data name="atcfid">
+                <value>AL092025</value>
+            </Data>
+            <Data name="advisoryNum">
+                <value>9</value>
+            </Data>
+            <Data name="stormNum">
+                <value>9</value>
+            </Data>
+            <Data name="stormName">
+                <value>Imelda</value>
+            </Data>
+        </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Tropical Storm Warning</name>
+        <styleUrl>#TWR</styleUrl>
+        <LineString>
+                <coordinates>
+-75.0,23.67,0 -74.73,23.69,0 
+                </coordinates>
+        </LineString>
+        <ExtendedData>
+            <Data name="timezone">
+                <value>EDT</value>
+            </Data>
+            <Data name="stormType">
+                <value>TS</value>
+            </Data>
+            <Data name="advisoryDate">
+                <value>500 PM EDT Sun Sep 28 2025</value>
+            </Data>
+            <Data name="basin">
+                <value>AL</value>
+            </Data>
+            <Data name="fcstpd">
+                <value>120</value>
+            </Data>
+            <Data name="storm">
+                <value>Tropical Storm Imelda</value>
+            </Data>
+            <Data name="atcfid">
+                <value>AL092025</value>
+            </Data>
+            <Data name="advisoryNum">
+                <value>9</value>
+            </Data>
+            <Data name="stormNum">
+                <value>9</value>
+            </Data>
+            <Data name="stormName">
+                <value>Imelda</value>
+            </Data>
+        </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Tropical Storm Warning</name>
+        <styleUrl>#TWR</styleUrl>
+        <LineString>
+                <coordinates>
+-75.37,23.73,0 -74.83,22.81,0 
+                </coordinates>
+        </LineString>
+        <ExtendedData>
+            <Data name="timezone">
+                <value>EDT</value>
+            </Data>
+            <Data name="stormType">
+                <value>TS</value>
+            </Data>
+            <Data name="advisoryDate">
+                <value>500 PM EDT Sun Sep 28 2025</value>
+            </Data>
+            <Data name="basin">
+                <value>AL</value>
+            </Data>
+            <Data name="fcstpd">
+                <value>120</value>
+            </Data>
+            <Data name="storm">
+                <value>Tropical Storm Imelda</value>
+            </Data>
+            <Data name="atcfid">
+                <value>AL092025</value>
+            </Data>
+            <Data name="advisoryNum">
+                <value>9</value>
+            </Data>
+            <Data name="stormNum">
+                <value>9</value>
+            </Data>
+            <Data name="stormName">
+                <value>Imelda</value>
+            </Data>
+        </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Tropical Storm Warning</name>
+        <styleUrl>#TWR</styleUrl>
+        <LineString>
+                <coordinates>
+-75.5,23.4,0 -76.13,23.68,0 
+                </coordinates>
+        </LineString>
+        <ExtendedData>
+            <Data name="timezone">
+                <value>EDT</value>
+            </Data>
+            <Data name="stormType">
+                <value>TS</value>
+            </Data>
+            <Data name="advisoryDate">
+                <value>500 PM EDT Sun Sep 28 2025</value>
+            </Data>
+            <Data name="basin">
+                <value>AL</value>
+            </Data>
+            <Data name="fcstpd">
+                <value>120</value>
+            </Data>
+            <Data name="storm">
+                <value>Tropical Storm Imelda</value>
+            </Data>
+            <Data name="atcfid">
+                <value>AL092025</value>
+            </Data>
+            <Data name="advisoryNum">
+                <value>9</value>
+            </Data>
+            <Data name="stormNum">
+                <value>9</value>
+            </Data>
+            <Data name="stormName">
+                <value>Imelda</value>
+            </Data>
+        </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Tropical Storm Warning</name>
+        <styleUrl>#TWR</styleUrl>
+        <LineString>
+                <coordinates>
+-77.95,25.92,0 -77.71,25.52,0 -77.88,25.39,0 
+                </coordinates>
+        </LineString>
+        <ExtendedData>
+            <Data name="timezone">
+                <value>EDT</value>
+            </Data>
+            <Data name="stormType">
+                <value>TS</value>
+            </Data>
+            <Data name="advisoryDate">
+                <value>500 PM EDT Sun Sep 28 2025</value>
+            </Data>
+            <Data name="basin">
+                <value>AL</value>
+            </Data>
+            <Data name="fcstpd">
+                <value>120</value>
+            </Data>
+            <Data name="storm">
+                <value>Tropical Storm Imelda</value>
+            </Data>
+            <Data name="atcfid">
+                <value>AL092025</value>
+            </Data>
+            <Data name="advisoryNum">
+                <value>9</value>
+            </Data>
+            <Data name="stormNum">
+                <value>9</value>
+            </Data>
+            <Data name="stormName">
+                <value>Imelda</value>
+            </Data>
+        </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Tropical Storm Warning</name>
+        <styleUrl>#TWR</styleUrl>
+        <LineString>
+                <coordinates>
+-77.64,25.02,0 -77.09,25.09,0 
+                </coordinates>
+        </LineString>
+        <ExtendedData>
+            <Data name="timezone">
+                <value>EDT</value>
+            </Data>
+            <Data name="stormType">
+                <value>TS</value>
+            </Data>
+            <Data name="advisoryDate">
+                <value>500 PM EDT Sun Sep 28 2025</value>
+            </Data>
+            <Data name="basin">
+                <value>AL</value>
+            </Data>
+            <Data name="fcstpd">
+                <value>120</value>
+            </Data>
+            <Data name="storm">
+                <value>Tropical Storm Imelda</value>
+            </Data>
+            <Data name="atcfid">
+                <value>AL092025</value>
+            </Data>
+            <Data name="advisoryNum">
+                <value>9</value>
+            </Data>
+            <Data name="stormNum">
+                <value>9</value>
+            </Data>
+            <Data name="stormName">
+                <value>Imelda</value>
+            </Data>
+        </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Tropical Storm Warning</name>
+        <styleUrl>#TWR</styleUrl>
+        <LineString>
+                <coordinates>
+-76.83,25.56,0 -76.11,25.16,0 -76.25,24.56,0 
+                </coordinates>
+        </LineString>
+        <ExtendedData>
+            <Data name="timezone">
+                <value>EDT</value>
+            </Data>
+            <Data name="stormType">
+                <value>TS</value>
+            </Data>
+            <Data name="advisoryDate">
+                <value>500 PM EDT Sun Sep 28 2025</value>
+            </Data>
+            <Data name="basin">
+                <value>AL</value>
+            </Data>
+            <Data name="fcstpd">
+                <value>120</value>
+            </Data>
+            <Data name="storm">
+                <value>Tropical Storm Imelda</value>
+            </Data>
+            <Data name="atcfid">
+                <value>AL092025</value>
+            </Data>
+            <Data name="advisoryNum">
+                <value>9</value>
+            </Data>
+            <Data name="stormNum">
+                <value>9</value>
+            </Data>
+            <Data name="stormName">
+                <value>Imelda</value>
+            </Data>
+        </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Tropical Storm Warning</name>
+        <styleUrl>#TWR</styleUrl>
+        <LineString>
+                <coordinates>
+-79.03,26.77,0 -78.73,26.52,0 -77.88,26.76,0 
+                </coordinates>
+        </LineString>
+        <ExtendedData>
+            <Data name="timezone">
+                <value>EDT</value>
+            </Data>
+            <Data name="stormType">
+                <value>TS</value>
+            </Data>
+            <Data name="advisoryDate">
+                <value>500 PM EDT Sun Sep 28 2025</value>
+            </Data>
+            <Data name="basin">
+                <value>AL</value>
+            </Data>
+            <Data name="fcstpd">
+                <value>120</value>
+            </Data>
+            <Data name="storm">
+                <value>Tropical Storm Imelda</value>
+            </Data>
+            <Data name="atcfid">
+                <value>AL092025</value>
+            </Data>
+            <Data name="advisoryNum">
+                <value>9</value>
+            </Data>
+            <Data name="stormNum">
+                <value>9</value>
+            </Data>
+            <Data name="stormName">
+                <value>Imelda</value>
+            </Data>
+        </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Tropical Storm Warning</name>
+        <styleUrl>#TWR</styleUrl>
+        <LineString>
+                <coordinates>
+-77.92,26.97,0 -77.52,26.83,0 -77.03,26.53,0 -77.3,25.93,0 
+                </coordinates>
+        </LineString>
+        <ExtendedData>
+            <Data name="timezone">
+                <value>EDT</value>
+            </Data>
+            <Data name="stormType">
+                <value>TS</value>
+            </Data>
+            <Data name="advisoryDate">
+                <value>500 PM EDT Sun Sep 28 2025</value>
+            </Data>
+            <Data name="basin">
+                <value>AL</value>
+            </Data>
+            <Data name="fcstpd">
+                <value>120</value>
+            </Data>
+            <Data name="storm">
+                <value>Tropical Storm Imelda</value>
+            </Data>
+            <Data name="atcfid">
+                <value>AL092025</value>
+            </Data>
+            <Data name="advisoryNum">
+                <value>9</value>
+            </Data>
+            <Data name="stormNum">
+                <value>9</value>
+            </Data>
+            <Data name="stormName">
+                <value>Imelda</value>
+            </Data>
+        </ExtendedData>
+    </Placemark>
+</Document>
+</kml>
