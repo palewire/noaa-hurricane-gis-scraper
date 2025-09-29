@@ -1,0 +1,230 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -67.9,
+                        28.5,
+                        0.0
+                    ],
+                    [
+                        -68.5,
+                        29.6,
+                        0.0
+                    ],
+                    [
+                        -69.0,
+                        32.1,
+                        0.0
+                    ],
+                    [
+                        -67.9,
+                        34.4,
+                        0.0
+                    ],
+                    [
+                        -64.5,
+                        36.1,
+                        0.0
+                    ],
+                    [
+                        -58.5,
+                        37.4,
+                        0.0
+                    ],
+                    [
+                        -49.0,
+                        40.6,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "28.5N, 67.9W",
+                "advisoryNum": "20A",
+                "atcfid": "AL082025",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Humberto (AL082025)</b></font></td></tr> \n                        <tr><td>Advisory #20A </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "150",
+                "maxGustMPH": "175",
+                "maxWindKnots": "125",
+                "maxWindMPH": "140",
+                "minimumPressure": "942",
+                "pubAdvTime": "200 PM AST Mon Sep 29 2025",
+                "storm": "Hurricane Humberto",
+                "stormMovement": "NNW",
+                "stormName": "Humberto",
+                "stormNum": "08",
+                "stormType": "MH",
+                "styleUrl": "#72_line",
+                "timezone": "AST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -67.9,
+                        28.5,
+                        0.0
+                    ],
+                    [
+                        -68.5,
+                        29.6,
+                        0.0
+                    ],
+                    [
+                        -69.0,
+                        32.1,
+                        0.0
+                    ],
+                    [
+                        -67.9,
+                        34.4,
+                        0.0
+                    ],
+                    [
+                        -64.5,
+                        36.1,
+                        0.0
+                    ],
+                    [
+                        -58.5,
+                        37.4,
+                        0.0
+                    ],
+                    [
+                        -49.0,
+                        40.6,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "20A",
+                "atcfid": "AL082025",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Humberto (AL082025)</b></font></td></tr> \n                        <tr><td>Advisory #20A </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Hurricane Humberto",
+                "stormName": "Humberto",
+                "stormNum": "08",
+                "stormType": "MH",
+                "styleUrl": "#120_line",
+                "timezone": "AST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -67.9,
+                    28.5,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Humberto (AL082025)</b></font></td></tr> \n                        <tr><td>Advisory #20A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 PM AST September 29, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 28.5 N, -67.9 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 125 knots (140 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 150 knots (175 mph) </td></tr> \n                        <tr><td nowrap>Motion: NNW </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 942 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -68.5,
+                    29.6,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Humberto (AL082025)</b></font></td></tr> \n                        <tr><td>Advisory #20A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>12 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 PM AST September 29, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 29.6 N, -68.5 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 115 knots (130 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 140 knots (160 mph) </td></tr>",
+                "styleUrl": "#m_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -69.0,
+                    32.1,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Humberto (AL082025)</b></font></td></tr> \n                        <tr><td>Advisory #20A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>24 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 AM AST September 30, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 32.1 N, -69.0 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 105 knots (120 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 130 knots (150 mph) </td></tr>",
+                "styleUrl": "#m_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -67.9,
+                    34.4,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Humberto (AL082025)</b></font></td></tr> \n                        <tr><td>Advisory #20A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>36 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 PM AST September 30, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 34.4 N, -67.9 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 95 knots (110 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 115 knots (130 mph) </td></tr>",
+                "styleUrl": "#h_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -64.5,
+                    36.1,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Humberto (AL082025)</b></font></td></tr> \n                        <tr><td>Advisory #20A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>48 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 AM AST October 01, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 36.1 N, -64.5 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 90 knots (105 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 110 knots (125 mph) </td></tr>",
+                "styleUrl": "#h_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -58.5,
+                    37.4,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Humberto (AL082025)</b></font></td></tr> \n                        <tr><td>Advisory #20A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>60 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 PM AST October 01, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 37.4 N, -58.5 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 80 knots (90 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 100 knots (115 mph) </td></tr>",
+                "styleUrl": "#xh_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.0,
+                    40.6,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Humberto (AL082025)</b></font></td></tr> \n                        <tr><td>Advisory #20A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>72 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 AM AST October 02, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 40.6 N, -49.0 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 75 knots (85 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 90 knots (105 mph) </td></tr>",
+                "styleUrl": "#xh_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
