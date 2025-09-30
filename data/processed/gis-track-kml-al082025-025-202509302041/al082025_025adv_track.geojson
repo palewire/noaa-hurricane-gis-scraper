@@ -1,0 +1,130 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -69.5,
+                        34.0,
+                        0.0
+                    ],
+                    [
+                        -68.3,
+                        35.3,
+                        0.0
+                    ],
+                    [
+                        -65.0,
+                        36.1,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "34.0N, 69.5W",
+                "advisoryNum": "25",
+                "atcfid": "AL082025",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Humberto (AL082025)</b></font></td></tr> \n                        <tr><td>Advisory #25 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "85",
+                "maxGustMPH": "100",
+                "maxWindKnots": "70",
+                "maxWindMPH": "80",
+                "minimumPressure": "979",
+                "pubAdvTime": "500 PM AST Tue Sep 30 2025",
+                "storm": "Hurricane Humberto",
+                "stormMovement": "N",
+                "stormName": "Humberto",
+                "stormNum": "08",
+                "stormType": "HU",
+                "styleUrl": "#72_line",
+                "timezone": "AST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -69.5,
+                        34.0,
+                        0.0
+                    ],
+                    [
+                        -68.3,
+                        35.3,
+                        0.0
+                    ],
+                    [
+                        -65.0,
+                        36.1,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "25",
+                "atcfid": "AL082025",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Humberto (AL082025)</b></font></td></tr> \n                        <tr><td>Advisory #25 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Hurricane Humberto",
+                "stormName": "Humberto",
+                "stormNum": "08",
+                "stormType": "HU",
+                "styleUrl": "#120_line",
+                "timezone": "AST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -69.5,
+                    34.0,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Humberto (AL082025)</b></font></td></tr> \n                        <tr><td>Advisory #25</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  5:00 PM AST September 30, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 34.0 N, -69.5 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 70 knots (80 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 85 knots (100 mph) </td></tr> \n                        <tr><td nowrap>Motion: N </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 979 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -68.3,
+                    35.3,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Humberto (AL082025)</b></font></td></tr> \n                        <tr><td>Advisory #25</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>12 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 AM AST October 01, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 35.3 N, -68.3 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 65 knots (75 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 80 knots (90 mph) </td></tr>",
+                "styleUrl": "#h_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -65.0,
+                    36.1,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Humberto (AL082025)</b></font></td></tr> \n                        <tr><td>Advisory #25</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>24 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 PM AST October 01, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 36.1 N, -65.0 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 60 knots (70 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 75 knots (85 mph) </td></tr>",
+                "styleUrl": "#xs_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

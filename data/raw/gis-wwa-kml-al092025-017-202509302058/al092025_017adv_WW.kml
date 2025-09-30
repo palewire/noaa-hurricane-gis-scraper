@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://earth.google.com/kml/2.1'>
+<Document>
+<name>Hurricane Imelda (Advisory #17) - Watch/Warnings</name>
+    <description>
+        <TABLE>
+            <TR><TD><B>Title:</B> Tropical Cyclone Watch/Warnings for AL092025 (Advisory #17)</TD></TR>
+            <TR><TD><B>Description:</B>The official watch/warning in KML format is an experimental product produced by the National Hurricane Center.  Coastal areas placed under tropical cyclone watches or warnings are delimited by specific geographical locations known as "breakpoints" (e.g., a hurricane warning is in effect from breakpoint "A" to breakpoint "B").  This file consists of one or more lines connecting the breakpoints delimiting any current watches or warnings. </TD></TR>
+            <TR><TD><B>Date Created:</B> 09-30-2025 - 20:56 UTC </TD></TR>
+            <TR><TD><B>Created:</B> National Hurricane Center </TD></TR>
+            <TR><TD><B>Disclaimer:</B>The official watch/warning in KML format is an experimental product.</TD></TR>
+            <TR><TD><B>For More Information: </B><a href="https://www.nhc.noaa.gov">https://www.nhc.noaa.gov</a></TD></TR>
+        </TABLE>
+    </description>
+        <Style id="TWR">
+                <LineStyle>
+                        <color>ffff0055</color>
+                        <width>3</width>
+                </LineStyle>
+                <PolyStyle>
+                        <color>ffff0055</color>
+                </PolyStyle>
+        </Style>
+        <Style id="TWA">
+                <LineStyle>
+                        <color>ff22e2f7</color>
+                        <width>3</width>
+                </LineStyle>
+                <PolyStyle>
+                        <color>ff22e2f7</color>
+                </PolyStyle>
+        </Style>
+        <Style id="HWA">
+                <LineStyle>
+                        <color>99ffaaff</color>
+                        <width>8</width>
+                </LineStyle>
+                <PolyStyle>
+                        <color>99ffaaff</color>
+                </PolyStyle>
+        </Style>
+        <Style id="HWR">
+                <LineStyle>
+                        <color>990000ff</color>
+                        <width>8</width>
+                </LineStyle>
+                <PolyStyle>
+                        <color>990000ff</color>
+                </PolyStyle>
+        </Style>
+    <Placemark>
+      <name>Hurricane Warning</name>
+        <styleUrl>#HWR</styleUrl>
+        <LineString>
+                <coordinates>
+-64.98,32.21,0 -64.54,32.43,0 
+                </coordinates>
+        </LineString>
+        <ExtendedData>
+            <Data name="timezone">
+                <value>EDT</value>
+            </Data>
+            <Data name="stormType">
+                <value>HU</value>
+            </Data>
+            <Data name="advisoryDate">
+                <value>500 PM EDT Tue Sep 30 2025</value>
+            </Data>
+            <Data name="basin">
+                <value>AL</value>
+            </Data>
+            <Data name="fcstpd">
+                <value>120</value>
+            </Data>
+            <Data name="storm">
+                <value>Hurricane Imelda</value>
+            </Data>
+            <Data name="atcfid">
+                <value>AL092025</value>
+            </Data>
+            <Data name="advisoryNum">
+                <value>17</value>
+            </Data>
+            <Data name="stormNum">
+                <value>9</value>
+            </Data>
+            <Data name="stormName">
+                <value>Imelda</value>
+            </Data>
+        </ExtendedData>
+    </Placemark>
+</Document>
+</kml>

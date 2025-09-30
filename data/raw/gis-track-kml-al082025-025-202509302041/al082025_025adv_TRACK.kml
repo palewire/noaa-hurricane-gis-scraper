@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+	<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"> 
+	<Document> 
+	<name>AL082025 (Advisory #25) - Forecast Track</name> 
+	<open>0</open> 
+	<description>
+		<![CDATA[<TABLE>
+		<TR><TD><B>Title:</B> Tropical Cyclone Forecast Track for AL082025 (Advisory #25)</TD></TR>
+		<TR><TD><B>Description:</B> This product will aid in the visualization of an official track forecast, the forecast points are connected by black line segments.  The track line(s) are not a forecast product, however, and because there are an infinite number of ways to connect a set of forecast points, the lines should not be interpreted as representing a specific forecast for the location of a tropical cyclone in between official forecast points.  It is also important to remember that tropical cyclone track forecasts are subject to error, and that the effects of a tropical cyclone can span many hundreds of miles from the center.</abstract></TD></TR>
+		<TR><TD><B>Date Created:</B> 09-30-2025 </TD></TR>
+		<TR><TD><B>Created:</B> National Hurricane Center</TD></TR>
+		<TR><TD><B>Disclaimer:</B>The official forecast track in KML format is an experimental product.</TD></TR>
+		<TR><TD><B>For More Information: </B><a href="https://www.nhc.noaa.gov">https://www.nhc.noaa.gov</a></TD></TR></TABLE>]]>
+	</description>
+
+	<Style id="m_point"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>mPoint.png</href> 
+			</Icon> 
+             <hotSpot x="18" y="16" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="d_point"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>dPoint.png</href> 
+			</Icon> 
+             <hotSpot x="18" y="16" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="h_point"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>hPoint.png</href> 
+			</Icon> 
+             <hotSpot x="18" y="16" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="initial_point"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>initialPoint.png</href> 
+			</Icon> 
+             <hotSpot x="18" y="16" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="xm_point"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>xmPoint.png</href> 
+			</Icon> 
+             <hotSpot x="18" y="16" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="xh_point"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>xhPoint.png</href> 
+			</Icon> 
+             <hotSpot x="18" y="16" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="l_point"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>lPoint.png</href> 
+			</Icon> 
+             <hotSpot x="18" y="16" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="120_line"> 
+		<LineStyle> 
+			<color>ff000000</color> 
+			<width>3</width> 
+		</LineStyle> 
+		<PolyStyle> 
+			<color>ff000000</color> 
+		</PolyStyle> 
+	</Style> 
+	<Style id="xd_point"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>xdPoint.png</href> 
+			</Icon> 
+             <hotSpot x="18" y="16" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="72_line"> 
+		<LineStyle> 
+			<color>ff000000</color> 
+			<width>3</width> 
+		</LineStyle> 
+		<PolyStyle> 
+			<color>ff000000</color> 
+		</PolyStyle> 
+	</Style> 
+	<Style id="s_point"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>sPoint.png</href> 
+			</Icon> 
+             <hotSpot x="18" y="16" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="xs_point"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>xsPoint.png</href> 
+			</Icon> 
+             <hotSpot x="18" y="16" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Folder id="Forecast Track"> 
+ 	    <name>Forecast Track</name> 
+
+	   <Placemark> 
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description> 
+	   	  <![CDATA[<table> 
+                        <tr><td><font color=black><b>Hurricane Humberto (AL082025)</b></font></td></tr> 
+                        <tr><td>Advisory #25 </td></tr> 
+                        <tr><td><hr></td></tr> 
+                        <tr><td>72 Hour Forecast Track</td></tr> 
+	           ]]> 
+             </description> 
+	       <styleUrl>#72_line</styleUrl> 
+
+	       <LineString> 
+	         <coordinates>  -69.5,34.0,0 -68.3,35.3,0 -65.0,36.1,0 </coordinates> 
+	       </LineString> 
+
+              <ExtendedData>
+                <Data name="timezone"> 
+                  <value>AST</value>
+                </Data> 
+                <Data name="stormType"> 
+                  <value>HU</value>
+                </Data> 
+                <Data name="basin"> 
+                  <value>al</value>
+                </Data> 
+                <Data name="fcstpd"> 
+                  <value>72</value>
+                </Data> 
+                <Data name="storm"> 
+                  <value>Hurricane Humberto</value>
+                </Data> 
+                <Data name="atcfid"> 
+                  <value>AL082025</value>
+                </Data> 
+                <Data name="advisoryNum"> 
+                  <value>25</value>
+                </Data> 
+                <Data name="stormNum"> 
+                  <value>08</value>
+                </Data> 
+                <Data name="stormName"> 
+                  <value>Humberto</value>
+                </Data> 
+                <Data name="pubAdvTime">
+                  <value>500 PM AST Tue Sep 30 2025</value>
+                </Data>
+                <Data name="TCInitLocation">
+                  <value>34.0N, 69.5W</value>
+                </Data>
+                <Data name="maxWindKnots">
+                  <value>70</value>
+                </Data>
+                <Data name="maxWindMPH">
+                  <value>80</value>
+                </Data>
+                <Data name="maxGustKnots">
+                  <value>85</value>
+                </Data>
+                <Data name="maxGustMPH">
+                  <value>100</value>
+                </Data>
+                <Data name="stormMovement">
+                  <value>N</value>
+                </Data>
+                <Data name="minimumPressure">
+                  <value>979</value>
+                </Data>
+              </ExtendedData>
+	   </Placemark> 
+
+	   <Placemark> 
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description> 
+	   	  <![CDATA[<table> 
+                        <tr><td><font color=black><b>Hurricane Humberto (AL082025)</b></font></td></tr> 
+                        <tr><td>Advisory #25 </td></tr> 
+                        <tr><td><hr></td></tr> 
+                        <tr><td>120 Hour Forecast Track</td></tr> 
+	           ]]> 
+             </description> 
+	       <styleUrl>#120_line</styleUrl> 
+
+	       <LineString> 
+	         <coordinates>  -69.5,34.0,0 -68.3,35.3,0 -65.0,36.1,0 </coordinates> 
+	       </LineString> 
+
+              <ExtendedData>
+                <Data name="timezone"> 
+                  <value>AST</value>
+                </Data> 
+                <Data name="stormType"> 
+                  <value>HU</value>
+                </Data> 
+                <Data name="basin"> 
+                  <value>al</value>
+                </Data> 
+                <Data name="fcstpd"> 
+                  <value>120</value>
+                </Data> 
+                <Data name="storm"> 
+                  <value>Hurricane Humberto</value>
+                </Data> 
+                <Data name="atcfid"> 
+                  <value>AL082025</value>
+                </Data> 
+                <Data name="advisoryNum"> 
+                  <value>25</value>
+                </Data> 
+                <Data name="stormNum"> 
+                  <value>08</value>
+                </Data> 
+                <Data name="stormName"> 
+                  <value>Humberto</value>
+                </Data> 
+              </ExtendedData>
+	   </Placemark>
+
+
+	   <Placemark> 
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description> 
+	   	  <![CDATA[<table> 
+                        <tr><td><font color=black><b>Hurricane Humberto (AL082025)</b></font></td></tr> 
+                        <tr><td>Advisory #25</td></tr> 
+                        <tr><td><hr></td></tr> 
+                        <tr><td nowrap>Advisory Information</td></tr> 
+	   	        <tr><td nowrap>Valid at:  5:00 PM AST September 30, 2025 </td></tr> 
+	   	        <tr><td nowrap>Location: 34.0 N, -69.5 W </td></tr> 
+	   	        <tr><td nowrap>Maximum Wind: 70 knots (80 mph) </td></tr> 
+	   	        <tr><td nowrap>Wind Gusts: 85 knots (100 mph) </td></tr> 
+                        <tr><td nowrap>Motion: N </td></tr>
+                        <tr><td nowrap>Minimum Pressure: 979 mb </td></tr>
+	       ]]></description> 
+	       <styleUrl>#initial_point</styleUrl> 
+	       <Point> 
+	          <coordinates> -69.5,34.0,0 </coordinates> 
+	       </Point> 
+	   </Placemark> 
+
+
+	   <Placemark> 
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description> 
+	   	  <![CDATA[<table> 
+                        <tr><td><font color=black><b>Hurricane Humberto (AL082025)</b></font></td></tr> 
+                        <tr><td>Advisory #25</td></tr> 
+                        <tr><td><hr></td></tr> 
+                        <tr><td nowrap>12 hr Forecast</td></tr> 
+	   	        <tr><td nowrap>Valid at:  2:00 AM AST October 01, 2025 </td></tr> 
+	   	        <tr><td nowrap>Location: 35.3 N, -68.3 W </td></tr> 
+	   	        <tr><td nowrap>Maximum Wind: 65 knots (75 mph) </td></tr> 
+	   	        <tr><td nowrap>Wind Gusts: 80 knots (90 mph) </td></tr> 
+	       ]]></description> 
+	       <styleUrl>#h_point</styleUrl> 
+	       <Point> 
+	          <coordinates> -68.3,35.3,0 </coordinates> 
+	       </Point> 
+	   </Placemark> 
+
+
+	   <Placemark> 
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description> 
+	   	  <![CDATA[<table> 
+                        <tr><td><font color=black><b>Hurricane Humberto (AL082025)</b></font></td></tr> 
+                        <tr><td>Advisory #25</td></tr> 
+                        <tr><td><hr></td></tr> 
+                        <tr><td nowrap>24 hr Forecast</td></tr> 
+	   	        <tr><td nowrap>Valid at:  2:00 PM AST October 01, 2025 </td></tr> 
+	   	        <tr><td nowrap>Location: 36.1 N, -65.0 W </td></tr> 
+	   	        <tr><td nowrap>Maximum Wind: 60 knots (70 mph) </td></tr> 
+	   	        <tr><td nowrap>Wind Gusts: 75 knots (85 mph) </td></tr> 
+	       ]]></description> 
+	       <styleUrl>#xs_point</styleUrl> 
+	       <Point> 
+	          <coordinates> -65.0,36.1,0 </coordinates> 
+	       </Point> 
+	   </Placemark> 
+
+</Folder>
+</Document>
+</kml>
