@@ -1,0 +1,99 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -108.5,
+                        11.5
+                    ],
+                    [
+                        -109.1,
+                        11.1
+                    ],
+                    [
+                        -110.0,
+                        10.7
+                    ],
+                    [
+                        -110.9,
+                        10.2
+                    ],
+                    [
+                        -111.6,
+                        9.8
+                    ],
+                    [
+                        -112.3,
+                        9.3
+                    ],
+                    [
+                        -112.5,
+                        9.1
+                    ],
+                    [
+                        -113.0,
+                        9.3
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "0",
+            "properties": {
+                "SS": 0.0,
+                "STORMNUM": 15.0,
+                "STORMTYPE": "DB"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -113.0,
+                        9.3
+                    ],
+                    [
+                        -113.3,
+                        9.5
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "1",
+            "properties": {
+                "SS": 0.0,
+                "STORMNUM": 15.0,
+                "STORMTYPE": "TD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -113.0,
+                        9.3
+                    ],
+                    [
+                        -113.3,
+                        9.5
+                    ],
+                    [
+                        -113.3,
+                        9.5
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "2",
+            "properties": {
+                "SS": 0.0,
+                "STORMNUM": 15.0,
+                "STORMTYPE": "TD"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
