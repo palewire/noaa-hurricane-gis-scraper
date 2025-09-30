@@ -1,0 +1,270 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -113.2,
+                        9.4,
+                        0.0
+                    ],
+                    [
+                        -113.9,
+                        9.8,
+                        0.0
+                    ],
+                    [
+                        -114.2,
+                        10.8,
+                        0.0
+                    ],
+                    [
+                        -114.4,
+                        11.8,
+                        0.0
+                    ],
+                    [
+                        -114.9,
+                        12.6,
+                        0.0
+                    ],
+                    [
+                        -116.1,
+                        13.1,
+                        0.0
+                    ],
+                    [
+                        -117.4,
+                        13.5,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "9.4N, 113.2W",
+                "advisoryNum": "1",
+                "atcfid": "EP152025",
+                "basin": "ep",
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression Fifteen-E (EP152025)</b></font></td></tr> \n                        <tr><td>Advisory #1 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "40",
+                "maxGustMPH": "45",
+                "maxWindKnots": "30",
+                "maxWindMPH": "35",
+                "minimumPressure": "1005",
+                "pubAdvTime": "200 AM MST Tue Sep 30 2025",
+                "storm": "Tropical Depression Fifteen-E",
+                "stormMovement": "WNW",
+                "stormName": "Fifteen-E",
+                "stormNum": "15",
+                "stormType": "TD",
+                "styleUrl": "#72_line",
+                "timezone": "MST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -113.2,
+                        9.4,
+                        0.0
+                    ],
+                    [
+                        -113.9,
+                        9.8,
+                        0.0
+                    ],
+                    [
+                        -114.2,
+                        10.8,
+                        0.0
+                    ],
+                    [
+                        -114.4,
+                        11.8,
+                        0.0
+                    ],
+                    [
+                        -114.9,
+                        12.6,
+                        0.0
+                    ],
+                    [
+                        -116.1,
+                        13.1,
+                        0.0
+                    ],
+                    [
+                        -117.4,
+                        13.5,
+                        0.0
+                    ],
+                    [
+                        -119.8,
+                        14.2,
+                        0.0
+                    ],
+                    [
+                        -120.6,
+                        15.0,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "1",
+                "atcfid": "EP152025",
+                "basin": "ep",
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression Fifteen-E (EP152025)</b></font></td></tr> \n                        <tr><td>Advisory #1 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Tropical Depression Fifteen-E",
+                "stormName": "Fifteen-E",
+                "stormNum": "15",
+                "stormType": "TD",
+                "styleUrl": "#120_line",
+                "timezone": "MST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -113.2,
+                    9.4,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression Fifteen-E (EP152025)</b></font></td></tr> \n                        <tr><td>Advisory #1</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 AM MST September 30, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 9.4 N, -113.2 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 30 knots (35 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 40 knots (45 mph) </td></tr> \n                        <tr><td nowrap>Motion: WNW </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 1005 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -113.9,
+                    9.8,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression Fifteen-E (EP152025)</b></font></td></tr> \n                        <tr><td>Advisory #1</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>12 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at: 11:00 AM MST September 30, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 9.8 N, -113.9 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 35 knots (40 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 45 knots (50 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -114.2,
+                    10.8,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression Fifteen-E (EP152025)</b></font></td></tr> \n                        <tr><td>Advisory #1</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>24 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at: 11:00 PM MST September 30, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 10.8 N, -114.2 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 35 knots (40 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 45 knots (50 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -114.4,
+                    11.8,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression Fifteen-E (EP152025)</b></font></td></tr> \n                        <tr><td>Advisory #1</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>36 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at: 11:00 AM MST October 01, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 11.8 N, -114.4 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 35 knots (40 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 45 knots (50 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -114.9,
+                    12.6,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression Fifteen-E (EP152025)</b></font></td></tr> \n                        <tr><td>Advisory #1</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>48 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at: 11:00 PM MST October 01, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 12.6 N, -114.9 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 35 knots (40 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 45 knots (50 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.1,
+                    13.1,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression Fifteen-E (EP152025)</b></font></td></tr> \n                        <tr><td>Advisory #1</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>60 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at: 11:00 AM MST October 02, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 13.1 N, -116.1 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 35 knots (40 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 45 knots (50 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -117.4,
+                    13.5,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression Fifteen-E (EP152025)</b></font></td></tr> \n                        <tr><td>Advisory #1</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>72 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at: 11:00 PM MST October 02, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 13.5 N, -117.4 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 35 knots (40 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 45 knots (50 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.8,
+                    14.2,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression Fifteen-E (EP152025)</b></font></td></tr> \n                        <tr><td>Advisory #1</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>96 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at: 11:00 PM MST October 03, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 14.2 N, -119.8 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 40 knots (45 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 50 knots (60 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -120.6,
+                    15.0,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Depression Fifteen-E (EP152025)</b></font></td></tr> \n                        <tr><td>Advisory #1</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>120 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at: 11:00 PM MST October 04, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 15.0 N, -120.6 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 45 knots (50 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 55 knots (65 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
