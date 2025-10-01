@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+	<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"> 
+	<Document> 
+	<name>AL092025 (Advisory #20A) - Forecast Track</name> 
+	<open>0</open> 
+	<description>
+		<![CDATA[<TABLE>
+		<TR><TD><B>Title:</B> Tropical Cyclone Forecast Track for AL092025 (Advisory #20A)</TD></TR>
+		<TR><TD><B>Description:</B> This product will aid in the visualization of an official track forecast, the forecast points are connected by black line segments.  The track line(s) are not a forecast product, however, and because there are an infinite number of ways to connect a set of forecast points, the lines should not be interpreted as representing a specific forecast for the location of a tropical cyclone in between official forecast points.  It is also important to remember that tropical cyclone track forecasts are subject to error, and that the effects of a tropical cyclone can span many hundreds of miles from the center.</abstract></TD></TR>
+		<TR><TD><B>Date Created:</B> 10-01-2025 </TD></TR>
+		<TR><TD><B>Created:</B> National Hurricane Center</TD></TR>
+		<TR><TD><B>Disclaimer:</B>The official forecast track in KML format is an experimental product.</TD></TR>
+		<TR><TD><B>For More Information: </B><a href="https://www.nhc.noaa.gov">https://www.nhc.noaa.gov</a></TD></TR></TABLE>]]>
+	</description>
+
+	<Style id="m_point"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>mPoint.png</href> 
+			</Icon> 
+             <hotSpot x="18" y="16" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="d_point"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>dPoint.png</href> 
+			</Icon> 
+             <hotSpot x="18" y="16" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="h_point"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>hPoint.png</href> 
+			</Icon> 
+             <hotSpot x="18" y="16" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="initial_point"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>initialPoint.png</href> 
+			</Icon> 
+             <hotSpot x="18" y="16" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="xm_point"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>xmPoint.png</href> 
+			</Icon> 
+             <hotSpot x="18" y="16" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="xh_point"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>xhPoint.png</href> 
+			</Icon> 
+             <hotSpot x="18" y="16" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="l_point"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>lPoint.png</href> 
+			</Icon> 
+             <hotSpot x="18" y="16" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="120_line"> 
+		<LineStyle> 
+			<color>ff000000</color> 
+			<width>3</width> 
+		</LineStyle> 
+		<PolyStyle> 
+			<color>ff000000</color> 
+		</PolyStyle> 
+	</Style> 
+	<Style id="xd_point"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>xdPoint.png</href> 
+			</Icon> 
+             <hotSpot x="18" y="16" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="72_line"> 
+		<LineStyle> 
+			<color>ff000000</color> 
+			<width>3</width> 
+		</LineStyle> 
+		<PolyStyle> 
+			<color>ff000000</color> 
+		</PolyStyle> 
+	</Style> 
+	<Style id="s_point"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>sPoint.png</href> 
+			</Icon> 
+             <hotSpot x="18" y="16" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="xs_point"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>xsPoint.png</href> 
+			</Icon> 
+             <hotSpot x="18" y="16" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Folder id="Forecast Track"> 
+ 	    <name>Forecast Track</name> 
+
+	   <Placemark> 
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description> 
+	   	  <![CDATA[<table> 
+                        <tr><td><font color=black><b>Hurricane Imelda (AL092025)</b></font></td></tr> 
+                        <tr><td>Advisory #20A </td></tr> 
+                        <tr><td><hr></td></tr> 
+                        <tr><td>72 Hour Forecast Track</td></tr> 
+	           ]]> 
+             </description> 
+	       <styleUrl>#72_line</styleUrl> 
+
+	       <LineString> 
+	         <coordinates>  -69.2,31.2,0 -66.7,31.9,0 -61.5,32.6,0 -56.2,33.8,0 -52.4,35.8,0 -50.0,38.0,0 -48.2,40.7,0 </coordinates> 
+	       </LineString> 
+
+              <ExtendedData>
+                <Data name="timezone"> 
+                  <value>EDT</value>
+                </Data> 
+                <Data name="stormType"> 
+                  <value>HU</value>
+                </Data> 
+                <Data name="basin"> 
+                  <value>al</value>
+                </Data> 
+                <Data name="fcstpd"> 
+                  <value>72</value>
+                </Data> 
+                <Data name="storm"> 
+                  <value>Hurricane Imelda</value>
+                </Data> 
+                <Data name="atcfid"> 
+                  <value>AL092025</value>
+                </Data> 
+                <Data name="advisoryNum"> 
+                  <value>20A</value>
+                </Data> 
+                <Data name="stormNum"> 
+                  <value>09</value>
+                </Data> 
+                <Data name="stormName"> 
+                  <value>Imelda</value>
+                </Data> 
+                <Data name="pubAdvTime">
+                  <value>200 PM EDT Wed Oct 01 2025</value>
+                </Data>
+                <Data name="TCInitLocation">
+                  <value>31.2N, 69.2W</value>
+                </Data>
+                <Data name="maxWindKnots">
+                  <value>85</value>
+                </Data>
+                <Data name="maxWindMPH">
+                  <value>100</value>
+                </Data>
+                <Data name="maxGustKnots">
+                  <value>105</value>
+                </Data>
+                <Data name="maxGustMPH">
+                  <value>120</value>
+                </Data>
+                <Data name="stormMovement">
+                  <value>ENE</value>
+                </Data>
+                <Data name="minimumPressure">
+                  <value>966</value>
+                </Data>
+              </ExtendedData>
+	   </Placemark> 
+
+	   <Placemark> 
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description> 
+	   	  <![CDATA[<table> 
+                        <tr><td><font color=black><b>Hurricane Imelda (AL092025)</b></font></td></tr> 
+                        <tr><td>Advisory #20A </td></tr> 
+                        <tr><td><hr></td></tr> 
+                        <tr><td>120 Hour Forecast Track</td></tr> 
+	           ]]> 
+             </description> 
+	       <styleUrl>#120_line</styleUrl> 
+
+	       <LineString> 
+	         <coordinates>  -69.2,31.2,0 -66.7,31.9,0 -61.5,32.6,0 -56.2,33.8,0 -52.4,35.8,0 -50.0,38.0,0 -48.2,40.7,0 -40.4,45.9,0 -32.0,50.0,0 </coordinates> 
+	       </LineString> 
+
+              <ExtendedData>
+                <Data name="timezone"> 
+                  <value>EDT</value>
+                </Data> 
+                <Data name="stormType"> 
+                  <value>HU</value>
+                </Data> 
+                <Data name="basin"> 
+                  <value>al</value>
+                </Data> 
+                <Data name="fcstpd"> 
+                  <value>120</value>
+                </Data> 
+                <Data name="storm"> 
+                  <value>Hurricane Imelda</value>
+                </Data> 
+                <Data name="atcfid"> 
+                  <value>AL092025</value>
+                </Data> 
+                <Data name="advisoryNum"> 
+                  <value>20A</value>
+                </Data> 
+                <Data name="stormNum"> 
+                  <value>09</value>
+                </Data> 
+                <Data name="stormName"> 
+                  <value>Imelda</value>
+                </Data> 
+              </ExtendedData>
+	   </Placemark>
+
+
+	   <Placemark> 
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description> 
+	   	  <![CDATA[<table> 
+                        <tr><td><font color=black><b>Hurricane Imelda (AL092025)</b></font></td></tr> 
+                        <tr><td>Advisory #20A</td></tr> 
+                        <tr><td><hr></td></tr> 
+                        <tr><td nowrap>Advisory Information</td></tr> 
+	   	        <tr><td nowrap>Valid at:  2:00 PM EDT October 01, 2025 </td></tr> 
+	   	        <tr><td nowrap>Location: 31.2 N, -69.2 W </td></tr> 
+	   	        <tr><td nowrap>Maximum Wind: 85 knots (100 mph) </td></tr> 
+	   	        <tr><td nowrap>Wind Gusts: 105 knots (120 mph) </td></tr> 
+                        <tr><td nowrap>Motion: ENE </td></tr>
+                        <tr><td nowrap>Minimum Pressure: 966 mb </td></tr>
+	       ]]></description> 
+	       <styleUrl>#initial_point</styleUrl> 
+	       <Point> 
+	          <coordinates> -69.2,31.2,0 </coordinates> 
+	       </Point> 
+	   </Placemark> 
+
+
+	   <Placemark> 
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description> 
+	   	  <![CDATA[<table> 
+                        <tr><td><font color=black><b>Hurricane Imelda (AL092025)</b></font></td></tr> 
+                        <tr><td>Advisory #20A</td></tr> 
+                        <tr><td><hr></td></tr> 
+                        <tr><td nowrap>12 hr Forecast</td></tr> 
+	   	        <tr><td nowrap>Valid at:  8:00 PM EDT October 01, 2025 </td></tr> 
+	   	        <tr><td nowrap>Location: 31.9 N, -66.7 W </td></tr> 
+	   	        <tr><td nowrap>Maximum Wind: 90 knots (105 mph) </td></tr> 
+	   	        <tr><td nowrap>Wind Gusts: 110 knots (125 mph) </td></tr> 
+	       ]]></description> 
+	       <styleUrl>#h_point</styleUrl> 
+	       <Point> 
+	          <coordinates> -66.7,31.9,0 </coordinates> 
+	       </Point> 
+	   </Placemark> 
+
+
+	   <Placemark> 
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description> 
+	   	  <![CDATA[<table> 
+                        <tr><td><font color=black><b>Hurricane Imelda (AL092025)</b></font></td></tr> 
+                        <tr><td>Advisory #20A</td></tr> 
+                        <tr><td><hr></td></tr> 
+                        <tr><td nowrap>24 hr Forecast</td></tr> 
+	   	        <tr><td nowrap>Valid at:  8:00 AM EDT October 02, 2025 </td></tr> 
+	   	        <tr><td nowrap>Location: 32.6 N, -61.5 W </td></tr> 
+	   	        <tr><td nowrap>Maximum Wind: 85 knots (100 mph) </td></tr> 
+	   	        <tr><td nowrap>Wind Gusts: 105 knots (120 mph) </td></tr> 
+	       ]]></description> 
+	       <styleUrl>#xh_point</styleUrl> 
+	       <Point> 
+	          <coordinates> -61.5,32.6,0 </coordinates> 
+	       </Point> 
+	   </Placemark> 
+
+
+	   <Placemark> 
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description> 
+	   	  <![CDATA[<table> 
+                        <tr><td><font color=black><b>Hurricane Imelda (AL092025)</b></font></td></tr> 
+                        <tr><td>Advisory #20A</td></tr> 
+                        <tr><td><hr></td></tr> 
+                        <tr><td nowrap>36 hr Forecast</td></tr> 
+	   	        <tr><td nowrap>Valid at:  8:00 PM EDT October 02, 2025 </td></tr> 
+	   	        <tr><td nowrap>Location: 33.8 N, -56.2 W </td></tr> 
+	   	        <tr><td nowrap>Maximum Wind: 75 knots (85 mph) </td></tr> 
+	   	        <tr><td nowrap>Wind Gusts: 90 knots (105 mph) </td></tr> 
+	       ]]></description> 
+	       <styleUrl>#xh_point</styleUrl> 
+	       <Point> 
+	          <coordinates> -56.2,33.8,0 </coordinates> 
+	       </Point> 
+	   </Placemark> 
+
+
+	   <Placemark> 
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description> 
+	   	  <![CDATA[<table> 
+                        <tr><td><font color=black><b>Hurricane Imelda (AL092025)</b></font></td></tr> 
+                        <tr><td>Advisory #20A</td></tr> 
+                        <tr><td><hr></td></tr> 
+                        <tr><td nowrap>48 hr Forecast</td></tr> 
+	   	        <tr><td nowrap>Valid at:  8:00 AM EDT October 03, 2025 </td></tr> 
+	   	        <tr><td nowrap>Location: 35.8 N, -52.4 W </td></tr> 
+	   	        <tr><td nowrap>Maximum Wind: 65 knots (75 mph) </td></tr> 
+	   	        <tr><td nowrap>Wind Gusts: 80 knots (90 mph) </td></tr> 
+	       ]]></description> 
+	       <styleUrl>#xh_point</styleUrl> 
+	       <Point> 
+	          <coordinates> -52.4,35.8,0 </coordinates> 
+	       </Point> 
+	   </Placemark> 
+
+
+	   <Placemark> 
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description> 
+	   	  <![CDATA[<table> 
+                        <tr><td><font color=black><b>Hurricane Imelda (AL092025)</b></font></td></tr> 
+                        <tr><td>Advisory #20A</td></tr> 
+                        <tr><td><hr></td></tr> 
+                        <tr><td nowrap>60 hr Forecast</td></tr> 
+	   	        <tr><td nowrap>Valid at:  8:00 PM EDT October 03, 2025 </td></tr> 
+	   	        <tr><td nowrap>Location: 38.0 N, -50.0 W </td></tr> 
+	   	        <tr><td nowrap>Maximum Wind: 60 knots (70 mph) </td></tr> 
+	   	        <tr><td nowrap>Wind Gusts: 75 knots (85 mph) </td></tr> 
+	       ]]></description> 
+	       <styleUrl>#xs_point</styleUrl> 
+	       <Point> 
+	          <coordinates> -50.0,38.0,0 </coordinates> 
+	       </Point> 
+	   </Placemark> 
+
+
+	   <Placemark> 
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description> 
+	   	  <![CDATA[<table> 
+                        <tr><td><font color=black><b>Hurricane Imelda (AL092025)</b></font></td></tr> 
+                        <tr><td>Advisory #20A</td></tr> 
+                        <tr><td><hr></td></tr> 
+                        <tr><td nowrap>72 hr Forecast</td></tr> 
+	   	        <tr><td nowrap>Valid at:  8:00 AM EDT October 04, 2025 </td></tr> 
+	   	        <tr><td nowrap>Location: 40.7 N, -48.2 W </td></tr> 
+	   	        <tr><td nowrap>Maximum Wind: 55 knots (65 mph) </td></tr> 
+	   	        <tr><td nowrap>Wind Gusts: 65 knots (75 mph) </td></tr> 
+	       ]]></description> 
+	       <styleUrl>#xs_point</styleUrl> 
+	       <Point> 
+	          <coordinates> -48.2,40.7,0 </coordinates> 
+	       </Point> 
+	   </Placemark> 
+
+
+	   <Placemark> 
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description> 
+	   	  <![CDATA[<table> 
+                        <tr><td><font color=black><b>Hurricane Imelda (AL092025)</b></font></td></tr> 
+                        <tr><td>Advisory #20A</td></tr> 
+                        <tr><td><hr></td></tr> 
+                        <tr><td nowrap>96 hr Forecast</td></tr> 
+	   	        <tr><td nowrap>Valid at:  8:00 AM EDT October 05, 2025 </td></tr> 
+	   	        <tr><td nowrap>Location: 45.9 N, -40.4 W </td></tr> 
+	   	        <tr><td nowrap>Maximum Wind: 50 knots (60 mph) </td></tr> 
+	   	        <tr><td nowrap>Wind Gusts: 60 knots (70 mph) </td></tr> 
+	       ]]></description> 
+	       <styleUrl>#xs_point</styleUrl> 
+	       <Point> 
+	          <coordinates> -40.4,45.9,0 </coordinates> 
+	       </Point> 
+	   </Placemark> 
+
+
+	   <Placemark> 
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description> 
+	   	  <![CDATA[<table> 
+                        <tr><td><font color=black><b>Hurricane Imelda (AL092025)</b></font></td></tr> 
+                        <tr><td>Advisory #20A</td></tr> 
+                        <tr><td><hr></td></tr> 
+                        <tr><td nowrap>120 hr Forecast</td></tr> 
+	   	        <tr><td nowrap>Valid at:  8:00 AM EDT October 06, 2025 </td></tr> 
+	   	        <tr><td nowrap>Location: 50.0 N, -32.0 W </td></tr> 
+	   	        <tr><td nowrap>Maximum Wind: 45 knots (50 mph) </td></tr> 
+	   	        <tr><td nowrap>Wind Gusts: 55 knots (65 mph) </td></tr> 
+	       ]]></description> 
+	       <styleUrl>#xs_point</styleUrl> 
+	       <Point> 
+	          <coordinates> -32.0,50.0,0 </coordinates> 
+	       </Point> 
+	   </Placemark> 
+
+</Folder>
+</Document>
+</kml>
