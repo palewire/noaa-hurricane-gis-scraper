@@ -1,0 +1,80 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -63.0,
+                        37.0,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "37.0N, 63.0W",
+                "advisoryNum": "28",
+                "atcfid": "AL082025",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Remnants Of Humberto (AL082025)</b></font></td></tr> \n                        <tr><td>Advisory #28 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "75",
+                "maxGustMPH": "85",
+                "maxWindKnots": "60",
+                "maxWindMPH": "70",
+                "minimumPressure": "980",
+                "pubAdvTime": "1100 AM AST Wed Oct 01 2025",
+                "storm": "Remnants Of Humberto",
+                "stormMovement": "ENE",
+                "stormName": "Humberto",
+                "stormNum": "08",
+                "stormType": "PTC",
+                "styleUrl": "#72_line",
+                "timezone": "AST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -63.0,
+                        37.0,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "28",
+                "atcfid": "AL082025",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Remnants Of Humberto (AL082025)</b></font></td></tr> \n                        <tr><td>Advisory #28 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Remnants Of Humberto",
+                "stormName": "Humberto",
+                "stormNum": "08",
+                "stormType": "PTC",
+                "styleUrl": "#120_line",
+                "timezone": "AST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -63.0,
+                    37.0,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Remnants Of Humberto (AL082025)</b></font></td></tr> \n                        <tr><td>Advisory #28</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at: 11:00 AM AST October 01, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 37.0 N, -63.0 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 60 knots (70 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 75 knots (85 mph) </td></tr> \n                        <tr><td nowrap>Motion: ENE </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 980 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
