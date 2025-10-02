@@ -1,0 +1,270 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -66.4,
+                        31.8,
+                        0.0
+                    ],
+                    [
+                        -64.1,
+                        32.3,
+                        0.0
+                    ],
+                    [
+                        -58.7,
+                        33.2,
+                        0.0
+                    ],
+                    [
+                        -53.8,
+                        34.8,
+                        0.0
+                    ],
+                    [
+                        -51.1,
+                        37.2,
+                        0.0
+                    ],
+                    [
+                        -49.7,
+                        39.5,
+                        0.0
+                    ],
+                    [
+                        -46.9,
+                        42.4,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "31.8N, 66.4W",
+                "advisoryNum": "21A",
+                "atcfid": "AL092025",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Imelda (AL092025)</b></font></td></tr> \n                        <tr><td>Advisory #21A </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "105",
+                "maxGustMPH": "120",
+                "maxWindKnots": "85",
+                "maxWindMPH": "100",
+                "minimumPressure": "971",
+                "pubAdvTime": "800 PM AST Wed Oct 01 2025",
+                "storm": "Hurricane Imelda",
+                "stormMovement": "ENE",
+                "stormName": "Imelda",
+                "stormNum": "09",
+                "stormType": "HU",
+                "styleUrl": "#72_line",
+                "timezone": "AST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -66.4,
+                        31.8,
+                        0.0
+                    ],
+                    [
+                        -64.1,
+                        32.3,
+                        0.0
+                    ],
+                    [
+                        -58.7,
+                        33.2,
+                        0.0
+                    ],
+                    [
+                        -53.8,
+                        34.8,
+                        0.0
+                    ],
+                    [
+                        -51.1,
+                        37.2,
+                        0.0
+                    ],
+                    [
+                        -49.7,
+                        39.5,
+                        0.0
+                    ],
+                    [
+                        -46.9,
+                        42.4,
+                        0.0
+                    ],
+                    [
+                        -38.0,
+                        47.5,
+                        0.0
+                    ],
+                    [
+                        -32.0,
+                        49.5,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "21A",
+                "atcfid": "AL092025",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Imelda (AL092025)</b></font></td></tr> \n                        <tr><td>Advisory #21A </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Hurricane Imelda",
+                "stormName": "Imelda",
+                "stormNum": "09",
+                "stormType": "HU",
+                "styleUrl": "#120_line",
+                "timezone": "AST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -66.4,
+                    31.8,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Imelda (AL092025)</b></font></td></tr> \n                        <tr><td>Advisory #21A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 PM AST October 01, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 31.8 N, -66.4 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 85 knots (100 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 105 knots (120 mph) </td></tr> \n                        <tr><td nowrap>Motion: ENE </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 971 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -64.1,
+                    32.3,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Imelda (AL092025)</b></font></td></tr> \n                        <tr><td>Advisory #21A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>12 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 AM AST October 02, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 32.3 N, -64.1 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 90 knots (105 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 110 knots (125 mph) </td></tr>",
+                "styleUrl": "#h_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -58.7,
+                    33.2,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Imelda (AL092025)</b></font></td></tr> \n                        <tr><td>Advisory #21A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>24 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 PM AST October 02, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 33.2 N, -58.7 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 80 knots (90 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 100 knots (115 mph) </td></tr>",
+                "styleUrl": "#xh_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -53.8,
+                    34.8,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Imelda (AL092025)</b></font></td></tr> \n                        <tr><td>Advisory #21A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>36 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 AM AST October 03, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 34.8 N, -53.8 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 70 knots (80 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 85 knots (100 mph) </td></tr>",
+                "styleUrl": "#xh_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -51.1,
+                    37.2,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Imelda (AL092025)</b></font></td></tr> \n                        <tr><td>Advisory #21A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>48 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 PM AST October 03, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 37.2 N, -51.1 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 65 knots (75 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 80 knots (90 mph) </td></tr>",
+                "styleUrl": "#xh_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -49.7,
+                    39.5,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Imelda (AL092025)</b></font></td></tr> \n                        <tr><td>Advisory #21A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>60 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 AM AST October 04, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 39.5 N, -49.7 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 60 knots (70 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 75 knots (85 mph) </td></tr>",
+                "styleUrl": "#xs_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -46.9,
+                    42.4,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Imelda (AL092025)</b></font></td></tr> \n                        <tr><td>Advisory #21A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>72 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 PM AST October 04, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 42.4 N, -46.9 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 55 knots (65 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 65 knots (75 mph) </td></tr>",
+                "styleUrl": "#xs_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -38.0,
+                    47.5,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Imelda (AL092025)</b></font></td></tr> \n                        <tr><td>Advisory #21A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>96 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 PM AST October 05, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 47.5 N, -38.0 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 45 knots (50 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 55 knots (65 mph) </td></tr>",
+                "styleUrl": "#xs_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -32.0,
+                    49.5,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Imelda (AL092025)</b></font></td></tr> \n                        <tr><td>Advisory #21A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>120 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 PM AST October 06, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 49.5 N, -32.0 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 40 knots (45 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 50 knots (60 mph) </td></tr>",
+                "styleUrl": "#xs_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
