@@ -211,9 +211,98 @@
                 ],
                 "type": "LineString"
             },
-            "id": "29",
+            "id": "30",
             "properties": {
                 "model": "CMC",
+                "warning_datetime": "2025-10-03 12:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -121.2,
+                        13.1
+                    ],
+                    [
+                        -121.9,
+                        13.2
+                    ],
+                    [
+                        -122.6,
+                        13.5
+                    ],
+                    [
+                        -123.3,
+                        13.7
+                    ],
+                    [
+                        -123.9,
+                        13.9
+                    ],
+                    [
+                        -124.2,
+                        14.3
+                    ],
+                    [
+                        -124.3,
+                        14.7
+                    ],
+                    [
+                        -124.2,
+                        14.9
+                    ],
+                    [
+                        -124.1,
+                        15.2
+                    ],
+                    [
+                        -123.7,
+                        15.5
+                    ],
+                    [
+                        -123.0,
+                        15.7
+                    ],
+                    [
+                        -122.1,
+                        15.7
+                    ],
+                    [
+                        -121.1,
+                        15.6
+                    ],
+                    [
+                        -119.1,
+                        15.5
+                    ],
+                    [
+                        -116.9,
+                        15.2
+                    ],
+                    [
+                        -114.6,
+                        15.2
+                    ],
+                    [
+                        -111.1,
+                        16.3
+                    ],
+                    [
+                        -111.1,
+                        16.3
+                    ],
+                    [
+                        -111.1,
+                        16.3
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "36",
+            "properties": {
+                "model": "NGX",
                 "warning_datetime": "2025-10-03 12:00:00"
             },
             "type": "Feature"
@@ -336,7 +425,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "44",
+            "id": "46",
             "properties": {
                 "model": "CEMN",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -389,7 +478,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "63",
+            "id": "65",
             "properties": {
                 "model": "CLP5",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -490,7 +579,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "82",
+            "id": "85",
             "properties": {
                 "model": "CTCX",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -555,7 +644,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "101",
+            "id": "105",
             "properties": {
                 "model": "DSHP",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -788,7 +877,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "120",
+            "id": "125",
             "properties": {
                 "model": "GDMN",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -861,7 +950,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "139",
+            "id": "145",
             "properties": {
                 "model": "HCCA",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -926,7 +1015,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "159",
+            "id": "166",
             "properties": {
                 "model": "IVCN",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -991,7 +1080,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "179",
+            "id": "187",
             "properties": {
                 "model": "LGEM",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -1056,7 +1145,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "199",
+            "id": "208",
             "properties": {
                 "model": "NNIB",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -1125,7 +1214,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "219",
+            "id": "229",
             "properties": {
                 "model": "NNIC",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -1182,7 +1271,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "239",
+            "id": "250",
             "properties": {
                 "model": "OCD5",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -1239,7 +1328,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "259",
+            "id": "271",
             "properties": {
                 "model": "SHF5",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -1304,7 +1393,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "279",
+            "id": "292",
             "properties": {
                 "model": "SHIP",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -1433,7 +1522,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "299",
+            "id": "313",
             "properties": {
                 "model": "TABD",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -1562,7 +1651,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "319",
+            "id": "334",
             "properties": {
                 "model": "TABM",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -1691,7 +1780,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "339",
+            "id": "355",
             "properties": {
                 "model": "TABS",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -1788,7 +1877,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "359",
+            "id": "376",
             "properties": {
                 "model": "TCLP",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -1925,7 +2014,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "378",
+            "id": "396",
             "properties": {
                 "model": "AC00",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -2054,7 +2143,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "396",
+            "id": "415",
             "properties": {
                 "model": "AEMN",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -2187,7 +2276,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "414",
+            "id": "434",
             "properties": {
                 "model": "AP01",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -2304,7 +2393,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "432",
+            "id": "453",
             "properties": {
                 "model": "AP02",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -2425,7 +2514,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "450",
+            "id": "472",
             "properties": {
                 "model": "AP03",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -2542,7 +2631,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "468",
+            "id": "491",
             "properties": {
                 "model": "AP04",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -2679,7 +2768,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "486",
+            "id": "510",
             "properties": {
                 "model": "AP05",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -2824,7 +2913,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "504",
+            "id": "529",
             "properties": {
                 "model": "AP06",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -2953,7 +3042,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "522",
+            "id": "548",
             "properties": {
                 "model": "AP07",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -3074,7 +3163,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "540",
+            "id": "567",
             "properties": {
                 "model": "AP08",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -3251,7 +3340,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "558",
+            "id": "586",
             "properties": {
                 "model": "AP09",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -3404,7 +3493,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "576",
+            "id": "605",
             "properties": {
                 "model": "AP10",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -3537,7 +3626,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "594",
+            "id": "624",
             "properties": {
                 "model": "AP11",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -3682,7 +3771,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "612",
+            "id": "643",
             "properties": {
                 "model": "AP12",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -3795,7 +3884,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "630",
+            "id": "662",
             "properties": {
                 "model": "AP13",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -3932,7 +4021,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "648",
+            "id": "681",
             "properties": {
                 "model": "AP14",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -4049,7 +4138,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "666",
+            "id": "700",
             "properties": {
                 "model": "AP15",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -4186,7 +4275,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "684",
+            "id": "719",
             "properties": {
                 "model": "AP16",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -4303,7 +4392,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "702",
+            "id": "738",
             "properties": {
                 "model": "AP17",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -4436,7 +4525,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "720",
+            "id": "757",
             "properties": {
                 "model": "AP18",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -4561,7 +4650,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "738",
+            "id": "776",
             "properties": {
                 "model": "AP19",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -4698,7 +4787,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "756",
+            "id": "795",
             "properties": {
                 "model": "AP20",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -4847,7 +4936,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "774",
+            "id": "814",
             "properties": {
                 "model": "AP21",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -4960,7 +5049,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "792",
+            "id": "833",
             "properties": {
                 "model": "AP22",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -5117,7 +5206,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "810",
+            "id": "852",
             "properties": {
                 "model": "AP23",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -5246,7 +5335,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "828",
+            "id": "871",
             "properties": {
                 "model": "AP24",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -5403,7 +5492,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "846",
+            "id": "890",
             "properties": {
                 "model": "AP25",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -5524,7 +5613,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "864",
+            "id": "909",
             "properties": {
                 "model": "AP26",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -5657,7 +5746,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "882",
+            "id": "928",
             "properties": {
                 "model": "AP27",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -5766,7 +5855,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "900",
+            "id": "947",
             "properties": {
                 "model": "AP28",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -5875,7 +5964,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "918",
+            "id": "966",
             "properties": {
                 "model": "AP29",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -6020,7 +6109,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "936",
+            "id": "985",
             "properties": {
                 "model": "AP30",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -6209,7 +6298,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "954",
+            "id": "1004",
             "properties": {
                 "model": "AVNO",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -6270,7 +6359,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "990",
+            "id": "1041",
             "properties": {
                 "model": "CTCI",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -6367,7 +6456,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "999",
+            "id": "1051",
             "properties": {
                 "model": "GDMI",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -6468,7 +6557,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "1018",
+            "id": "1071",
             "properties": {
                 "model": "HFSA",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -6577,7 +6666,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "1036",
+            "id": "1090",
             "properties": {
                 "model": "HFSB",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -6678,7 +6767,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "1054",
+            "id": "1109",
             "properties": {
                 "model": "HMON",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -6779,7 +6868,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "1072",
+            "id": "1128",
             "properties": {
                 "model": "HWRF",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -6852,7 +6941,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "1099",
+            "id": "1156",
             "properties": {
                 "model": "RVCN",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -6925,7 +7014,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "1118",
+            "id": "1176",
             "properties": {
                 "model": "TVCA",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -6998,7 +7087,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "1137",
+            "id": "1196",
             "properties": {
                 "model": "TVCC",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -7071,7 +7160,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "1156",
+            "id": "1216",
             "properties": {
                 "model": "TVCE",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -7144,7 +7233,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "1175",
+            "id": "1236",
             "properties": {
                 "model": "TVCN",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -7217,7 +7306,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "1194",
+            "id": "1256",
             "properties": {
                 "model": "TVCX",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -7290,7 +7379,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "1211",
+            "id": "1274",
             "properties": {
                 "model": "XTRP",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -7347,7 +7436,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "1224",
+            "id": "1288",
             "properties": {
                 "model": "UKX",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -7420,7 +7509,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "1241",
+            "id": "1305",
             "properties": {
                 "model": "AEMI",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -7493,7 +7582,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "1259",
+            "id": "1324",
             "properties": {
                 "model": "AVNI",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -7566,7 +7655,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "1269",
+            "id": "1335",
             "properties": {
                 "model": "CEM2",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -7639,7 +7728,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "1278",
+            "id": "1345",
             "properties": {
                 "model": "CMC2",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -7700,7 +7789,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "1295",
+            "id": "1363",
             "properties": {
                 "model": "HFAI",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -7761,7 +7850,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "1313",
+            "id": "1382",
             "properties": {
                 "model": "HFBI",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -7822,7 +7911,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "1331",
+            "id": "1401",
             "properties": {
                 "model": "HMNI",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -7883,7 +7972,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "1349",
+            "id": "1420",
             "properties": {
                 "model": "HWFI",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -7944,7 +8033,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "1367",
+            "id": "1439",
             "properties": {
                 "model": "ICON",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -8017,7 +8106,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "1373",
+            "id": "1446",
             "properties": {
                 "model": "NGX2",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -8090,7 +8179,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "1396",
+            "id": "1470",
             "properties": {
                 "model": "DRCL",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -8243,7 +8332,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "1411",
+            "id": "1485",
             "properties": {
                 "model": "GENC",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -8316,7 +8405,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "1436",
+            "id": "1511",
             "properties": {
                 "model": "GEN2",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -8385,7 +8474,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "1451",
+            "id": "1527",
             "properties": {
                 "model": "OFCL",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -8474,7 +8563,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "1459",
+            "id": "1535",
             "properties": {
                 "model": "EAIO",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -8551,7 +8640,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "1472",
+            "id": "1548",
             "properties": {
                 "model": "GRPH",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -8612,7 +8701,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "1485",
+            "id": "1562",
             "properties": {
                 "model": "OFCI",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -8661,7 +8750,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "1498",
+            "id": "1576",
             "properties": {
                 "model": "GRPI",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -8718,7 +8807,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "1508",
+            "id": "1587",
             "properties": {
                 "model": "EAI2",
                 "warning_datetime": "2025-10-03 12:00:00"
@@ -8791,7 +8880,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "1519",
+            "id": "1599",
             "properties": {
                 "model": "GENI",
                 "warning_datetime": "2025-10-03 12:00:00"
