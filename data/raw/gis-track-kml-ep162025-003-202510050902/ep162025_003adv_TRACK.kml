@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+	<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"> 
+	<Document> 
+	<name>EP162025 (Advisory #3) - Forecast Track</name> 
+	<open>0</open> 
+	<description>
+		<![CDATA[<TABLE>
+		<TR><TD><B>Title:</B> Tropical Cyclone Forecast Track for EP162025 (Advisory #3)</TD></TR>
+		<TR><TD><B>Description:</B> This product will aid in the visualization of an official track forecast, the forecast points are connected by black line segments.  The track line(s) are not a forecast product, however, and because there are an infinite number of ways to connect a set of forecast points, the lines should not be interpreted as representing a specific forecast for the location of a tropical cyclone in between official forecast points.  It is also important to remember that tropical cyclone track forecasts are subject to error, and that the effects of a tropical cyclone can span many hundreds of miles from the center.</abstract></TD></TR>
+		<TR><TD><B>Date Created:</B> 10-05-2025 </TD></TR>
+		<TR><TD><B>Created:</B> National Hurricane Center</TD></TR>
+		<TR><TD><B>Disclaimer:</B>The official forecast track in KML format is an experimental product.</TD></TR>
+		<TR><TD><B>For More Information: </B><a href="https://www.nhc.noaa.gov">https://www.nhc.noaa.gov</a></TD></TR></TABLE>]]>
+	</description>
+
+	<Style id="m_point"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>mPoint.png</href> 
+			</Icon> 
+             <hotSpot x="18" y="16" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="d_point"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>dPoint.png</href> 
+			</Icon> 
+             <hotSpot x="18" y="16" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="h_point"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>hPoint.png</href> 
+			</Icon> 
+             <hotSpot x="18" y="16" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="initial_point"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>initialPoint.png</href> 
+			</Icon> 
+             <hotSpot x="18" y="16" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="xm_point"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>xmPoint.png</href> 
+			</Icon> 
+             <hotSpot x="18" y="16" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="xh_point"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>xhPoint.png</href> 
+			</Icon> 
+             <hotSpot x="18" y="16" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="l_point"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>lPoint.png</href> 
+			</Icon> 
+             <hotSpot x="18" y="16" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="120_line"> 
+		<LineStyle> 
+			<color>ff000000</color> 
+			<width>3</width> 
+		</LineStyle> 
+		<PolyStyle> 
+			<color>ff000000</color> 
+		</PolyStyle> 
+	</Style> 
+	<Style id="xd_point"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>xdPoint.png</href> 
+			</Icon> 
+             <hotSpot x="18" y="16" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="72_line"> 
+		<LineStyle> 
+			<color>ff000000</color> 
+			<width>3</width> 
+		</LineStyle> 
+		<PolyStyle> 
+			<color>ff000000</color> 
+		</PolyStyle> 
+	</Style> 
+	<Style id="s_point"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>sPoint.png</href> 
+			</Icon> 
+             <hotSpot x="18" y="16" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="xs_point"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>xsPoint.png</href> 
+			</Icon> 
+             <hotSpot x="18" y="16" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Folder id="Forecast Track"> 
+ 	    <name>Forecast Track</name> 
+
+	   <Placemark> 
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description> 
+	   	  <![CDATA[<table> 
+                        <tr><td><font color=black><b>Tropical Storm Priscilla (EP162025)</b></font></td></tr> 
+                        <tr><td>Advisory #3 </td></tr> 
+                        <tr><td><hr></td></tr> 
+                        <tr><td>72 Hour Forecast Track</td></tr> 
+	           ]]> 
+             </description> 
+	       <styleUrl>#72_line</styleUrl> 
+
+	       <LineString> 
+	         <coordinates>  -106.9,16.1,0 -107.2,16.6,0 -107.6,17.1,0 -108.4,18.0,0 -109.4,18.9,0 -110.7,19.7,0 -112.0,20.5,0 </coordinates> 
+	       </LineString> 
+
+              <ExtendedData>
+                <Data name="timezone"> 
+                  <value>MST</value>
+                </Data> 
+                <Data name="stormType"> 
+                  <value>TS</value>
+                </Data> 
+                <Data name="basin"> 
+                  <value>ep</value>
+                </Data> 
+                <Data name="fcstpd"> 
+                  <value>72</value>
+                </Data> 
+                <Data name="storm"> 
+                  <value>Tropical Storm Priscilla</value>
+                </Data> 
+                <Data name="atcfid"> 
+                  <value>EP162025</value>
+                </Data> 
+                <Data name="advisoryNum"> 
+                  <value>3</value>
+                </Data> 
+                <Data name="stormNum"> 
+                  <value>16</value>
+                </Data> 
+                <Data name="stormName"> 
+                  <value>Priscilla</value>
+                </Data> 
+                <Data name="pubAdvTime">
+                  <value>200 AM MST Sun Oct 05 2025</value>
+                </Data>
+                <Data name="TCInitLocation">
+                  <value>16.1N, 106.9W</value>
+                </Data>
+                <Data name="maxWindKnots">
+                  <value>55</value>
+                </Data>
+                <Data name="maxWindMPH">
+                  <value>65</value>
+                </Data>
+                <Data name="maxGustKnots">
+                  <value>65</value>
+                </Data>
+                <Data name="maxGustMPH">
+                  <value>75</value>
+                </Data>
+                <Data name="stormMovement">
+                  <value>NW</value>
+                </Data>
+                <Data name="minimumPressure">
+                  <value>991</value>
+                </Data>
+              </ExtendedData>
+	   </Placemark> 
+
+	   <Placemark> 
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description> 
+	   	  <![CDATA[<table> 
+                        <tr><td><font color=black><b>Tropical Storm Priscilla (EP162025)</b></font></td></tr> 
+                        <tr><td>Advisory #3 </td></tr> 
+                        <tr><td><hr></td></tr> 
+                        <tr><td>120 Hour Forecast Track</td></tr> 
+	           ]]> 
+             </description> 
+	       <styleUrl>#120_line</styleUrl> 
+
+	       <LineString> 
+	         <coordinates>  -106.9,16.1,0 -107.2,16.6,0 -107.6,17.1,0 -108.4,18.0,0 -109.4,18.9,0 -110.7,19.7,0 -112.0,20.5,0 -114.5,22.3,0 -116.9,24.7,0 </coordinates> 
+	       </LineString> 
+
+              <ExtendedData>
+                <Data name="timezone"> 
+                  <value>MST</value>
+                </Data> 
+                <Data name="stormType"> 
+                  <value>TS</value>
+                </Data> 
+                <Data name="basin"> 
+                  <value>ep</value>
+                </Data> 
+                <Data name="fcstpd"> 
+                  <value>120</value>
+                </Data> 
+                <Data name="storm"> 
+                  <value>Tropical Storm Priscilla</value>
+                </Data> 
+                <Data name="atcfid"> 
+                  <value>EP162025</value>
+                </Data> 
+                <Data name="advisoryNum"> 
+                  <value>3</value>
+                </Data> 
+                <Data name="stormNum"> 
+                  <value>16</value>
+                </Data> 
+                <Data name="stormName"> 
+                  <value>Priscilla</value>
+                </Data> 
+              </ExtendedData>
+	   </Placemark>
+
+
+	   <Placemark> 
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description> 
+	   	  <![CDATA[<table> 
+                        <tr><td><font color=black><b>Tropical Storm Priscilla (EP162025)</b></font></td></tr> 
+                        <tr><td>Advisory #3</td></tr> 
+                        <tr><td><hr></td></tr> 
+                        <tr><td nowrap>Advisory Information</td></tr> 
+	   	        <tr><td nowrap>Valid at:  2:00 AM MST October 05, 2025 </td></tr> 
+	   	        <tr><td nowrap>Location: 16.1 N, -106.9 W </td></tr> 
+	   	        <tr><td nowrap>Maximum Wind: 55 knots (65 mph) </td></tr> 
+	   	        <tr><td nowrap>Wind Gusts: 65 knots (75 mph) </td></tr> 
+                        <tr><td nowrap>Motion: NW </td></tr>
+                        <tr><td nowrap>Minimum Pressure: 991 mb </td></tr>
+	       ]]></description> 
+	       <styleUrl>#initial_point</styleUrl> 
+	       <Point> 
+	          <coordinates> -106.9,16.1,0 </coordinates> 
+	       </Point> 
+	   </Placemark> 
+
+
+	   <Placemark> 
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description> 
+	   	  <![CDATA[<table> 
+                        <tr><td><font color=black><b>Tropical Storm Priscilla (EP162025)</b></font></td></tr> 
+                        <tr><td>Advisory #3</td></tr> 
+                        <tr><td><hr></td></tr> 
+                        <tr><td nowrap>12 hr Forecast</td></tr> 
+	   	        <tr><td nowrap>Valid at: 11:00 AM MST October 05, 2025 </td></tr> 
+	   	        <tr><td nowrap>Location: 16.6 N, -107.2 W </td></tr> 
+	   	        <tr><td nowrap>Maximum Wind: 65 knots (75 mph) </td></tr> 
+	   	        <tr><td nowrap>Wind Gusts: 80 knots (90 mph) </td></tr> 
+	       ]]></description> 
+	       <styleUrl>#h_point</styleUrl> 
+	       <Point> 
+	          <coordinates> -107.2,16.6,0 </coordinates> 
+	       </Point> 
+	   </Placemark> 
+
+
+	   <Placemark> 
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description> 
+	   	  <![CDATA[<table> 
+                        <tr><td><font color=black><b>Tropical Storm Priscilla (EP162025)</b></font></td></tr> 
+                        <tr><td>Advisory #3</td></tr> 
+                        <tr><td><hr></td></tr> 
+                        <tr><td nowrap>24 hr Forecast</td></tr> 
+	   	        <tr><td nowrap>Valid at: 11:00 PM MST October 05, 2025 </td></tr> 
+	   	        <tr><td nowrap>Location: 17.1 N, -107.6 W </td></tr> 
+	   	        <tr><td nowrap>Maximum Wind: 70 knots (80 mph) </td></tr> 
+	   	        <tr><td nowrap>Wind Gusts: 85 knots (100 mph) </td></tr> 
+	       ]]></description> 
+	       <styleUrl>#h_point</styleUrl> 
+	       <Point> 
+	          <coordinates> -107.6,17.1,0 </coordinates> 
+	       </Point> 
+	   </Placemark> 
+
+
+	   <Placemark> 
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description> 
+	   	  <![CDATA[<table> 
+                        <tr><td><font color=black><b>Tropical Storm Priscilla (EP162025)</b></font></td></tr> 
+                        <tr><td>Advisory #3</td></tr> 
+                        <tr><td><hr></td></tr> 
+                        <tr><td nowrap>36 hr Forecast</td></tr> 
+	   	        <tr><td nowrap>Valid at: 11:00 AM MST October 06, 2025 </td></tr> 
+	   	        <tr><td nowrap>Location: 18.0 N, -108.4 W </td></tr> 
+	   	        <tr><td nowrap>Maximum Wind: 75 knots (85 mph) </td></tr> 
+	   	        <tr><td nowrap>Wind Gusts: 90 knots (105 mph) </td></tr> 
+	       ]]></description> 
+	       <styleUrl>#h_point</styleUrl> 
+	       <Point> 
+	          <coordinates> -108.4,18.0,0 </coordinates> 
+	       </Point> 
+	   </Placemark> 
+
+
+	   <Placemark> 
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description> 
+	   	  <![CDATA[<table> 
+                        <tr><td><font color=black><b>Tropical Storm Priscilla (EP162025)</b></font></td></tr> 
+                        <tr><td>Advisory #3</td></tr> 
+                        <tr><td><hr></td></tr> 
+                        <tr><td nowrap>48 hr Forecast</td></tr> 
+	   	        <tr><td nowrap>Valid at: 11:00 PM MST October 06, 2025 </td></tr> 
+	   	        <tr><td nowrap>Location: 18.9 N, -109.4 W </td></tr> 
+	   	        <tr><td nowrap>Maximum Wind: 80 knots (90 mph) </td></tr> 
+	   	        <tr><td nowrap>Wind Gusts: 100 knots (115 mph) </td></tr> 
+	       ]]></description> 
+	       <styleUrl>#h_point</styleUrl> 
+	       <Point> 
+	          <coordinates> -109.4,18.9,0 </coordinates> 
+	       </Point> 
+	   </Placemark> 
+
+
+	   <Placemark> 
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description> 
+	   	  <![CDATA[<table> 
+                        <tr><td><font color=black><b>Tropical Storm Priscilla (EP162025)</b></font></td></tr> 
+                        <tr><td>Advisory #3</td></tr> 
+                        <tr><td><hr></td></tr> 
+                        <tr><td nowrap>60 hr Forecast</td></tr> 
+	   	        <tr><td nowrap>Valid at: 11:00 AM MST October 07, 2025 </td></tr> 
+	   	        <tr><td nowrap>Location: 19.7 N, -110.7 W </td></tr> 
+	   	        <tr><td nowrap>Maximum Wind: 80 knots (90 mph) </td></tr> 
+	   	        <tr><td nowrap>Wind Gusts: 100 knots (115 mph) </td></tr> 
+	       ]]></description> 
+	       <styleUrl>#h_point</styleUrl> 
+	       <Point> 
+	          <coordinates> -110.7,19.7,0 </coordinates> 
+	       </Point> 
+	   </Placemark> 
+
+
+	   <Placemark> 
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description> 
+	   	  <![CDATA[<table> 
+                        <tr><td><font color=black><b>Tropical Storm Priscilla (EP162025)</b></font></td></tr> 
+                        <tr><td>Advisory #3</td></tr> 
+                        <tr><td><hr></td></tr> 
+                        <tr><td nowrap>72 hr Forecast</td></tr> 
+	   	        <tr><td nowrap>Valid at: 11:00 PM MST October 07, 2025 </td></tr> 
+	   	        <tr><td nowrap>Location: 20.5 N, -112.0 W </td></tr> 
+	   	        <tr><td nowrap>Maximum Wind: 80 knots (90 mph) </td></tr> 
+	   	        <tr><td nowrap>Wind Gusts: 100 knots (115 mph) </td></tr> 
+	       ]]></description> 
+	       <styleUrl>#h_point</styleUrl> 
+	       <Point> 
+	          <coordinates> -112.0,20.5,0 </coordinates> 
+	       </Point> 
+	   </Placemark> 
+
+
+	   <Placemark> 
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description> 
+	   	  <![CDATA[<table> 
+                        <tr><td><font color=black><b>Tropical Storm Priscilla (EP162025)</b></font></td></tr> 
+                        <tr><td>Advisory #3</td></tr> 
+                        <tr><td><hr></td></tr> 
+                        <tr><td nowrap>96 hr Forecast</td></tr> 
+	   	        <tr><td nowrap>Valid at: 11:00 PM MST October 08, 2025 </td></tr> 
+	   	        <tr><td nowrap>Location: 22.3 N, -114.5 W </td></tr> 
+	   	        <tr><td nowrap>Maximum Wind: 70 knots (80 mph) </td></tr> 
+	   	        <tr><td nowrap>Wind Gusts: 85 knots (100 mph) </td></tr> 
+	       ]]></description> 
+	       <styleUrl>#h_point</styleUrl> 
+	       <Point> 
+	          <coordinates> -114.5,22.3,0 </coordinates> 
+	       </Point> 
+	   </Placemark> 
+
+
+	   <Placemark> 
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description> 
+	   	  <![CDATA[<table> 
+                        <tr><td><font color=black><b>Tropical Storm Priscilla (EP162025)</b></font></td></tr> 
+                        <tr><td>Advisory #3</td></tr> 
+                        <tr><td><hr></td></tr> 
+                        <tr><td nowrap>120 hr Forecast</td></tr> 
+	   	        <tr><td nowrap>Valid at: 11:00 PM MST October 09, 2025 </td></tr> 
+	   	        <tr><td nowrap>Location: 24.7 N, -116.9 W </td></tr> 
+	   	        <tr><td nowrap>Maximum Wind: 50 knots (60 mph) </td></tr> 
+	   	        <tr><td nowrap>Wind Gusts: 60 knots (70 mph) </td></tr> 
+	       ]]></description> 
+	       <styleUrl>#s_point</styleUrl> 
+	       <Point> 
+	          <coordinates> -116.9,24.7,0 </coordinates> 
+	       </Point> 
+	   </Placemark> 
+
+</Folder>
+</Document>
+</kml>
