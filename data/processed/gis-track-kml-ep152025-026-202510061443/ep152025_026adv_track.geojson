@@ -1,0 +1,230 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -121.6,
+                        16.3,
+                        0.0
+                    ],
+                    [
+                        -120.6,
+                        16.1,
+                        0.0
+                    ],
+                    [
+                        -119.5,
+                        15.7,
+                        0.0
+                    ],
+                    [
+                        -118.3,
+                        15.5,
+                        0.0
+                    ],
+                    [
+                        -116.6,
+                        15.6,
+                        0.0
+                    ],
+                    [
+                        -114.2,
+                        16.5,
+                        0.0
+                    ],
+                    [
+                        -111.8,
+                        17.6,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "16.3N, 121.6W",
+                "advisoryNum": "26",
+                "atcfid": "EP152025",
+                "basin": "ep",
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Octave (EP152025)</b></font></td></tr> \n                        <tr><td>Advisory #26 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "65",
+                "maxGustMPH": "75",
+                "maxWindKnots": "55",
+                "maxWindMPH": "65",
+                "minimumPressure": "995",
+                "pubAdvTime": "800 AM PDT Mon Oct 06 2025",
+                "storm": "Tropical Storm Octave",
+                "stormMovement": "E",
+                "stormName": "Octave",
+                "stormNum": "15",
+                "stormType": "TS",
+                "styleUrl": "#72_line",
+                "timezone": "PDT"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -121.6,
+                        16.3,
+                        0.0
+                    ],
+                    [
+                        -120.6,
+                        16.1,
+                        0.0
+                    ],
+                    [
+                        -119.5,
+                        15.7,
+                        0.0
+                    ],
+                    [
+                        -118.3,
+                        15.5,
+                        0.0
+                    ],
+                    [
+                        -116.6,
+                        15.6,
+                        0.0
+                    ],
+                    [
+                        -114.2,
+                        16.5,
+                        0.0
+                    ],
+                    [
+                        -111.8,
+                        17.6,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "26",
+                "atcfid": "EP152025",
+                "basin": "ep",
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Octave (EP152025)</b></font></td></tr> \n                        <tr><td>Advisory #26 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Tropical Storm Octave",
+                "stormName": "Octave",
+                "stormNum": "15",
+                "stormType": "TS",
+                "styleUrl": "#120_line",
+                "timezone": "PDT"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -121.6,
+                    16.3,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Octave (EP152025)</b></font></td></tr> \n                        <tr><td>Advisory #26</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 AM PDT October 06, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 16.3 N, -121.6 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 55 knots (65 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 65 knots (75 mph) </td></tr> \n                        <tr><td nowrap>Motion: E </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 995 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -120.6,
+                    16.1,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Octave (EP152025)</b></font></td></tr> \n                        <tr><td>Advisory #26</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>12 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  5:00 PM PDT October 06, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 16.1 N, -120.6 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 45 knots (50 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 55 knots (65 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.5,
+                    15.7,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Octave (EP152025)</b></font></td></tr> \n                        <tr><td>Advisory #26</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>24 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  5:00 AM PDT October 07, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 15.7 N, -119.5 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 40 knots (45 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 50 knots (60 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -118.3,
+                    15.5,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Octave (EP152025)</b></font></td></tr> \n                        <tr><td>Advisory #26</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>36 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  5:00 PM PDT October 07, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 15.5 N, -118.3 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 40 knots (45 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 50 knots (60 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -116.6,
+                    15.6,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Octave (EP152025)</b></font></td></tr> \n                        <tr><td>Advisory #26</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>48 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  5:00 AM PDT October 08, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 15.6 N, -116.6 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 35 knots (40 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 45 knots (50 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -114.2,
+                    16.5,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Octave (EP152025)</b></font></td></tr> \n                        <tr><td>Advisory #26</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>60 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  5:00 PM PDT October 08, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 16.5 N, -114.2 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 35 knots (40 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 45 knots (50 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -111.8,
+                    17.6,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Octave (EP152025)</b></font></td></tr> \n                        <tr><td>Advisory #26</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>72 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  5:00 AM PDT October 09, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 17.6 N, -111.8 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 30 knots (35 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 40 knots (45 mph) </td></tr>",
+                "styleUrl": "#d_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
