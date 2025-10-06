@@ -1,0 +1,51 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.2,
+                        16.3
+                    ],
+                    [
+                        -121.3,
+                        16.3
+                    ],
+                    [
+                        -120.2,
+                        16.0
+                    ],
+                    [
+                        -119.0,
+                        15.6
+                    ],
+                    [
+                        -117.7,
+                        15.5
+                    ],
+                    [
+                        -116.1,
+                        15.8
+                    ],
+                    [
+                        -114.0,
+                        16.7
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "0",
+            "properties": {
+                "ADVDATE": "200 AM PDT Mon Oct 06 2025",
+                "ADVISNUM": "25",
+                "BASIN": "EP",
+                "FCSTPRD": 120.0,
+                "STORMNAME": "Octave",
+                "STORMNUM": 15.0,
+                "STORMTYPE": "TS"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
