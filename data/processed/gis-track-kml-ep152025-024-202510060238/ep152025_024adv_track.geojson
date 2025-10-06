@@ -1,0 +1,230 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.8,
+                        16.4,
+                        0.0
+                    ],
+                    [
+                        -121.9,
+                        16.4,
+                        0.0
+                    ],
+                    [
+                        -120.8,
+                        16.3,
+                        0.0
+                    ],
+                    [
+                        -119.6,
+                        16.1,
+                        0.0
+                    ],
+                    [
+                        -118.4,
+                        15.7,
+                        0.0
+                    ],
+                    [
+                        -117.0,
+                        15.7,
+                        0.0
+                    ],
+                    [
+                        -115.3,
+                        16.1,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "16.4N, 122.8W",
+                "advisoryNum": "24",
+                "atcfid": "EP152025",
+                "basin": "ep",
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Octave (EP152025)</b></font></td></tr> \n                        <tr><td>Advisory #24 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "90",
+                "maxGustMPH": "105",
+                "maxWindKnots": "75",
+                "maxWindMPH": "85",
+                "minimumPressure": "984",
+                "pubAdvTime": "800 PM PDT Sun Oct 05 2025",
+                "storm": "Hurricane Octave",
+                "stormMovement": "NE",
+                "stormName": "Octave",
+                "stormNum": "15",
+                "stormType": "HU",
+                "styleUrl": "#72_line",
+                "timezone": "PDT"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.8,
+                        16.4,
+                        0.0
+                    ],
+                    [
+                        -121.9,
+                        16.4,
+                        0.0
+                    ],
+                    [
+                        -120.8,
+                        16.3,
+                        0.0
+                    ],
+                    [
+                        -119.6,
+                        16.1,
+                        0.0
+                    ],
+                    [
+                        -118.4,
+                        15.7,
+                        0.0
+                    ],
+                    [
+                        -117.0,
+                        15.7,
+                        0.0
+                    ],
+                    [
+                        -115.3,
+                        16.1,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "24",
+                "atcfid": "EP152025",
+                "basin": "ep",
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Octave (EP152025)</b></font></td></tr> \n                        <tr><td>Advisory #24 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Hurricane Octave",
+                "stormName": "Octave",
+                "stormNum": "15",
+                "stormType": "HU",
+                "styleUrl": "#120_line",
+                "timezone": "PDT"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.8,
+                    16.4,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Octave (EP152025)</b></font></td></tr> \n                        <tr><td>Advisory #24</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 PM PDT October 05, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 16.4 N, -122.8 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 75 knots (85 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 90 knots (105 mph) </td></tr> \n                        <tr><td nowrap>Motion: NE </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 984 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -121.9,
+                    16.4,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Octave (EP152025)</b></font></td></tr> \n                        <tr><td>Advisory #24</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>12 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  5:00 AM PDT October 06, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 16.4 N, -121.9 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 70 knots (80 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 85 knots (100 mph) </td></tr>",
+                "styleUrl": "#h_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -120.8,
+                    16.3,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Octave (EP152025)</b></font></td></tr> \n                        <tr><td>Advisory #24</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>24 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  5:00 PM PDT October 06, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 16.3 N, -120.8 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 65 knots (75 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 80 knots (90 mph) </td></tr>",
+                "styleUrl": "#h_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -119.6,
+                    16.1,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Octave (EP152025)</b></font></td></tr> \n                        <tr><td>Advisory #24</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>36 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  5:00 AM PDT October 07, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 16.1 N, -119.6 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 55 knots (65 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 65 knots (75 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -118.4,
+                    15.7,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Octave (EP152025)</b></font></td></tr> \n                        <tr><td>Advisory #24</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>48 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  5:00 PM PDT October 07, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 15.7 N, -118.4 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 50 knots (60 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 60 knots (70 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -117.0,
+                    15.7,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Octave (EP152025)</b></font></td></tr> \n                        <tr><td>Advisory #24</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>60 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  5:00 AM PDT October 08, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 15.7 N, -117.0 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 45 knots (50 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 55 knots (65 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.3,
+                    16.1,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Octave (EP152025)</b></font></td></tr> \n                        <tr><td>Advisory #24</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>72 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  5:00 PM PDT October 08, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 16.1 N, -115.3 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 40 knots (45 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 50 knots (60 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
