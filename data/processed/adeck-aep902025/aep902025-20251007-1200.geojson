@@ -45,6 +45,232 @@
             "geometry": {
                 "coordinates": [
                     [
+                        -93.3,
+                        13.9
+                    ],
+                    [
+                        -93.6,
+                        13.6
+                    ],
+                    [
+                        -93.7,
+                        13.3
+                    ],
+                    [
+                        -94.0,
+                        13.6
+                    ],
+                    [
+                        -94.4,
+                        14.1
+                    ],
+                    [
+                        -95.0,
+                        14.5
+                    ],
+                    [
+                        -95.7,
+                        14.8
+                    ],
+                    [
+                        -96.9,
+                        14.2
+                    ],
+                    [
+                        -97.3,
+                        14.3
+                    ],
+                    [
+                        -97.9,
+                        14.8
+                    ],
+                    [
+                        -100.1,
+                        15.0
+                    ],
+                    [
+                        -100.6,
+                        15.5
+                    ],
+                    [
+                        -101.9,
+                        16.2
+                    ],
+                    [
+                        -103.2,
+                        16.8
+                    ],
+                    [
+                        -105.2,
+                        17.3
+                    ],
+                    [
+                        -106.5,
+                        17.9
+                    ],
+                    [
+                        -107.8,
+                        18.6
+                    ],
+                    [
+                        -108.6,
+                        18.8
+                    ],
+                    [
+                        -108.8,
+                        19.4
+                    ],
+                    [
+                        -109.2,
+                        20.3
+                    ],
+                    [
+                        -109.4,
+                        21.2
+                    ],
+                    [
+                        -109.8,
+                        22.1
+                    ],
+                    [
+                        -110.3,
+                        23.4
+                    ],
+                    [
+                        -111.2,
+                        24.9
+                    ],
+                    [
+                        -112.0,
+                        27.1
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "2",
+            "properties": {
+                "model": "CMC",
+                "warning_datetime": "2025-10-07 12:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -92.2,
+                        13.5
+                    ],
+                    [
+                        -93.4,
+                        13.4
+                    ],
+                    [
+                        -93.7,
+                        13.2
+                    ],
+                    [
+                        -94.1,
+                        13.7
+                    ],
+                    [
+                        -94.5,
+                        14.3
+                    ],
+                    [
+                        -95.1,
+                        14.5
+                    ],
+                    [
+                        -95.7,
+                        14.8
+                    ],
+                    [
+                        -96.6,
+                        14.6
+                    ],
+                    [
+                        -97.2,
+                        14.8
+                    ],
+                    [
+                        -98.1,
+                        15.3
+                    ],
+                    [
+                        -99.4,
+                        15.5
+                    ],
+                    [
+                        -100.4,
+                        15.8
+                    ],
+                    [
+                        -101.9,
+                        16.0
+                    ],
+                    [
+                        -103.5,
+                        16.5
+                    ],
+                    [
+                        -105.1,
+                        17.0
+                    ],
+                    [
+                        -106.2,
+                        17.5
+                    ],
+                    [
+                        -107.2,
+                        18.2
+                    ],
+                    [
+                        -108.2,
+                        18.9
+                    ],
+                    [
+                        -108.8,
+                        19.6
+                    ],
+                    [
+                        -109.4,
+                        20.5
+                    ],
+                    [
+                        -109.9,
+                        21.2
+                    ],
+                    [
+                        -110.3,
+                        22.0
+                    ],
+                    [
+                        -110.7,
+                        23.0
+                    ],
+                    [
+                        -110.6,
+                        23.4
+                    ],
+                    [
+                        -110.9,
+                        24.6
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "3",
+            "properties": {
+                "model": "CEMN",
+                "warning_datetime": "2025-10-07 12:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
                         -93.4,
                         13.9
                     ],
@@ -87,9 +313,18 @@
                 ],
                 "type": "LineString"
             },
-            "id": "1",
+            "id": "4",
             "properties": {
                 "model": "CLP5",
+                "warning_datetime": "2025-10-07 12:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": null,
+            "id": "6",
+            "properties": {
+                "model": "CTCX",
                 "warning_datetime": "2025-10-07 12:00:00"
             },
             "type": "Feature"
@@ -160,7 +395,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "2",
+            "id": "7",
             "properties": {
                 "model": "DSHP",
                 "warning_datetime": "2025-10-07 12:00:00"
@@ -169,7 +404,7 @@
         },
         {
             "geometry": null,
-            "id": "3",
+            "id": "9",
             "properties": {
                 "model": "HCCA",
                 "warning_datetime": "2025-10-07 12:00:00"
@@ -242,7 +477,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "4",
+            "id": "11",
             "properties": {
                 "model": "IVCN",
                 "warning_datetime": "2025-10-07 12:00:00"
@@ -315,7 +550,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "5",
+            "id": "13",
             "properties": {
                 "model": "LGEM",
                 "warning_datetime": "2025-10-07 12:00:00"
@@ -388,7 +623,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "6",
+            "id": "15",
             "properties": {
                 "model": "NNIB",
                 "warning_datetime": "2025-10-07 12:00:00"
@@ -461,7 +696,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "7",
+            "id": "17",
             "properties": {
                 "model": "NNIC",
                 "warning_datetime": "2025-10-07 12:00:00"
@@ -518,7 +753,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "8",
+            "id": "19",
             "properties": {
                 "model": "OCD5",
                 "warning_datetime": "2025-10-07 12:00:00"
@@ -575,7 +810,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "9",
+            "id": "21",
             "properties": {
                 "model": "SHF5",
                 "warning_datetime": "2025-10-07 12:00:00"
@@ -648,7 +883,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "10",
+            "id": "23",
             "properties": {
                 "model": "SHIP",
                 "warning_datetime": "2025-10-07 12:00:00"
@@ -777,7 +1012,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "11",
+            "id": "25",
             "properties": {
                 "model": "TABD",
                 "warning_datetime": "2025-10-07 12:00:00"
@@ -906,7 +1141,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "12",
+            "id": "27",
             "properties": {
                 "model": "TABM",
                 "warning_datetime": "2025-10-07 12:00:00"
@@ -1035,7 +1270,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "13",
+            "id": "29",
             "properties": {
                 "model": "TABS",
                 "warning_datetime": "2025-10-07 12:00:00"
@@ -1088,7 +1323,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "14",
+            "id": "31",
             "properties": {
                 "model": "TCLP",
                 "warning_datetime": "2025-10-07 12:00:00"
@@ -1161,7 +1396,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "15",
+            "id": "33",
             "properties": {
                 "model": "XTRP",
                 "warning_datetime": "2025-10-07 12:00:00"
