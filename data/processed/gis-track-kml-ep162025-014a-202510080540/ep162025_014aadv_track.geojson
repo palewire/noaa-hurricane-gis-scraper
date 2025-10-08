@@ -1,0 +1,230 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -111.8,
+                        20.9,
+                        0.0
+                    ],
+                    [
+                        -112.4,
+                        21.4,
+                        0.0
+                    ],
+                    [
+                        -113.7,
+                        22.6,
+                        0.0
+                    ],
+                    [
+                        -114.7,
+                        23.7,
+                        0.0
+                    ],
+                    [
+                        -115.1,
+                        24.9,
+                        0.0
+                    ],
+                    [
+                        -115.3,
+                        26.3,
+                        0.0
+                    ],
+                    [
+                        -115.1,
+                        27.4,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "20.9N, 111.8W",
+                "advisoryNum": "14A",
+                "atcfid": "EP162025",
+                "basin": "ep",
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Priscilla (EP162025)</b></font></td></tr> \n                        <tr><td>Advisory #14A </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "110",
+                "maxGustMPH": "125",
+                "maxWindKnots": "90",
+                "maxWindMPH": "105",
+                "minimumPressure": "962",
+                "pubAdvTime": "1100 PM MST Tue Oct 07 2025",
+                "storm": "Hurricane Priscilla",
+                "stormMovement": "NW",
+                "stormName": "Priscilla",
+                "stormNum": "16",
+                "stormType": "HU",
+                "styleUrl": "#72_line",
+                "timezone": "MST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -111.8,
+                        20.9,
+                        0.0
+                    ],
+                    [
+                        -112.4,
+                        21.4,
+                        0.0
+                    ],
+                    [
+                        -113.7,
+                        22.6,
+                        0.0
+                    ],
+                    [
+                        -114.7,
+                        23.7,
+                        0.0
+                    ],
+                    [
+                        -115.1,
+                        24.9,
+                        0.0
+                    ],
+                    [
+                        -115.3,
+                        26.3,
+                        0.0
+                    ],
+                    [
+                        -115.1,
+                        27.4,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "14A",
+                "atcfid": "EP162025",
+                "basin": "ep",
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Priscilla (EP162025)</b></font></td></tr> \n                        <tr><td>Advisory #14A </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Hurricane Priscilla",
+                "stormName": "Priscilla",
+                "stormNum": "16",
+                "stormType": "HU",
+                "styleUrl": "#120_line",
+                "timezone": "MST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -111.8,
+                    20.9,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Priscilla (EP162025)</b></font></td></tr> \n                        <tr><td>Advisory #14A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at: 11:00 PM MST October 07, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 20.9 N, -111.8 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 90 knots (105 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 110 knots (125 mph) </td></tr> \n                        <tr><td nowrap>Motion: NW </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 962 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -112.4,
+                    21.4,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Priscilla (EP162025)</b></font></td></tr> \n                        <tr><td>Advisory #14A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>12 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  5:00 AM MST October 08, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 21.4 N, -112.4 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 85 knots (100 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 105 knots (120 mph) </td></tr>",
+                "styleUrl": "#h_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -113.7,
+                    22.6,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Priscilla (EP162025)</b></font></td></tr> \n                        <tr><td>Advisory #14A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>24 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  5:00 PM MST October 08, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 22.6 N, -113.7 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 70 knots (80 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 85 knots (100 mph) </td></tr>",
+                "styleUrl": "#h_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -114.7,
+                    23.7,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Priscilla (EP162025)</b></font></td></tr> \n                        <tr><td>Advisory #14A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>36 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  5:00 AM MST October 09, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 23.7 N, -114.7 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 60 knots (70 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 75 knots (85 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.1,
+                    24.9,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Priscilla (EP162025)</b></font></td></tr> \n                        <tr><td>Advisory #14A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>48 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  5:00 PM MST October 09, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 24.9 N, -115.1 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 45 knots (50 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 55 knots (65 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.3,
+                    26.3,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Priscilla (EP162025)</b></font></td></tr> \n                        <tr><td>Advisory #14A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>60 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  5:00 AM MST October 10, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 26.3 N, -115.3 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 35 knots (40 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 45 knots (50 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.1,
+                    27.4,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Priscilla (EP162025)</b></font></td></tr> \n                        <tr><td>Advisory #14A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>72 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  5:00 PM MST October 10, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 27.4 N, -115.1 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 25 knots (30 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 35 knots (40 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
