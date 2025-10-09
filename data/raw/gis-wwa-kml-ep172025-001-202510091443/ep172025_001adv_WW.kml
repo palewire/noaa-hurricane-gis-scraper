@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://earth.google.com/kml/2.1'>
+<Document>
+<name>Tropical Depression Seventeen-E (Advisory #1) - Watch/Warnings</name>
+    <description>
+        <TABLE>
+            <TR><TD><B>Title:</B> Tropical Cyclone Watch/Warnings for EP172025 (Advisory #1)</TD></TR>
+            <TR><TD><B>Description:</B>The official watch/warning in KML format is an experimental product produced by the National Hurricane Center.  Coastal areas placed under tropical cyclone watches or warnings are delimited by specific geographical locations known as "breakpoints" (e.g., a hurricane warning is in effect from breakpoint "A" to breakpoint "B").  This file consists of one or more lines connecting the breakpoints delimiting any current watches or warnings. </TD></TR>
+            <TR><TD><B>Date Created:</B> 10-09-2025 - 14:42 UTC </TD></TR>
+            <TR><TD><B>Created:</B> National Hurricane Center </TD></TR>
+            <TR><TD><B>Disclaimer:</B>The official watch/warning in KML format is an experimental product.</TD></TR>
+            <TR><TD><B>For More Information: </B><a href="https://www.nhc.noaa.gov">https://www.nhc.noaa.gov</a></TD></TR>
+        </TABLE>
+    </description>
+        <Style id="TWR">
+                <LineStyle>
+                        <color>ffff0055</color>
+                        <width>3</width>
+                </LineStyle>
+                <PolyStyle>
+                        <color>ffff0055</color>
+                </PolyStyle>
+        </Style>
+        <Style id="TWA">
+                <LineStyle>
+                        <color>ff22e2f7</color>
+                        <width>3</width>
+                </LineStyle>
+                <PolyStyle>
+                        <color>ff22e2f7</color>
+                </PolyStyle>
+        </Style>
+        <Style id="HWA">
+                <LineStyle>
+                        <color>99ffaaff</color>
+                        <width>8</width>
+                </LineStyle>
+                <PolyStyle>
+                        <color>99ffaaff</color>
+                </PolyStyle>
+        </Style>
+        <Style id="HWR">
+                <LineStyle>
+                        <color>990000ff</color>
+                        <width>8</width>
+                </LineStyle>
+                <PolyStyle>
+                        <color>990000ff</color>
+                </PolyStyle>
+        </Style>
+    <Placemark>
+      <name>Tropical Storm Watch</name>
+        <styleUrl>#TWA</styleUrl>
+        <LineString>
+                <coordinates>
+-105.68,20.42,0 -105.14,19.57,0 -104.33,19.05,0 -103.45,18.31,0 -102.16,17.92,0 -101.55,17.64,0 
+                </coordinates>
+        </LineString>
+        <ExtendedData>
+            <Data name="timezone">
+                <value>CST</value>
+            </Data>
+            <Data name="stormType">
+                <value>TD</value>
+            </Data>
+            <Data name="advisoryDate">
+                <value>900 AM CST Thu Oct 09 2025</value>
+            </Data>
+            <Data name="basin">
+                <value>EP</value>
+            </Data>
+            <Data name="fcstpd">
+                <value>120</value>
+            </Data>
+            <Data name="storm">
+                <value>Tropical Depression Seventeen-E</value>
+            </Data>
+            <Data name="atcfid">
+                <value>EP172025</value>
+            </Data>
+            <Data name="advisoryNum">
+                <value>1</value>
+            </Data>
+            <Data name="stormNum">
+                <value>17</value>
+            </Data>
+            <Data name="stormName">
+                <value>Seventeen-E</value>
+            </Data>
+        </ExtendedData>
+    </Placemark>
+</Document>
+</kml>
