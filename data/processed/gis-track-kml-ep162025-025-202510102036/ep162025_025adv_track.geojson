@@ -1,0 +1,105 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -115.4,
+                        26.3,
+                        0.0
+                    ],
+                    [
+                        -115.6,
+                        26.8,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "26.3N, 115.4W",
+                "advisoryNum": "25",
+                "atcfid": "EP162025",
+                "basin": "ep",
+                "description": "<table> \n                        <tr><td><font color=black><b>Post-Tropical Cyclone Priscilla (EP162025)</b></font></td></tr> \n                        <tr><td>Advisory #25 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "40",
+                "maxGustMPH": "45",
+                "maxWindKnots": "30",
+                "maxWindMPH": "35",
+                "minimumPressure": "1004",
+                "pubAdvTime": "200 PM PDT Fri Oct 10 2025",
+                "storm": "Post-Tropical Cyclone Priscilla",
+                "stormMovement": "N",
+                "stormName": "Priscilla",
+                "stormNum": "16",
+                "stormType": "PTC",
+                "styleUrl": "#72_line",
+                "timezone": "PDT"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -115.4,
+                        26.3,
+                        0.0
+                    ],
+                    [
+                        -115.6,
+                        26.8,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "25",
+                "atcfid": "EP162025",
+                "basin": "ep",
+                "description": "<table> \n                        <tr><td><font color=black><b>Post-Tropical Cyclone Priscilla (EP162025)</b></font></td></tr> \n                        <tr><td>Advisory #25 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Post-Tropical Cyclone Priscilla",
+                "stormName": "Priscilla",
+                "stormNum": "16",
+                "stormType": "PTC",
+                "styleUrl": "#120_line",
+                "timezone": "PDT"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.4,
+                    26.3,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Post-Tropical Cyclone Priscilla (EP162025)</b></font></td></tr> \n                        <tr><td>Advisory #25</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 PM PDT October 10, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 26.3 N, -115.4 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 30 knots (35 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 40 knots (45 mph) </td></tr> \n                        <tr><td nowrap>Motion: N </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 1004 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.6,
+                    26.8,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Post-Tropical Cyclone Priscilla (EP162025)</b></font></td></tr> \n                        <tr><td>Advisory #25</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>12 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at: 11:00 PM PDT October 10, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 26.8 N, -115.6 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 25 knots (30 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 35 knots (40 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,130 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -30.2,
+                        47.5,
+                        0.0
+                    ],
+                    [
+                        -29.0,
+                        49.4,
+                        0.0
+                    ],
+                    [
+                        -27.1,
+                        53.5,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "47.5N, 30.2W",
+                "advisoryNum": "4",
+                "atcfid": "AL112025",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Post-Tropical Cyclone Karen (AL112025)</b></font></td></tr> \n                        <tr><td>Advisory #4 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "50",
+                "maxGustMPH": "60",
+                "maxWindKnots": "40",
+                "maxWindMPH": "45",
+                "minimumPressure": "1000",
+                "pubAdvTime": "900 PM GMT Fri Oct 10 2025",
+                "storm": "Post-Tropical Cyclone Karen",
+                "stormMovement": "NNE",
+                "stormName": "Karen",
+                "stormNum": "11",
+                "stormType": "PTC",
+                "styleUrl": "#72_line",
+                "timezone": "GMT"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -30.2,
+                        47.5,
+                        0.0
+                    ],
+                    [
+                        -29.0,
+                        49.4,
+                        0.0
+                    ],
+                    [
+                        -27.1,
+                        53.5,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "4",
+                "atcfid": "AL112025",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Post-Tropical Cyclone Karen (AL112025)</b></font></td></tr> \n                        <tr><td>Advisory #4 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Post-Tropical Cyclone Karen",
+                "stormName": "Karen",
+                "stormNum": "11",
+                "stormType": "PTC",
+                "styleUrl": "#120_line",
+                "timezone": "GMT"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -30.2,
+                    47.5,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Post-Tropical Cyclone Karen (AL112025)</b></font></td></tr> \n                        <tr><td>Advisory #4</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  9:00 PM GMT October 10, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 47.5 N, -30.2 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 40 knots (45 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 50 knots (60 mph) </td></tr> \n                        <tr><td nowrap>Motion: NNE </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 1000 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -29.0,
+                    49.4,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Post-Tropical Cyclone Karen (AL112025)</b></font></td></tr> \n                        <tr><td>Advisory #4</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>12 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  6:00 AM GMT October 11, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 49.4 N, -29.0 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 35 knots (40 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 45 knots (50 mph) </td></tr>",
+                "styleUrl": "#xs_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -27.1,
+                    53.5,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Post-Tropical Cyclone Karen (AL112025)</b></font></td></tr> \n                        <tr><td>Advisory #4</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>24 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  6:00 PM GMT October 11, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 53.5 N, -27.1 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 30 knots (35 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 40 knots (45 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1640,8 +1640,33 @@
             "type": "Feature"
         },
         {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -115.4,
+                        26.1
+                    ],
+                    [
+                        -115.4,
+                        26.3
+                    ],
+                    [
+                        -115.6,
+                        26.8
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "2581",
+            "properties": {
+                "model": "OFCL",
+                "warning_datetime": "2025-10-10 18:00:00"
+            },
+            "type": "Feature"
+        },
+        {
             "geometry": null,
-            "id": "2627",
+            "id": "2628",
             "properties": {
                 "model": "OFCI",
                 "warning_datetime": "2025-10-10 18:00:00"
@@ -1662,7 +1687,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "2643",
+            "id": "2644",
             "properties": {
                 "model": "CTC2",
                 "warning_datetime": "2025-10-10 18:00:00"

@@ -1,0 +1,55 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -63.6,
+                        21.5
+                    ],
+                    [
+                        -63.6,
+                        23.4
+                    ],
+                    [
+                        -63.2,
+                        25.9
+                    ],
+                    [
+                        -62.7,
+                        28.3
+                    ],
+                    [
+                        -62.0,
+                        30.3
+                    ],
+                    [
+                        -60.4,
+                        31.4
+                    ],
+                    [
+                        -58.0,
+                        31.4
+                    ],
+                    [
+                        -52.5,
+                        30.1
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "0",
+            "properties": {
+                "ADVDATE": "500 PM AST Fri Oct 10 2025",
+                "ADVISNUM": "14",
+                "BASIN": "AL",
+                "FCSTPRD": 120.0,
+                "STORMNAME": "Jerry",
+                "STORMNUM": 10.0,
+                "STORMTYPE": "TS"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
