@@ -1,0 +1,91 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -111.13,
+                        24.1
+                    ],
+                    [
+                        -110.22,
+                        23.44
+                    ],
+                    [
+                        -109.91,
+                        22.84
+                    ],
+                    [
+                        -109.7,
+                        23.04
+                    ],
+                    [
+                        -109.43,
+                        23.3
+                    ],
+                    [
+                        -109.69,
+                        23.68
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "0",
+            "properties": {
+                "ADVDATE": "300 AM CST Fri Oct 10 2025",
+                "ADVISNUM": "4",
+                "BASIN": "EP",
+                "FCSTPRD": 120.0,
+                "STORMNAME": "Raymond",
+                "STORMNUM": 17.0,
+                "STORMTYPE": "TS",
+                "TCWW": "TWA"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -105.68,
+                        20.42
+                    ],
+                    [
+                        -105.14,
+                        19.57
+                    ],
+                    [
+                        -104.33,
+                        19.05
+                    ],
+                    [
+                        -103.45,
+                        18.31
+                    ],
+                    [
+                        -102.16,
+                        17.92
+                    ],
+                    [
+                        -101.55,
+                        17.64
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "1",
+            "properties": {
+                "ADVDATE": "300 AM CST Fri Oct 10 2025",
+                "ADVISNUM": "4",
+                "BASIN": "EP",
+                "FCSTPRD": 120.0,
+                "STORMNAME": "Raymond",
+                "STORMNUM": 17.0,
+                "STORMTYPE": "TS",
+                "TCWW": "TWR"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
