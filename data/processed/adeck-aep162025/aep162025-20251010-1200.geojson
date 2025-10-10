@@ -1626,6 +1626,27 @@
                         25.7
                     ],
                     [
+                        -115.1,
+                        26.5
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "2419",
+            "properties": {
+                "model": "DRCL",
+                "warning_datetime": "2025-10-10 12:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -115.2,
+                        25.7
+                    ],
+                    [
                         -114.0,
                         25.4
                     ],
@@ -1648,7 +1669,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "2443",
+            "id": "2444",
             "properties": {
                 "model": "GEN2",
                 "warning_datetime": "2025-10-10 12:00:00"
@@ -1689,7 +1710,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "2455",
+            "id": "2456",
             "properties": {
                 "model": "UKX2",
                 "warning_datetime": "2025-10-10 12:00:00"
@@ -1718,9 +1739,34 @@
                 ],
                 "type": "LineString"
             },
-            "id": "2472",
+            "id": "2473",
             "properties": {
                 "model": "NGX2",
+                "warning_datetime": "2025-10-10 12:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -115.2,
+                        25.7
+                    ],
+                    [
+                        -115.2,
+                        25.9
+                    ],
+                    [
+                        -115.1,
+                        26.5
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "2503",
+            "properties": {
+                "model": "OFCL",
                 "warning_datetime": "2025-10-10 12:00:00"
             },
             "type": "Feature"
@@ -1739,7 +1785,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "2547",
+            "id": "2549",
             "properties": {
                 "model": "OFCI",
                 "warning_datetime": "2025-10-10 12:00:00"
@@ -1776,7 +1822,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "2558",
+            "id": "2560",
             "properties": {
                 "model": "EAI2",
                 "warning_datetime": "2025-10-10 12:00:00"

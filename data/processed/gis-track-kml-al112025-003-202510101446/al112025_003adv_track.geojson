@@ -1,0 +1,130 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -31.2,
+                        46.3,
+                        0.0
+                    ],
+                    [
+                        -29.8,
+                        47.9,
+                        0.0
+                    ],
+                    [
+                        -28.3,
+                        51.4,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "46.3N, 31.2W",
+                "advisoryNum": "3",
+                "atcfid": "AL112025",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Subtropical Storm Karen (AL112025)</b></font></td></tr> \n                        <tr><td>Advisory #3 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "50",
+                "maxGustMPH": "60",
+                "maxWindKnots": "40",
+                "maxWindMPH": "45",
+                "minimumPressure": "998",
+                "pubAdvTime": "300 PM GMT Fri Oct 10 2025",
+                "storm": "Subtropical Storm Karen",
+                "stormMovement": "NE",
+                "stormName": "Karen",
+                "stormNum": "11",
+                "stormType": "STS",
+                "styleUrl": "#72_line",
+                "timezone": "GMT"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -31.2,
+                        46.3,
+                        0.0
+                    ],
+                    [
+                        -29.8,
+                        47.9,
+                        0.0
+                    ],
+                    [
+                        -28.3,
+                        51.4,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "3",
+                "atcfid": "AL112025",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Subtropical Storm Karen (AL112025)</b></font></td></tr> \n                        <tr><td>Advisory #3 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Subtropical Storm Karen",
+                "stormName": "Karen",
+                "stormNum": "11",
+                "stormType": "STS",
+                "styleUrl": "#120_line",
+                "timezone": "GMT"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -31.2,
+                    46.3,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Subtropical Storm Karen (AL112025)</b></font></td></tr> \n                        <tr><td>Advisory #3</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  3:00 PM GMT October 10, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 46.3 N, -31.2 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 40 knots (45 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 50 knots (60 mph) </td></tr> \n                        <tr><td nowrap>Motion: NE </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 998 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -29.8,
+                    47.9,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Subtropical Storm Karen (AL112025)</b></font></td></tr> \n                        <tr><td>Advisory #3</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>12 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at: 12:00 AM GMT October 11, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 47.9 N, -29.8 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 35 knots (40 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 45 knots (50 mph) </td></tr>",
+                "styleUrl": "#xs_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -28.3,
+                    51.4,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Subtropical Storm Karen (AL112025)</b></font></td></tr> \n                        <tr><td>Advisory #3</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>24 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at: 12:00 PM GMT October 11, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 51.4 N, -28.3 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 35 knots (40 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 45 knots (50 mph) </td></tr>",
+                "styleUrl": "#xs_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,113 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -31.2,
+                    46.3
+                ],
+                "type": "Point"
+            },
+            "id": "0",
+            "properties": {
+                "ADVDATE": "300 PM GMT Fri Oct 10 2025",
+                "ADVISNUM": "3",
+                "BASIN": "AL",
+                "DATELBL": "3:00 PM Fri",
+                "DVLBL": "S",
+                "FCSTPRD": 120.0,
+                "FLDATELBL": "2025-10-10 12:00 PM Fri GMT",
+                "GUST": 50.0,
+                "LAT": 46.3,
+                "LON": -31.2,
+                "MAXWIND": 40.0,
+                "MSLP": 998.0,
+                "SSNUM": 0.0,
+                "STORMNAME": "Subtropical Storm Karen",
+                "STORMNUM": 11.0,
+                "STORMSRC": "Tropical Cyclone",
+                "STORMTYPE": "TS",
+                "TAU": 0.0,
+                "TCDIR": 35.0,
+                "TCDVLP": "Tropical Storm",
+                "TCSPD": 11.0,
+                "TIMEZONE": "GMT",
+                "VALIDTIME": "10/1200"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -29.8,
+                    47.9
+                ],
+                "type": "Point"
+            },
+            "id": "1",
+            "properties": {
+                "ADVDATE": "300 PM GMT Fri Oct 10 2025",
+                "ADVISNUM": "3",
+                "BASIN": "AL",
+                "DATELBL": "12:00 AM Sat",
+                "DVLBL": "S",
+                "FCSTPRD": 120.0,
+                "FLDATELBL": "2025-10-11 12:00 AM Sat GMT",
+                "GUST": 45.0,
+                "LAT": 47.9,
+                "LON": -29.8,
+                "MAXWIND": 35.0,
+                "MSLP": 9999.0,
+                "SSNUM": 0.0,
+                "STORMNAME": "Subtropical Storm Karen",
+                "STORMNUM": 11.0,
+                "STORMSRC": "Post-Tropical Cyclone",
+                "STORMTYPE": "STS",
+                "TAU": 12.0,
+                "TCDIR": 9999.0,
+                "TCDVLP": "Subtropical Storm",
+                "TCSPD": 9999.0,
+                "TIMEZONE": "GMT",
+                "VALIDTIME": "11/0000"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -28.3,
+                    51.4
+                ],
+                "type": "Point"
+            },
+            "id": "2",
+            "properties": {
+                "ADVDATE": "300 PM GMT Fri Oct 10 2025",
+                "ADVISNUM": "3",
+                "BASIN": "AL",
+                "DATELBL": "12:00 PM Sat",
+                "DVLBL": "S",
+                "FCSTPRD": 120.0,
+                "FLDATELBL": "2025-10-11 12:00 PM Sat GMT",
+                "GUST": 45.0,
+                "LAT": 51.4,
+                "LON": -28.3,
+                "MAXWIND": 35.0,
+                "MSLP": 9999.0,
+                "SSNUM": 0.0,
+                "STORMNAME": "Subtropical Storm Karen",
+                "STORMNUM": 11.0,
+                "STORMSRC": "Post-Tropical Cyclone",
+                "STORMTYPE": "STS",
+                "TAU": 24.0,
+                "TCDIR": 9999.0,
+                "TCDVLP": "Subtropical Storm",
+                "TCSPD": 9999.0,
+                "TIMEZONE": "GMT",
+                "VALIDTIME": "11/1200"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
