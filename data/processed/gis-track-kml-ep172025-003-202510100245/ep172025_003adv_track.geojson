@@ -1,0 +1,205 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -102.6,
+                        16.7,
+                        0.0
+                    ],
+                    [
+                        -104.6,
+                        17.8,
+                        0.0
+                    ],
+                    [
+                        -107.3,
+                        19.5,
+                        0.0
+                    ],
+                    [
+                        -109.4,
+                        21.2,
+                        0.0
+                    ],
+                    [
+                        -110.5,
+                        23.2,
+                        0.0
+                    ],
+                    [
+                        -110.7,
+                        25.4,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "16.7N, 102.6W",
+                "advisoryNum": "3",
+                "atcfid": "EP172025",
+                "basin": "ep",
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Raymond (EP172025)</b></font></td></tr> \n                        <tr><td>Advisory #3 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "50",
+                "maxGustMPH": "60",
+                "maxWindKnots": "40",
+                "maxWindMPH": "45",
+                "minimumPressure": "1002",
+                "pubAdvTime": "900 PM CST Thu Oct 09 2025",
+                "storm": "Tropical Storm Raymond",
+                "stormMovement": "WNW",
+                "stormName": "Raymond",
+                "stormNum": "17",
+                "stormType": "TS",
+                "styleUrl": "#72_line",
+                "timezone": "CST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -102.6,
+                        16.7,
+                        0.0
+                    ],
+                    [
+                        -104.6,
+                        17.8,
+                        0.0
+                    ],
+                    [
+                        -107.3,
+                        19.5,
+                        0.0
+                    ],
+                    [
+                        -109.4,
+                        21.2,
+                        0.0
+                    ],
+                    [
+                        -110.5,
+                        23.2,
+                        0.0
+                    ],
+                    [
+                        -110.7,
+                        25.4,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "3",
+                "atcfid": "EP172025",
+                "basin": "ep",
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Raymond (EP172025)</b></font></td></tr> \n                        <tr><td>Advisory #3 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Tropical Storm Raymond",
+                "stormName": "Raymond",
+                "stormNum": "17",
+                "stormType": "TS",
+                "styleUrl": "#120_line",
+                "timezone": "CST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -102.6,
+                    16.7,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Raymond (EP172025)</b></font></td></tr> \n                        <tr><td>Advisory #3</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  9:00 PM CST October 09, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 16.7 N, -102.6 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 40 knots (45 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 50 knots (60 mph) </td></tr> \n                        <tr><td nowrap>Motion: WNW </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 1002 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -104.6,
+                    17.8,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Raymond (EP172025)</b></font></td></tr> \n                        <tr><td>Advisory #3</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>12 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  6:00 AM CST October 10, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 17.8 N, -104.6 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 45 knots (50 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 55 knots (65 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -107.3,
+                    19.5,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Raymond (EP172025)</b></font></td></tr> \n                        <tr><td>Advisory #3</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>24 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  6:00 PM CST October 10, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 19.5 N, -107.3 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 45 knots (50 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 55 knots (65 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -109.4,
+                    21.2,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Raymond (EP172025)</b></font></td></tr> \n                        <tr><td>Advisory #3</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>36 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  6:00 AM CST October 11, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 21.2 N, -109.4 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 40 knots (45 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 50 knots (60 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -110.5,
+                    23.2,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Raymond (EP172025)</b></font></td></tr> \n                        <tr><td>Advisory #3</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>48 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  6:00 PM CST October 11, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 23.2 N, -110.5 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 30 knots (35 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 40 knots (45 mph) </td></tr>",
+                "styleUrl": "#d_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -110.7,
+                    25.4,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Raymond (EP172025)</b></font></td></tr> \n                        <tr><td>Advisory #3</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>60 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  6:00 AM CST October 12, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 25.4 N, -110.7 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 25 knots (30 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 35 knots (40 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

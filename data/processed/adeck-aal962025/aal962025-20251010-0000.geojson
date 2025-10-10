@@ -1619,6 +1619,35 @@
                 "warning_datetime": "2025-10-10"
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -33.4,
+                        44.4
+                    ],
+                    [
+                        -31.7,
+                        45.6
+                    ],
+                    [
+                        -29.5,
+                        47.8
+                    ],
+                    [
+                        -28.0,
+                        50.6
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "295",
+            "properties": {
+                "model": "DRCL",
+                "warning_datetime": "2025-10-10"
+            },
+            "type": "Feature"
         }
     ],
     "type": "FeatureCollection"
