@@ -1,0 +1,339 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://earth.google.com/kml/2.1'>
+<Document>
+<name>Tropical Storm Jerry (Advisory #11A) - Watch/Warnings</name>
+    <description>
+        <TABLE>
+            <TR><TD><B>Title:</B> Tropical Cyclone Watch/Warnings for AL102025 (Advisory #11A)</TD></TR>
+            <TR><TD><B>Description:</B>The official watch/warning in KML format is an experimental product produced by the National Hurricane Center.  Coastal areas placed under tropical cyclone watches or warnings are delimited by specific geographical locations known as "breakpoints" (e.g., a hurricane warning is in effect from breakpoint "A" to breakpoint "B").  This file consists of one or more lines connecting the breakpoints delimiting any current watches or warnings. </TD></TR>
+            <TR><TD><B>Date Created:</B> 10-10-2025 - 05:51 UTC </TD></TR>
+            <TR><TD><B>Created:</B> National Hurricane Center </TD></TR>
+            <TR><TD><B>Disclaimer:</B>The official watch/warning in KML format is an experimental product.</TD></TR>
+            <TR><TD><B>For More Information: </B><a href="https://www.nhc.noaa.gov">https://www.nhc.noaa.gov</a></TD></TR>
+        </TABLE>
+    </description>
+        <Style id="TWR">
+                <LineStyle>
+                        <color>ffff0055</color>
+                        <width>3</width>
+                </LineStyle>
+                <PolyStyle>
+                        <color>ffff0055</color>
+                </PolyStyle>
+        </Style>
+        <Style id="TWA">
+                <LineStyle>
+                        <color>ff22e2f7</color>
+                        <width>3</width>
+                </LineStyle>
+                <PolyStyle>
+                        <color>ff22e2f7</color>
+                </PolyStyle>
+        </Style>
+        <Style id="HWA">
+                <LineStyle>
+                        <color>99ffaaff</color>
+                        <width>8</width>
+                </LineStyle>
+                <PolyStyle>
+                        <color>99ffaaff</color>
+                </PolyStyle>
+        </Style>
+        <Style id="HWR">
+                <LineStyle>
+                        <color>990000ff</color>
+                        <width>8</width>
+                </LineStyle>
+                <PolyStyle>
+                        <color>990000ff</color>
+                </PolyStyle>
+        </Style>
+    <Placemark>
+      <name>Tropical Storm Watch</name>
+        <styleUrl>#TWA</styleUrl>
+        <LineString>
+                <coordinates>
+-61.88,17.18,0 -61.69,16.97,0 
+                </coordinates>
+        </LineString>
+        <ExtendedData>
+            <Data name="timezone">
+                <value>AST</value>
+            </Data>
+            <Data name="stormType">
+                <value>TS</value>
+            </Data>
+            <Data name="advisoryDate">
+                <value>200 AM AST Fri Oct 10 2025</value>
+            </Data>
+            <Data name="basin">
+                <value>AL</value>
+            </Data>
+            <Data name="fcstpd">
+                <value>120</value>
+            </Data>
+            <Data name="storm">
+                <value>Tropical Storm Jerry</value>
+            </Data>
+            <Data name="atcfid">
+                <value>AL102025</value>
+            </Data>
+            <Data name="advisoryNum">
+                <value>11A</value>
+            </Data>
+            <Data name="stormNum">
+                <value>10</value>
+            </Data>
+            <Data name="stormName">
+                <value>Jerry</value>
+            </Data>
+        </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Tropical Storm Watch</name>
+        <styleUrl>#TWA</styleUrl>
+        <LineString>
+                <coordinates>
+-62.94,17.47,0 -63.27,17.65,0 
+                </coordinates>
+        </LineString>
+        <ExtendedData>
+            <Data name="timezone">
+                <value>AST</value>
+            </Data>
+            <Data name="stormType">
+                <value>TS</value>
+            </Data>
+            <Data name="advisoryDate">
+                <value>200 AM AST Fri Oct 10 2025</value>
+            </Data>
+            <Data name="basin">
+                <value>AL</value>
+            </Data>
+            <Data name="fcstpd">
+                <value>120</value>
+            </Data>
+            <Data name="storm">
+                <value>Tropical Storm Jerry</value>
+            </Data>
+            <Data name="atcfid">
+                <value>AL102025</value>
+            </Data>
+            <Data name="advisoryNum">
+                <value>11A</value>
+            </Data>
+            <Data name="stormNum">
+                <value>10</value>
+            </Data>
+            <Data name="stormName">
+                <value>Jerry</value>
+            </Data>
+        </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Tropical Storm Watch</name>
+        <styleUrl>#TWA</styleUrl>
+        <LineString>
+                <coordinates>
+-62.87,17.42,0 -62.12,16.68,0 
+                </coordinates>
+        </LineString>
+        <ExtendedData>
+            <Data name="timezone">
+                <value>AST</value>
+            </Data>
+            <Data name="stormType">
+                <value>TS</value>
+            </Data>
+            <Data name="advisoryDate">
+                <value>200 AM AST Fri Oct 10 2025</value>
+            </Data>
+            <Data name="basin">
+                <value>AL</value>
+            </Data>
+            <Data name="fcstpd">
+                <value>120</value>
+            </Data>
+            <Data name="storm">
+                <value>Tropical Storm Jerry</value>
+            </Data>
+            <Data name="atcfid">
+                <value>AL102025</value>
+            </Data>
+            <Data name="advisoryNum">
+                <value>11A</value>
+            </Data>
+            <Data name="stormNum">
+                <value>10</value>
+            </Data>
+            <Data name="stormName">
+                <value>Jerry</value>
+            </Data>
+        </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Tropical Storm Warning</name>
+        <styleUrl>#TWR</styleUrl>
+        <LineString>
+                <coordinates>
+-61.92,17.74,0 -61.71,17.52,0 
+                </coordinates>
+        </LineString>
+        <ExtendedData>
+            <Data name="timezone">
+                <value>AST</value>
+            </Data>
+            <Data name="stormType">
+                <value>TS</value>
+            </Data>
+            <Data name="advisoryDate">
+                <value>200 AM AST Fri Oct 10 2025</value>
+            </Data>
+            <Data name="basin">
+                <value>AL</value>
+            </Data>
+            <Data name="fcstpd">
+                <value>120</value>
+            </Data>
+            <Data name="storm">
+                <value>Tropical Storm Jerry</value>
+            </Data>
+            <Data name="atcfid">
+                <value>AL102025</value>
+            </Data>
+            <Data name="advisoryNum">
+                <value>11A</value>
+            </Data>
+            <Data name="stormNum">
+                <value>10</value>
+            </Data>
+            <Data name="stormName">
+                <value>Jerry</value>
+            </Data>
+        </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Tropical Storm Warning</name>
+        <styleUrl>#TWR</styleUrl>
+        <LineString>
+                <coordinates>
+-61.7,16.55,0 -61.34,15.78,0 
+                </coordinates>
+        </LineString>
+        <ExtendedData>
+            <Data name="timezone">
+                <value>AST</value>
+            </Data>
+            <Data name="stormType">
+                <value>TS</value>
+            </Data>
+            <Data name="advisoryDate">
+                <value>200 AM AST Fri Oct 10 2025</value>
+            </Data>
+            <Data name="basin">
+                <value>AL</value>
+            </Data>
+            <Data name="fcstpd">
+                <value>120</value>
+            </Data>
+            <Data name="storm">
+                <value>Tropical Storm Jerry</value>
+            </Data>
+            <Data name="atcfid">
+                <value>AL102025</value>
+            </Data>
+            <Data name="advisoryNum">
+                <value>11A</value>
+            </Data>
+            <Data name="stormNum">
+                <value>10</value>
+            </Data>
+            <Data name="stormName">
+                <value>Jerry</value>
+            </Data>
+        </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Tropical Storm Warning</name>
+        <styleUrl>#TWR</styleUrl>
+        <LineString>
+                <coordinates>
+-63.12,18.12,0 -62.8,17.87,0 
+                </coordinates>
+        </LineString>
+        <ExtendedData>
+            <Data name="timezone">
+                <value>AST</value>
+            </Data>
+            <Data name="stormType">
+                <value>TS</value>
+            </Data>
+            <Data name="advisoryDate">
+                <value>200 AM AST Fri Oct 10 2025</value>
+            </Data>
+            <Data name="basin">
+                <value>AL</value>
+            </Data>
+            <Data name="fcstpd">
+                <value>120</value>
+            </Data>
+            <Data name="storm">
+                <value>Tropical Storm Jerry</value>
+            </Data>
+            <Data name="atcfid">
+                <value>AL102025</value>
+            </Data>
+            <Data name="advisoryNum">
+                <value>11A</value>
+            </Data>
+            <Data name="stormNum">
+                <value>10</value>
+            </Data>
+            <Data name="stormName">
+                <value>Jerry</value>
+            </Data>
+        </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Tropical Storm Warning</name>
+        <styleUrl>#TWR</styleUrl>
+        <LineString>
+                <coordinates>
+-63.19,18.15,0 -62.9,18.29,0 
+                </coordinates>
+        </LineString>
+        <ExtendedData>
+            <Data name="timezone">
+                <value>AST</value>
+            </Data>
+            <Data name="stormType">
+                <value>TS</value>
+            </Data>
+            <Data name="advisoryDate">
+                <value>200 AM AST Fri Oct 10 2025</value>
+            </Data>
+            <Data name="basin">
+                <value>AL</value>
+            </Data>
+            <Data name="fcstpd">
+                <value>120</value>
+            </Data>
+            <Data name="storm">
+                <value>Tropical Storm Jerry</value>
+            </Data>
+            <Data name="atcfid">
+                <value>AL102025</value>
+            </Data>
+            <Data name="advisoryNum">
+                <value>11A</value>
+            </Data>
+            <Data name="stormNum">
+                <value>10</value>
+            </Data>
+            <Data name="stormName">
+                <value>Jerry</value>
+            </Data>
+        </ExtendedData>
+    </Placemark>
+</Document>
+</kml>
