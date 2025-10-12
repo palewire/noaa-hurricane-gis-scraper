@@ -1363,6 +1363,27 @@
                         22.5
                     ],
                     [
+                        -110.6,
+                        25.3
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "1229",
+            "properties": {
+                "model": "DRCL",
+                "warning_datetime": "2025-10-12"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -110.0,
+                        22.5
+                    ],
+                    [
                         -111.0,
                         25.4
                     ],
@@ -1377,7 +1398,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "1266",
+            "id": "1267",
             "properties": {
                 "model": "HMNI",
                 "warning_datetime": "2025-10-12"
@@ -1406,7 +1427,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "1279",
+            "id": "1280",
             "properties": {
                 "model": "HWFI",
                 "warning_datetime": "2025-10-12"
@@ -1427,7 +1448,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "1292",
+            "id": "1293",
             "properties": {
                 "model": "ICON",
                 "warning_datetime": "2025-10-12"
@@ -1435,8 +1456,33 @@
             "type": "Feature"
         },
         {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -110.0,
+                        22.5
+                    ],
+                    [
+                        -110.0,
+                        22.9
+                    ],
+                    [
+                        -110.6,
+                        25.3
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "1309",
+            "properties": {
+                "model": "OFCL",
+                "warning_datetime": "2025-10-12"
+            },
+            "type": "Feature"
+        },
+        {
             "geometry": null,
-            "id": "1323",
+            "id": "1325",
             "properties": {
                 "model": "OFCI",
                 "warning_datetime": "2025-10-12"
