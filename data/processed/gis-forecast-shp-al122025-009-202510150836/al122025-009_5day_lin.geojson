@@ -1,0 +1,35 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -45.1,
+                        20.5
+                    ],
+                    [
+                        -43.3,
+                        22.9
+                    ],
+                    [
+                        -40.4,
+                        25.7
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "0",
+            "properties": {
+                "ADVDATE": "500 AM AST Wed Oct 15 2025",
+                "ADVISNUM": "9",
+                "BASIN": "AL",
+                "FCSTPRD": 120.0,
+                "STORMNAME": "Lorenzo",
+                "STORMNUM": 12.0,
+                "STORMTYPE": "TS"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
