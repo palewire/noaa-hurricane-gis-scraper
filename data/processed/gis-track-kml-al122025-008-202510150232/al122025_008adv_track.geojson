@@ -1,0 +1,155 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -45.6,
+                        19.6,
+                        0.0
+                    ],
+                    [
+                        -44.9,
+                        21.3,
+                        0.0
+                    ],
+                    [
+                        -42.6,
+                        24.0,
+                        0.0
+                    ],
+                    [
+                        -38.9,
+                        26.9,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "19.6N, 45.6W",
+                "advisoryNum": "8",
+                "atcfid": "AL122025",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Lorenzo (AL122025)</b></font></td></tr> \n                        <tr><td>Advisory #8 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "45",
+                "maxGustMPH": "50",
+                "maxWindKnots": "35",
+                "maxWindMPH": "40",
+                "minimumPressure": "1005",
+                "pubAdvTime": "1100 PM AST Tue Oct 14 2025",
+                "storm": "Tropical Storm Lorenzo",
+                "stormMovement": "NNW",
+                "stormName": "Lorenzo",
+                "stormNum": "12",
+                "stormType": "TS",
+                "styleUrl": "#72_line",
+                "timezone": "AST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -45.6,
+                        19.6,
+                        0.0
+                    ],
+                    [
+                        -44.9,
+                        21.3,
+                        0.0
+                    ],
+                    [
+                        -42.6,
+                        24.0,
+                        0.0
+                    ],
+                    [
+                        -38.9,
+                        26.9,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "8",
+                "atcfid": "AL122025",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Lorenzo (AL122025)</b></font></td></tr> \n                        <tr><td>Advisory #8 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Tropical Storm Lorenzo",
+                "stormName": "Lorenzo",
+                "stormNum": "12",
+                "stormType": "TS",
+                "styleUrl": "#120_line",
+                "timezone": "AST"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -45.6,
+                    19.6,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Lorenzo (AL122025)</b></font></td></tr> \n                        <tr><td>Advisory #8</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at: 11:00 PM AST October 14, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 19.6 N, -45.6 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 35 knots (40 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 45 knots (50 mph) </td></tr> \n                        <tr><td nowrap>Motion: NNW </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 1005 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -44.9,
+                    21.3,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Lorenzo (AL122025)</b></font></td></tr> \n                        <tr><td>Advisory #8</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>12 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 AM AST October 15, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 21.3 N, -44.9 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 35 knots (40 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 45 knots (50 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -42.6,
+                    24.0,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Lorenzo (AL122025)</b></font></td></tr> \n                        <tr><td>Advisory #8</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>24 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 PM AST October 15, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 24.0 N, -42.6 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 35 knots (40 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 45 knots (50 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -38.9,
+                    26.9,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Lorenzo (AL122025)</b></font></td></tr> \n                        <tr><td>Advisory #8</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>36 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 AM AST October 16, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 26.9 N, -38.9 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 35 knots (40 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 45 knots (50 mph) </td></tr>",
+                "styleUrl": "#s_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
