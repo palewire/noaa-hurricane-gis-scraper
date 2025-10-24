@@ -2251,7 +2251,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "357",
+            "id": "358",
             "properties": {
                 "model": "HCCA",
                 "warning_datetime": "2025-10-24 12:00:00"
@@ -2312,7 +2312,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "361",
+            "id": "362",
             "properties": {
                 "model": "ICON",
                 "warning_datetime": "2025-10-24 12:00:00"
@@ -2385,7 +2385,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "365",
+            "id": "366",
             "properties": {
                 "model": "CEM2",
                 "warning_datetime": "2025-10-24 12:00:00"
@@ -2458,7 +2458,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "367",
+            "id": "368",
             "properties": {
                 "model": "CMC2",
                 "warning_datetime": "2025-10-24 12:00:00"
@@ -2531,7 +2531,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "370",
+            "id": "371",
             "properties": {
                 "model": "NGX2",
                 "warning_datetime": "2025-10-24 12:00:00"
@@ -2596,7 +2596,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "372",
+            "id": "373",
             "properties": {
                 "model": "UKX2",
                 "warning_datetime": "2025-10-24 12:00:00"
@@ -2649,9 +2649,58 @@
                 ],
                 "type": "LineString"
             },
-            "id": "374",
+            "id": "375",
             "properties": {
                 "model": "GEN2",
+                "warning_datetime": "2025-10-24 12:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -114.3,
+                        13.2
+                    ],
+                    [
+                        -115.7,
+                        13.5
+                    ],
+                    [
+                        -117.0,
+                        13.9
+                    ],
+                    [
+                        -118.2,
+                        14.1
+                    ],
+                    [
+                        -119.0,
+                        14.3
+                    ],
+                    [
+                        -119.8,
+                        14.5
+                    ],
+                    [
+                        -120.6,
+                        14.9
+                    ],
+                    [
+                        -121.4,
+                        15.2
+                    ],
+                    [
+                        -122.3,
+                        15.6
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "377",
+            "properties": {
+                "model": "GENI",
                 "warning_datetime": "2025-10-24 12:00:00"
             },
             "type": "Feature"
