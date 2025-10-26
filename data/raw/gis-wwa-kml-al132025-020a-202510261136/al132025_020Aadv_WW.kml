@@ -1,0 +1,298 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://earth.google.com/kml/2.1'>
+<Document>
+<name>Hurricane Melissa (Advisory #20A) - Watch/Warnings</name>
+    <description>
+        <TABLE>
+            <TR><TD><B>Title:</B> Tropical Cyclone Watch/Warnings for AL132025 (Advisory #20A)</TD></TR>
+            <TR><TD><B>Description:</B>The official watch/warning in KML format is an experimental product produced by the National Hurricane Center.  Coastal areas placed under tropical cyclone watches or warnings are delimited by specific geographical locations known as "breakpoints" (e.g., a hurricane warning is in effect from breakpoint "A" to breakpoint "B").  This file consists of one or more lines connecting the breakpoints delimiting any current watches or warnings. </TD></TR>
+            <TR><TD><B>Date Created:</B> 10-26-2025 - 11:35 UTC </TD></TR>
+            <TR><TD><B>Created:</B> National Hurricane Center </TD></TR>
+            <TR><TD><B>Disclaimer:</B>The official watch/warning in KML format is an experimental product.</TD></TR>
+            <TR><TD><B>For More Information: </B><a href="https://www.nhc.noaa.gov">https://www.nhc.noaa.gov</a></TD></TR>
+        </TABLE>
+    </description>
+        <Style id="TWR">
+                <LineStyle>
+                        <color>ffff0055</color>
+                        <width>3</width>
+                </LineStyle>
+                <PolyStyle>
+                        <color>ffff0055</color>
+                </PolyStyle>
+        </Style>
+        <Style id="TWA">
+                <LineStyle>
+                        <color>ff22e2f7</color>
+                        <width>3</width>
+                </LineStyle>
+                <PolyStyle>
+                        <color>ff22e2f7</color>
+                </PolyStyle>
+        </Style>
+        <Style id="HWA">
+                <LineStyle>
+                        <color>99ffaaff</color>
+                        <width>8</width>
+                </LineStyle>
+                <PolyStyle>
+                        <color>99ffaaff</color>
+                </PolyStyle>
+        </Style>
+        <Style id="HWR">
+                <LineStyle>
+                        <color>990000ff</color>
+                        <width>8</width>
+                </LineStyle>
+                <PolyStyle>
+                        <color>990000ff</color>
+                </PolyStyle>
+        </Style>
+    <Placemark>
+      <name>Hurricane Watch</name>
+        <styleUrl>#HWA</styleUrl>
+        <LineString>
+                <coordinates>
+-76.3,21.23,0 -74.74,20.56,0 -74.14,20.21,0 -75.37,19.91,0 -77.04,19.89,0 -77.73,19.84,0 -77.23,20.65,0 
+                </coordinates>
+        </LineString>
+        <ExtendedData>
+            <Data name="timezone">
+                <value>EDT</value>
+            </Data>
+            <Data name="stormType">
+                <value>HU</value>
+            </Data>
+            <Data name="advisoryDate">
+                <value>800 AM EDT Sun Oct 26 2025</value>
+            </Data>
+            <Data name="basin">
+                <value>AL</value>
+            </Data>
+            <Data name="fcstpd">
+                <value>120</value>
+            </Data>
+            <Data name="storm">
+                <value>Hurricane Melissa</value>
+            </Data>
+            <Data name="atcfid">
+                <value>AL132025</value>
+            </Data>
+            <Data name="advisoryNum">
+                <value>20A</value>
+            </Data>
+            <Data name="stormNum">
+                <value>13</value>
+            </Data>
+            <Data name="stormName">
+                <value>Melissa</value>
+            </Data>
+        </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Hurricane Watch</name>
+        <styleUrl>#HWA</styleUrl>
+        <LineString>
+                <coordinates>
+-71.7,18.0,0 -72.07,18.23,0 -73.7,18.23,0 -73.84,18.12,0 -73.79,18.04,0 -73.89,18.03,0 -74.22,18.3,0 -74.4,18.32,0 -74.48,18.5,0 -72.33,18.55,0 
+                </coordinates>
+        </LineString>
+        <ExtendedData>
+            <Data name="timezone">
+                <value>EDT</value>
+            </Data>
+            <Data name="stormType">
+                <value>HU</value>
+            </Data>
+            <Data name="advisoryDate">
+                <value>800 AM EDT Sun Oct 26 2025</value>
+            </Data>
+            <Data name="basin">
+                <value>AL</value>
+            </Data>
+            <Data name="fcstpd">
+                <value>120</value>
+            </Data>
+            <Data name="storm">
+                <value>Hurricane Melissa</value>
+            </Data>
+            <Data name="atcfid">
+                <value>AL132025</value>
+            </Data>
+            <Data name="advisoryNum">
+                <value>20A</value>
+            </Data>
+            <Data name="stormNum">
+                <value>13</value>
+            </Data>
+            <Data name="stormName">
+                <value>Melissa</value>
+            </Data>
+        </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Tropical Storm Warning</name>
+        <styleUrl>#TWR</styleUrl>
+        <LineString>
+                <coordinates>
+-71.7,18.0,0 -72.07,18.23,0 -73.7,18.23,0 -73.84,18.12,0 -73.79,18.04,0 -73.89,18.03,0 -74.22,18.3,0 -74.4,18.32,0 -74.48,18.5,0 -72.33,18.55,0 
+                </coordinates>
+        </LineString>
+        <ExtendedData>
+            <Data name="timezone">
+                <value>EDT</value>
+            </Data>
+            <Data name="stormType">
+                <value>HU</value>
+            </Data>
+            <Data name="advisoryDate">
+                <value>800 AM EDT Sun Oct 26 2025</value>
+            </Data>
+            <Data name="basin">
+                <value>AL</value>
+            </Data>
+            <Data name="fcstpd">
+                <value>120</value>
+            </Data>
+            <Data name="storm">
+                <value>Hurricane Melissa</value>
+            </Data>
+            <Data name="atcfid">
+                <value>AL132025</value>
+            </Data>
+            <Data name="advisoryNum">
+                <value>20A</value>
+            </Data>
+            <Data name="stormNum">
+                <value>13</value>
+            </Data>
+            <Data name="stormName">
+                <value>Melissa</value>
+            </Data>
+        </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Hurricane Warning</name>
+        <styleUrl>#HWR</styleUrl>
+        <LineString>
+                <coordinates>
+-78.37,18.27,0 -78.23,18.2,0 -78.07,18.22,0 -77.95,18.04,0 -77.84,18.02,0 -77.84,17.95,0 -77.74,17.86,0 -77.41,17.86,0 -77.18,17.71,0 -77.12,17.73,0 -77.17,17.8,0 -77.12,17.9,0 -76.94,17.83,0 -76.84,17.97,0 -76.6,17.87,0 -76.34,17.87,0 -76.18,17.92,0 -76.34,18.16,0 -76.78,18.29,0 -76.89,18.41,0 -77.13,18.42,0 -77.31,18.48,0 -77.66,18.5,0 -77.85,18.53,0 -77.94,18.47,0 -78.22,18.45,0 -78.34,18.37,0 -78.37,18.27,0 
+                </coordinates>
+        </LineString>
+        <ExtendedData>
+            <Data name="timezone">
+                <value>EDT</value>
+            </Data>
+            <Data name="stormType">
+                <value>HU</value>
+            </Data>
+            <Data name="advisoryDate">
+                <value>800 AM EDT Sun Oct 26 2025</value>
+            </Data>
+            <Data name="basin">
+                <value>AL</value>
+            </Data>
+            <Data name="fcstpd">
+                <value>120</value>
+            </Data>
+            <Data name="storm">
+                <value>Hurricane Melissa</value>
+            </Data>
+            <Data name="atcfid">
+                <value>AL132025</value>
+            </Data>
+            <Data name="advisoryNum">
+                <value>20A</value>
+            </Data>
+            <Data name="stormNum">
+                <value>13</value>
+            </Data>
+            <Data name="stormName">
+                <value>Melissa</value>
+            </Data>
+        </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Hurricane Warning</name>
+        <styleUrl>#HWR</styleUrl>
+        <LineString>
+                <coordinates>
+-78.37,18.27,0 -78.33,18.37,0 -78.21,18.46,0 -77.96,18.45,0 -77.88,18.52,0 -77.67,18.49,0 -77.28,18.47,0 -76.97,18.41,0 -76.89,18.41,0 -76.9,18.38,0 -76.78,18.29,0 -76.37,18.18,0 -76.19,17.92,0 
+                </coordinates>
+        </LineString>
+        <ExtendedData>
+            <Data name="timezone">
+                <value>EDT</value>
+            </Data>
+            <Data name="stormType">
+                <value>HU</value>
+            </Data>
+            <Data name="advisoryDate">
+                <value>800 AM EDT Sun Oct 26 2025</value>
+            </Data>
+            <Data name="basin">
+                <value>AL</value>
+            </Data>
+            <Data name="fcstpd">
+                <value>120</value>
+            </Data>
+            <Data name="storm">
+                <value>Hurricane Melissa</value>
+            </Data>
+            <Data name="atcfid">
+                <value>AL132025</value>
+            </Data>
+            <Data name="advisoryNum">
+                <value>20A</value>
+            </Data>
+            <Data name="stormNum">
+                <value>13</value>
+            </Data>
+            <Data name="stormName">
+                <value>Melissa</value>
+            </Data>
+        </ExtendedData>
+    </Placemark>
+    <Placemark>
+      <name>Hurricane Warning</name>
+        <styleUrl>#HWR</styleUrl>
+        <LineString>
+                <coordinates>
+-77.2,17.7,0 
+                </coordinates>
+        </LineString>
+        <ExtendedData>
+            <Data name="timezone">
+                <value>EDT</value>
+            </Data>
+            <Data name="stormType">
+                <value>HU</value>
+            </Data>
+            <Data name="advisoryDate">
+                <value>800 AM EDT Sun Oct 26 2025</value>
+            </Data>
+            <Data name="basin">
+                <value>AL</value>
+            </Data>
+            <Data name="fcstpd">
+                <value>120</value>
+            </Data>
+            <Data name="storm">
+                <value>Hurricane Melissa</value>
+            </Data>
+            <Data name="atcfid">
+                <value>AL132025</value>
+            </Data>
+            <Data name="advisoryNum">
+                <value>20A</value>
+            </Data>
+            <Data name="stormNum">
+                <value>13</value>
+            </Data>
+            <Data name="stormName">
+                <value>Melissa</value>
+            </Data>
+        </ExtendedData>
+    </Placemark>
+</Document>
+</kml>
