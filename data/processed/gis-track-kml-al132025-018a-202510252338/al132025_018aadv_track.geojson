@@ -1,0 +1,270 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -75.6,
+                        16.5,
+                        0.0
+                    ],
+                    [
+                        -75.9,
+                        16.7,
+                        0.0
+                    ],
+                    [
+                        -76.5,
+                        16.7,
+                        0.0
+                    ],
+                    [
+                        -77.2,
+                        16.7,
+                        0.0
+                    ],
+                    [
+                        -77.6,
+                        16.9,
+                        0.0
+                    ],
+                    [
+                        -77.4,
+                        17.6,
+                        0.0
+                    ],
+                    [
+                        -76.7,
+                        18.8,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "16.5N, 75.6W",
+                "advisoryNum": "18A",
+                "atcfid": "AL132025",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Melissa (AL132025)</b></font></td></tr> \n                        <tr><td>Advisory #18A </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "90",
+                "maxGustMPH": "105",
+                "maxWindKnots": "80",
+                "maxWindMPH": "100",
+                "minimumPressure": "971",
+                "pubAdvTime": "800 PM EDT Sat Oct 25 2025",
+                "storm": "Hurricane Melissa",
+                "stormMovement": "W",
+                "stormName": "Melissa",
+                "stormNum": "13",
+                "stormType": "HU",
+                "styleUrl": "#72_line",
+                "timezone": "EDT"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -75.6,
+                        16.5,
+                        0.0
+                    ],
+                    [
+                        -75.9,
+                        16.7,
+                        0.0
+                    ],
+                    [
+                        -76.5,
+                        16.7,
+                        0.0
+                    ],
+                    [
+                        -77.2,
+                        16.7,
+                        0.0
+                    ],
+                    [
+                        -77.6,
+                        16.9,
+                        0.0
+                    ],
+                    [
+                        -77.4,
+                        17.6,
+                        0.0
+                    ],
+                    [
+                        -76.7,
+                        18.8,
+                        0.0
+                    ],
+                    [
+                        -73.4,
+                        22.0,
+                        0.0
+                    ],
+                    [
+                        -69.0,
+                        27.0,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "18A",
+                "atcfid": "AL132025",
+                "basin": "al",
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Melissa (AL132025)</b></font></td></tr> \n                        <tr><td>Advisory #18A </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Hurricane Melissa",
+                "stormName": "Melissa",
+                "stormNum": "13",
+                "stormType": "HU",
+                "styleUrl": "#120_line",
+                "timezone": "EDT"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.6,
+                    16.5,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Melissa (AL132025)</b></font></td></tr> \n                        <tr><td>Advisory #18A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  8:00 PM EDT October 25, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 16.5 N, -75.6 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 80 knots (100 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 90 knots (105 mph) </td></tr> \n                        <tr><td nowrap>Motion: W </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 971 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.9,
+                    16.7,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Melissa (AL132025)</b></font></td></tr> \n                        <tr><td>Advisory #18A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>12 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 AM EDT October 26, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 16.7 N, -75.9 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 100 knots (115 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 115 knots (130 mph) </td></tr>",
+                "styleUrl": "#m_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.5,
+                    16.7,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Melissa (AL132025)</b></font></td></tr> \n                        <tr><td>Advisory #18A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>24 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 PM EDT October 26, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 16.7 N, -76.5 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 115 knots (130 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 140 knots (160 mph) </td></tr>",
+                "styleUrl": "#m_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.2,
+                    16.7,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Melissa (AL132025)</b></font></td></tr> \n                        <tr><td>Advisory #18A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>36 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 AM EDT October 27, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 16.7 N, -77.2 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 135 knots (155 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 165 knots (190 mph) </td></tr>",
+                "styleUrl": "#m_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.6,
+                    16.9,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Melissa (AL132025)</b></font></td></tr> \n                        <tr><td>Advisory #18A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>48 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 PM EDT October 27, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 16.9 N, -77.6 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 140 knots (160 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 170 knots (195 mph) </td></tr>",
+                "styleUrl": "#m_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.4,
+                    17.6,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Melissa (AL132025)</b></font></td></tr> \n                        <tr><td>Advisory #18A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>60 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 AM EDT October 28, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 17.6 N, -77.4 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 130 knots (150 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 160 knots (185 mph) </td></tr>",
+                "styleUrl": "#m_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.7,
+                    18.8,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Melissa (AL132025)</b></font></td></tr> \n                        <tr><td>Advisory #18A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>72 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 PM EDT October 28, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 18.8 N, -76.7 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 115 knots (130 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 140 knots (160 mph) </td></tr>",
+                "styleUrl": "#m_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.4,
+                    22.0,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Melissa (AL132025)</b></font></td></tr> \n                        <tr><td>Advisory #18A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>96 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 PM EDT October 29, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 22.0 N, -73.4 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 90 knots (105 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 110 knots (125 mph) </td></tr>",
+                "styleUrl": "#h_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -69.0,
+                    27.0,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Hurricane Melissa (AL132025)</b></font></td></tr> \n                        <tr><td>Advisory #18A</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>120 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 PM EDT October 30, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 27.0 N, -69.0 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 80 knots (90 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 100 knots (115 mph) </td></tr>",
+                "styleUrl": "#h_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
