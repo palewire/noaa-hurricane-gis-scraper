@@ -1,0 +1,180 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -121.6,
+                        14.1,
+                        0.0
+                    ],
+                    [
+                        -122.5,
+                        14.2,
+                        0.0
+                    ],
+                    [
+                        -124.0,
+                        14.5,
+                        0.0
+                    ],
+                    [
+                        -125.7,
+                        14.7,
+                        0.0
+                    ],
+                    [
+                        -127.6,
+                        14.6,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "14.1N, 121.6W",
+                "advisoryNum": "13",
+                "atcfid": "EP182025",
+                "basin": "ep",
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Sonia (EP182025)</b></font></td></tr> \n                        <tr><td>Advisory #13 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "45",
+                "maxGustMPH": "50",
+                "maxWindKnots": "35",
+                "maxWindMPH": "40",
+                "minimumPressure": "1005",
+                "pubAdvTime": "200 PM PDT Mon Oct 27 2025",
+                "storm": "Tropical Storm Sonia",
+                "stormMovement": "W",
+                "stormName": "Sonia",
+                "stormNum": "18",
+                "stormType": "TS",
+                "styleUrl": "#72_line",
+                "timezone": "PDT"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -121.6,
+                        14.1,
+                        0.0
+                    ],
+                    [
+                        -122.5,
+                        14.2,
+                        0.0
+                    ],
+                    [
+                        -124.0,
+                        14.5,
+                        0.0
+                    ],
+                    [
+                        -125.7,
+                        14.7,
+                        0.0
+                    ],
+                    [
+                        -127.6,
+                        14.6,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "13",
+                "atcfid": "EP182025",
+                "basin": "ep",
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Sonia (EP182025)</b></font></td></tr> \n                        <tr><td>Advisory #13 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Tropical Storm Sonia",
+                "stormName": "Sonia",
+                "stormNum": "18",
+                "stormType": "TS",
+                "styleUrl": "#120_line",
+                "timezone": "PDT"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -121.6,
+                    14.1,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Sonia (EP182025)</b></font></td></tr> \n                        <tr><td>Advisory #13</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 PM PDT October 27, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 14.1 N, -121.6 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 35 knots (40 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 45 knots (50 mph) </td></tr> \n                        <tr><td nowrap>Motion: W </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 1005 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5,
+                    14.2,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Sonia (EP182025)</b></font></td></tr> \n                        <tr><td>Advisory #13</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>12 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at: 11:00 PM PDT October 27, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 14.2 N, -122.5 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 30 knots (35 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 40 knots (45 mph) </td></tr>",
+                "styleUrl": "#d_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -124.0,
+                    14.5,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Sonia (EP182025)</b></font></td></tr> \n                        <tr><td>Advisory #13</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>24 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at: 11:00 AM PDT October 28, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 14.5 N, -124.0 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 30 knots (35 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 40 knots (45 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -125.7,
+                    14.7,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Sonia (EP182025)</b></font></td></tr> \n                        <tr><td>Advisory #13</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>36 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at: 11:00 PM PDT October 28, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 14.7 N, -125.7 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 25 knots (30 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 35 knots (40 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -127.6,
+                    14.6,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Tropical Storm Sonia (EP182025)</b></font></td></tr> \n                        <tr><td>Advisory #13</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>48 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at: 11:00 AM PDT October 29, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 14.6 N, -127.6 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 20 knots (25 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 30 knots (35 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

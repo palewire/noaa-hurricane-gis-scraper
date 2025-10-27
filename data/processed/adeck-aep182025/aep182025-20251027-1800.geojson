@@ -2036,6 +2036,76 @@
                         14.0
                     ],
                     [
+                        -122.5,
+                        14.2
+                    ],
+                    [
+                        -124.0,
+                        14.5
+                    ],
+                    [
+                        -125.7,
+                        14.7
+                    ],
+                    [
+                        -127.6,
+                        14.6
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "1418",
+            "properties": {
+                "model": "DRCL",
+                "warning_datetime": "2025-10-27 18:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -121.3,
+                        14.0
+                    ],
+                    [
+                        -121.6,
+                        14.1
+                    ],
+                    [
+                        -122.5,
+                        14.2
+                    ],
+                    [
+                        -124.0,
+                        14.5
+                    ],
+                    [
+                        -125.7,
+                        14.7
+                    ],
+                    [
+                        -127.6,
+                        14.6
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "1431",
+            "properties": {
+                "model": "OFCL",
+                "warning_datetime": "2025-10-27 18:00:00"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -121.3,
+                        14.0
+                    ],
+                    [
                         -122.6,
                         14.1
                     ],
@@ -2058,7 +2128,7 @@
                 ],
                 "type": "LineString"
             },
-            "id": "1446",
+            "id": "1448",
             "properties": {
                 "model": "OFCI",
                 "warning_datetime": "2025-10-27 18:00:00"
