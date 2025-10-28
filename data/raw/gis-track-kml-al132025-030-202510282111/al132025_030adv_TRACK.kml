@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+	<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"> 
+	<Document> 
+	<name>AL132025 (Advisory #30) - Forecast Track</name> 
+	<open>0</open> 
+	<description>
+		<![CDATA[<TABLE>
+		<TR><TD><B>Title:</B> Tropical Cyclone Forecast Track for AL132025 (Advisory #30)</TD></TR>
+		<TR><TD><B>Description:</B> This product will aid in the visualization of an official track forecast, the forecast points are connected by black line segments.  The track line(s) are not a forecast product, however, and because there are an infinite number of ways to connect a set of forecast points, the lines should not be interpreted as representing a specific forecast for the location of a tropical cyclone in between official forecast points.  It is also important to remember that tropical cyclone track forecasts are subject to error, and that the effects of a tropical cyclone can span many hundreds of miles from the center.</abstract></TD></TR>
+		<TR><TD><B>Date Created:</B> 10-28-2025 </TD></TR>
+		<TR><TD><B>Created:</B> National Hurricane Center</TD></TR>
+		<TR><TD><B>Disclaimer:</B>The official forecast track in KML format is an experimental product.</TD></TR>
+		<TR><TD><B>For More Information: </B><a href="https://www.nhc.noaa.gov">https://www.nhc.noaa.gov</a></TD></TR></TABLE>]]>
+	</description>
+
+	<Style id="m_point"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>mPoint.png</href> 
+			</Icon> 
+             <hotSpot x="18" y="16" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="d_point"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>dPoint.png</href> 
+			</Icon> 
+             <hotSpot x="18" y="16" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="h_point"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>hPoint.png</href> 
+			</Icon> 
+             <hotSpot x="18" y="16" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="initial_point"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>initialPoint.png</href> 
+			</Icon> 
+             <hotSpot x="18" y="16" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="xm_point"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>xmPoint.png</href> 
+			</Icon> 
+             <hotSpot x="18" y="16" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="xh_point"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>xhPoint.png</href> 
+			</Icon> 
+             <hotSpot x="18" y="16" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="l_point"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>lPoint.png</href> 
+			</Icon> 
+             <hotSpot x="18" y="16" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="120_line"> 
+		<LineStyle> 
+			<color>ff000000</color> 
+			<width>3</width> 
+		</LineStyle> 
+		<PolyStyle> 
+			<color>ff000000</color> 
+		</PolyStyle> 
+	</Style> 
+	<Style id="xd_point"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>xdPoint.png</href> 
+			</Icon> 
+             <hotSpot x="18" y="16" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="72_line"> 
+		<LineStyle> 
+			<color>ff000000</color> 
+			<width>3</width> 
+		</LineStyle> 
+		<PolyStyle> 
+			<color>ff000000</color> 
+		</PolyStyle> 
+	</Style> 
+	<Style id="s_point"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>sPoint.png</href> 
+			</Icon> 
+             <hotSpot x="18" y="16" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Style id="xs_point"> 
+		<IconStyle> 
+			<scale>1.0</scale> 
+			<Icon> 
+				<href>xsPoint.png</href> 
+			</Icon> 
+             <hotSpot x="18" y="16" xunits="pixels" yunits="pixels"/>
+		</IconStyle> 
+		<LabelStyle> 
+			<scale>1.0</scale> 
+		</LabelStyle> 
+	</Style>
+	<Folder id="Forecast Track"> 
+ 	    <name>Forecast Track</name> 
+
+	   <Placemark> 
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description> 
+	   	  <![CDATA[<table> 
+                        <tr><td><font color=black><b>Hurricane Melissa (AL132025)</b></font></td></tr> 
+                        <tr><td>Advisory #30 </td></tr> 
+                        <tr><td><hr></td></tr> 
+                        <tr><td>72 Hour Forecast Track</td></tr> 
+	           ]]> 
+             </description> 
+	       <styleUrl>#72_line</styleUrl> 
+
+	       <LineString> 
+	         <coordinates>  -77.7,18.5,0 -76.7,19.9,0 -75.3,22.2,0 -73.2,25.0,0 -70.0,28.9,0 -64.8,33.8,0 -58.3,39.0,0 </coordinates> 
+	       </LineString> 
+
+              <ExtendedData>
+                <Data name="timezone"> 
+                  <value>EDT</value>
+                </Data> 
+                <Data name="stormType"> 
+                  <value>MH</value>
+                </Data> 
+                <Data name="basin"> 
+                  <value>al</value>
+                </Data> 
+                <Data name="fcstpd"> 
+                  <value>72</value>
+                </Data> 
+                <Data name="storm"> 
+                  <value>Hurricane Melissa</value>
+                </Data> 
+                <Data name="atcfid"> 
+                  <value>AL132025</value>
+                </Data> 
+                <Data name="advisoryNum"> 
+                  <value>30</value>
+                </Data> 
+                <Data name="stormNum"> 
+                  <value>13</value>
+                </Data> 
+                <Data name="stormName"> 
+                  <value>Melissa</value>
+                </Data> 
+                <Data name="pubAdvTime">
+                  <value>500 PM EDT Tue Oct 28 2025</value>
+                </Data>
+                <Data name="TCInitLocation">
+                  <value>18.5N, 77.7W</value>
+                </Data>
+                <Data name="maxWindKnots">
+                  <value>125</value>
+                </Data>
+                <Data name="maxWindMPH">
+                  <value>145</value>
+                </Data>
+                <Data name="maxGustKnots">
+                  <value>150</value>
+                </Data>
+                <Data name="maxGustMPH">
+                  <value>175</value>
+                </Data>
+                <Data name="stormMovement">
+                  <value>NNE</value>
+                </Data>
+                <Data name="minimumPressure">
+                  <value>921</value>
+                </Data>
+              </ExtendedData>
+	   </Placemark> 
+
+	   <Placemark> 
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description> 
+	   	  <![CDATA[<table> 
+                        <tr><td><font color=black><b>Hurricane Melissa (AL132025)</b></font></td></tr> 
+                        <tr><td>Advisory #30 </td></tr> 
+                        <tr><td><hr></td></tr> 
+                        <tr><td>120 Hour Forecast Track</td></tr> 
+	           ]]> 
+             </description> 
+	       <styleUrl>#120_line</styleUrl> 
+
+	       <LineString> 
+	         <coordinates>  -77.7,18.5,0 -76.7,19.9,0 -75.3,22.2,0 -73.2,25.0,0 -70.0,28.9,0 -64.8,33.8,0 -58.3,39.0,0 -42.2,48.4,0 -25.1,54.8,0 </coordinates> 
+	       </LineString> 
+
+              <ExtendedData>
+                <Data name="timezone"> 
+                  <value>EDT</value>
+                </Data> 
+                <Data name="stormType"> 
+                  <value>MH</value>
+                </Data> 
+                <Data name="basin"> 
+                  <value>al</value>
+                </Data> 
+                <Data name="fcstpd"> 
+                  <value>120</value>
+                </Data> 
+                <Data name="storm"> 
+                  <value>Hurricane Melissa</value>
+                </Data> 
+                <Data name="atcfid"> 
+                  <value>AL132025</value>
+                </Data> 
+                <Data name="advisoryNum"> 
+                  <value>30</value>
+                </Data> 
+                <Data name="stormNum"> 
+                  <value>13</value>
+                </Data> 
+                <Data name="stormName"> 
+                  <value>Melissa</value>
+                </Data> 
+              </ExtendedData>
+	   </Placemark>
+
+
+	   <Placemark> 
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description> 
+	   	  <![CDATA[<table> 
+                        <tr><td><font color=black><b>Hurricane Melissa (AL132025)</b></font></td></tr> 
+                        <tr><td>Advisory #30</td></tr> 
+                        <tr><td><hr></td></tr> 
+                        <tr><td nowrap>Advisory Information</td></tr> 
+	   	        <tr><td nowrap>Valid at:  5:00 PM EDT October 28, 2025 </td></tr> 
+	   	        <tr><td nowrap>Location: 18.5 N, -77.7 W </td></tr> 
+	   	        <tr><td nowrap>Maximum Wind: 125 knots (145 mph) </td></tr> 
+	   	        <tr><td nowrap>Wind Gusts: 150 knots (175 mph) </td></tr> 
+                        <tr><td nowrap>Motion: NNE </td></tr>
+                        <tr><td nowrap>Minimum Pressure: 921 mb </td></tr>
+	       ]]></description> 
+	       <styleUrl>#initial_point</styleUrl> 
+	       <Point> 
+	          <coordinates> -77.7,18.5,0 </coordinates> 
+	       </Point> 
+	   </Placemark> 
+
+
+	   <Placemark> 
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description> 
+	   	  <![CDATA[<table> 
+                        <tr><td><font color=black><b>Hurricane Melissa (AL132025)</b></font></td></tr> 
+                        <tr><td>Advisory #30</td></tr> 
+                        <tr><td><hr></td></tr> 
+                        <tr><td nowrap>12 hr Forecast</td></tr> 
+	   	        <tr><td nowrap>Valid at:  2:00 AM EDT October 29, 2025 </td></tr> 
+	   	        <tr><td nowrap>Location: 19.9 N, -76.7 W </td></tr> 
+	   	        <tr><td nowrap>Maximum Wind: 120 knots (140 mph) </td></tr> 
+	   	        <tr><td nowrap>Wind Gusts: 145 knots (165 mph) </td></tr> 
+	       ]]></description> 
+	       <styleUrl>#m_point</styleUrl> 
+	       <Point> 
+	          <coordinates> -76.7,19.9,0 </coordinates> 
+	       </Point> 
+	   </Placemark> 
+
+
+	   <Placemark> 
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description> 
+	   	  <![CDATA[<table> 
+                        <tr><td><font color=black><b>Hurricane Melissa (AL132025)</b></font></td></tr> 
+                        <tr><td>Advisory #30</td></tr> 
+                        <tr><td><hr></td></tr> 
+                        <tr><td nowrap>24 hr Forecast</td></tr> 
+	   	        <tr><td nowrap>Valid at:  2:00 PM EDT October 29, 2025 </td></tr> 
+	   	        <tr><td nowrap>Location: 22.2 N, -75.3 W </td></tr> 
+	   	        <tr><td nowrap>Maximum Wind: 100 knots (115 mph) </td></tr> 
+	   	        <tr><td nowrap>Wind Gusts: 120 knots (140 mph) </td></tr> 
+	       ]]></description> 
+	       <styleUrl>#m_point</styleUrl> 
+	       <Point> 
+	          <coordinates> -75.3,22.2,0 </coordinates> 
+	       </Point> 
+	   </Placemark> 
+
+
+	   <Placemark> 
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description> 
+	   	  <![CDATA[<table> 
+                        <tr><td><font color=black><b>Hurricane Melissa (AL132025)</b></font></td></tr> 
+                        <tr><td>Advisory #30</td></tr> 
+                        <tr><td><hr></td></tr> 
+                        <tr><td nowrap>36 hr Forecast</td></tr> 
+	   	        <tr><td nowrap>Valid at:  2:00 AM EDT October 30, 2025 </td></tr> 
+	   	        <tr><td nowrap>Location: 25.0 N, -73.2 W </td></tr> 
+	   	        <tr><td nowrap>Maximum Wind: 95 knots (110 mph) </td></tr> 
+	   	        <tr><td nowrap>Wind Gusts: 115 knots (130 mph) </td></tr> 
+	       ]]></description> 
+	       <styleUrl>#h_point</styleUrl> 
+	       <Point> 
+	          <coordinates> -73.2,25.0,0 </coordinates> 
+	       </Point> 
+	   </Placemark> 
+
+
+	   <Placemark> 
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description> 
+	   	  <![CDATA[<table> 
+                        <tr><td><font color=black><b>Hurricane Melissa (AL132025)</b></font></td></tr> 
+                        <tr><td>Advisory #30</td></tr> 
+                        <tr><td><hr></td></tr> 
+                        <tr><td nowrap>48 hr Forecast</td></tr> 
+	   	        <tr><td nowrap>Valid at:  2:00 PM EDT October 30, 2025 </td></tr> 
+	   	        <tr><td nowrap>Location: 28.9 N, -70.0 W </td></tr> 
+	   	        <tr><td nowrap>Maximum Wind: 90 knots (105 mph) </td></tr> 
+	   	        <tr><td nowrap>Wind Gusts: 110 knots (125 mph) </td></tr> 
+	       ]]></description> 
+	       <styleUrl>#h_point</styleUrl> 
+	       <Point> 
+	          <coordinates> -70.0,28.9,0 </coordinates> 
+	       </Point> 
+	   </Placemark> 
+
+
+	   <Placemark> 
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description> 
+	   	  <![CDATA[<table> 
+                        <tr><td><font color=black><b>Hurricane Melissa (AL132025)</b></font></td></tr> 
+                        <tr><td>Advisory #30</td></tr> 
+                        <tr><td><hr></td></tr> 
+                        <tr><td nowrap>60 hr Forecast</td></tr> 
+	   	        <tr><td nowrap>Valid at:  2:00 AM EDT October 31, 2025 </td></tr> 
+	   	        <tr><td nowrap>Location: 33.8 N, -64.8 W </td></tr> 
+	   	        <tr><td nowrap>Maximum Wind: 85 knots (100 mph) </td></tr> 
+	   	        <tr><td nowrap>Wind Gusts: 105 knots (120 mph) </td></tr> 
+	       ]]></description> 
+	       <styleUrl>#h_point</styleUrl> 
+	       <Point> 
+	          <coordinates> -64.8,33.8,0 </coordinates> 
+	       </Point> 
+	   </Placemark> 
+
+
+	   <Placemark> 
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description> 
+	   	  <![CDATA[<table> 
+                        <tr><td><font color=black><b>Hurricane Melissa (AL132025)</b></font></td></tr> 
+                        <tr><td>Advisory #30</td></tr> 
+                        <tr><td><hr></td></tr> 
+                        <tr><td nowrap>72 hr Forecast</td></tr> 
+	   	        <tr><td nowrap>Valid at:  2:00 PM EDT October 31, 2025 </td></tr> 
+	   	        <tr><td nowrap>Location: 39.0 N, -58.3 W </td></tr> 
+	   	        <tr><td nowrap>Maximum Wind: 70 knots (80 mph) </td></tr> 
+	   	        <tr><td nowrap>Wind Gusts: 85 knots (100 mph) </td></tr> 
+	       ]]></description> 
+	       <styleUrl>#h_point</styleUrl> 
+	       <Point> 
+	          <coordinates> -58.3,39.0,0 </coordinates> 
+	       </Point> 
+	   </Placemark> 
+
+
+	   <Placemark> 
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description> 
+	   	  <![CDATA[<table> 
+                        <tr><td><font color=black><b>Hurricane Melissa (AL132025)</b></font></td></tr> 
+                        <tr><td>Advisory #30</td></tr> 
+                        <tr><td><hr></td></tr> 
+                        <tr><td nowrap>96 hr Forecast</td></tr> 
+	   	        <tr><td nowrap>Valid at:  2:00 PM EDT November 01, 2025 </td></tr> 
+	   	        <tr><td nowrap>Location: 48.4 N, -42.2 W </td></tr> 
+	   	        <tr><td nowrap>Maximum Wind: 50 knots (60 mph) </td></tr> 
+	   	        <tr><td nowrap>Wind Gusts: 60 knots (70 mph) </td></tr> 
+	       ]]></description> 
+	       <styleUrl>#xs_point</styleUrl> 
+	       <Point> 
+	          <coordinates> -42.2,48.4,0 </coordinates> 
+	       </Point> 
+	   </Placemark> 
+
+
+	   <Placemark> 
+	      <Snippet maxLines="0">empty</Snippet>
+	      <description> 
+	   	  <![CDATA[<table> 
+                        <tr><td><font color=black><b>Hurricane Melissa (AL132025)</b></font></td></tr> 
+                        <tr><td>Advisory #30</td></tr> 
+                        <tr><td><hr></td></tr> 
+                        <tr><td nowrap>120 hr Forecast</td></tr> 
+	   	        <tr><td nowrap>Valid at:  2:00 PM EDT November 02, 2025 </td></tr> 
+	   	        <tr><td nowrap>Location: 54.8 N, -25.1 W </td></tr> 
+	   	        <tr><td nowrap>Maximum Wind: 40 knots (45 mph) </td></tr> 
+	   	        <tr><td nowrap>Wind Gusts: 50 knots (60 mph) </td></tr> 
+	       ]]></description> 
+	       <styleUrl>#xs_point</styleUrl> 
+	       <Point> 
+	          <coordinates> -25.1,54.8,0 </coordinates> 
+	       </Point> 
+	   </Placemark> 
+
+</Folder>
+</Document>
+</kml>
