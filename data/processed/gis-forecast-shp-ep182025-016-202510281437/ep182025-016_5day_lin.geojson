@@ -1,0 +1,39 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -123.5,
+                        15.1
+                    ],
+                    [
+                        -124.7,
+                        15.2
+                    ],
+                    [
+                        -126.5,
+                        15.3
+                    ],
+                    [
+                        -128.6,
+                        15.1
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "0",
+            "properties": {
+                "ADVDATE": "800 AM PDT Tue Oct 28 2025",
+                "ADVISNUM": "16",
+                "BASIN": "EP",
+                "FCSTPRD": 120.0,
+                "STORMNAME": "Sonia",
+                "STORMNUM": 18.0,
+                "STORMTYPE": "TS"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

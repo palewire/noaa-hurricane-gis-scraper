@@ -1,0 +1,149 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -123.5,
+                    15.1
+                ],
+                "type": "Point"
+            },
+            "id": "0",
+            "properties": {
+                "ADVDATE": "800 AM PDT Tue Oct 28 2025",
+                "ADVISNUM": "16",
+                "BASIN": "EP",
+                "DATELBL": "8:00 AM Tue",
+                "DVLBL": "S",
+                "FCSTPRD": 120.0,
+                "FLDATELBL": "2025-10-28 5:00 AM Tue PDT",
+                "GUST": 50.0,
+                "LAT": 15.1,
+                "LON": -123.5,
+                "MAXWIND": 40.0,
+                "MSLP": 1003.0,
+                "SSNUM": 0.0,
+                "STORMNAME": "Tropical Storm Sonia",
+                "STORMNUM": 18.0,
+                "STORMSRC": "Tropical Cyclone",
+                "STORMTYPE": "TS",
+                "TAU": 0.0,
+                "TCDIR": 290.0,
+                "TCDVLP": "Tropical Storm",
+                "TCSPD": 7.0,
+                "TIMEZONE": "PDT",
+                "VALIDTIME": "28/1200"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -124.7,
+                    15.2
+                ],
+                "type": "Point"
+            },
+            "id": "1",
+            "properties": {
+                "ADVDATE": "800 AM PDT Tue Oct 28 2025",
+                "ADVISNUM": "16",
+                "BASIN": "EP",
+                "DATELBL": "5:00 PM Tue",
+                "DVLBL": "D",
+                "FCSTPRD": 120.0,
+                "FLDATELBL": "2025-10-28 5:00 PM Tue PDT",
+                "GUST": 40.0,
+                "LAT": 15.2,
+                "LON": -124.7,
+                "MAXWIND": 30.0,
+                "MSLP": 9999.0,
+                "SSNUM": 0.0,
+                "STORMNAME": "Tropical Storm Sonia",
+                "STORMNUM": 18.0,
+                "STORMSRC": "Tropical Cyclone",
+                "STORMTYPE": "TD",
+                "TAU": 12.0,
+                "TCDIR": 9999.0,
+                "TCDVLP": "Tropical Depression",
+                "TCSPD": 9999.0,
+                "TIMEZONE": "PDT",
+                "VALIDTIME": "29/0000"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -126.5,
+                    15.3
+                ],
+                "type": "Point"
+            },
+            "id": "2",
+            "properties": {
+                "ADVDATE": "800 AM PDT Tue Oct 28 2025",
+                "ADVISNUM": "16",
+                "BASIN": "EP",
+                "DATELBL": "5:00 AM Wed",
+                "DVLBL": "D",
+                "FCSTPRD": 120.0,
+                "FLDATELBL": "2025-10-29 5:00 AM Wed PDT",
+                "GUST": 40.0,
+                "LAT": 15.3,
+                "LON": -126.5,
+                "MAXWIND": 30.0,
+                "MSLP": 9999.0,
+                "SSNUM": 0.0,
+                "STORMNAME": "Tropical Storm Sonia",
+                "STORMNUM": 18.0,
+                "STORMSRC": "Post-Tropical Cyclone",
+                "STORMTYPE": "STD",
+                "TAU": 24.0,
+                "TCDIR": 9999.0,
+                "TCDVLP": "Subtropical Depression",
+                "TCSPD": 9999.0,
+                "TIMEZONE": "PDT",
+                "VALIDTIME": "29/1200"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -128.6,
+                    15.1
+                ],
+                "type": "Point"
+            },
+            "id": "3",
+            "properties": {
+                "ADVDATE": "800 AM PDT Tue Oct 28 2025",
+                "ADVISNUM": "16",
+                "BASIN": "EP",
+                "DATELBL": "5:00 PM Wed",
+                "DVLBL": "D",
+                "FCSTPRD": 120.0,
+                "FLDATELBL": "2025-10-29 5:00 PM Wed PDT",
+                "GUST": 35.0,
+                "LAT": 15.1,
+                "LON": -128.6,
+                "MAXWIND": 25.0,
+                "MSLP": 9999.0,
+                "SSNUM": 0.0,
+                "STORMNAME": "Tropical Storm Sonia",
+                "STORMNUM": 18.0,
+                "STORMSRC": "Post-Tropical Cyclone",
+                "STORMTYPE": "STD",
+                "TAU": 36.0,
+                "TCDIR": 9999.0,
+                "TCDVLP": "Subtropical Depression",
+                "TCSPD": 9999.0,
+                "TIMEZONE": "PDT",
+                "VALIDTIME": "30/0000"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
