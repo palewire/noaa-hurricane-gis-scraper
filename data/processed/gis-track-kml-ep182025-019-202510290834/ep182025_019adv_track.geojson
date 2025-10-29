@@ -1,0 +1,130 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -126.1,
+                        15.3,
+                        0.0
+                    ],
+                    [
+                        -127.6,
+                        15.2,
+                        0.0
+                    ],
+                    [
+                        -129.9,
+                        14.7,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "TCInitLocation": "15.3N, 126.1W",
+                "advisoryNum": "19",
+                "atcfid": "EP182025",
+                "basin": "ep",
+                "description": "<table> \n                        <tr><td><font color=black><b>Post-Tropical Cyclone Sonia (EP182025)</b></font></td></tr> \n                        <tr><td>Advisory #19 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>72 Hour Forecast Track</td></tr>",
+                "fcstpd": "72",
+                "maxGustKnots": "40",
+                "maxGustMPH": "45",
+                "maxWindKnots": "30",
+                "maxWindMPH": "35",
+                "minimumPressure": "1007",
+                "pubAdvTime": "200 AM PDT Wed Oct 29 2025",
+                "storm": "Post-Tropical Cyclone Sonia",
+                "stormMovement": "W",
+                "stormName": "Sonia",
+                "stormNum": "18",
+                "stormType": "PTC",
+                "styleUrl": "#72_line",
+                "timezone": "PDT"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -126.1,
+                        15.3,
+                        0.0
+                    ],
+                    [
+                        -127.6,
+                        15.2,
+                        0.0
+                    ],
+                    [
+                        -129.9,
+                        14.7,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryNum": "19",
+                "atcfid": "EP182025",
+                "basin": "ep",
+                "description": "<table> \n                        <tr><td><font color=black><b>Post-Tropical Cyclone Sonia (EP182025)</b></font></td></tr> \n                        <tr><td>Advisory #19 </td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td>120 Hour Forecast Track</td></tr>",
+                "fcstpd": "120",
+                "storm": "Post-Tropical Cyclone Sonia",
+                "stormName": "Sonia",
+                "stormNum": "18",
+                "stormType": "PTC",
+                "styleUrl": "#120_line",
+                "timezone": "PDT"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -126.1,
+                    15.3,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Post-Tropical Cyclone Sonia (EP182025)</b></font></td></tr> \n                        <tr><td>Advisory #19</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>Advisory Information</td></tr> \n\t   \t        <tr><td nowrap>Valid at:  2:00 AM PDT October 29, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 15.3 N, -126.1 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 30 knots (35 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 40 knots (45 mph) </td></tr> \n                        <tr><td nowrap>Motion: W </td></tr>\n                        <tr><td nowrap>Minimum Pressure: 1007 mb </td></tr>",
+                "styleUrl": "#initial_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -127.6,
+                    15.2,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Post-Tropical Cyclone Sonia (EP182025)</b></font></td></tr> \n                        <tr><td>Advisory #19</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>12 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at: 11:00 AM PDT October 29, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 15.2 N, -127.6 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 25 knots (30 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 35 knots (40 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -129.9,
+                    14.7,
+                    0.0
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "<table> \n                        <tr><td><font color=black><b>Post-Tropical Cyclone Sonia (EP182025)</b></font></td></tr> \n                        <tr><td>Advisory #19</td></tr> \n                        <tr><td><hr></td></tr> \n                        <tr><td nowrap>24 hr Forecast</td></tr> \n\t   \t        <tr><td nowrap>Valid at: 11:00 PM PDT October 29, 2025 </td></tr> \n\t   \t        <tr><td nowrap>Location: 14.7 N, -129.9 W </td></tr> \n\t   \t        <tr><td nowrap>Maximum Wind: 25 knots (30 mph) </td></tr> \n\t   \t        <tr><td nowrap>Wind Gusts: 35 knots (40 mph) </td></tr>",
+                "styleUrl": "#xd_point"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
