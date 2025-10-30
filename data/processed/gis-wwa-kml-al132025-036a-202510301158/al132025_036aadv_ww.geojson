@@ -1,0 +1,37 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -64.98,
+                        32.21,
+                        0.0
+                    ],
+                    [
+                        -64.54,
+                        32.43,
+                        0.0
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "advisoryDate": "800 AM EDT Thu Oct 30 2025",
+                "advisoryNum": "36A",
+                "atcfid": "AL132025",
+                "basin": "AL",
+                "fcstpd": "120",
+                "name": "Hurricane Warning",
+                "storm": "Hurricane Melissa",
+                "stormName": "Melissa",
+                "stormNum": "13",
+                "stormType": "HU",
+                "styleUrl": "#HWR",
+                "timezone": "EDT"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
