@@ -1,0 +1,51 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        175.3,
+                        19.0
+                    ],
+                    [
+                        174.2,
+                        19.6
+                    ],
+                    [
+                        173.0,
+                        20.6
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "77",
+            "properties": {
+                "model": "UKM",
+                "warning_datetime": "2025-08-03"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        175.2,
+                        18.8
+                    ],
+                    [
+                        173.8,
+                        19.2
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "id": "1234",
+            "properties": {
+                "model": "GDMN",
+                "warning_datetime": "2025-08-03"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
